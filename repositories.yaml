@@ -331,14 +331,6 @@ categories:
           - url: https://github.com/kimtth/mcp-aoai-web-browsing
             description: Azure OpenAI with Playwright browser control
           - url: https://github.com/microsoft/playwright-mcp
-      - name: Scraping & Vision
-        repos:
-          - url: https://github.com/olostep/olostep-mcp-server
-          - url: https://github.com/PhungXuanAnh/selenium-mcp-server
-          - url: https://github.com/rohanrav/screeny
-          - url: https://github.com/gustavo-meilus/mcp-web-snapshot
-          - url: https://github.com/djannot/puppeteer-vision-mcp
-            description: Web scraping with AI-driven interaction handling
   - name: CLI Tools
     repos:
       - url: https://github.com/automateyournetwork/pyATS_MCP
@@ -1505,15 +1497,6 @@ categories:
           - url: https://github.com/xxczaki/local-history-mcp
           - url: https://github.com/Mubashwer/git-mob-mcp-server
           - url: https://github.com/0xshariq/github-mcp-server
-      - name: Web Scraping
-        repos:
-          - url: https://github.com/brightdata/brightdata-mcp
-            description: All-in-one public web access solution
-          - url: https://github.com/firecrawl/firecrawl-mcp-server
-            description: Web scraping and search for LLM clients
-          - url: https://github.com/pskill9/website-downloader
-          - url: https://github.com/etsd-tech/mcp-pointer
-            description: DOM element pointing for agents
   - name: Embedded & IoT
     repos:
       - url: https://github.com/horw/esp-mcp
@@ -2791,48 +2774,6 @@ categories:
           - url: https://github.com/lfnovo/content-core
           - url: https://github.com/pskill9/hn-server
           - url: https://github.com/the0807/GeekNews-MCP-Server
-      - name: Web Scraping & Crawling
-        repos:
-          - url: https://github.com/ananddtyagi/webpage-screenshot-mcp
-            description: MCP server for webpage screenshot capture
-          - url: https://github.com/any4ai/anycrawl-mcp-server
-          - url: https://github.com/apify/apify-mcp-server
-            description: MCP server for Apify web scraping and data extraction
-          - url: https://github.com/apify/mcp-server-rag-web-browser
-          - url: https://github.com/chasesaurabh/mcp-page-capture
-          - url: https://github.com/jae-jae/fetcher-mcp
-            description: Playwright web page content fetching
-          - url: https://github.com/just-every/mcp-read-website-fast
-            description: Fast webpage to markdown conversion
-          - url: https://github.com/just-every/mcp-screenshot-website-fast
-            description: Fast webpage screenshots for LLMs
-          - url: https://github.com/kimdonghwi94/web-analyzer-mcp
-          - url: https://github.com/oxylabs/oxylabs-mcp
-          - url: https://github.com/pragmar/mcp-server-webcrawl
-            description: Web crawler data and archives connection
-          - url: https://github.com/sascharo/gxtract
-          - url: https://github.com/ScrapeGraphAI/Scrapegraph-ai
-          - url: https://github.com/scrapeless-ai/scrapeless-mcp-server
-          - url: https://github.com/scrapezy/mcp
-          - url: https://github.com/tinyfish-io/agentql-mcp
-            description: AgentQL data extraction integration
-          - url: https://github.com/webscraping-ai/webscraping-ai-mcp-server
-            description: MCP server for AI-powered web scraping
-          - url: https://github.com/wong2/mcp-jina-reader
-          - url: https://github.com/crawlbase/crawlbase-mcp
-            description: MCP server connecting AI agents with real-time web data
-          - url: https://github.com/supadata-ai/mcp
-            description: Video and web scraping for Claude
-          - url: https://github.com/narumiruna/gitingest-mcp
-          - url: https://github.com/Decodo/mcp-web-scraper
-            description: Decodo web scraping for MCP clients
-          - url: https://github.com/puremd/puremd-mcp
-          - url: https://github.com/DevEnterpriseSoftware/scrapi-mcp
-          - url: https://github.com/domdomegg/defuddle-fetch-mcp-server
-          - url: https://github.com/levz0r/html-to-markdown-mcp
-          - url: https://github.com/sunshad0w/html2md-mcp
-          - url: https://github.com/cyberchitta/scrapling-fetch-mcp
-            description: Access bot-protected websites
       - name: Web Search Engines
         repos:
           - url: https://github.com/Aas-ee/open-webSearch
@@ -3141,3 +3082,58 @@ categories:
         description: Travel planning with Google Maps
       - url: https://github.com/mfukushim/map-traveler-mcp
       - url: https://github.com/trackmage/trackmage-mcp-server
+  - name: Web Scraping
+    repos:
+      - url: https://github.com/olostep/olostep-mcp-server
+      - url: https://github.com/PhungXuanAnh/selenium-mcp-server
+      - url: https://github.com/rohanrav/screeny
+      - url: https://github.com/gustavo-meilus/mcp-web-snapshot
+      - url: https://github.com/djannot/puppeteer-vision-mcp
+        description: Web scraping with AI-driven interaction handling
+      - url: https://github.com/brightdata/brightdata-mcp
+        description: All-in-one public web access solution
+      - url: https://github.com/firecrawl/firecrawl-mcp-server
+        description: Web scraping and search for LLM clients
+      - url: https://github.com/pskill9/website-downloader
+      - url: https://github.com/etsd-tech/mcp-pointer
+        description: DOM element pointing for agents
+      - url: https://github.com/ananddtyagi/webpage-screenshot-mcp
+        description: MCP server for webpage screenshot capture
+      - url: https://github.com/any4ai/anycrawl-mcp-server
+      - url: https://github.com/apify/apify-mcp-server
+        description: MCP server for Apify web scraping and data extraction
+      - url: https://github.com/apify/mcp-server-rag-web-browser
+      - url: https://github.com/chasesaurabh/mcp-page-capture
+      - url: https://github.com/jae-jae/fetcher-mcp
+        description: Playwright web page content fetching
+      - url: https://github.com/just-every/mcp-read-website-fast
+        description: Fast webpage to markdown conversion
+      - url: https://github.com/just-every/mcp-screenshot-website-fast
+        description: Fast webpage screenshots for LLMs
+      - url: https://github.com/kimdonghwi94/web-analyzer-mcp
+      - url: https://github.com/oxylabs/oxylabs-mcp
+      - url: https://github.com/pragmar/mcp-server-webcrawl
+        description: Web crawler data and archives connection
+      - url: https://github.com/sascharo/gxtract
+      - url: https://github.com/ScrapeGraphAI/Scrapegraph-ai
+      - url: https://github.com/scrapeless-ai/scrapeless-mcp-server
+      - url: https://github.com/scrapezy/mcp
+      - url: https://github.com/tinyfish-io/agentql-mcp
+        description: AgentQL data extraction integration
+      - url: https://github.com/webscraping-ai/webscraping-ai-mcp-server
+        description: MCP server for AI-powered web scraping
+      - url: https://github.com/wong2/mcp-jina-reader
+      - url: https://github.com/crawlbase/crawlbase-mcp
+        description: MCP server connecting AI agents with real-time web data
+      - url: https://github.com/supadata-ai/mcp
+        description: Video and web scraping for Claude
+      - url: https://github.com/narumiruna/gitingest-mcp
+      - url: https://github.com/Decodo/mcp-web-scraper
+        description: Decodo web scraping for MCP clients
+      - url: https://github.com/puremd/puremd-mcp
+      - url: https://github.com/DevEnterpriseSoftware/scrapi-mcp
+      - url: https://github.com/domdomegg/defuddle-fetch-mcp-server
+      - url: https://github.com/levz0r/html-to-markdown-mcp
+      - url: https://github.com/sunshad0w/html2md-mcp
+      - url: https://github.com/cyberchitta/scrapling-fetch-mcp
+        description: Access bot-protected websites
