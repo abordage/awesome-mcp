@@ -885,6 +885,7 @@ categories:
           - url: https://github.com/yWorks/mcp-typescribe
             description: TypeScript library support for LLMs
           - url: https://github.com/ztuskes/garmin-documentation-mcp-server
+          - url: https://github.com/khromov/svelte-llm-mcp
       - name: IDE & Editors
         repos:
           - url: https://github.com/biegehydra/BifrostMCP
