@@ -148,7 +148,7 @@ categories:
       - url: https://github.com/abhinav-mangla/think-tool-mcp
       - url: https://github.com/lastmile-ai/mcp-agent
         description: Build agents with MCP and workflow patterns
-      - url: https://github.com/Dumpling-AI/mcp-server-dumplingai
+      - url: https://github.com/DumplingAI/mcp-server-dumplingai
       - url: https://github.com/hiveflowai/hiveflow-mcp-server
       - url: https://github.com/hopx-ai/mcp
         description: Execute code in isolated cloud containers
@@ -501,7 +501,6 @@ categories:
         description: Shopify API for Claude and Cursor
       - url: https://github.com/mafzaal/d365fo-client
         description: Client for Microsoft Dynamics 365 F&O
-      - url: https://github.com/buryhuang/mcp-hubspot
       - url: https://github.com/raoulbia-ai/mcp-server-for-intercom
       - url: https://github.com/lciesielski/mcp-salesforce-example
       - url: https://github.com/peakmojo/mcp-hubspot
@@ -1784,7 +1783,7 @@ categories:
           - url: https://github.com/QuentinCody/braintree-mcp-server
           - url: https://github.com/ramp-public/ramp_mcp
           - url: https://github.com/square/square-mcp-server
-          - url: https://github.com/stripe/agent-toolkit
+          - url: https://github.com/stripe/ai
           - url: https://github.com/Fewsats/fewsats-mcp
           - url: https://github.com/Adfin-Engineering/mcp-server-adfin
           - url: https://github.com/razorpay/razorpay-mcp-server
@@ -2235,9 +2234,6 @@ categories:
       - url: https://github.com/ghrud92/simple-loki-mcp
       - url: https://github.com/thanhtung0201/mcp-remote-system-health
       - url: https://github.com/abuhamza/tideways-mcp-server
-  - name: Official
-    repos:
-      - url: https://github.com/modelcontextprotocol/servers
   - name: Others
     subcategories:
       - name: MCP Clients
@@ -2471,7 +2467,7 @@ categories:
           - url: https://github.com/boma086/mcp-openproject
           - url: https://github.com/tonyzorin/youtrack-mcp
             description: YouTrack server, ARM64 and AMD64
-          - url: https://github.com/boma086/mcp-projectmanage-openproject
+          - url: https://github.com/boma086/mcp-pm-openproject
           - url: https://github.com/lioarce01/trello-mcp-server
           - url: https://github.com/namar0x0309/wekan-mcp
       - name: Tasks & Calendar
