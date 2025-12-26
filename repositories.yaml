@@ -603,8 +603,6 @@ categories:
             description: Telegram dialogs, messages, drafts, statuses
           - url: https://github.com/chigwell/telegram-mcp
             description: MCP server for Telegram messaging
-          - url: https://github.com/gotoolkits/mcp-wecombot-server
-            description: WeCom group robot message sending
           - url: https://github.com/lharries/whatsapp-mcp
           - url: https://github.com/line/line-bot-mcp-server
             description: LINE Messaging API for AI agents
@@ -681,7 +679,6 @@ categories:
           - url: https://github.com/jettyio/mlcbakery
           - url: https://github.com/root-signals/scorable-mcp
           - url: https://github.com/alkemi-ai/alkemi-mcp
-          - url: https://github.com/Seif-Sameh/Kaggle-mcp
           - url: https://github.com/emircansoftware/AutoML
           - url: https://github.com/nobrainer-tech/langflow-mcp
           - url: https://github.com/0xshellming/mcp-summarizer
@@ -1345,7 +1342,6 @@ categories:
           - url: https://github.com/zillow/auto-mobile
             description: Mobile automation tools with MCP
           - url: https://github.com/ambar/simctl-mcp
-          - url: https://github.com/appium/appium-mcp
       - name: OpenAPI
         repos:
           - url: https://github.com/bbonnin/openapi-to-mcp
@@ -1509,7 +1505,6 @@ categories:
       - url: https://github.com/CorefluxCommunity/Coreflux-MQTT-MCP-Server
       - url: https://github.com/Extelligence-ai/bagel
         description: Chat with robotics, drone, IoT data
-      - url: https://github.com/mingdaocloud/hap-mcp
       - url: https://github.com/tevonsb/homeassistant-mcp
       - url: https://github.com/thingsboard/thingsboard-mcp
         description: MCP server for ThingsBoard IoT platform interaction
@@ -1693,8 +1688,6 @@ categories:
           - url: https://github.com/QuantGeekDev/coincap-mcp
           - url: https://github.com/Regenerating-World/pix-mcp
           - url: https://github.com/RomThpt/mcp-xrpl
-          - url: https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop
-            description: MCP server for cryptocurrency trading
           - url: https://github.com/tatumio/blockchain-mcp
           - url: https://github.com/ThomasMarches/substrate-mcp-rs
           - url: https://github.com/token-metrics/mcp
@@ -1807,8 +1800,6 @@ categories:
             description: Alpaca stock and crypto trading
           - url: https://github.com/QuantConnect/mcp-server
             description: QuantConnect algo trading interaction
-          - url: https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop
-            description: MCP server for Yahoo Finance trading data
           - url: https://github.com/trade-it-inc/trade-it-mcp
             description: Trade It stocks and crypto trading
           - url: https://github.com/alpacahq/alpaca-mcp-server
@@ -2019,8 +2010,6 @@ categories:
           - url: https://github.com/TimLukaHorstmann/mcp-weather
             description: AccuWeather hourly and daily forecasts
           - url: https://github.com/mschneider82/mcp-openweather
-          - url: https://github.com/rossshannon/weekly-weather-mcp
-          - url: https://github.com/SaintDoresh/Weather-MCP-ClaudeDesktop
           - url: https://github.com/shuowang-ai/Weather-MCP
           - url: https://github.com/louiscklaw/mcp-hko
   - name: MCP Clients
@@ -2211,8 +2200,6 @@ categories:
       - name: Video
         repos:
           - url: https://github.com/bogdanminko/zapcap-mcp-server
-          - url: https://github.com/video-creator/ffmpeg-mcp
-            description: MCP server for FFmpeg video processing
           - url: https://github.com/marcindulak/stt-mcp-server-linux
             description: Local speech-to-text for Tmux on Linux
           - url: https://github.com/anaisbetts/mcp-youtube
@@ -2281,8 +2268,6 @@ categories:
       - url: https://github.com/tgeselle/bugsnag-mcp
         description: MCP server for Bugsnag error monitoring
       - url: https://github.com/Rootly-AI-Labs/Rootly-MCP-server
-      - url: https://github.com/traceloop/opentelemetry-mcp-server
-        description: MCP server for OpenTelemetry observability
       - url: https://github.com/dynatrace-oss/dynatrace-mcp
       - url: https://github.com/AgentOps-AI/agentops-mcp
       - url: https://github.com/PagerDuty/pagerduty-mcp-server
@@ -2794,7 +2779,6 @@ categories:
             description: Parallel Google search with summaries
           - url: https://github.com/kagisearch/kagimcp
             description: Official Kagi search MCP server
-          - url: https://github.com/kshern/mcp-tavily
           - url: https://github.com/leehanchung/bing-search-mcp
           - url: https://github.com/mikechao/brave-search-mcp
             description: MCP server for Brave Search with filtering options
@@ -3004,7 +2988,6 @@ categories:
         description: Bridge Substack writings to Claude
       - url: https://github.com/34892002/bilibili-mcp-js
         description: Bilibili video search MCP service
-      - url: https://github.com/xspadex/bilibili-mcp
   - name: Sports
     repos:
       - url: https://github.com/guillochon/mlb-api-mcp
