@@ -5,7 +5,7 @@ categories:
     repos:
       - url: https://github.com/0xshellming/mcp-summarizer
       - url: https://github.com/agentic-mcp-tools/memora
-        description: Lightweight MCP server for persistent shared memories in SQLite
+        description: Persistent shared memories in SQLite
       - url: https://github.com/apecloud/ApeRAG
         description: Production GraphRAG with multi-modal
       - url: https://github.com/bh-rat/context-awesome
@@ -38,7 +38,7 @@ categories:
       - url: https://github.com/Poll-The-People/customgpt-mcp
       - url: https://github.com/ragieai/ragie-mcp-server
       - url: https://github.com/redleaves/context-keeper
-        description: LLM-Driven Intelligent Memory and Context Management System for AI agents
+        description: Intelligent memory and context for AI agents
       - url: https://github.com/run-llama/mcp-server-llamacloud
         description: LlamaCloud managed indexes connection
       - url: https://github.com/shinpr/mcp-local-rag
@@ -106,7 +106,7 @@ categories:
           - url: https://github.com/Data-Everything/mcp-server-templates
           - url: https://github.com/mintmcp/servers
           - url: https://github.com/VeyraX/veyrax-mcp
-            description: Single MCP connection to access all VeyraX integrated tools in any MCP-compatible environment
+            description: VeyraX unified tool access via single MCP
           - url: https://github.com/metorial/metorial
           - url: https://github.com/integromat/make-mcp-server
   - name: AI Coding Agents
@@ -127,7 +127,7 @@ categories:
       - url: https://github.com/oraios/serena
         description: Semantic code retrieval and editing toolkit
       - url: https://github.com/rinadelph/Agent-MCP
-        description: Framework for multi-agent systems with coordinated AI collaboration
+        description: Multi-agent AI collaboration framework
       - url: https://github.com/Sim-xia/Blind-Auditor
       - url: https://github.com/stippi/code-assistant
         description: LLM-powered autonomous coding assistant
@@ -135,7 +135,7 @@ categories:
       - url: https://github.com/nesquikm/mcp-rubber-duck
         description: MCP bridge to query multiple OpenAI-compatible LLMs
       - url: https://github.com/VertexStudio/developer
-        description: General purpose MCP server with file editing, shell execution, and screen capture capabilities
+        description: File editing, shell execution, screen capture
       - url: https://github.com/x51xxx/codex-mcp-tool
       - url: https://github.com/x51xxx/copilot-mcp-server
       - url: https://github.com/wende/cicada
@@ -266,7 +266,7 @@ categories:
       - url: https://github.com/tufantunc/ssh-mcp
         description: SSH control for Linux servers
       - url: https://github.com/tumf/mcp-shell-server
-        description: Secure shell command execution server with whitelisted commands and stdin support
+        description: Shell execution with whitelisted commands
       - url: https://github.com/wonderwhy-er/DesktopCommanderMCP
         description: Terminal control, file search, diff editing
       - url: https://github.com/nihalxkumar/arch-mcp
@@ -318,7 +318,7 @@ categories:
           - url: https://github.com/pulumi/mcp-server
           - url: https://github.com/pythonanywhere/pythonanywhere-mcp-server
           - url: https://github.com/qiniu/qiniu-mcp-server
-            description: MCP server for Qiniu Cloud services including storage, CDN, media processing, and live streaming
+            description: Qiniu Cloud storage, CDN, and media processing
           - url: https://github.com/redis/mcp-redis-cloud
             description: MCP server for Redis Cloud database operations
           - url: https://github.com/rrmistry/tilt-mcp
@@ -457,7 +457,7 @@ categories:
       - url: https://github.com/sergehuber/inoyu-mcp-unomi-server
       - url: https://github.com/tinybirdco/mcp-tinybird
       - url: https://github.com/hmk/attio-mcp-server
-        description: MCP server for Attio CRM, allowing AI clients to read and write company records and notes
+        description: Attio CRM records and notes management
       - url: https://github.com/ivnvxd/mcp-server-odoo
         description: MCP server for Odoo ERP integration
       - url: https://github.com/MonadsAG/capsulecrm-mcp
@@ -577,7 +577,7 @@ categories:
           - url: https://github.com/OpenLinkSoftware/mcp-jdbc-server
           - url: https://github.com/OpenLinkSoftware/mcp-odbc-server
           - url: https://github.com/prisma/mcp
-            description: Prisma MCP servers for database workflows with local and remote deployment options
+            description: Prisma database workflows
           - url: https://github.com/runekaagaard/mcp-alchemy
             description: MCP server for SQLAlchemy database operations
           - url: https://github.com/s2-streamstore/s2-sdk-typescript
@@ -609,7 +609,7 @@ categories:
             description: Secure MySQL database interaction
           - url: https://github.com/dolthub/dolt-mcp
           - url: https://github.com/donghao1393/mcp-dbutils
-            description: All-in-one MCP service for secure database connections supporting SQLite, MySQL, PostgreSQL and more
+            description: Multi-database connector for SQLite, MySQL, PostgreSQL
           - url: https://github.com/f4ww4z/mcp-mysql-server
           - url: https://github.com/gigamori/mcp-run-sql-connectorx
           - url: https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server
@@ -816,7 +816,7 @@ categories:
           - url: https://github.com/ShenghaiWang/xcodebuild
             description: Xcode iOS build with error feedback
           - url: https://github.com/tumf/mcp-text-editor
-            description: Line-oriented text file editing MCP server optimized for LLM tools with partial file access
+            description: Line-oriented text editing for LLM tools
       - name: MCP SDKs
         repos:
           - url: https://github.com/Epistates/turbomcp
@@ -1072,7 +1072,7 @@ categories:
             description: Figma to code with Flowbite
           - url: https://github.com/TheoBrigitte/mcp-time
           - url: https://github.com/thirdweb-dev/ai
-            description: AI toolkit for blockchain data analysis, wallet management, and AI agent interaction
+            description: Blockchain data, wallet, and smart contracts
           - url: https://github.com/tipdotmd/tip-md-x402-mcp-server
           - url: https://github.com/Tommertom/awesome-ionic-mcp
             description: Ionic and Capacitor mobile app development
@@ -1193,7 +1193,7 @@ categories:
       - url: https://github.com/mapbox/mcp-server
       - url: https://github.com/CuriousBox-AI/ProdE-mc
       - url: https://github.com/Tencent/cos-mcp
-        description: Tencent Cloud COS MCP Server based on MCP protocol for quick integration with cloud storage and data processing
+        description: Tencent Cloud COS storage integration
   - name: Finance
     subcategories:
       - name: Accounting & Budgeting
@@ -1505,9 +1505,9 @@ categories:
         description: Image and video analysis capabilities
       - url: https://github.com/nanana-app/mcp-server-nano-banana
       - url: https://github.com/abhiemj/manim-mcp-server
-        description: MCP server that executes Manim animation code and returns generated videos
+        description: Manim animation code execution
       - url: https://github.com/ahujasid/blender-mcp
-        description: Connect Blender to Claude AI through MCP for prompt-assisted 3D modeling and scene creation
+        description: Blender 3D modeling with Claude AI
       - url: https://github.com/burningion/video-editing-mcp
       - url: https://github.com/diivi/aseprite-mcp
       - url: https://github.com/raveenb/fal-mcp-server
@@ -1648,7 +1648,7 @@ categories:
           - url: https://github.com/m0xai/trello-mcp-server
           - url: https://github.com/makeplane/plane-mcp-server
           - url: https://github.com/nguyenvanduocit/jira-mcp
-            description: Go-based MCP connector for Jira with issue and sprint management
+            description: Jira issues and sprints via Go MCP
           - url: https://github.com/offorte/offorte-mcp-server
           - url: https://github.com/routineco/mcp-server
           - url: https://github.com/roychri/mcp-server-asana
@@ -1806,6 +1806,7 @@ categories:
           - url: https://github.com/8enSmith/mcp-open-library
             description: MCP server for Open Library book and author search
           - url: https://github.com/cantian-ai/bazi-mcp
+            description: Bazi Chinese astrology information
           - url: https://github.com/cswkim/discogs-mcp-server
           - url: https://github.com/djalal/quran-mcp-server
             description: Quran.com verses, translations, tafsir
@@ -2015,7 +2016,7 @@ categories:
       - url: https://github.com/talknerdytome-labs/facebook-ads-library-mcp
         description: Facebook Ads Library search and access
       - url: https://github.com/caol64/wenyan-mcp
-        description: MCP Server that automatically formats Markdown articles and publishes them to WeChat Official Accounts
+        description: Markdown formatting and translation to Chinese
       - url: https://github.com/marcelmarais/spotify-mcp-server
       - url: https://github.com/Seym0n/tiktok-mcp
       - url: https://github.com/imprvhub/mcp-claude-spotify
@@ -2056,7 +2057,7 @@ categories:
     repos:
       - url: https://github.com/mmntm/weblate-mcp
       - url: https://github.com/translated/lara-mcp
-        description: MCP Server for Lara Translate API, enabling translation capabilities with language detection and translation memories
+        description: Lara Translate API with language detection
       - url: https://github.com/rae-api-com/rae-mcp
   - name: Travel & Transport
     repos:
@@ -2081,7 +2082,7 @@ categories:
       - name: MCP Clients
         repos:
           - url: https://github.com/rakesh-eltropy/mcp-client
-            description: A simple REST API and CLI client to interact with MCP servers, integrated with LangChain and supporting multiple LLM...
+            description: REST API and CLI client for MCP with LangChain
           - url: https://github.com/SecretiveShell/MCP-Bridge
             description: OpenAI-compatible endpoint calling MCP tools
           - url: https://github.com/3choff/mcp-chatbot
