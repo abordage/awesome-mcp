@@ -1,8 +1,9 @@
 # Awesome MCP
 
+![Awesome](https://raw.githubusercontent.com/abordage/schemas/main/badges/awesome.svg)
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-mcp?label=last%20update)](README.md)
-![Repositories](https://img.shields.io/badge/repositories-1,215-blue)
-![Total Stars](https://img.shields.io/badge/total%20stars-864,835-yellow)
+![Repositories](https://img.shields.io/badge/repositories-1,215-06b6d4)
+![Total Stars](https://img.shields.io/badge/total%20stars-864,835-gold)
 [![License](https://img.shields.io/github/license/abordage/awesome-mcp)](LICENSE)
 
 **Automated. Curated. Ranked.**
