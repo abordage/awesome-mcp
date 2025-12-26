@@ -68,6 +68,8 @@ categories:
         description: All-in-one MCP with GitLab, Jira, Confluence, YouTube
       - url: https://github.com/nazar256/combine-mcp
         description: MCP aggregator combining multiple servers into one interface
+      - url: https://github.com/Stacklok/toolhive
+        description: Runtime and gateway for deploying MCP servers in containers
   - name: AI Coding Agents
     repos:
       - url: https://github.com/Shashankss1205/CodeGraphContext
@@ -132,6 +134,8 @@ categories:
       - url: https://github.com/r-huijts/ethics-check-mcp
       - url: https://github.com/ttommyth/interactive-mcp
         description: Interactive MCP server for human-in-the-loop AI
+      - url: https://github.com/TheRaLabs/legion-mcp
+        description: MCP server for Legion AI platform
   - name: Art & Culture
     repos:
       - url: https://github.com/drakonkat/wizzy-mcp-tmdb
@@ -380,6 +384,7 @@ categories:
       - url: https://github.com/srnetadmin/nanoleaf-mcp-server
       - url: https://github.com/arifszn/reminder-mcp
       - url: https://github.com/callhub/callhub-mcp
+      - url: https://github.com/intentos-labs/beeper-mcp
   - name: CRM & ERP
     repos:
       - url: https://github.com/antvis/mcp-server-chart
@@ -437,455 +442,518 @@ categories:
       - url: https://github.com/isaacwasserman/mcp-vegalite-server
         description: MCP server for Vega-Lite data visualization
   - name: Databases
-    repos:
-      - url: https://github.com/Aiven-Open/mcp-aiven
-      - url: https://github.com/alexander-zuev/supabase-mcp-server
-        description: MCP server for Supabase database and auth
-      - url: https://github.com/aliyun/alibabacloud-tablestore-mcp-server
-        description: MCP server for Alibaba Tablestore NoSQL
-      - url: https://github.com/amineelkouhen/mcp-cockroachdb
-      - url: https://github.com/benborla/mcp-server-mysql
-        description: MCP server for MySQL database operations
-      - url: https://github.com/bram2w/baserow
-      - url: https://github.com/c4pt0r/mcp-server-tidb
-      - url: https://github.com/Canner/wren-engine
-      - url: https://github.com/centralmind/gateway
-      - url: https://github.com/ChristianHinge/dicom-mcp
-      - url: https://github.com/chroma-core/chroma-mcp
-      - url: https://github.com/ClickHouse/mcp-clickhouse
-      - url: https://github.com/confluentinc/mcp-confluent
-        description: MCP server for Confluent Kafka platform
-      - url: https://github.com/Couchbase-Ecosystem/mcp-server-couchbase
-      - url: https://github.com/cr7258/elasticsearch-mcp-server
-      - url: https://github.com/crystaldba/postgres-mcp
-      - url: https://github.com/Dataring-engineering/mcp-server-trino
-      - url: https://github.com/dave-wind/mysql-mcp-server
-      - url: https://github.com/designcomputer/mysql_mcp_server
-      - url: https://github.com/domdomegg/airtable-mcp-server
-      - url: https://github.com/edwinbernadus/nocodb-mcp-server
-      - url: https://github.com/ergut/mcp-bigquery-server
-        description: MCP server for Google BigQuery integration
-      - url: https://github.com/f4ww4z/mcp-mysql-server
-      - url: https://github.com/ferrants/memvid-mcp-server
-      - url: https://github.com/fireproof-storage/mcp-database-server
-      - url: https://github.com/freema/mcp-gsheets
-      - url: https://github.com/FreePeak/db-mcp-server
-        description: MCP server for database operations
-      - url: https://github.com/furey/mongodb-lens
-      - url: https://github.com/gannonh/firebase-mcp
-      - url: https://github.com/gigamori/mcp-run-sql-connectorx
-      - url: https://github.com/googleapis/genai-toolbox
-      - url: https://github.com/GreptimeTeam/greptimedb-mcp-server
-      - url: https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server
-        description: MCP server for safe read-only SQLite database access
-      - url: https://github.com/henilcalagiya/google-sheets-mcp
-      - url: https://github.com/hydrolix/mcp-hydrolix
-      - url: https://github.com/idoru/influxdb-mcp-server
-      - url: https://github.com/influxdata/influxdb3_mcp_server
-      - url: https://github.com/isaacwasserman/mcp-snowflake-server
-        description: MCP server for Snowflake database queries
-      - url: https://github.com/iunera/druid-mcp-server
-      - url: https://github.com/YannBrrd/simple_snowflake_mcp
-      - url: https://github.com/JoshuaRileyDev/supabase-mcp-server
-        description: MCP server for Supabase database operations
-      - url: https://github.com/timeplus-io/mcp-timeplus
-      - url: https://github.com/jparkerweb/mcp-sqlite
-      - url: https://github.com/KashiwaByte/vikingdb-mcp-server
-      - url: https://github.com/kiliczsh/mcp-mongo-server
-      - url: https://github.com/ktanaka101/mcp-server-duckdb
-      - url: https://github.com/LucasHild/mcp-server-bigquery
-      - url: https://github.com/montumodi/mongodb-atlas-mcp-server
-      - url: https://github.com/neo4j-contrib/mcp-neo4j
-      - url: https://github.com/neondatabase/mcp-server-neon
-      - url: https://github.com/niledatabase/nile-mcp-server
-      - url: https://github.com/OpenLinkSoftware/mcp-jdbc-server
-      - url: https://github.com/OpenLinkSoftware/mcp-odbc-server
-      - url: https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server
-      - url: https://github.com/pab1it0/adx-mcp-server
-        description: MCP server for Azure Data Explorer
-      - url: https://github.com/pab1it0/prometheus-mcp-server
-        description: MCP server for Prometheus metrics
-      - url: https://github.com/prisma/mcp
-        description: Prisma MCP servers for database workflows with local and remote deployment options
-      - url: https://github.com/qdrant/mcp-server-qdrant
-      - url: https://github.com/QuantGeekDev/mongo-mcp
-      - url: https://github.com/rashidazarang/airtable-mcp
-      - url: https://github.com/redis/mcp-redis
-        description: MCP server for Redis database operations
-      - url: https://github.com/runekaagaard/mcp-alchemy
-        description: MCP server for SQLAlchemy database operations
-      - url: https://github.com/s2-streamstore/s2-sdk-typescript
-      - url: https://github.com/schemacrawler/SchemaCrawler-AI-MCP-Server-Usage
-      - url: https://github.com/sirmews/mcp-pinecone
-      - url: https://github.com/skysqlinc/skysql-mcp
-      - url: https://github.com/Snowflake-Labs/mcp
-      - url: https://github.com/subnetmarco/pgmcp
-      - url: https://github.com/isdaniel/pgtuner_mcp
-      - url: https://github.com/supabase-community/supabase-mcp
-      - url: https://github.com/TheRaLabs/legion-mcp
-        description: MCP server for Legion AI platform
-      - url: https://github.com/tradercjz/dolphindb-mcp-server
-      - url: https://github.com/tuannvm/mcp-trino
-      - url: https://github.com/VictoriaMetrics-Community/mcp-victorialogs
-      - url: https://github.com/weaviate/mcp-server-weaviate
-      - url: https://github.com/wenb1n-dev/mysql_mcp_server_pro
-        description: Enhanced MySQL MCP server with database anomaly analysis capabilities and easy extensibility for developers
-      - url: https://github.com/wenb1n-dev/SmartDB_MCP
-        description: Universal database MCP for MySQL, PostgreSQL, Oracle and more
-      - url: https://github.com/Xexr/mcp-libsql
-        description: MCP server for libSQL database
-      - url: https://github.com/XGenerationLab/xiyan_mcp_server
-      - url: https://github.com/xing5/mcp-google-sheets
-      - url: https://github.com/ydb-platform/ydb-mcp
-        description: MCP server for YDB distributed database
-      - url: https://github.com/yincongcyincong/VictoriaMetrics-mcp-server
-      - url: https://github.com/Zhwt/go-mcp-mysql
-        description: Go-based MCP server for MySQL
-      - url: https://github.com/zilliztech/mcp-server-milvus
-      - url: https://github.com/donghao1393/mcp-dbutils
-        description: All-in-one MCP service for secure database connections supporting SQLite, MySQL, PostgreSQL and more
-      - url: https://github.com/apache/doris-mcp-server
-      - url: https://github.com/dreamfactorysoftware/df-mcp
-      - url: https://github.com/instantdb/instant
-      - url: https://github.com/motherduckdb/mcp-server-motherduck
-      - url: https://github.com/oceanbase/awesome-oceanbase-mcp
-      - url: https://github.com/singlestore-labs/mcp-server-singlestore
-      - url: https://github.com/StarRocks/mcp-server-starrocks
-      - url: https://github.com/Teradata/teradata-mcp-server
-      - url: https://github.com/bytebase/dbhub
-      - url: https://github.com/dolthub/dolt-mcp
-      - url: https://github.com/panasenco/mcp-sqlite
+    subcategories:
+      - name: Analytics & Warehouses
+        repos:
+          - url: https://github.com/ClickHouse/mcp-clickhouse
+          - url: https://github.com/ergut/mcp-bigquery-server
+            description: MCP server for Google BigQuery integration
+          - url: https://github.com/hydrolix/mcp-hydrolix
+          - url: https://github.com/isaacwasserman/mcp-snowflake-server
+            description: MCP server for Snowflake database queries
+          - url: https://github.com/iunera/druid-mcp-server
+          - url: https://github.com/ktanaka101/mcp-server-duckdb
+          - url: https://github.com/LucasHild/mcp-server-bigquery
+          - url: https://github.com/motherduckdb/mcp-server-motherduck
+          - url: https://github.com/pab1it0/adx-mcp-server
+            description: MCP server for Azure Data Explorer
+          - url: https://github.com/Snowflake-Labs/mcp
+          - url: https://github.com/YannBrrd/simple_snowflake_mcp
+      - name: Cache & Key-Value
+        repos:
+          - url: https://github.com/aliyun/alibabacloud-tablestore-mcp-server
+            description: MCP server for Alibaba Tablestore NoSQL
+          - url: https://github.com/redis/mcp-redis
+            description: MCP server for Redis database operations
+      - name: Cloud Platforms
+        repos:
+          - url: https://github.com/Aiven-Open/mcp-aiven
+          - url: https://github.com/alexander-zuev/supabase-mcp-server
+            description: MCP server for Supabase database and auth
+          - url: https://github.com/gannonh/firebase-mcp
+          - url: https://github.com/instantdb/instant
+          - url: https://github.com/JoshuaRileyDev/supabase-mcp-server
+            description: MCP server for Supabase database operations
+          - url: https://github.com/neondatabase/mcp-server-neon
+          - url: https://github.com/niledatabase/nile-mcp-server
+          - url: https://github.com/supabase-community/supabase-mcp
+      - name: Graph Databases
+        repos:
+          - url: https://github.com/neo4j-contrib/mcp-neo4j
+      - name: Multi-Database Tools
+        repos:
+          - url: https://github.com/bytebase/dbhub
+          - url: https://github.com/Canner/wren-engine
+          - url: https://github.com/centralmind/gateway
+          - url: https://github.com/dreamfactorysoftware/df-mcp
+          - url: https://github.com/ferrants/memvid-mcp-server
+          - url: https://github.com/fireproof-storage/mcp-database-server
+          - url: https://github.com/FreePeak/db-mcp-server
+            description: MCP server for database operations
+          - url: https://github.com/googleapis/genai-toolbox
+          - url: https://github.com/OpenLinkSoftware/mcp-jdbc-server
+          - url: https://github.com/OpenLinkSoftware/mcp-odbc-server
+          - url: https://github.com/prisma/mcp
+            description: Prisma MCP servers for database workflows with local and remote deployment options
+          - url: https://github.com/runekaagaard/mcp-alchemy
+            description: MCP server for SQLAlchemy database operations
+          - url: https://github.com/s2-streamstore/s2-sdk-typescript
+          - url: https://github.com/schemacrawler/SchemaCrawler-AI-MCP-Server-Usage
+          - url: https://github.com/XGenerationLab/xiyan_mcp_server
+      - name: NoSQL & Document
+        repos:
+          - url: https://github.com/Couchbase-Ecosystem/mcp-server-couchbase
+          - url: https://github.com/cr7258/elasticsearch-mcp-server
+          - url: https://github.com/furey/mongodb-lens
+          - url: https://github.com/kiliczsh/mcp-mongo-server
+          - url: https://github.com/montumodi/mongodb-atlas-mcp-server
+          - url: https://github.com/QuantGeekDev/mongo-mcp
+      - name: SQL Databases
+        repos:
+          - url: https://github.com/amineelkouhen/mcp-cockroachdb
+          - url: https://github.com/apache/doris-mcp-server
+          - url: https://github.com/benborla/mcp-server-mysql
+            description: MCP server for MySQL database operations
+          - url: https://github.com/c4pt0r/mcp-server-tidb
+          - url: https://github.com/crystaldba/postgres-mcp
+          - url: https://github.com/Dataring-engineering/mcp-server-trino
+          - url: https://github.com/dave-wind/mysql-mcp-server
+          - url: https://github.com/designcomputer/mysql_mcp_server
+          - url: https://github.com/dolthub/dolt-mcp
+          - url: https://github.com/donghao1393/mcp-dbutils
+            description: All-in-one MCP service for secure database connections supporting SQLite, MySQL, PostgreSQL and more
+          - url: https://github.com/f4ww4z/mcp-mysql-server
+          - url: https://github.com/gigamori/mcp-run-sql-connectorx
+          - url: https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server
+            description: MCP server for safe read-only SQLite database access
+          - url: https://github.com/isdaniel/pgtuner_mcp
+          - url: https://github.com/jparkerweb/mcp-sqlite
+          - url: https://github.com/oceanbase/awesome-oceanbase-mcp
+          - url: https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server
+          - url: https://github.com/panasenco/mcp-sqlite
+          - url: https://github.com/singlestore-labs/mcp-server-singlestore
+          - url: https://github.com/skysqlinc/skysql-mcp
+          - url: https://github.com/StarRocks/mcp-server-starrocks
+          - url: https://github.com/subnetmarco/pgmcp
+          - url: https://github.com/Teradata/teradata-mcp-server
+          - url: https://github.com/tuannvm/mcp-trino
+          - url: https://github.com/wenb1n-dev/mysql_mcp_server_pro
+            description: Enhanced MySQL MCP server with database anomaly analysis capabilities and easy extensibility for developers
+          - url: https://github.com/wenb1n-dev/SmartDB_MCP
+            description: Universal database MCP for MySQL, PostgreSQL, Oracle and more
+          - url: https://github.com/Xexr/mcp-libsql
+            description: MCP server for libSQL database
+          - url: https://github.com/ydb-platform/ydb-mcp
+            description: MCP server for YDB distributed database
+          - url: https://github.com/Zhwt/go-mcp-mysql
+            description: Go-based MCP server for MySQL
+      - name: Spreadsheets & No-Code
+        repos:
+          - url: https://github.com/bram2w/baserow
+          - url: https://github.com/domdomegg/airtable-mcp-server
+          - url: https://github.com/edwinbernadus/nocodb-mcp-server
+          - url: https://github.com/freema/mcp-gsheets
+          - url: https://github.com/henilcalagiya/google-sheets-mcp
+          - url: https://github.com/rashidazarang/airtable-mcp
+          - url: https://github.com/xing5/mcp-google-sheets
+      - name: Streaming & Messaging
+        repos:
+          - url: https://github.com/confluentinc/mcp-confluent
+            description: MCP server for Confluent Kafka platform
+      - name: Time-Series & Metrics
+        repos:
+          - url: https://github.com/GreptimeTeam/greptimedb-mcp-server
+          - url: https://github.com/idoru/influxdb-mcp-server
+          - url: https://github.com/influxdata/influxdb3_mcp_server
+          - url: https://github.com/pab1it0/prometheus-mcp-server
+            description: MCP server for Prometheus metrics
+          - url: https://github.com/timeplus-io/mcp-timeplus
+          - url: https://github.com/tradercjz/dolphindb-mcp-server
+          - url: https://github.com/VictoriaMetrics-Community/mcp-victorialogs
+          - url: https://github.com/yincongcyincong/VictoriaMetrics-mcp-server
+      - name: Vector Databases
+        repos:
+          - url: https://github.com/chroma-core/chroma-mcp
+          - url: https://github.com/KashiwaByte/vikingdb-mcp-server
+          - url: https://github.com/qdrant/mcp-server-qdrant
+          - url: https://github.com/sirmews/mcp-pinecone
+          - url: https://github.com/weaviate/mcp-server-weaviate
+          - url: https://github.com/zilliztech/mcp-server-milvus
   - name: Developer Tools
-    repos:
-      - url: https://github.com/21st-dev/magic-mcp
-      - url: https://github.com/louis030195/gptzero-mcp
-      - url: https://github.com/aashari/mcp-server-atlassian-bitbucket
-        description: MCP server for Atlassian Bitbucket repositories and PRs
-      - url: https://github.com/aashari/mcp-server-atlassian-confluence
-        description: MCP server for Atlassian Confluence spaces and pages
-      - url: https://github.com/aashari/mcp-server-atlassian-jira
-        description: MCP server for Atlassian Jira with projects, issues and sprints
-      - url: https://github.com/abrinsmead/mindpilot-mcp
-      - url: https://github.com/admica/FileScopeMCP
-        description: Analyzes codebase dependencies and generates importance diagrams
-      - url: https://github.com/agent-hanju/char-index-mcp
-      - url: https://github.com/akramIOT/MCP_AI_SOC_Sher
-      - url: https://github.com/alimo7amed93/webhook-tester-mcp
-      - url: https://github.com/ambar/simctl-mcp
-      - url: https://github.com/api7/apisix-mcp
-      - url: https://github.com/ArchAI-Labs/fastmcp-sonarqube-metrics
-      - url: https://github.com/artmann/package-registry-mcp
-      - url: https://github.com/wyattjoh/jsr-mcp
-      - url: https://github.com/augmnt/augments-mcp-server
-        description: MCP server for Augments AI platform
-      - url: https://github.com/automation-ai-labs/mcp-link
-      - url: https://github.com/avisangle/jenkins-mcp-server
-      - url: https://github.com/axliupore/mcp-code-runner
-      - url: https://github.com/azer/react-analyzer-mcp
-      - url: https://github.com/bitrise-io/bitrise-mcp
-      - url: https://github.com/buildkite/buildkite-mcp-server
-      - url: https://github.com/chunkydotdev/bldbl-mcp
-      - url: https://github.com/CircleCI-Public/mcp-server-circleci
-        description: MCP server for CircleCI CI/CD pipeline integration
-      - url: https://github.com/Wolfe-Jam/claude-faf-mcp
-      - url: https://github.com/cjo4m06/mcp-shrimp-task-manager
-        description: Task manager for AI Agents with chain-of-thought and reflection
-      - url: https://github.com/ckanthony/gin-mcp
-      - url: https://github.com/BrunoKrugel/echo-mcp
-      - url: https://github.com/ckreiling/mcp-server-docker
-      - url: https://github.com/CodeLogicIncEngineering/codelogic-mcp-server
-      - url: https://github.com/comet-ml/opik-mcp
-        description: MCP server for Opik LLM evaluation platform
-      - url: https://github.com/conan-io/conan-mcp
-      - url: https://github.com/configcat/mcp-server
-      - url: https://github.com/cqfn/aibolit-mcp-server
-      - url: https://github.com/currents-dev/currents-mcp
-      - url: https://github.com/davidan90/time-node-mcp
-      - url: https://github.com/davidlin2k/pox-mcp-server
-      - url: https://github.com/delano/postman-mcp-server
-      - url: https://github.com/alexpota/deploy-mcp
-      - url: https://github.com/docker/hub-mcp
-      - url: https://github.com/V0v1kkk/DotNetMetadataMcpServer
-      - url: https://github.com/endorhq/cli
-        description: Sandboxed environments for favorite services via MCP
-      - url: https://github.com/eyaltoledano/claude-task-master
-      - url: https://github.com/etsd-tech/mcp-pointer
-      - url: https://github.com/flipt-io/mcp-server-flipt
-      - url: https://github.com/freema/mcp-design-system-extractor
-        description: MCP server for extracting design system components
-      - url: https://github.com/gitkraken/gk-cli
-      - url: https://github.com/GLips/Figma-Context-MCP
-      - url: https://github.com/mhmzdev/Figma-Flutter-MCP
-      - url: https://github.com/gofireflyio/firefly-mcp
-      - url: https://github.com/gorosun/unified-diff-mcp
-      - url: https://github.com/Govcraft/rust-docs-mcp-server
-        description: MCP server for Rust documentation lookup
-      - url: https://github.com/PromptExecution/rust-cargo-docs-rag-mcp
-      - url: https://github.com/HainanZhao/mcp-gitlab-jira
-      - url: https://github.com/haris-musa/excel-mcp-server
-      - url: https://github.com/sbroenne/mcp-server-excel
-      - url: https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin
-      - url: https://github.com/hechtcarmel/jetbrains-index-mcp-plugin
-        description: JetBrains plugin for MCP index integration
-      - url: https://github.com/higress-group/higress-ops-mcp-server
-      - url: https://github.com/hijaz/postmancer
-      - url: https://github.com/hloiseau/mcp-gopls
-      - url: https://github.com/hungthai1401/bruno-mcp
-      - url: https://github.com/hyperb1iss/droidmind
-      - url: https://github.com/Hypersequent/qasphere-mcp
-      - url: https://github.com/idosal/git-mcp
-      - url: https://github.com/IlyaGulya/gradle-mcp-server
-      - url: https://github.com/promptexecution/just-mcp
-      - url: https://github.com/InditexTech/mcp-server-simulator-ios-idb
-        description: MCP server for iOS simulator via IDB
-      - url: https://github.com/InhiblabCore/mcp-image-compression
-      - url: https://github.com/InsForge/insforge-mcp
-      - url: https://github.com/inspizzz/jetbrains-datalore-mcp
-      - url: https://github.com/joshuayoes/ios-simulator-mcp
-      - url: https://github.com/isaacphi/mcp-language-server
-        description: MCP server implementing Language Server Protocol
-      - url: https://github.com/IvanAmador/vercel-ai-docs-mcp
-        description: MCP server for AI-powered search in Vercel AI SDK documentation
-      - url: https://github.com/j4c0bs/mcp-server-sql-analyzer
-      - url: https://github.com/janreges/ai-distiller
-        description: Fast tool for extracting essential public information from code
-      - url: https://github.com/jasonjmcghee/claude-debugs-for-you
-      - url: https://github.com/JetBrains/mcp-jetbrains
-        description: MCP server for JetBrains IDE integration
-      - url: https://github.com/Jktfe/serveMyAPI
-        description: MCP server for custom API serving
-      - url: https://github.com/JordanDalton/RestCsvMcpServer
-      - url: https://github.com/JoshuaRileyDev/app-store-connect-mcp-server
-        description: MCP server for App Store Connect API
-      - url: https://github.com/JoshuaRileyDev/simulator-mcp-server
-        description: MCP server for iOS Simulator control
-      - url: https://github.com/Jpisnice/shadcn-ui-mcp-server
-        description: MCP server for shadcn/ui component library
-      - url: https://github.com/jsdelivr/globalping-mcp-server
-      - url: https://github.com/kadykov/mcp-openapi-schema-explorer
-      - url: https://github.com/kindly-software/kdb
-      - url: https://github.com/lamemind/mcp-server-multiverse
-        description: MCP server for multiverse context management
-      - url: https://github.com/langfuse/mcp-server-langfuse
-        description: MCP server for Langfuse LLM observability
-      - url: https://github.com/JamesANZ/system-prompts-mcp-server
-      - url: https://github.com/linw1995/nvim-mcp
-        description: MCP server for Neovim integration
-      - url: https://github.com/robotmcp/ros-mcp-server
-      - url: https://github.com/lpigeon/unitree-go2-mcp-server
-        description: MCP server for Unitree Go2 robot control
-      - url: https://github.com/ukkit/memcord
-        description: MCP server for memory and context management
-      - url: https://github.com/mattjegan/swarmia-mcp
-      - url: https://github.com/mobile-next/mobile-mcp
-      - url: https://github.com/mrexodia/user-feedback-mcp
-      - url: https://github.com/mumez/pharo-smalltalk-interop-mcp-server
-      - url: https://github.com/narumiruna/gitingest-mcp
-      - url: https://github.com/neilberkman/editorconfig_mcp
-      - url: https://github.com/OctoMind-dev/octomind-mcp
-      - url: https://github.com/bgauryy/octocode-mcp
-        description: MCP server for semantic code search and context generation
-      - url: https://github.com/opslevel/opslevel-mcp
-      - url: https://github.com/ooples/token-optimizer-mcp
-      - url: https://github.com/picahq/mcp
-      - url: https://github.com/posthog/mcp
-      - url: https://github.com/Pratyay/mac-monitor-mcp
-        description: MCP server for macOS system monitoring
-      - url: https://github.com/pskill9/website-downloader
-      - url: https://github.com/public-ui/kolibri
-      - url: https://github.com/QAInsights/jmeter-mcp-server
-      - url: https://github.com/QAInsights/k6-mcp-server
-      - url: https://github.com/QAInsights/locust-mcp-server
-      - url: https://github.com/QuantGeekDev/docker-mcp
-      - url: https://github.com/r-huijts/xcode-mcp-server
-      - url: https://github.com/ReAPI-com/mcp-openapi
-      - url: https://github.com/Rootly-AI-Labs/Rootly-MCP-server
-      - url: https://github.com/Ryan0204/github-repo-mcp
-      - url: https://github.com/sammcj/mcp-package-version
-      - url: https://github.com/sapientpants/sonarqube-mcp-server
-      - url: https://github.com/SDGLBL/mcp-claude-code
-      - url: https://github.com/sequa-ai/sequa-mcp
-        description: MCP server for Sequa AI platform
-      - url: https://github.com/skullzarmy/vibealive
-      - url: https://github.com/janwilmake/openapi-mcp-server
-      - url: https://github.com/vezlo/src-to-kb
-      - url: https://github.com/spacecode-ai/SpaceBridge-MCP
-      - url: https://github.com/st3v3nmw/sourcerer-mcp
-      - url: https://github.com/stass/lldb-mcp
-      - url: https://github.com/storybookjs/mcp
-        description: MCP server for Storybook UI component library
-      - url: https://github.com/TencentEdgeOne/edgeone-pages-mcp
-      - url: https://github.com/tgeselle/bugsnag-mcp
-        description: MCP server for Bugsnag error monitoring
-      - url: https://github.com/Tommertom/awesome-ionic-mcp
-      - url: https://github.com/tipdotmd/tip-md-x402-mcp-server
-      - url: https://github.com/tumf/mcp-text-editor
-        description: Line-oriented text file editing MCP server optimized for LLM tools with partial file access
-      - url: https://github.com/dorukardahan/twitterapi-io-mcp
-      - url: https://github.com/utensils/mcp-nixos
-      - url: https://github.com/valado/pantheon-mcp
-      - url: https://github.com/var-gg/mcp
-      - url: https://github.com/vasayxtx/mcp-prompt-engine
-      - url: https://github.com/veelenga/claude-mermaid
-      - url: https://github.com/vivekVells/mcp-pandoc
-      - url: https://github.com/biegehydra/BifrostMCP
-      - url: https://github.com/Webvizio/mcp
-      - url: https://github.com/wise-vision/ros2_mcp
-      - url: https://github.com/Wooonster/hocr_mcp_server
-      - url: https://github.com/wn01011/llm-token-tracker
-      - url: https://github.com/ShenghaiWang/xcodebuild
-      - url: https://github.com/XixianLiang/HarmonyOS-mcp-server
-      - url: https://github.com/xzq-xu/jvm-mcp-server
-        description: JVM-based MCP server implementation
-      - url: https://github.com/yangkyeongmo/mcp-server-apache-airflow
-        description: MCP server for Apache Airflow workflows
-      - url: https://github.com/yikakia/godoc-mcp-server
-      - url: https://github.com/yiwenlu66/PiloTY
-      - url: https://github.com/YuChenSSR/mindmap-mcp-server
-      - url: https://github.com/YuChenSSR/multi-ai-advisor-mcp
-      - url: https://github.com/Yutarop/ros-mcp
-      - url: https://github.com/yWorks/mcp-typescribe
-      - url: https://github.com/zaizaizhao/mcp-swagger-server
-        description: Convert any OpenAPI/Swagger REST API to Model Context Protocol format for AI assistants
-      - url: https://github.com/zcaceres/fetch-mcp
-      - url: https://github.com/zenml-io/mcp-zenml
-      - url: https://github.com/zillow/auto-mobile
-      - url: https://github.com/LinuxSuRen/atest-mcp-server
-      - url: https://github.com/ztuskes/garmin-documentation-mcp-server
-      - url: https://github.com/paracetamol951/P-Link-MCP
-      - url: https://github.com/themesberg/flowbite-mcp
-      - url: https://github.com/bbonnin/openapi-to-mcp
-      - url: https://github.com/shanejonas/openrpc-mcp-server
-      - url: https://github.com/marimo-team/codemirror-mcp
-      - url: https://github.com/arvindand/maven-tools-mcp
-      - url: https://github.com/DefangLabs/defang
-        description: MCP server for Defang cloud deployment
-      - url: https://github.com/tanaikech/ToolsForMCPServer
-        description: MCP server built with Google Apps Script for Gemini CLI
-      - url: https://github.com/Adfin-Engineering/mcp-server-adfin
-      - url: https://github.com/ALAPI-SDK/mcp-alapi-cn
-      - url: https://github.com/apimatic/apimatic-validator-mcp
-      - url: https://github.com/atla-ai/atla-mcp-server
-      - url: https://github.com/brightdata/brightdata-mcp
-      - url: https://github.com/bucketco/bucket-javascript-sdk
-      - url: https://github.com/upstash/context7
-      - url: https://github.com/crawlbase/crawlbase-mcp
-        description: MCP server connecting AI agents with real-time web data
-      - url: https://github.com/trycua/cua
-        description: MCP server for CUA platform
-      - url: https://github.com/cycodehq/cycode-cli
-      - url: https://github.com/debugg-ai/debugg-ai-mcp
-      - url: https://github.com/devhub/devhub-cms-mcp
-      - url: https://github.com/IDEA-Research/DINO-X-MCP
-        description: MCP server for DINO-X vision model
-      - url: https://github.com/firecrawl/firecrawl-mcp-server
-      - url: https://github.com/oschina/mcp-gitee
-        description: MCP server for Gitee repositories
-      - url: https://github.com/hostinger/api-mcp-server
-        description: MCP server for Hostinger API integration
-      - url: https://github.com/jamsocket/forevervm
-      - url: https://github.com/lingodotdev/lingo.dev
-        description: MCP server for Lingo localization platform
-      - url: https://github.com/mailgun/mailgun-mcp-server
-      - url: https://github.com/btafoya/mailsandbox
-      - url: https://github.com/muxinc/mux-node-sdk
-      - url: https://github.com/perplexityai/modelcontextprotocol
-      - url: https://github.com/postmanlabs/postman-mcp-server
-      - url: https://github.com/powerdrillai/powerdrill-mcp
-      - url: https://github.com/upnorthmedia/ScreenshotMCP
-      - url: https://github.com/screenshotone/mcp
-      - url: https://github.com/SlideSpeak/slidespeak-mcp
-      - url: https://github.com/supadata-ai/mcp
-      - url: https://github.com/thirdweb-dev/ai
-      - url: https://github.com/twilio-labs/mcp
-      - url: https://github.com/video-db/agent-toolkit
-        description: MCP toolkit for video database operations
-      - url: https://github.com/webflow/mcp-server
-      - url: https://github.com/srijanshukla18/xray
-        description: MCP server for X-ray analysis
-      - url: https://github.com/minhalvp/android-mcp-server
-      - url: https://github.com/sykuang/mcp-autogen-doc
-      - url: https://github.com/georgeantonopoulos/Basecamp-MCP-Server
-      - url: https://github.com/isiahw1/mcp-server-bing-webmaster
-      - url: https://github.com/KamranBiglari/mcp-server-chart
-      - url: https://github.com/bhauman/clojure-mcp
-      - url: https://github.com/johannesPettersson80/codesys-mcp-toolkit
-      - url: https://github.com/szeider/consult7
-      - url: https://github.com/ai-1st/deepview-mcp
-        description: MCP server for DeepView AI analysis
-      - url: https://github.com/zacharypodbela/django-rest-framework-mcp
-        description: MCP server for Django REST Framework
-      - url: https://github.com/laurynas-biveinis/elisp-dev-mcp
-      - url: https://github.com/pansila/mcp_server_gdb
-      - url: https://github.com/PV-Bhat/gemsuite-mcp
-        description: MCP server for GemSuite tools
-      - url: https://github.com/securityfortech/google-admin-mcp
-      - url: https://github.com/rendyfebry/google-pse-mcp
-      - url: https://github.com/pigmej/python-homey-mcp
-      - url: https://github.com/rahulthedevil/Jira-Context-MCP
-      - url: https://github.com/sshaaf/keycloak-mcp-server
-        description: MCP server for Keycloak identity and access management
-      - url: https://github.com/xxczaki/local-history-mcp
-      - url: https://github.com/Bigsy/maven-mcp-server
-      - url: https://github.com/OvertliDS/mcp-searxng-enhanced
-      - url: https://github.com/Yuchen20/Memory-Plus
-        description: A lightweight, local RAG memory store for MCP agents. Easily record, retrieve, update, delete, and visualize...
-      - url: https://github.com/btwiuse/npm-search-mcp-server
-      - url: https://github.com/baruchiro/paperless-mcp
-        description: MCP server for Paperless-NGX document management
-      - url: https://github.com/pkolawa/krs-poland-mcp-server
-      - url: https://github.com/croffasia/mcp-project-manager
-      - url: https://github.com/zazencodes/public-apis-mcp
-      - url: https://github.com/zazencodes/random-number-mcp
-        description: MCP server for random number generation
-      - url: https://github.com/cameroncooke/reloaderoo
-      - url: https://github.com/yusufk/salaah-mcp
-      - url: https://github.com/Beer-Bears/scaffold
-      - url: https://github.com/simpleswift/spm-mcp
-      - url: https://github.com/khromov/llmctx
-      - url: https://github.com/EchoingVesper/mcp-task-orchestrator
-      - url: https://github.com/stanislavlysenko0912/todoist-mcp-server
-      - url: https://github.com/Excoriate/mcp-terragrunt-docs
-      - url: https://github.com/wassengerhq/mcp-wassenger
-      - url: https://github.com/Kashyap-AI-ML-Solutions/webex-messaging-mcp-server
-      - url: https://github.com/mbelinky/x-mcp-server
-      - url: https://github.com/cameroncooke/xcodebuildmcp
-        description: MCP server for Xcode build operations
-      - url: https://github.com/nzrsky/xctools-mcp-server
-      - url: https://github.com/gauravsaini/gluestack-ui-mcp-server
-      - url: https://github.com/Bigsy/clj-kondo-MCP
-      - url: https://github.com/Yeok-c/latex-mcp-server
-      - url: https://github.com/heilgar/shadcn-ui-mcp-server
-        description: MCP server for shadcn/ui component library
-      - url: https://github.com/Arize-ai/text-to-graphql-mcp
-        description: MCP server for text-to-GraphQL conversion
-      - url: https://github.com/JordanDalton/DoorDash-MCP-Server
-      - url: https://github.com/Narasimhaponnada/mermaid-mcp
-        description: MCP server for Mermaid diagram generation
-      - url: https://github.com/holyfata/mermaid-grammer-inspector-mcp
-      - url: https://github.com/themeselection/flyonui-mcp
-      - url: https://github.com/bharathvaj-ganesan/whois-mcp
-      - url: https://github.com/anaisbetts/mcp-installer
-      - url: https://github.com/blurrah/mcp-graphql
-      - url: https://github.com/zueai/mcp-manager
-      - url: https://github.com/mrjoshuak/godoc-mcp
-      - url: https://github.com/2niuhe/mcp_plantuml
-      - url: https://github.com/2niuhe/qrcode_mcp
-      - url: https://github.com/andybrandt/mcp-simple-timeserver
-      - url: https://github.com/dotemacs/domain-lookup-mcp
-      - url: https://github.com/fotoetienne/gqai
-      - url: https://github.com/githejie/mcp-server-calculator
-      - url: https://github.com/johannesbrandenburger/typst-mcp
-        description: MCP server for Typst markup-based typesetting system
-      - url: https://github.com/kimtth/mcp-remote-call-ping-pong
-      - url: https://github.com/osinmv/function-lookup-mcp
-      - url: https://github.com/pwh-pwh/cal-mcp
-      - url: https://github.com/Shopify/dev-mcp
-      - url: https://github.com/TheoBrigitte/mcp-time
-      - url: https://github.com/UnitVectorY-Labs/mcp-graphql-forge
-      - url: https://github.com/nick1udwig/ws-mcp
-        description: MCP server with WebSocket transport
-      - url: https://github.com/ZeparHyfar/mcp-datetime
+    subcategories:
+      - name: API Tools
+        repos:
+          - url: https://github.com/Arize-ai/text-to-graphql-mcp
+            description: MCP server for text-to-GraphQL conversion
+          - url: https://github.com/bbonnin/openapi-to-mcp
+          - url: https://github.com/blurrah/mcp-graphql
+          - url: https://github.com/delano/postman-mcp-server
+          - url: https://github.com/hijaz/postmancer
+          - url: https://github.com/janwilmake/openapi-mcp-server
+          - url: https://github.com/kadykov/mcp-openapi-schema-explorer
+          - url: https://github.com/postmanlabs/postman-mcp-server
+          - url: https://github.com/ReAPI-com/mcp-openapi
+          - url: https://github.com/UnitVectorY-Labs/mcp-graphql-forge
+          - url: https://github.com/zaizaizhao/mcp-swagger-server
+            description: Convert any OpenAPI/Swagger REST API to Model Context Protocol format for AI assistants
+          - url: https://github.com/zcaceres/fetch-mcp
+      - name: CI/CD & DevOps
+        repos:
+          - url: https://github.com/aashari/mcp-server-atlassian-bitbucket
+            description: MCP server for Atlassian Bitbucket repositories and PRs
+          - url: https://github.com/alexpota/deploy-mcp
+          - url: https://github.com/avisangle/jenkins-mcp-server
+          - url: https://github.com/bitrise-io/bitrise-mcp
+          - url: https://github.com/btafoya/mailsandbox
+          - url: https://github.com/buildkite/buildkite-mcp-server
+          - url: https://github.com/CircleCI-Public/mcp-server-circleci
+            description: MCP server for CircleCI CI/CD pipeline integration
+          - url: https://github.com/ckreiling/mcp-server-docker
+          - url: https://github.com/DefangLabs/defang
+            description: MCP server for Defang cloud deployment
+          - url: https://github.com/docker/hub-mcp
+          - url: https://github.com/endorhq/cli
+            description: Sandboxed environments for favorite services via MCP
+          - url: https://github.com/HainanZhao/mcp-gitlab-jira
+          - url: https://github.com/IvanAmador/vercel-ai-docs-mcp
+            description: MCP server for AI-powered search in Vercel AI SDK documentation
+          - url: https://github.com/jamsocket/forevervm
+          - url: https://github.com/QuantGeekDev/docker-mcp
+          - url: https://github.com/TencentEdgeOne/edgeone-pages-mcp
+          - url: https://github.com/utensils/mcp-nixos
+          - url: https://github.com/yangkyeongmo/mcp-server-apache-airflow
+            description: MCP server for Apache Airflow workflows
+      - name: Code Analysis
+        repos:
+          - url: https://github.com/admica/FileScopeMCP
+            description: Analyzes codebase dependencies and generates importance diagrams
+          - url: https://github.com/ArchAI-Labs/fastmcp-sonarqube-metrics
+          - url: https://github.com/bgauryy/octocode-mcp
+            description: MCP server for semantic code search and context generation
+          - url: https://github.com/bhauman/clojure-mcp
+          - url: https://github.com/Bigsy/clj-kondo-MCP
+          - url: https://github.com/CodeLogicIncEngineering/codelogic-mcp-server
+          - url: https://github.com/comet-ml/opik-mcp
+            description: MCP server for Opik LLM evaluation platform
+          - url: https://github.com/cycodehq/cycode-cli
+          - url: https://github.com/debugg-ai/debugg-ai-mcp
+          - url: https://github.com/eyaltoledano/claude-task-master
+          - url: https://github.com/Govcraft/rust-docs-mcp-server
+            description: MCP server for Rust documentation lookup
+          - url: https://github.com/isiahw1/mcp-server-bing-webmaster
+          - url: https://github.com/janreges/ai-distiller
+            description: Fast tool for extracting essential public information from code
+          - url: https://github.com/jasonjmcghee/claude-debugs-for-you
+          - url: https://github.com/langfuse/mcp-server-langfuse
+            description: MCP server for Langfuse LLM observability
+          - url: https://github.com/sapientpants/sonarqube-mcp-server
+      - name: Design & UI
+        repos:
+          - url: https://github.com/21st-dev/magic-mcp
+          - url: https://github.com/freema/mcp-design-system-extractor
+            description: MCP server for extracting design system components
+          - url: https://github.com/GLips/Figma-Context-MCP
+          - url: https://github.com/haris-musa/excel-mcp-server
+          - url: https://github.com/heilgar/shadcn-ui-mcp-server
+            description: MCP server for shadcn/ui component library
+          - url: https://github.com/Jpisnice/shadcn-ui-mcp-server
+            description: MCP server for shadcn/ui component library
+          - url: https://github.com/public-ui/kolibri
+          - url: https://github.com/sbroenne/mcp-server-excel
+          - url: https://github.com/storybookjs/mcp
+            description: MCP server for Storybook UI component library
+          - url: https://github.com/themeselection/flyonui-mcp
+          - url: https://github.com/YuChenSSR/mindmap-mcp-server
+      - name: Documentation
+        repos:
+          - url: https://github.com/lingodotdev/lingo.dev
+            description: MCP server for Lingo localization platform
+          - url: https://github.com/szeider/consult7
+          - url: https://github.com/upstash/context7
+          - url: https://github.com/vivekVells/mcp-pandoc
+      - name: IDE & Editors
+        repos:
+          - url: https://github.com/biegehydra/BifrostMCP
+          - url: https://github.com/cameroncooke/xcodebuildmcp
+            description: MCP server for Xcode build operations
+          - url: https://github.com/dotemacs/domain-lookup-mcp
+          - url: https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin
+          - url: https://github.com/hechtcarmel/jetbrains-index-mcp-plugin
+            description: JetBrains plugin for MCP index integration
+          - url: https://github.com/inspizzz/jetbrains-datalore-mcp
+          - url: https://github.com/isaacphi/mcp-language-server
+            description: MCP server implementing Language Server Protocol
+          - url: https://github.com/JetBrains/mcp-jetbrains
+            description: MCP server for JetBrains IDE integration
+          - url: https://github.com/linw1995/nvim-mcp
+            description: MCP server for Neovim integration
+          - url: https://github.com/r-huijts/xcode-mcp-server
+          - url: https://github.com/ShenghaiWang/xcodebuild
+          - url: https://github.com/tumf/mcp-text-editor
+            description: Line-oriented text file editing MCP server optimized for LLM tools with partial file access
+      - name: MCP SDKs
+        repos:
+          - url: https://github.com/Epistates/turbomcp
+            description: High-performance MCP framework
+          - url: https://github.com/jlowin/fastmcp
+            description: Python framework for building MCP servers and clients
+          - url: https://github.com/mark3labs/mcp-go
+            description: Go implementation of MCP
+          - url: https://github.com/oatpp/oatpp-mcp
+            description: C++ MCP implementation for Oat++ framework
+          - url: https://github.com/opgginc/laravel-mcp-server
+            description: Laravel package for MCP servers
+          - url: https://github.com/php-mcp/laravel
+            description: Laravel SDK for building MCP servers
+          - url: https://github.com/punkpeye/fastmcp
+            description: TypeScript framework for MCP servers with sessions
+          - url: https://github.com/QuantGeekDev/mcp-framework
+            description: TypeScript framework with auto-discovery
+          - url: https://github.com/stephencme/create-mcp-ts
+            description: TypeScript MCP server template
+          - url: https://github.com/super-i-tech/mcp_plexus
+            description: Multi-tenant MCP framework built on FastMCP
+      - name: Mobile Development
+        repos:
+          - url: https://github.com/hyperb1iss/droidmind
+          - url: https://github.com/InditexTech/mcp-server-simulator-ios-idb
+            description: MCP server for iOS simulator via IDB
+          - url: https://github.com/JoshuaRileyDev/app-store-connect-mcp-server
+            description: MCP server for App Store Connect API
+          - url: https://github.com/JoshuaRileyDev/simulator-mcp-server
+            description: MCP server for iOS Simulator control
+          - url: https://github.com/joshuayoes/ios-simulator-mcp
+          - url: https://github.com/mhmzdev/Figma-Flutter-MCP
+          - url: https://github.com/minhalvp/android-mcp-server
+          - url: https://github.com/mobile-next/mobile-mcp
+          - url: https://github.com/simpleswift/spm-mcp
+      - name: Robotics & Automation
+        repos:
+          - url: https://github.com/akramIOT/MCP_AI_SOC_Sher
+          - url: https://github.com/gorosun/unified-diff-mcp
+          - url: https://github.com/lpigeon/unitree-go2-mcp-server
+            description: MCP server for Unitree Go2 robot control
+          - url: https://github.com/robotmcp/ros-mcp-server
+          - url: https://github.com/trycua/cua
+            description: MCP server for CUA platform
+          - url: https://github.com/wise-vision/ros2_mcp
+          - url: https://github.com/Yutarop/ros-mcp
+      - name: Task Management
+        repos:
+          - url: https://github.com/aashari/mcp-server-atlassian-jira
+            description: MCP server for Atlassian Jira with projects, issues and sprints
+          - url: https://github.com/cjo4m06/mcp-shrimp-task-manager
+            description: Task manager for AI Agents with chain-of-thought and reflection
+          - url: https://github.com/croffasia/mcp-project-manager
+          - url: https://github.com/EchoingVesper/mcp-task-orchestrator
+          - url: https://github.com/stanislavlysenko0912/todoist-mcp-server
+          - url: https://github.com/zueai/mcp-manager
+      - name: Utilities
+        repos:
+          - url: https://github.com/2niuhe/mcp_plantuml
+          - url: https://github.com/2niuhe/qrcode_mcp
+          - url: https://github.com/aashari/mcp-server-atlassian-confluence
+            description: MCP server for Atlassian Confluence spaces and pages
+          - url: https://github.com/abrinsmead/mindpilot-mcp
+          - url: https://github.com/Adfin-Engineering/mcp-server-adfin
+          - url: https://github.com/agent-hanju/char-index-mcp
+          - url: https://github.com/ai-1st/deepview-mcp
+            description: MCP server for DeepView AI analysis
+          - url: https://github.com/ALAPI-SDK/mcp-alapi-cn
+          - url: https://github.com/alimo7amed93/webhook-tester-mcp
+          - url: https://github.com/ambar/simctl-mcp
+          - url: https://github.com/anaisbetts/mcp-installer
+          - url: https://github.com/andybrandt/mcp-simple-timeserver
+          - url: https://github.com/api7/apisix-mcp
+          - url: https://github.com/apimatic/apimatic-validator-mcp
+          - url: https://github.com/artmann/package-registry-mcp
+          - url: https://github.com/arvindand/maven-tools-mcp
+          - url: https://github.com/atla-ai/atla-mcp-server
+          - url: https://github.com/augmnt/augments-mcp-server
+            description: MCP server for Augments AI platform
+          - url: https://github.com/automation-ai-labs/mcp-link
+          - url: https://github.com/axliupore/mcp-code-runner
+          - url: https://github.com/azer/react-analyzer-mcp
+          - url: https://github.com/baruchiro/paperless-mcp
+            description: MCP server for Paperless-NGX document management
+          - url: https://github.com/Beer-Bears/scaffold
+          - url: https://github.com/bharathvaj-ganesan/whois-mcp
+          - url: https://github.com/Bigsy/maven-mcp-server
+          - url: https://github.com/BrunoKrugel/echo-mcp
+          - url: https://github.com/btwiuse/npm-search-mcp-server
+          - url: https://github.com/bucketco/bucket-javascript-sdk
+          - url: https://github.com/cameroncooke/reloaderoo
+          - url: https://github.com/chunkydotdev/bldbl-mcp
+          - url: https://github.com/ckanthony/gin-mcp
+          - url: https://github.com/conan-io/conan-mcp
+          - url: https://github.com/configcat/mcp-server
+          - url: https://github.com/cqfn/aibolit-mcp-server
+          - url: https://github.com/crawlbase/crawlbase-mcp
+            description: MCP server connecting AI agents with real-time web data
+          - url: https://github.com/currents-dev/currents-mcp
+          - url: https://github.com/davidan90/time-node-mcp
+          - url: https://github.com/davidlin2k/pox-mcp-server
+          - url: https://github.com/devhub/devhub-cms-mcp
+          - url: https://github.com/dorukardahan/twitterapi-io-mcp
+          - url: https://github.com/etsd-tech/mcp-pointer
+          - url: https://github.com/Excoriate/mcp-terragrunt-docs
+          - url: https://github.com/flipt-io/mcp-server-flipt
+          - url: https://github.com/fotoetienne/gqai
+          - url: https://github.com/gauravsaini/gluestack-ui-mcp-server
+          - url: https://github.com/georgeantonopoulos/Basecamp-MCP-Server
+          - url: https://github.com/githejie/mcp-server-calculator
+          - url: https://github.com/gitkraken/gk-cli
+          - url: https://github.com/gofireflyio/firefly-mcp
+          - url: https://github.com/higress-group/higress-ops-mcp-server
+          - url: https://github.com/hloiseau/mcp-gopls
+          - url: https://github.com/holyfata/mermaid-grammer-inspector-mcp
+          - url: https://github.com/hostinger/api-mcp-server
+            description: MCP server for Hostinger API integration
+          - url: https://github.com/hungthai1401/bruno-mcp
+          - url: https://github.com/Hypersequent/qasphere-mcp
+          - url: https://github.com/IDEA-Research/DINO-X-MCP
+            description: MCP server for DINO-X vision model
+          - url: https://github.com/idosal/git-mcp
+          - url: https://github.com/IlyaGulya/gradle-mcp-server
+          - url: https://github.com/InhiblabCore/mcp-image-compression
+          - url: https://github.com/InsForge/insforge-mcp
+          - url: https://github.com/j4c0bs/mcp-server-sql-analyzer
+          - url: https://github.com/JamesANZ/system-prompts-mcp-server
+          - url: https://github.com/Jktfe/serveMyAPI
+            description: MCP server for custom API serving
+          - url: https://github.com/johannesbrandenburger/typst-mcp
+            description: MCP server for Typst markup-based typesetting system
+          - url: https://github.com/johannesPettersson80/codesys-mcp-toolkit
+          - url: https://github.com/JordanDalton/DoorDash-MCP-Server
+          - url: https://github.com/JordanDalton/RestCsvMcpServer
+          - url: https://github.com/jsdelivr/globalping-mcp-server
+          - url: https://github.com/KamranBiglari/mcp-server-chart
+          - url: https://github.com/Kashyap-AI-ML-Solutions/webex-messaging-mcp-server
+          - url: https://github.com/khromov/llmctx
+          - url: https://github.com/kimtth/mcp-remote-call-ping-pong
+          - url: https://github.com/kindly-software/kdb
+          - url: https://github.com/lamemind/mcp-server-multiverse
+            description: MCP server for multiverse context management
+          - url: https://github.com/laurynas-biveinis/elisp-dev-mcp
+          - url: https://github.com/LinuxSuRen/atest-mcp-server
+          - url: https://github.com/louis030195/gptzero-mcp
+          - url: https://github.com/mailgun/mailgun-mcp-server
+          - url: https://github.com/marimo-team/codemirror-mcp
+          - url: https://github.com/mattjegan/swarmia-mcp
+          - url: https://github.com/mbelinky/x-mcp-server
+          - url: https://github.com/mrexodia/user-feedback-mcp
+          - url: https://github.com/mrjoshuak/godoc-mcp
+          - url: https://github.com/mumez/pharo-smalltalk-interop-mcp-server
+          - url: https://github.com/muxinc/mux-node-sdk
+          - url: https://github.com/Narasimhaponnada/mermaid-mcp
+            description: MCP server for Mermaid diagram generation
+          - url: https://github.com/narumiruna/gitingest-mcp
+          - url: https://github.com/neilberkman/editorconfig_mcp
+          - url: https://github.com/nick1udwig/ws-mcp
+            description: MCP server with WebSocket transport
+          - url: https://github.com/nzrsky/xctools-mcp-server
+          - url: https://github.com/OctoMind-dev/octomind-mcp
+          - url: https://github.com/ooples/token-optimizer-mcp
+          - url: https://github.com/opslevel/opslevel-mcp
+          - url: https://github.com/oschina/mcp-gitee
+            description: MCP server for Gitee repositories
+          - url: https://github.com/osinmv/function-lookup-mcp
+          - url: https://github.com/OvertliDS/mcp-searxng-enhanced
+          - url: https://github.com/pansila/mcp_server_gdb
+          - url: https://github.com/paracetamol951/P-Link-MCP
+          - url: https://github.com/perplexityai/modelcontextprotocol
+          - url: https://github.com/picahq/mcp
+          - url: https://github.com/pigmej/python-homey-mcp
+          - url: https://github.com/pkolawa/krs-poland-mcp-server
+          - url: https://github.com/posthog/mcp
+          - url: https://github.com/powerdrillai/powerdrill-mcp
+          - url: https://github.com/Pratyay/mac-monitor-mcp
+            description: MCP server for macOS system monitoring
+          - url: https://github.com/promptexecution/just-mcp
+          - url: https://github.com/PromptExecution/rust-cargo-docs-rag-mcp
+          - url: https://github.com/PV-Bhat/gemsuite-mcp
+            description: MCP server for GemSuite tools
+          - url: https://github.com/pwh-pwh/cal-mcp
+          - url: https://github.com/QAInsights/jmeter-mcp-server
+          - url: https://github.com/QAInsights/k6-mcp-server
+          - url: https://github.com/QAInsights/locust-mcp-server
+          - url: https://github.com/rahulthedevil/Jira-Context-MCP
+          - url: https://github.com/rendyfebry/google-pse-mcp
+          - url: https://github.com/Rootly-AI-Labs/Rootly-MCP-server
+          - url: https://github.com/Ryan0204/github-repo-mcp
+          - url: https://github.com/sammcj/mcp-package-version
+          - url: https://github.com/screenshotone/mcp
+          - url: https://github.com/SDGLBL/mcp-claude-code
+          - url: https://github.com/securityfortech/google-admin-mcp
+          - url: https://github.com/sequa-ai/sequa-mcp
+            description: MCP server for Sequa AI platform
+          - url: https://github.com/shanejonas/openrpc-mcp-server
+          - url: https://github.com/Shopify/dev-mcp
+          - url: https://github.com/skullzarmy/vibealive
+          - url: https://github.com/SlideSpeak/slidespeak-mcp
+          - url: https://github.com/spacecode-ai/SpaceBridge-MCP
+          - url: https://github.com/srijanshukla18/xray
+            description: MCP server for X-ray analysis
+          - url: https://github.com/sshaaf/keycloak-mcp-server
+            description: MCP server for Keycloak identity and access management
+          - url: https://github.com/st3v3nmw/sourcerer-mcp
+          - url: https://github.com/stass/lldb-mcp
+          - url: https://github.com/supadata-ai/mcp
+          - url: https://github.com/sykuang/mcp-autogen-doc
+          - url: https://github.com/tanaikech/ToolsForMCPServer
+            description: MCP server built with Google Apps Script for Gemini CLI
+          - url: https://github.com/tgeselle/bugsnag-mcp
+            description: MCP server for Bugsnag error monitoring
+          - url: https://github.com/themesberg/flowbite-mcp
+          - url: https://github.com/TheoBrigitte/mcp-time
+          - url: https://github.com/thirdweb-dev/ai
+          - url: https://github.com/tipdotmd/tip-md-x402-mcp-server
+          - url: https://github.com/Tommertom/awesome-ionic-mcp
+          - url: https://github.com/twilio-labs/mcp
+          - url: https://github.com/ukkit/memcord
+            description: MCP server for memory and context management
+          - url: https://github.com/upnorthmedia/ScreenshotMCP
+          - url: https://github.com/V0v1kkk/DotNetMetadataMcpServer
+          - url: https://github.com/valado/pantheon-mcp
+          - url: https://github.com/var-gg/mcp
+          - url: https://github.com/vasayxtx/mcp-prompt-engine
+          - url: https://github.com/veelenga/claude-mermaid
+          - url: https://github.com/vezlo/src-to-kb
+          - url: https://github.com/video-db/agent-toolkit
+            description: MCP toolkit for video database operations
+          - url: https://github.com/wassengerhq/mcp-wassenger
+          - url: https://github.com/webflow/mcp-server
+          - url: https://github.com/Webvizio/mcp
+          - url: https://github.com/wn01011/llm-token-tracker
+          - url: https://github.com/Wolfe-Jam/claude-faf-mcp
+          - url: https://github.com/Wooonster/hocr_mcp_server
+          - url: https://github.com/wyattjoh/jsr-mcp
+          - url: https://github.com/XixianLiang/HarmonyOS-mcp-server
+          - url: https://github.com/xxczaki/local-history-mcp
+          - url: https://github.com/xzq-xu/jvm-mcp-server
+            description: JVM-based MCP server implementation
+          - url: https://github.com/Yeok-c/latex-mcp-server
+          - url: https://github.com/yikakia/godoc-mcp-server
+          - url: https://github.com/yiwenlu66/PiloTY
+          - url: https://github.com/Yuchen20/Memory-Plus
+            description: A lightweight, local RAG memory store for MCP agents. Easily record, retrieve, update, delete, and visualize...
+          - url: https://github.com/YuChenSSR/multi-ai-advisor-mcp
+          - url: https://github.com/yusufk/salaah-mcp
+          - url: https://github.com/yWorks/mcp-typescribe
+          - url: https://github.com/zacharypodbela/django-rest-framework-mcp
+            description: MCP server for Django REST Framework
+          - url: https://github.com/zazencodes/public-apis-mcp
+          - url: https://github.com/zazencodes/random-number-mcp
+            description: MCP server for random number generation
+          - url: https://github.com/zenml-io/mcp-zenml
+          - url: https://github.com/ZeparHyfar/mcp-datetime
+          - url: https://github.com/zillow/auto-mobile
+          - url: https://github.com/ztuskes/garmin-documentation-mcp-server
+      - name: Web Scraping
+        repos:
+          - url: https://github.com/brightdata/brightdata-mcp
+          - url: https://github.com/firecrawl/firecrawl-mcp-server
+          - url: https://github.com/pskill9/website-downloader
   - name: Embedded & IoT
     repos:
       - url: https://github.com/horw/esp-mcp
@@ -923,146 +991,152 @@ categories:
       - url: https://github.com/Tencent/cos-mcp
         description: Tencent Cloud COS MCP Server based on MCP protocol for quick integration with cloud storage and data processing
   - name: Finance
-    repos:
-      - url: https://github.com/Regenerating-World/pix-mcp
-      - url: https://github.com/aaronjmars/web3-research-mcp
-      - url: https://github.com/ahnlabio/bicscan-mcp
-      - url: https://github.com/getAlby/mcp
-      - url: https://github.com/alchemyplatform/alchemy-mcp-server
-      - url: https://github.com/anjor/coinmarket-mcp-server
-      - url: https://github.com/araa47/jupiter-mcp
-      - url: https://github.com/ariadng/metatrader-mcp-server
-      - url: https://github.com/armorwallet/armor-crypto-mcp
-      - url: https://github.com/Bankless/onchain-mcp
-      - url: https://github.com/base/base-mcp
-        description: MCP server for Base blockchain integration
-      - url: https://github.com/berlinbra/alpha-vantage-mcp
-      - url: https://github.com/BitteProtocol/mcp
-      - url: https://github.com/carsol/monarch-mcp-server
-      - url: https://github.com/Codex-Data/codex-mcp
-      - url: https://github.com/coinpaprika/dexpaprika-mcp
-        description: MCP server for DEX trading data and crypto token analytics
-      - url: https://github.com/doggybee/mcp-server-ccxt
-      - url: https://github.com/ferdousbhai/investor-agent
-      - url: https://github.com/ferdousbhai/tasty-agent
-      - url: https://github.com/ferdousbhai/wsb-analyst-mcp
-      - url: https://github.com/finmap-org/mcp-server
-      - url: https://github.com/getalby/nwc-mcp-server
-      - url: https://github.com/heurist-network/heurist-mesh-mcp-server
-      - url: https://github.com/HuggingAGI/mcp-baostock-server
-      - url: https://github.com/iiAtlas/hledger-mcp
-      - url: https://github.com/intentos-labs/beeper-mcp
-      - url: https://github.com/janswist/mcp-dexscreener
-      - url: https://github.com/jjlabsio/korea-stock-mcp
-      - url: https://github.com/kukapay/binance-alpha-mcp
-      - url: https://github.com/kukapay/bitcoin-utxo-mcp
-      - url: https://github.com/kukapay/blockbeats-mcp
-      - url: https://github.com/kukapay/blocknative-mcp
-      - url: https://github.com/kukapay/bridge-rates-mcp
-      - url: https://github.com/kukapay/bridge-metrics-mcp
-      - url: https://github.com/kukapay/chainlink-feeds-mcp
-      - url: https://github.com/kukapay/chainlist-mcp
-      - url: https://github.com/kukapay/cointelegraph-mcp
-      - url: https://github.com/kukapay/crypto-feargreed-mcp
-      - url: https://github.com/kukapay/crypto-funds-mcp
-      - url: https://github.com/kukapay/crypto-indicators-mcp
-      - url: https://github.com/kukapay/crypto-liquidations-mcp
-      - url: https://github.com/kukapay/crypto-news-mcp
-      - url: https://github.com/kukapay/crypto-orderbook-mcp
-      - url: https://github.com/kukapay/crypto-pegmon-mcp
-      - url: https://github.com/kukapay/crypto-portfolio-mcp
-      - url: https://github.com/kukapay/crypto-projects-mcp
-      - url: https://github.com/kukapay/crypto-rss-mcp
-      - url: https://github.com/kukapay/crypto-sentiment-mcp
-      - url: https://github.com/kukapay/crypto-stocks-mcp
-      - url: https://github.com/kukapay/crypto-trending-mcp
-      - url: https://github.com/kukapay/crypto-whitepapers-mcp
-      - url: https://github.com/kukapay/cryptopanic-mcp-server
-      - url: https://github.com/kukapay/dao-proposals-mcp
-      - url: https://github.com/kukapay/defi-yields-mcp
-      - url: https://github.com/kukapay/dex-pools-mcp
-      - url: https://github.com/kukapay/dune-analytics-mcp
-      - url: https://github.com/kukapay/etf-flow-mcp
-      - url: https://github.com/kukapay/ethereum-validator-queue-mcp
-      - url: https://github.com/kukapay/freqtrade-mcp
-      - url: https://github.com/kukapay/funding-rates-mcp
-      - url: https://github.com/kukapay/hyperliquid-info-mcp
-        description: MCP server for Hyperliquid DEX data
-      - url: https://github.com/kukapay/hyperliquid-whalealert-mcp
-      - url: https://github.com/kukapay/jupiter-mcp
-      - url: https://github.com/kukapay/pancakeswap-poolspy-mcp
-      - url: https://github.com/kukapay/polymarket-predictions-mcp
-      - url: https://github.com/kukapay/pumpswap-mcp
-      - url: https://github.com/kukapay/raydium-launchlab-mcp
-      - url: https://github.com/kukapay/rug-check-mcp
-      - url: https://github.com/kukapay/stargate-bridge-mcp
-      - url: https://github.com/kukapay/sui-trader-mcp
-      - url: https://github.com/kukapay/thegraph-mcp
-      - url: https://github.com/kukapay/token-minter-mcp
-      - url: https://github.com/kukapay/token-revoke-mcp
-      - url: https://github.com/kukapay/twitter-username-changes-mcp
-      - url: https://github.com/kukapay/uniswap-poolspy-mcp
-      - url: https://github.com/kukapay/uniswap-price-mcp
-      - url: https://github.com/kukapay/uniswap-trader-mcp
-      - url: https://github.com/kukapay/wallet-inspector-mcp
-      - url: https://github.com/kukapay/web3-jobs-mcp
-      - url: https://github.com/kukapay/whale-tracker-mcp
-      - url: https://github.com/laukikk/alpaca-mcp
-      - url: https://github.com/mcpdotdirect/evm-mcp-server
-      - url: https://github.com/mcpdotdirect/starknet-mcp-server
-      - url: https://github.com/minhyeoky/mcp-server-ledger
-        description: MCP server for Ledger CLI double-entry accounting
-      - url: https://github.com/narumiruna/yfinance-mcp
-      - url: https://github.com/OctagonAI/octagon-mcp-server
-        description: MCP server for public filings, earnings and financial analysis
-      - url: https://github.com/openMF/mcp-mifosx
-      - url: https://github.com/openMF/mcp-mifosx-self-service
-      - url: https://github.com/polygon-io/mcp_polygon
-      - url: https://github.com/pwh-pwh/coin-mcp-server
-      - url: https://github.com/QuantConnect/mcp-server
-      - url: https://github.com/QuantGeekDev/coincap-mcp
-      - url: https://github.com/QuentinCody/braintree-mcp-server
-      - url: https://github.com/RomThpt/mcp-xrpl
-      - url: https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop
-        description: MCP server for cryptocurrency trading
-      - url: https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop
-        description: MCP server for Yahoo Finance trading data
-      - url: https://github.com/shareseer/shareseer-mcp-server
-      - url: https://github.com/tatumio/blockchain-mcp
-      - url: https://github.com/ThomasMarches/substrate-mcp-rs
-      - url: https://github.com/tooyipjee/yahoofinance-mcp
-      - url: https://github.com/traceloop/opentelemetry-mcp-server
-        description: MCP server for OpenTelemetry observability
-      - url: https://github.com/trade-it-inc/trade-it-mcp
-      - url: https://github.com/twelvedata/mcp
-        description: MCP server for real-time financial market data access
-      - url: https://github.com/wowinter13/solscan-mcp
-      - url: https://github.com/wuye-ai/mcp-server-wuye-ai
-      - url: https://github.com/XeroAPI/xero-mcp-server
-      - url: https://github.com/zlinzzzz/finData-mcp-server
-      - url: https://github.com/Zolo-Ryan/MarketAuxMcpServer
-      - url: https://github.com/JamesANZ/evm-mcp
-      - url: https://github.com/JamesANZ/prediction-market-mcp
-      - url: https://github.com/JamesANZ/bitcoin-mcp
-      - url: https://github.com/hive-intel/hive-crypto-mcp
-      - url: https://github.com/donbagger/dexpaprika-mcp-server
-      - url: https://github.com/chargebee/agentkit
-      - url: https://github.com/financial-datasets/mcp-server
-      - url: https://github.com/norman-finance/norman-mcp-server
-      - url: https://github.com/paypal/agent-toolkit
-      - url: https://github.com/ramp-public/ramp_mcp
-      - url: https://github.com/stripe/agent-toolkit
-      - url: https://github.com/token-metrics/mcp
-        description: MCP server for cryptocurrency data, analytics and trading signals
-      - url: https://github.com/anirbanbasu/frankfurtermcp
-      - url: https://github.com/akutishevsky/lunchmoney-mcp
-        description: MCP server for Lunch Money budgeting app
-      - url: https://github.com/CryptoRadi/schemaflow-mcp-server
-      - url: https://github.com/square/square-mcp-server
-      - url: https://github.com/JamesANZ/us-legal-mcp
-      - url: https://github.com/AbdelStark/bitcoin-mcp
-      - url: https://github.com/QuentinCody/shopify-storefront-mcp-server
-      - url: https://github.com/tumf/web3-mcp
+    subcategories:
+      - name: Accounting & Budgeting
+        repos:
+          - url: https://github.com/akutishevsky/lunchmoney-mcp
+            description: MCP server for Lunch Money budgeting app
+          - url: https://github.com/iiAtlas/hledger-mcp
+          - url: https://github.com/minhyeoky/mcp-server-ledger
+            description: MCP server for Ledger CLI double-entry accounting
+          - url: https://github.com/openMF/mcp-mifosx
+          - url: https://github.com/openMF/mcp-mifosx-self-service
+          - url: https://github.com/XeroAPI/xero-mcp-server
+      - name: Crypto & Blockchain
+        repos:
+          - url: https://github.com/aaronjmars/web3-research-mcp
+          - url: https://github.com/AbdelStark/bitcoin-mcp
+          - url: https://github.com/ahnlabio/bicscan-mcp
+          - url: https://github.com/alchemyplatform/alchemy-mcp-server
+          - url: https://github.com/anjor/coinmarket-mcp-server
+          - url: https://github.com/araa47/jupiter-mcp
+          - url: https://github.com/armorwallet/armor-crypto-mcp
+          - url: https://github.com/Bankless/onchain-mcp
+          - url: https://github.com/base/base-mcp
+            description: MCP server for Base blockchain integration
+          - url: https://github.com/BitteProtocol/mcp
+          - url: https://github.com/carsol/monarch-mcp-server
+          - url: https://github.com/chargebee/agentkit
+          - url: https://github.com/Codex-Data/codex-mcp
+          - url: https://github.com/coinpaprika/dexpaprika-mcp
+            description: MCP server for DEX trading data and crypto token analytics
+          - url: https://github.com/CryptoRadi/schemaflow-mcp-server
+          - url: https://github.com/donbagger/dexpaprika-mcp-server
+          - url: https://github.com/financial-datasets/mcp-server
+          - url: https://github.com/finmap-org/mcp-server
+          - url: https://github.com/getAlby/mcp
+          - url: https://github.com/getalby/nwc-mcp-server
+          - url: https://github.com/heurist-network/heurist-mesh-mcp-server
+          - url: https://github.com/hive-intel/hive-crypto-mcp
+          - url: https://github.com/JamesANZ/bitcoin-mcp
+          - url: https://github.com/JamesANZ/evm-mcp
+          - url: https://github.com/janswist/mcp-dexscreener
+          - url: https://github.com/kukapay/bitcoin-utxo-mcp
+          - url: https://github.com/kukapay/blockbeats-mcp
+          - url: https://github.com/kukapay/blocknative-mcp
+          - url: https://github.com/kukapay/bridge-metrics-mcp
+          - url: https://github.com/kukapay/bridge-rates-mcp
+          - url: https://github.com/kukapay/chainlink-feeds-mcp
+          - url: https://github.com/kukapay/chainlist-mcp
+          - url: https://github.com/kukapay/cointelegraph-mcp
+          - url: https://github.com/kukapay/crypto-feargreed-mcp
+          - url: https://github.com/kukapay/crypto-funds-mcp
+          - url: https://github.com/kukapay/crypto-indicators-mcp
+          - url: https://github.com/kukapay/crypto-liquidations-mcp
+          - url: https://github.com/kukapay/crypto-news-mcp
+          - url: https://github.com/kukapay/crypto-orderbook-mcp
+          - url: https://github.com/kukapay/crypto-pegmon-mcp
+          - url: https://github.com/kukapay/crypto-portfolio-mcp
+          - url: https://github.com/kukapay/crypto-projects-mcp
+          - url: https://github.com/kukapay/crypto-rss-mcp
+          - url: https://github.com/kukapay/crypto-sentiment-mcp
+          - url: https://github.com/kukapay/crypto-trending-mcp
+          - url: https://github.com/kukapay/crypto-whitepapers-mcp
+          - url: https://github.com/kukapay/cryptopanic-mcp-server
+          - url: https://github.com/kukapay/dao-proposals-mcp
+          - url: https://github.com/kukapay/defi-yields-mcp
+          - url: https://github.com/kukapay/dex-pools-mcp
+          - url: https://github.com/kukapay/dune-analytics-mcp
+          - url: https://github.com/kukapay/ethereum-validator-queue-mcp
+          - url: https://github.com/kukapay/funding-rates-mcp
+          - url: https://github.com/kukapay/hyperliquid-info-mcp
+            description: MCP server for Hyperliquid DEX data
+          - url: https://github.com/kukapay/hyperliquid-whalealert-mcp
+          - url: https://github.com/kukapay/jupiter-mcp
+          - url: https://github.com/kukapay/pancakeswap-poolspy-mcp
+          - url: https://github.com/kukapay/polymarket-predictions-mcp
+          - url: https://github.com/kukapay/pumpswap-mcp
+          - url: https://github.com/kukapay/raydium-launchlab-mcp
+          - url: https://github.com/kukapay/rug-check-mcp
+          - url: https://github.com/kukapay/stargate-bridge-mcp
+          - url: https://github.com/kukapay/sui-trader-mcp
+          - url: https://github.com/kukapay/thegraph-mcp
+          - url: https://github.com/kukapay/token-minter-mcp
+          - url: https://github.com/kukapay/token-revoke-mcp
+          - url: https://github.com/kukapay/uniswap-poolspy-mcp
+          - url: https://github.com/kukapay/uniswap-price-mcp
+          - url: https://github.com/kukapay/uniswap-trader-mcp
+          - url: https://github.com/kukapay/wallet-inspector-mcp
+          - url: https://github.com/kukapay/web3-jobs-mcp
+          - url: https://github.com/kukapay/whale-tracker-mcp
+          - url: https://github.com/mcpdotdirect/evm-mcp-server
+          - url: https://github.com/mcpdotdirect/starknet-mcp-server
+          - url: https://github.com/norman-finance/norman-mcp-server
+          - url: https://github.com/pwh-pwh/coin-mcp-server
+          - url: https://github.com/QuantGeekDev/coincap-mcp
+          - url: https://github.com/Regenerating-World/pix-mcp
+          - url: https://github.com/RomThpt/mcp-xrpl
+          - url: https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop
+            description: MCP server for cryptocurrency trading
+          - url: https://github.com/tatumio/blockchain-mcp
+          - url: https://github.com/ThomasMarches/substrate-mcp-rs
+          - url: https://github.com/token-metrics/mcp
+            description: MCP server for cryptocurrency data, analytics and trading signals
+          - url: https://github.com/tumf/web3-mcp
+          - url: https://github.com/twelvedata/mcp
+            description: MCP server for real-time financial market data access
+          - url: https://github.com/wowinter13/solscan-mcp
+          - url: https://github.com/wuye-ai/mcp-server-wuye-ai
+          - url: https://github.com/Zolo-Ryan/MarketAuxMcpServer
+      - name: Payments & Banking
+        repos:
+          - url: https://github.com/paypal/agent-toolkit
+          - url: https://github.com/QuentinCody/braintree-mcp-server
+          - url: https://github.com/ramp-public/ramp_mcp
+          - url: https://github.com/square/square-mcp-server
+          - url: https://github.com/stripe/agent-toolkit
+          - url: https://github.com/traceloop/opentelemetry-mcp-server
+            description: MCP server for OpenTelemetry observability
+      - name: Stock Data & Analytics
+        repos:
+          - url: https://github.com/anirbanbasu/frankfurtermcp
+          - url: https://github.com/berlinbra/alpha-vantage-mcp
+          - url: https://github.com/HuggingAGI/mcp-baostock-server
+          - url: https://github.com/JamesANZ/prediction-market-mcp
+          - url: https://github.com/jjlabsio/korea-stock-mcp
+          - url: https://github.com/kukapay/crypto-stocks-mcp
+          - url: https://github.com/kukapay/etf-flow-mcp
+          - url: https://github.com/narumiruna/yfinance-mcp
+          - url: https://github.com/OctagonAI/octagon-mcp-server
+            description: MCP server for public filings, earnings and financial analysis
+          - url: https://github.com/polygon-io/mcp_polygon
+          - url: https://github.com/shareseer/shareseer-mcp-server
+          - url: https://github.com/tooyipjee/yahoofinance-mcp
+          - url: https://github.com/zlinzzzz/finData-mcp-server
+      - name: Trading & Exchanges
+        repos:
+          - url: https://github.com/ariadng/metatrader-mcp-server
+          - url: https://github.com/doggybee/mcp-server-ccxt
+          - url: https://github.com/ferdousbhai/investor-agent
+          - url: https://github.com/ferdousbhai/tasty-agent
+          - url: https://github.com/ferdousbhai/wsb-analyst-mcp
+          - url: https://github.com/kukapay/binance-alpha-mcp
+          - url: https://github.com/kukapay/freqtrade-mcp
+          - url: https://github.com/laukikk/alpaca-mcp
+          - url: https://github.com/QuantConnect/mcp-server
+          - url: https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop
+            description: MCP server for Yahoo Finance trading data
+          - url: https://github.com/trade-it-inc/trade-it-mcp
   - name: Gaming
     repos:
       - url: https://github.com/CoderGamester/mcp-unity
@@ -1103,6 +1177,7 @@ categories:
       - url: https://github.com/matthewdcage/pbs-mcp-server
       - url: https://github.com/fulcradynamics/fulcra-context-mcp
       - url: https://github.com/tomekkorbak/oura-mcp-server
+      - url: https://github.com/ChristianHinge/dicom-mcp
   - name: Knowledge Management
     repos:
       - url: https://github.com/0xshellming/mcp-summarizer
@@ -1212,6 +1287,7 @@ categories:
       - url: https://github.com/mackenly/mcp-fathom-analytics
       - url: https://github.com/AudienseCo/mcp-audiense-insights
       - url: https://github.com/windsor-ai/windsor_mcp
+      - url: https://github.com/QuentinCody/shopify-storefront-mcp-server
   - name: Media Processing
     repos:
       - url: https://github.com/bogdanminko/zapcap-mcp-server
@@ -1271,64 +1347,84 @@ categories:
     repos:
       - url: https://github.com/modelcontextprotocol/servers
   - name: Productivity
-    repos:
-      - url: https://github.com/bivex/kanboard-mcp
-        description: MCP server for Kanboard project management integration
-      - url: https://github.com/devroopsaha744/TexMCP
-      - url: https://github.com/giuseppe-coco/Google-Workspace-MCP-Server
-      - url: https://github.com/louis030195/toggl-mcp
-      - url: https://github.com/MarkusPfundstein/mcp-gsuite
-      - url: https://github.com/takumi0706/google-calendar-mcp
-      - url: https://github.com/taylorwilsdon/google_workspace_mcp
-        description: MCP server for Google Workspace integration
-      - url: https://github.com/teamwork/mcp
-      - url: https://github.com/tubasasakunn/context-apps-mcp
-      - url: https://github.com/vakharwalad23/google-mcp
-      - url: https://github.com/khaoss85/mcp-orchestro
-      - url: https://github.com/vgnshiyer/apple-books-mcp
-      - url: https://github.com/onebirdrocks/ebook-mcp
-        description: MCP server for ebook processing
-      - url: https://github.com/fajarmf/slite-mcp
-      - url: https://github.com/abhiz123/todoist-mcp-server
-      - url: https://github.com/taskade/mcp
-        description: MCP server for Taskade project management
-      - url: https://github.com/AgileLuminary/mcp-agile-luminary
-      - url: https://github.com/its-dart/dart-mcp-server
-      - url: https://github.com/makenotion/notion-mcp-server
-      - url: https://github.com/makeplane/plane-mcp-server
-      - url: https://github.com/Acqusys/taskeract-mcp
-      - url: https://github.com/dominik1001/caldav-mcp
-      - url: https://github.com/movstox/lazy-toggl-mcp
-      - url: https://github.com/flesler/mcp-tasks
-      - url: https://github.com/m0xai/trello-mcp-server
-      - url: https://github.com/kocakli/Trello-Desktop-MCP
-      - url: https://github.com/blackopsrepl/yuga-planner
-      - url: https://github.com/Fibery-inc/fibery-mcp-server
-      - url: https://github.com/routineco/mcp-server
-      - url: https://github.com/EduBase/MCP
-        description: MCP server for EduBase e-learning platform
-      - url: https://github.com/mediar-ai/screenpipe
-      - url: https://github.com/suekou/mcp-notion-server
-      - url: https://github.com/danhilse/notion_mcp
-      - url: https://github.com/tacticlaunch/mcp-linear
-        description: MCP server for Linear project management
-      - url: https://github.com/roychri/mcp-server-asana
-      - url: https://github.com/evalstate/mcp-miro
-      - url: https://github.com/k-jarzyna/mcp-miro
-      - url: https://github.com/ivo-toby/contentful-mcp
-      - url: https://github.com/hiromitsusasaki/raindrop-io-mcp-server
-      - url: https://github.com/feuerdev/keep-mcp
-      - url: https://github.com/kelvin6365/plane-mcp-server
-      - url: https://github.com/jen6/ticktick-mcp
-      - url: https://github.com/Badhansen/notion-mcp
-      - url: https://github.com/orellazri/coda-mcp
-      - url: https://github.com/awwaiid/mcp-server-taskwarrior
-      - url: https://github.com/boldsign/boldsign-mcp
-      - url: https://github.com/danielkennedy1/pdf-tools-mcp
-      - url: https://github.com/ekkyarmandi/ticktick-mcp
-      - url: https://github.com/esignaturescom/mcp-server-esignatures
-      - url: https://github.com/jimfilippou/things-mcp
-      - url: https://github.com/offorte/offorte-mcp-server
+    subcategories:
+      - name: Collaboration
+        repos:
+          - url: https://github.com/boldsign/boldsign-mcp
+          - url: https://github.com/esignaturescom/mcp-server-esignatures
+          - url: https://github.com/evalstate/mcp-miro
+          - url: https://github.com/Fibery-inc/fibery-mcp-server
+          - url: https://github.com/hiromitsusasaki/raindrop-io-mcp-server
+          - url: https://github.com/k-jarzyna/mcp-miro
+          - url: https://github.com/orellazri/coda-mcp
+      - name: Google Workspace
+        repos:
+          - url: https://github.com/giuseppe-coco/Google-Workspace-MCP-Server
+          - url: https://github.com/MarkusPfundstein/mcp-gsuite
+          - url: https://github.com/taylorwilsdon/google_workspace_mcp
+            description: MCP server for Google Workspace integration
+          - url: https://github.com/vakharwalad23/google-mcp
+      - name: Helpdesk & Support
+        repos:
+          - url: https://github.com/effytech/freshdesk_mcp
+          - url: https://github.com/quickchatai/quickchat-ai-mcp
+      - name: Note-taking & Docs
+        repos:
+          - url: https://github.com/Badhansen/notion-mcp
+          - url: https://github.com/danhilse/notion_mcp
+          - url: https://github.com/devroopsaha744/TexMCP
+          - url: https://github.com/fajarmf/slite-mcp
+          - url: https://github.com/ivo-toby/contentful-mcp
+          - url: https://github.com/makenotion/notion-mcp-server
+          - url: https://github.com/onebirdrocks/ebook-mcp
+            description: MCP server for ebook processing
+          - url: https://github.com/suekou/mcp-notion-server
+          - url: https://github.com/tubasasakunn/context-apps-mcp
+          - url: https://github.com/vgnshiyer/apple-books-mcp
+      - name: Project Management
+        repos:
+          - url: https://github.com/AgileLuminary/mcp-agile-luminary
+          - url: https://github.com/aikts/yandex-tracker-mcp
+          - url: https://github.com/bivex/kanboard-mcp
+            description: MCP server for Kanboard project management integration
+          - url: https://github.com/blackopsrepl/yuga-planner
+          - url: https://github.com/danielkennedy1/pdf-tools-mcp
+          - url: https://github.com/EduBase/MCP
+            description: MCP server for EduBase e-learning platform
+          - url: https://github.com/feuerdev/keep-mcp
+          - url: https://github.com/its-dart/dart-mcp-server
+          - url: https://github.com/kelvin6365/plane-mcp-server
+          - url: https://github.com/khaoss85/mcp-orchestro
+          - url: https://github.com/kocakli/Trello-Desktop-MCP
+          - url: https://github.com/KS-GEN-AI/jira-mcp-server
+          - url: https://github.com/m0xai/trello-mcp-server
+          - url: https://github.com/makeplane/plane-mcp-server
+          - url: https://github.com/nguyenvanduocit/jira-mcp
+            description: Go-based MCP connector for Jira with issue and sprint management
+          - url: https://github.com/offorte/offorte-mcp-server
+          - url: https://github.com/routineco/mcp-server
+          - url: https://github.com/roychri/mcp-server-asana
+          - url: https://github.com/sooperset/mcp-atlassian
+          - url: https://github.com/tacticlaunch/mcp-linear
+            description: MCP server for Linear project management
+          - url: https://github.com/taskade/mcp
+            description: MCP server for Taskade project management
+          - url: https://github.com/teamwork/mcp
+          - url: https://github.com/tom28881/mcp-jira-server
+      - name: Tasks & Calendar
+        repos:
+          - url: https://github.com/abhiz123/todoist-mcp-server
+          - url: https://github.com/Acqusys/taskeract-mcp
+          - url: https://github.com/awwaiid/mcp-server-taskwarrior
+          - url: https://github.com/dominik1001/caldav-mcp
+          - url: https://github.com/ekkyarmandi/ticktick-mcp
+          - url: https://github.com/flesler/mcp-tasks
+          - url: https://github.com/jen6/ticktick-mcp
+          - url: https://github.com/jimfilippou/things-mcp
+          - url: https://github.com/louis030195/toggl-mcp
+          - url: https://github.com/mediar-ai/screenpipe
+          - url: https://github.com/movstox/lazy-toggl-mcp
+          - url: https://github.com/takumi0706/google-calendar-mcp
   - name: Research & Science
     repos:
       - url: https://github.com/thinkchainai/agentinterviews_mcp
@@ -1357,130 +1453,141 @@ categories:
       - url: https://github.com/e2b-dev/mcp-server
       - url: https://github.com/riza-io/riza-mcp
   - name: Search & Extraction
-    repos:
-      - url: https://github.com/0xDAEF0F/job-searchoor
-      - url: https://github.com/Aas-ee/open-webSearch
-        description: MCP server for open web search
-      - url: https://github.com/ac3xx/mcp-servers-kagi
-      - url: https://github.com/adawalli/nexus
-      - url: https://github.com/ananddtyagi/webpage-screenshot-mcp
-        description: MCP server for webpage screenshot capture
-      - url: https://github.com/urlbox/urlbox-mcp-server
-      - url: https://github.com/andybrandt/mcp-simple-arxiv
-      - url: https://github.com/andybrandt/mcp-simple-pubmed
-      - url: https://github.com/cameronrye/activitypub-mcp
-      - url: https://github.com/angheljf/nyt
-      - url: https://github.com/apify/mcp-server-rag-web-browser
-      - url: https://github.com/Bigsy/Clojars-MCP-Server
-      - url: https://github.com/blazickjp/arxiv-mcp-server
-      - url: https://github.com/cameronrye/gopher-mcp
-      - url: https://github.com/ChanMeng666/server-google-news
-        description: MCP server for Google News integration
-      - url: https://github.com/chasesaurabh/mcp-page-capture
-      - url: https://github.com/ConechoAI/openai-websearch-mcp
-      - url: https://github.com/DappierAI/dappier-mcp
-        description: MCP server for Dappier AI integration
-      - url: https://github.com/deadletterq/mcp-opennutrition
-        description: MCP server for nutrition data and analysis
-      - url: https://github.com/DealExpress/mcp-server
-      - url: https://github.com/DumplingAI/mcp-server-dumplingai
-      - url: https://github.com/emicklei/melrose-mcp
-      - url: https://github.com/erithwik/mcp-hn
-      - url: https://github.com/exa-labs/exa-mcp-server
-      - url: https://github.com/fatwang2/search1api-mcp
-      - url: https://github.com/format37/youtube_mcp
-      - url: https://github.com/gemy411/multi-agents-research
-      - url: https://github.com/hbg/mcp-paperswithcode
-      - url: https://github.com/hellokaton/unsplash-mcp-server
-      - url: https://github.com/Himalayas-App/himalayas-mcp
-      - url: https://github.com/ihor-sokoliuk/mcp-searxng
-      - url: https://github.com/isnow890/naver-search-mcp
-        description: MCP server for Naver search integration
-      - url: https://github.com/jae-jae/fetcher-mcp
-      - url: https://github.com/jae-jae/g-search-mcp
-      - url: https://github.com/joelio/stocky
-      - url: https://github.com/just-every/mcp-read-website-fast
-      - url: https://github.com/just-every/mcp-screenshot-website-fast
-      - url: https://github.com/kagisearch/kagimcp
-      - url: https://github.com/kehvinbehvin/json-mcp-filter
-      - url: https://github.com/kshern/mcp-tavily
-      - url: https://github.com/leehanchung/bing-search-mcp
-      - url: https://github.com/lfnovo/content-core
-      - url: https://github.com/Linked-API/linkedapi-mcp
-      - url: https://github.com/mikechao/brave-search-mcp
-        description: MCP server for Brave Search with filtering options
-      - url: https://github.com/brave/brave-search-mcp-server
-        description: MCP server integrating Brave Search API with web, local, image, video, news search and AI summarization
-      - url: https://github.com/mzxrai/mcp-webresearch
-      - url: https://github.com/nickclyde/duckduckgo-mcp-server
-        description: MCP server for DuckDuckGo search
-      - url: https://github.com/nkapila6/mcp-local-rag
-      - url: https://github.com/nyxn-ai/NyxDocs
-      - url: https://github.com/OctagonAI/octagon-deep-research-mcp
-        description: MCP server for AI-powered comprehensive research and analysis
-      - url: https://github.com/jhomen368/overseerr-mcp
-      - url: https://github.com/parallel-web/search-mcp
-      - url: https://github.com/parallel-web/task-mcp
-      - url: https://github.com/pragmar/mcp-server-webcrawl
-      - url: https://github.com/QuentinCody/catalysishub-mcp-server
-      - url: https://github.com/r-huijts/opentk-mcp
-        description: MCP server for Dutch parliamentary data via OpenTK
-      - url: https://github.com/reading-plus-ai/mcp-server-deep-research
-      - url: https://github.com/akalaric/mcp-wolframalpha
-      - url: https://github.com/sascharo/gxtract
-      - url: https://github.com/scrapeless-ai/scrapeless-mcp-server
-      - url: https://github.com/serpapi/serpapi-mcp
-      - url: https://github.com/searchcraft-inc/searchcraft-mcp-server
-      - url: https://github.com/SecretiveShell/MCP-searxng
-      - url: https://github.com/serkan-ozal/driflyte-mcp-server
-      - url: https://github.com/shopsavvy/shopsavvy-mcp-server
-      - url: https://github.com/takashiishida/arxiv-latex-mcp
-        description: MCP server for arXiv LaTeX paper retrieval
-      - url: https://github.com/the0807/GeekNews-MCP-Server
-      - url: https://github.com/tianqitang1/enrichr-mcp-server
-      - url: https://github.com/tinyfish-io/agentql-mcp
-      - url: https://github.com/Tomatio13/mcp-server-tavily
-        description: MCP Server for Tavily API integration
-      - url: https://github.com/vectorize-io/vectorize-mcp-server
-      - url: https://github.com/vitorpavinato/ncbi-mcp-server
-      - url: https://github.com/kimdonghwi94/web-analyzer-mcp
-      - url: https://github.com/webscraping-ai/webscraping-ai-mcp-server
-        description: MCP server for AI-powered web scraping
-      - url: https://github.com/yamanoku/baseline-mcp-server
-        description: MCP server providing Baseline status information for specific Web APIs
-      - url: https://github.com/zhsama/duckduckgo-mcp-server
-      - url: https://github.com/zoomeye-ai/mcp_zoomeye
-        description: MCP server for ZoomEye network asset information
-      - url: https://github.com/Pearch-ai/mcp_pearch
-      - url: https://github.com/imprvhub/mcp-domain-availability
-        description: MCP server to check domain availability
-      - url: https://github.com/imprvhub/mcp-claude-hackernews
-      - url: https://github.com/imprvhub/mcp-rss-aggregator
-      - url: https://github.com/boikot-xyz/boikot
-      - url: https://github.com/damionrashford/RivalSearchMCP
-        description: MCP server for competitive search analysis
-      - url: https://github.com/mnhlt/WebSearch-MCP
-        description: MCP server for web search integration
-      - url: https://github.com/fetchSERP/fetchserp-mcp-server-node
-      - url: https://github.com/meilisearch/meilisearch-mcp
-      - url: https://github.com/oxylabs/oxylabs-mcp
-      - url: https://github.com/scrapezy/mcp
-      - url: https://github.com/tavily-ai/tavily-mcp
-      - url: https://github.com/vpuna/vpuna-ai-search
-      - url: https://github.com/any4ai/anycrawl-mcp-server
-      - url: https://github.com/co0ontty/chaitin-ip-intelligence-search-tool
-      - url: https://github.com/theishangoswami/exa-mcp-server
-      - url: https://github.com/ahonn/mcp-server-gsc
-      - url: https://github.com/wong2/mcp-jina-reader
-      - url: https://github.com/siva010928/multi-chat-mcp-server
-        description: MCP server for multi-chat capabilities
-      - url: https://github.com/ScrapeGraphAI/Scrapegraph-ai
-      - url: https://github.com/mrkrsl/web-search-mcp
-      - url: https://github.com/amurshak/congressMCP
-      - url: https://github.com/apify/apify-mcp-server
-        description: MCP server for Apify web scraping and data extraction
-      - url: https://github.com/tanigami/mcp-server-perplexity
-      - url: https://github.com/pskill9/hn-server
+    subcategories:
+      - name: Academic Research
+        repos:
+          - url: https://github.com/akalaric/mcp-wolframalpha
+          - url: https://github.com/andybrandt/mcp-simple-arxiv
+          - url: https://github.com/andybrandt/mcp-simple-pubmed
+          - url: https://github.com/blazickjp/arxiv-mcp-server
+          - url: https://github.com/gemy411/multi-agents-research
+          - url: https://github.com/hbg/mcp-paperswithcode
+          - url: https://github.com/mzxrai/mcp-webresearch
+          - url: https://github.com/nyxn-ai/NyxDocs
+          - url: https://github.com/OctagonAI/octagon-deep-research-mcp
+            description: MCP server for AI-powered comprehensive research and analysis
+          - url: https://github.com/QuentinCody/catalysishub-mcp-server
+          - url: https://github.com/reading-plus-ai/mcp-server-deep-research
+          - url: https://github.com/takashiishida/arxiv-latex-mcp
+            description: MCP server for arXiv LaTeX paper retrieval
+          - url: https://github.com/tianqitang1/enrichr-mcp-server
+          - url: https://github.com/vitorpavinato/ncbi-mcp-server
+      - name: Data APIs
+        repos:
+          - url: https://github.com/0xDAEF0F/job-searchoor
+          - url: https://github.com/adawalli/nexus
+          - url: https://github.com/ahonn/mcp-server-gsc
+          - url: https://github.com/amurshak/congressMCP
+          - url: https://github.com/angheljf/nyt
+          - url: https://github.com/Bigsy/Clojars-MCP-Server
+          - url: https://github.com/boikot-xyz/boikot
+          - url: https://github.com/cameronrye/activitypub-mcp
+          - url: https://github.com/cameronrye/gopher-mcp
+          - url: https://github.com/co0ontty/chaitin-ip-intelligence-search-tool
+          - url: https://github.com/damionrashford/RivalSearchMCP
+            description: MCP server for competitive search analysis
+          - url: https://github.com/DappierAI/dappier-mcp
+            description: MCP server for Dappier AI integration
+          - url: https://github.com/deadletterq/mcp-opennutrition
+            description: MCP server for nutrition data and analysis
+          - url: https://github.com/DealExpress/mcp-server
+          - url: https://github.com/DumplingAI/mcp-server-dumplingai
+          - url: https://github.com/emicklei/melrose-mcp
+          - url: https://github.com/hellokaton/unsplash-mcp-server
+          - url: https://github.com/Himalayas-App/himalayas-mcp
+          - url: https://github.com/imprvhub/mcp-domain-availability
+            description: MCP server to check domain availability
+          - url: https://github.com/JamesANZ/us-legal-mcp
+          - url: https://github.com/jhomen368/overseerr-mcp
+          - url: https://github.com/joelio/stocky
+          - url: https://github.com/kehvinbehvin/json-mcp-filter
+          - url: https://github.com/Linked-API/linkedapi-mcp
+          - url: https://github.com/parallel-web/task-mcp
+          - url: https://github.com/r-huijts/opentk-mcp
+            description: MCP server for Dutch parliamentary data via OpenTK
+          - url: https://github.com/serkan-ozal/driflyte-mcp-server
+          - url: https://github.com/shopsavvy/shopsavvy-mcp-server
+          - url: https://github.com/siva010928/multi-chat-mcp-server
+            description: MCP server for multi-chat capabilities
+          - url: https://github.com/urlbox/urlbox-mcp-server
+          - url: https://github.com/yamanoku/baseline-mcp-server
+            description: MCP server providing Baseline status information for specific Web APIs
+          - url: https://github.com/zoomeye-ai/mcp_zoomeye
+            description: MCP server for ZoomEye network asset information
+      - name: News & Content
+        repos:
+          - url: https://github.com/erithwik/mcp-hn
+          - url: https://github.com/format37/youtube_mcp
+          - url: https://github.com/imprvhub/mcp-claude-hackernews
+          - url: https://github.com/imprvhub/mcp-rss-aggregator
+          - url: https://github.com/lfnovo/content-core
+          - url: https://github.com/pskill9/hn-server
+          - url: https://github.com/the0807/GeekNews-MCP-Server
+      - name: Web Scraping & Crawling
+        repos:
+          - url: https://github.com/ananddtyagi/webpage-screenshot-mcp
+            description: MCP server for webpage screenshot capture
+          - url: https://github.com/any4ai/anycrawl-mcp-server
+          - url: https://github.com/apify/apify-mcp-server
+            description: MCP server for Apify web scraping and data extraction
+          - url: https://github.com/apify/mcp-server-rag-web-browser
+          - url: https://github.com/chasesaurabh/mcp-page-capture
+          - url: https://github.com/jae-jae/fetcher-mcp
+          - url: https://github.com/just-every/mcp-read-website-fast
+          - url: https://github.com/just-every/mcp-screenshot-website-fast
+          - url: https://github.com/kimdonghwi94/web-analyzer-mcp
+          - url: https://github.com/oxylabs/oxylabs-mcp
+          - url: https://github.com/pragmar/mcp-server-webcrawl
+          - url: https://github.com/sascharo/gxtract
+          - url: https://github.com/ScrapeGraphAI/Scrapegraph-ai
+          - url: https://github.com/scrapeless-ai/scrapeless-mcp-server
+          - url: https://github.com/scrapezy/mcp
+          - url: https://github.com/tinyfish-io/agentql-mcp
+          - url: https://github.com/webscraping-ai/webscraping-ai-mcp-server
+            description: MCP server for AI-powered web scraping
+          - url: https://github.com/wong2/mcp-jina-reader
+      - name: Web Search Engines
+        repos:
+          - url: https://github.com/Aas-ee/open-webSearch
+            description: MCP server for open web search
+          - url: https://github.com/ac3xx/mcp-servers-kagi
+          - url: https://github.com/brave/brave-search-mcp-server
+            description: MCP server integrating Brave Search API with web, local, image, video, news search and AI summarization
+          - url: https://github.com/ChanMeng666/server-google-news
+            description: MCP server for Google News integration
+          - url: https://github.com/ConechoAI/openai-websearch-mcp
+          - url: https://github.com/exa-labs/exa-mcp-server
+          - url: https://github.com/fatwang2/search1api-mcp
+          - url: https://github.com/fetchSERP/fetchserp-mcp-server-node
+          - url: https://github.com/ihor-sokoliuk/mcp-searxng
+          - url: https://github.com/isnow890/naver-search-mcp
+            description: MCP server for Naver search integration
+          - url: https://github.com/jae-jae/g-search-mcp
+          - url: https://github.com/kagisearch/kagimcp
+          - url: https://github.com/kshern/mcp-tavily
+          - url: https://github.com/leehanchung/bing-search-mcp
+          - url: https://github.com/meilisearch/meilisearch-mcp
+          - url: https://github.com/mikechao/brave-search-mcp
+            description: MCP server for Brave Search with filtering options
+          - url: https://github.com/mnhlt/WebSearch-MCP
+            description: MCP server for web search integration
+          - url: https://github.com/mrkrsl/web-search-mcp
+          - url: https://github.com/nickclyde/duckduckgo-mcp-server
+            description: MCP server for DuckDuckGo search
+          - url: https://github.com/nkapila6/mcp-local-rag
+          - url: https://github.com/parallel-web/search-mcp
+          - url: https://github.com/Pearch-ai/mcp_pearch
+          - url: https://github.com/searchcraft-inc/searchcraft-mcp-server
+          - url: https://github.com/SecretiveShell/MCP-searxng
+          - url: https://github.com/serpapi/serpapi-mcp
+          - url: https://github.com/tanigami/mcp-server-perplexity
+          - url: https://github.com/tavily-ai/tavily-mcp
+          - url: https://github.com/theishangoswami/exa-mcp-server
+          - url: https://github.com/Tomatio13/mcp-server-tavily
+            description: MCP Server for Tavily API integration
+          - url: https://github.com/vectorize-io/vectorize-mcp-server
+          - url: https://github.com/vpuna/vpuna-ai-search
+          - url: https://github.com/zhsama/duckduckgo-mcp-server
   - name: Security
     repos:
       - url: https://github.com/82ch/MCP-Dandan
@@ -1562,6 +1669,7 @@ categories:
       - url: https://github.com/marcelmarais/spotify-mcp-server
       - url: https://github.com/Seym0n/tiktok-mcp
       - url: https://github.com/imprvhub/mcp-claude-spotify
+      - url: https://github.com/kukapay/twitter-username-changes-mcp
   - name: Sports
     repos:
       - url: https://github.com/guillochon/mlb-api-mcp
@@ -1578,16 +1686,6 @@ categories:
       - url: https://github.com/labeveryday/nba_mcp_server
       - url: https://github.com/kw510/strava-mcp
         description: MCP server with Strava OAuth on Cloudflare Workers
-  - name: Support & ITSM
-    repos:
-      - url: https://github.com/aikts/yandex-tracker-mcp
-      - url: https://github.com/effytech/freshdesk_mcp
-      - url: https://github.com/quickchatai/quickchat-ai-mcp
-      - url: https://github.com/nguyenvanduocit/jira-mcp
-        description: Go-based MCP connector for Jira with issue and sprint management
-      - url: https://github.com/sooperset/mcp-atlassian
-      - url: https://github.com/tom28881/mcp-jira-server
-      - url: https://github.com/KS-GEN-AI/jira-mcp-server
   - name: Text-to-Speech
     repos:
       - url: https://github.com/daisys-ai/daisys-mcp
@@ -1648,19 +1746,3 @@ categories:
           - url: https://github.com/ravitemer/mcphub.nvim
             description: MCP client for Neovim with intuitive server management
           - url: https://github.com/evilsocket/nerve
-      - name: Frameworks & SDKs
-        repos:
-          - url: https://github.com/Epistates/turbomcp
-          - url: https://github.com/jlowin/fastmcp
-          - url: https://github.com/punkpeye/fastmcp
-          - url: https://github.com/stephencme/create-mcp-ts
-          - url: https://github.com/wong2/litemcp
-          - url: https://github.com/QuantGeekDev/mcp-framework
-          - url: https://github.com/super-i-tech/mcp_plexus
-          - url: https://github.com/oatpp/oatpp-mcp
-          - url: https://github.com/Stacklok/toolhive
-          - url: https://github.com/mark3labs/mcp-go
-            description: Go implementation of the Model Context Protocol
-          - url: https://github.com/php-mcp/laravel
-          - url: https://github.com/opgginc/laravel-mcp-server
-            description: Laravel package for MCP servers with SSE transport
