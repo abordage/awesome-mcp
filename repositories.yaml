@@ -1107,6 +1107,8 @@ categories:
           - url: https://github.com/ko1ynnky/github-actions-mcp-server
           - url: https://github.com/jasonkylelol/jenkins-mcp-server
           - url: https://github.com/leosepulveda/mcp-n8n
+          - url: https://github.com/czlonkowski/n8n-mcp
+            description: Build n8n workflows with AI assistants
           - url: https://github.com/leonardsellem/n8n-mcp-server
             description: Tools for interacting with n8n API
           - url: https://github.com/jfrog/mcp-jfrog
