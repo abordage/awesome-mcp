@@ -17,6 +17,7 @@ categories:
           - url: https://github.com/VertexStudio/developer
             description: File editing, shell execution, screen capture
           - url: https://github.com/x51xxx/codex-mcp-tool
+            description: Claude/Cursor to Codex CLI bridge with multi-turn sessions
           - url: https://github.com/x51xxx/copilot-mcp-server
           - url: https://github.com/ref-tools/ref-tools-mcp
             description: Reference tools for coding agents
@@ -68,6 +69,7 @@ categories:
           - url: https://github.com/vasayxtx/mcp-prompt-engine
           - url: https://github.com/JamesANZ/system-prompts-mcp-server
           - url: https://github.com/ooples/token-optimizer-mcp
+            description: Token optimization with caching and compression
           - url: https://github.com/osinmv/function-lookup-mcp
           - url: https://github.com/wn01011/llm-token-tracker
           - url: https://github.com/abhinav-mangla/inner-monologue-mcp
@@ -113,8 +115,10 @@ categories:
           - url: https://github.com/mschultheiss83/context-processor
           - url: https://github.com/ginylil/context-templates
           - url: https://github.com/ssmirnovpro/extended-memory-mcp
+            description: Cross-session persistent memory for Claude Desktop
           - url: https://github.com/Smart-AI-Memory/empathy-framework
           - url: https://github.com/unibaseio/membase-mcp
+            description: Decentralized memory layer for AI agents
       - name: RAG
         repos:
           - url: https://github.com/apecloud/ApeRAG
@@ -455,6 +459,7 @@ categories:
           - url: https://github.com/erikhoward/adls-mcp-server
           - url: https://github.com/espressif/esp-rainmaker-mcp
           - url: https://github.com/hardik-id/azure-resource-graph-mcp-server
+            description: Azure Resource Graph query interface
           - url: https://github.com/johnneerdael/ns-private-access-mcp
           - url: https://github.com/kestra-io/mcp-server-python
             description: Python MCP for Kestra AI Agents
@@ -1241,6 +1246,7 @@ categories:
           - url: https://github.com/port-labs/port-mcp-server
           - url: https://github.com/vaadin/vaadin-mcp
           - url: https://github.com/tosin2013/mcp-adr-analysis-server
+            description: AI-powered ADR and architecture analysis
           - url: https://github.com/tosin2013/documcp
           - url: https://github.com/oborchers/mcp-server-docy
             description: Documentation access capabilities
@@ -1262,6 +1268,7 @@ categories:
             description: MCP server for Xcode build operations
           - url: https://github.com/dotemacs/domain-lookup-mcp
           - url: https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin
+            description: JetBrains debugger control via MCP
           - url: https://github.com/hechtcarmel/jetbrains-index-mcp-plugin
             description: JetBrains plugin for MCP index integration
           - url: https://github.com/isaacphi/mcp-language-server
@@ -1451,6 +1458,7 @@ categories:
           - url: https://github.com/VadimNastoyashchy/json-mcp
           - url: https://github.com/ivan-saorin/mcp-expr-lang
           - url: https://github.com/wrenchpilot/it-tools-mcp
+            description: 121+ IT tools for developers and sysadmins
           - url: https://github.com/taylorleese/mcp-toolz
           - url: https://github.com/shacharsol/js-package-manager-mcp
           - url: https://github.com/oborchers/mcp-server-pacman
@@ -1781,6 +1789,7 @@ categories:
           - url: https://github.com/Mrbaeksang/korea-stock-analyzer-mcp
           - url: https://github.com/mtcnbzks/market-fiyati-mcp-server
           - url: https://github.com/AgentX-ai/yahoo-finance-server
+            description: Yahoo Finance stock data and news
           - url: https://github.com/Adity-star/mcp-yfinance-server
             description: Real-time stock data with yfinance
           - url: https://github.com/Morningstar/morningstar-mcp-server
@@ -1812,6 +1821,7 @@ categories:
           - url: https://github.com/ozgureyilmaz/polymarket-mcp
             description: Polymarket prediction markets data
           - url: https://github.com/ethancod1ng/binance-mcp-server
+            description: Binance exchange API integration
           - url: https://github.com/ethancod1ng/bybit-mcp-server
           - url: https://github.com/mektigboy/server-hyperliquid
             description: Hyperliquid DEX trading integration
@@ -1977,6 +1987,7 @@ categories:
           - url: https://github.com/webcoderz/MCP-Geo
           - url: https://github.com/matbel91765/gis-mcp-server
           - url: https://github.com/Wayfinder-Foundry/gdal-mcp
+            description: Geospatial analysis with epistemic reasoning
           - url: https://github.com/MeasureSpace/measure-space-mcp-server
           - url: https://github.com/Wayfinder-Foundry/stac-mcp
       - name: IP Geolocation
@@ -2905,6 +2916,7 @@ categories:
           - url: https://github.com/stackhawk/stackhawk-mcp
           - url: https://github.com/andrasfe/vulnicheck
           - url: https://github.com/gnlds/mcp-cve-intelligence-server-lite
+            description: CVE intelligence from NVD, MITRE, GitHub
           - url: https://github.com/Hexix23/shodan-mcp
       - name: Reverse Engineering
         repos:
@@ -3119,6 +3131,7 @@ categories:
       - url: https://github.com/DevEnterpriseSoftware/scrapi-mcp
       - url: https://github.com/domdomegg/defuddle-fetch-mcp-server
       - url: https://github.com/levz0r/html-to-markdown-mcp
+        description: HTML to Markdown converter using Turndown
       - url: https://github.com/sunshad0w/html2md-mcp
       - url: https://github.com/cyberchitta/scrapling-fetch-mcp
         description: Access bot-protected websites
