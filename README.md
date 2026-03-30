@@ -1541,6 +1541,7 @@
 - [AIM-Intelligence/AIM-MCP](https://github.com/AIM-Intelligence/AIM-MCP) — AIM MCP Server :: Guard and Protect your MCPs & AI Chatting ☆`20`
 - [cromwellian/hippycampus](https://github.com/cromwellian/hippycampus) — REST endpoint to MCP conversion ☆`20`
 - [kontext-dev/attestable-mcp-server](https://github.com/kontext-dev/attestable-mcp-server) — Hardware attestation for MCP server integrity ☆`18`
+- [Prismer-AI/signet](https://github.com/Prismer-AI/signet) — Cryptographic action receipts for AI agents. Signs every MCP tool call with Ed25519, hash-chained audit log. Client-side SigningTransport middleware.
 ### Network & Firewall
 
 - [vespo92/OPNSenseMCP](https://github.com/vespo92/OPNSenseMCP) — MCP Server for OPNSense to act as IaC proxy ☆`41`
