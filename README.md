@@ -294,6 +294,7 @@
 - [matthewdcage/cursor-mcp-installer](https://github.com/matthewdcage/cursor-mcp-installer) — Install MCPs in Cursor from git URL ☆`75`
 - [useparagon/paragon-mcp](https://github.com/useparagon/paragon-mcp) — Access 130+ SaaS integrations via ActionKit ☆`46`
 - [VeyraX/veyrax-mcp](https://github.com/VeyraX/veyrax-mcp) — VeyraX unified tool access via single MCP ☆`48`
+- [pumanitro/global-chat](https://github.com/pumanitro/global-chat) — Cross-protocol AI agent discovery across MCP, A2A, agents.txt, and 12+ registries ☆`0`
 ## Browser Automation
 
 ### AI Automation
