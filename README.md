@@ -500,6 +500,7 @@
 - [HumanSignal/label-studio-mcp-server](https://github.com/HumanSignal/label-studio-mcp-server) — MCP server for Label Studio data labeling ☆`30`
 ### Data APIs
 
+- [avabuildsdata/mcp-us-business-data](https://github.com/avabuildsdata/mcp-us-business-data) — US business entity search across 17 state Secretary of State databases, building permits, SAM.gov contracts, and SEC filings
 - [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) — Personal data hub for AI from Steam, YouTube, Bilibili ☆`50`
 - [anshumax/world_bank_mcp_server](https://github.com/anshumax/world_bank_mcp_server) — World Bank open data API ☆`46`
 - [explorium-ai/mcp-explorium](https://github.com/explorium-ai/mcp-explorium) — Explorium B2B Data - MCP Server ☆`20`
