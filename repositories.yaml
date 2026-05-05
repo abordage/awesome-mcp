@@ -1977,6 +1977,8 @@ categories:
       - url: https://github.com/QuentinCody/zincbind-mcp-server
       - url: https://github.com/cafferychen777/ChatSpatial
         description: Spatial transcriptomics via natural language (Python/R)
+      - url: https://github.com/EmperorMew/WWF
+        description: Veteran benefits, crisis lines (988), PACT Act, HSDS resource search (43 tools)
   - name: LLM Bridges
     repos:
       - url: https://github.com/perplexityai/modelcontextprotocol
