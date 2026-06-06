@@ -1016,7 +1016,7 @@
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) — ERC-20 token minting for AI agents ☆`18`
 - [kukapay/crypto-orderbook-mcp](https://github.com/kukapay/crypto-orderbook-mcp) — An MCP server that analyzes order book depth and imbalance across major crypto exchanges. ☆`17`
 - [janswist/mcp-dexscreener](https://github.com/janswist/mcp-dexscreener) — Dexscreener on-chain price checking ☆`17`
-- [twzrd-sol/wzrd-final](https://github.com/twzrd-sol/wzrd-final) — Solana-native AI agent trust scoring via x402 micropayments — free preflight + paid signed V5 trust receipts ☆`0`
+- [twzrd-sol/wzrd-final](https://intel.twzrd.xyz) — Solana-native AI agent trust scoring via x402 micropayments — free preflight + paid signed V5 trust receipts ☆`0`
 ### Payments & Banking
 
 - [stripe/ai](https://github.com/stripe/ai) — One-stop shop for building AI-powered products and businesses with Stripe. ☆`1,589`
