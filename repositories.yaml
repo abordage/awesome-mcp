@@ -1366,6 +1366,8 @@ categories:
           - url: https://github.com/reflagcom/javascript
           - url: https://github.com/mumez/pharo-smalltalk-interop-mcp-server
           - url: https://github.com/bhauman/clojure-mcp
+          - url: https://github.com/kpavlov/tachyon
+
       - name: Mobile Development
         repos:
           - url: https://github.com/hyperb1iss/droidmind
