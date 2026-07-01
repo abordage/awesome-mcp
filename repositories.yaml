@@ -1937,6 +1937,12 @@ categories:
       - url: https://github.com/hkaanengin/opendota-mcp-server
       - url: https://github.com/IvanMurzak/Unity-MCP
         description: AI-powered bridge connecting LLMs to Unity Editor
+      - url: https://github.com/IvanMurzak/Godot-MCP
+        description: Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#)
+      - url: https://github.com/IvanMurzak/Unreal-MCP
+        description: Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar)
+      - url: https://github.com/IvanMurzak/GameDev-MCP-Server
+        description: Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP
       - url: https://github.com/jiayao/mcp-chess
       - url: https://github.com/kkjdaniel/bgg-mcp
         description: MCP server for BoardGameGeek data
