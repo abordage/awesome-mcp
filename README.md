@@ -239,6 +239,7 @@
 - [sequa-ai/sequa-mcp](https://github.com/sequa-ai/sequa-mcp) — MCP server for Sequa AI platform ☆`21`
 ## Aggregators & Gateways
 
+- [LLM Abacus](https://github.com/szp2005/llm-prices-cn) - Daily-verified LLM API pricing dataset (44+ models, CN & global) with a hosted MCP server for live price queries and token cost estimation.
 ### Aggregators
 
 - [mindsdb/minds](https://github.com/mindsdb/minds) — Query Engine for AI Analytics - self-reasoning agents on live data ☆`39,378`
