@@ -1394,6 +1394,8 @@ categories:
             description: Mobile automation tools with MCP
           - url: https://github.com/ambar/simctl-mcp
             description: MCP server for iOS Simulator control
+          - url: https://github.com/hitSlop/shots
+            description: App Store screenshot, app icon, ASO, and localization workflows for mobile app developers
       - name: OpenAPI
         repos:
           - url: https://github.com/bbonnin/openapi-to-mcp
