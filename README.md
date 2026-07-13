@@ -298,6 +298,7 @@
 - [useparagon/paragon-mcp](https://github.com/useparagon/paragon-mcp) — Access 130+ SaaS integrations via ActionKit ☆`47`
 - [VeyraX/veyrax-mcp](https://github.com/VeyraX/veyrax-mcp) — VeyraX unified tool access via single MCP ☆`48`
 - [Data-Everything/mcp-server-templates](https://github.com/Data-Everything/mcp-server-templates) — A flexible platform that provides Docker & Kubernetes backends, a lightweight CLI (mcpt), and client utilities for seamless MCP integration. Spin up servers from templates, route requests through a single endpoint with load balancing, and support both deployed (HTTP) and local (stdio) transports — all with sensible defaults and YAML-based configs. ☆`19`
+- [TheYashGautam/mcp-cli](https://github.com/TheYashGautam/mcp-cli) — Homebrew-style installer for MCP servers: version-pinned installs, OS Keychain secrets, automatic config backups & rollback ☆`0`
 ## Browser Automation
 
 ### AI Automation
