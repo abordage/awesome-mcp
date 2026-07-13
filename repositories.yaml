@@ -300,6 +300,8 @@ categories:
           - url: https://github.com/krzysztofkucmierz/search-mcp-server
           - url: https://github.com/useparagon/paragon-mcp
             description: Access 130+ SaaS integrations via ActionKit
+          - url: https://github.com/TheYashGautam/mcp-cli
+            description: 'mcp-brew: Homebrew-style installer for MCP servers with version-pinned installs, OS Keychain secrets, and config backup/rollback'
   - name: Browser Automation
     subcategories:
       - name: AI Automation
