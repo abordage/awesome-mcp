@@ -2126,6 +2126,8 @@ categories:
         description: Desktop chat app with MCP support
       - url: https://github.com/Lucassssss/eechat
         description: Local AI chat application
+      - url: https://github.com/off-grid-ai/off-grid-ai-desktop
+        description: On-device MCP client for Mac with a local LLM
       - url: https://github.com/php-mcp/client
   - name: Marketing & Analytics
     repos:
