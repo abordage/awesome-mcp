@@ -2986,6 +2986,8 @@ categories:
           - url: https://github.com/kapilduraphe/mcp-watch
             description: Security scanner for MCP servers
           - url: https://github.com/postralai/masquerade
+          - url: https://github.com/moxno/privacyscrubber-mcp
+            description: Zero-Trust local PII masking and prompt sanitization for Claude Desktop and Cursor
       - name: Network & Firewall
         repos:
           - url: https://github.com/intruder-io/intruder-mcp
