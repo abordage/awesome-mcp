@@ -1975,6 +1975,8 @@ categories:
         description: VRChat API interaction
   - name: Healthcare & Bioinformatics
     repos:
+      - url: https://github.com/costkits/costkits-mcp
+        description: Healthcare cost estimates, provider pricing, and bill analysis via the CostKits API
       - url: https://github.com/genomoncology/biomcp
       - url: https://github.com/hlydecker/ucsc-genome-mcp
       - url: https://github.com/longevity-genie/biothings-mcp
