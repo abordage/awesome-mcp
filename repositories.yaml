@@ -286,6 +286,8 @@ categories:
           - url: https://github.com/archestra-ai/archestra
           - url: https://github.com/liuyoshio/mcp-compass
             description: MCP discovery and recommendation
+          - url: https://github.com/agentage/find-mcp
+            description: MCP server for discovering other MCP servers via a catalog synced from the official registry
           - url: https://github.com/jaw9c/awesome-remote-mcp-servers
           - url: https://github.com/milisp/mcp-linker
             description: Sync MCP configs across clients
