@@ -2870,6 +2870,8 @@ categories:
           - url: https://github.com/deshabhishek007/domain-tools-mcp-server
           - url: https://github.com/anysiteio/anysite-mcp-server
             description: LinkedIn data access
+          - url: https://github.com/alice51849/lumi-mcp
+            description: Read-only first-party iOS app finder for 28 verified live apps across 50 Apple locales, with localized publisher context and direct App Store links.
       - name: News & Content
         repos:
           - url: https://github.com/erithwik/mcp-hn
