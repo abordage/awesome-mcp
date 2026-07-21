@@ -2261,6 +2261,8 @@ categories:
             description: OpenAI GPT-4o image generation and editing
           - url: https://github.com/MohamedAbdallah-14/prompt-to-asset
             description: Image generation across 30+ models (DALL-E, Flux, Stable Diffusion, Midjourney) via unified API
+          - url: https://github.com/runcomfy-com/runcomfy-mcp
+            description: Official RunComfy server for ComfyUI GPU deployments and image/video generation
       - name: Image Processing
         repos:
           - url: https://github.com/stass/exif-mcp
