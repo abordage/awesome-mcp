@@ -2937,6 +2937,8 @@ categories:
           - url: https://github.com/longyi1207/glean-mcp-server
           - url: https://github.com/unitedideas/nothumansearch
             description: Search engine for AI agents with 300+ tools ranked by agentic readiness
+          - url: https://github.com/goofrey/zoom-search
+            description: MCP server for multi-provider web search, evidence collection, and cited answer synthesis.
   - name: Security
     subcategories:
       - name: Identity & Access
