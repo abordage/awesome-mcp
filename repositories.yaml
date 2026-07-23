@@ -227,6 +227,8 @@ categories:
             description: GitLab, Jira, Confluence, YouTube
           - url: https://github.com/nazar256/combine-mcp
             description: MCP aggregator combining multiple servers into one interface
+          - url: https://github.com/mrrlin-dev/external-agents
+            description: Routes requests across multiple LLM providers through one interface, enabling cost savings and more available tokens
           - url: https://github.com/ComposioHQ/Rube
             description: Connect AI tools to 500+ apps
           - url: https://github.com/badkk/awesome-crypto-mcp-servers
