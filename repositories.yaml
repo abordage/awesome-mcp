@@ -50,6 +50,8 @@ categories:
           - url: https://github.com/GongRzhe/A2A-MCP-Server
             description: Bridge MCP with Agent-to-Agent (A2A) protocol
           - url: https://github.com/abhinav-mangla/dispatch-agent
+          - url: https://github.com/SanjoyDat1/P2PA
+            description: Serverless P2P context sync for local AI agents over Hyperswarm, with ed25519 peer authentication and JSON Patch diffing
       - name: Reasoning & Prompts
         repos:
           - url: https://github.com/Rai220/think-mcp
