@@ -1776,6 +1776,8 @@ categories:
           - url: https://github.com/thirdweb-dev/ai
             description: Blockchain data, wallet, and smart contracts
           - url: https://github.com/tipdotmd/tip-md-x402-mcp-server
+          - url: https://github.com/minia2a/minia2a-mcp
+            description: M2M micropayment marketplace for AI agents — 173+ x402-payable services, USDC on Base, remote MCP endpoint
           - url: https://github.com/GoPlausible/algorand-mcp
           - url: https://github.com/bitnovo/mcp-bitnovo-pay
           - url: https://github.com/ChainAware/behavioral-prediction-mcp
