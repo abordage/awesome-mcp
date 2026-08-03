@@ -2798,6 +2798,8 @@ categories:
             description: Google Search Console data access
           - url: https://github.com/amurshak/congressMCP
             description: US Congress data for AI agents
+          - url: https://github.com/amzscout-corp/amzscout-skill-mcp
+            description: MCP server providing real Amazon marketplace data for AI agents, including product research, niche validation, competitor analysis, keyword discovery, and PPC strategy
           - url: https://github.com/angheljf/nyt
             description: MCP server for New York Times article search
           - url: https://github.com/Bigsy/Clojars-MCP-Server
