@@ -2341,6 +2341,8 @@ categories:
             description: MCP server for AI video generation
           - url: https://github.com/kaltura/mcp-events
           - url: https://github.com/plainly-videos/mcp-server
+          - url: https://github.com/ZeroPointRepo/youtube-mcp
+            description: "YouTube transcripts and video discovery for AI agents: fetch any video transcript (Markdown or JSON), search YouTube, and browse channel and playlist uploads (hosted MCP; API key or OAuth 2.1; free tier)"
   - name: Monitoring & Observability
     repos:
       - url: https://github.com/edgedelta/edgedelta-mcp-server
