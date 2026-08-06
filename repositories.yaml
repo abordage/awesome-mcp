@@ -10,6 +10,8 @@ categories:
           - url: https://github.com/ezyang/codemcp
           - url: https://github.com/gabrielmaialva33/winx-code-agent
             description: MCP-powered code agent for development
+          - url: https://github.com/josephsenior/Grinta-Coding-Agent
+            description: Local-first resilient terminal coding agent with MCP client support
           - url: https://github.com/oraios/serena
             description: Semantic code retrieval and editing toolkit
           - url: https://github.com/stippi/code-assistant
