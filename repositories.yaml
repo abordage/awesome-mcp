@@ -99,6 +99,8 @@ categories:
             description: Enhanced persistent memory management
           - url: https://github.com/basicmachines-co/basic-memory
             description: AI conversations that remember context
+          - url: https://github.com/DrDroidLab/open-index
+            description: Structured context graphs with hybrid search and read/write MCP tools
           - url: https://github.com/doobidoo/mcp-memory-service
             description: Automatic context memory for AI sessions
           - url: https://github.com/gannonh/memento-mcp
