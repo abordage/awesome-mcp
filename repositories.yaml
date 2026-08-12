@@ -3106,6 +3106,8 @@ categories:
   - name: Social Media
     repos:
       - url: https://github.com/anwerj/youtube-uploader-mcp
+      - url: https://github.com/Autoposting-ai/autoposting-mcp
+        description: Social post scheduling, generation and publishing across five networks
       - url: https://github.com/gwbischof/bluesky-social-mcp
       - url: https://github.com/HagaiHen/facebook-mcp-server
         description: Facebook posts, comments, insights automation
