@@ -428,6 +428,8 @@ categories:
       - url: https://github.com/rishabkoul/iTerm-MCP-Server
       - url: https://github.com/lacs-project/sysknife
         description: "Security-hardened MCP server for Linux sysadmin: 189 typed actions instead of shell strings, Ed25519 hash-chain audit log, approval receipts, automatic rollback"
+      - url: https://github.com/TheFox666/mduct
+        description: "Call MCP servers from the shell: pipe, script and automate their tools, with schemas kept out of LLM context"
   - name: CRM & ERP
     repos:
       - url: https://github.com/iaptic/mcp-server-iaptic
