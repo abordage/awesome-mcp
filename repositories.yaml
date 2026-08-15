@@ -215,6 +215,8 @@ categories:
             description: Query Engine for AI Analytics - self-reasoning agents on live data
           - url: https://github.com/portel-dev/ncp
             description: Natural Context Provider with smart MCP tool loading
+          - url: https://github.com/labmimors/dsh-mcp-lens
+            description: DeepSeek Harness plugin for searching and calling tools from multiple MCP servers through a fixed two-tool interface
           - url: https://github.com/sitbon/magg
           - url: https://github.com/thinkchainai/mcpbundles
           - url: https://github.com/waystation-ai/mcp
