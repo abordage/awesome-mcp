@@ -132,6 +132,8 @@ categories:
             description: LLM Wiki memory for team chat (Slack, Discord, Teams)
           - url: https://github.com/mnemoverse/mcp-memory-server
             description: Hosted memory that reranks and fades by recency
+          - url: https://github.com/MaxFreedomPollard/Compartment
+            description: Offline encrypted vector memory, AEAD-encrypted vectors, no network
       - name: RAG
         repos:
           - url: https://github.com/apecloud/ApeRAG
