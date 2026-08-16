@@ -199,6 +199,8 @@ categories:
       - url: https://github.com/whataboutyou-ai/eunomia-MCP-server
       - url: https://github.com/StitchAI/stitch-ai-mcp
         description: Decentralized Knowledge Hub for AI
+      - url: https://github.com/shibley/aisotools-mcp-server
+        description: Search, compare and find alternatives across a catalog of 1,766 AI tools
   - name: Aggregators & Gateways
     subcategories:
       - name: Aggregators
