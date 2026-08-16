@@ -2155,6 +2155,8 @@ categories:
       - url: https://github.com/off-grid-ai/off-grid-ai-desktop
         description: On-device MCP client for Mac with a local LLM
       - url: https://github.com/php-mcp/client
+      - url: https://github.com/aeonfun/aeon
+        description: "Autonomous agent framework that runs on GitHub Actions and OAuth-connects to remote MCP servers (Base, Robinhood, PostHog, and more)."
   - name: Marketing & Analytics
     repos:
       - url: https://github.com/AdsMCP/tiktok-ads-mcp-server
