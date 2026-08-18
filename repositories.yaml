@@ -3016,6 +3016,8 @@ categories:
         repos:
           - url: https://github.com/82ch/MCP-Dandan
             description: MCP security with real-time proxying
+          - url: https://github.com/swnotmetal/Project-Koma
+            description: Prompt-injection firewall, audio validation, and protected RAG storage for Node.js & TypeScript agents
           - url: https://github.com/AIM-Intelligence/AIM-MCP
           - url: https://github.com/kontext-dev/attestable-mcp-server
             description: Hardware attestation for MCP server integrity
