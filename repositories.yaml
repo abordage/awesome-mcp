@@ -2741,6 +2741,8 @@ categories:
         description: JavaScript MCP server framework by YepCode
       - url: https://github.com/dagger/container-use
         description: MCP server for container orchestration
+      - url: https://github.com/sandbaseai/sandbase-harness
+        description: Local-first agent runtime with sandboxed execution, approvals, audit, replay, and MCP tools
       - url: https://github.com/zerocore-ai/microsandbox
       - url: https://github.com/e2b-dev/mcp-server
         description: E2B code execution for Claude
