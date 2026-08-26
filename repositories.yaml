@@ -1875,6 +1875,8 @@ categories:
             description: Real-time stock data with yfinance
           - url: https://github.com/Morningstar/morningstar-mcp-server
           - url: https://github.com/vipbat/fmp-mcp-server
+          - url: https://github.com/axionquant/mcp-server
+            description: Quantitative finance and stock market analysis MCP server
       - name: Trading & Exchanges
         repos:
           - url: https://github.com/ariadng/metatrader-mcp-server
