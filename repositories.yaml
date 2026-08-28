@@ -2064,6 +2064,8 @@ categories:
       - url: https://github.com/deepfates/mcp-replicate
       - url: https://github.com/HyperbolicLabs/hyperbolic-mcp
       - url: https://github.com/JamesANZ/cross-llm-mcp
+      - url: https://github.com/sandbaseai/cli
+        description: Provider-agnostic CLI and local MCP bridge for 25 AI clients and 2,000+ models/APIs
       - url: https://github.com/Poll-The-People/customgpt-mcp
       - url: https://github.com/billster45/mcp-chatgpt-responses
         description: MCP server for OpenAI ChatGPT API with Responses API
