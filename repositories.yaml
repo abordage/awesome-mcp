@@ -2313,6 +2313,8 @@ categories:
           - url: https://github.com/nanana-app/mcp-server-nano-banana
       - name: Media Services
         repos:
+          - url: https://github.com/magichourhq/magic-hour-mcp
+            description: Hosted image, video, and audio generation and editing
           - url: https://github.com/felores/cloudinary-mcp-server
           - url: https://github.com/nkapila6/mcp-meme-sticky
           - url: https://github.com/lidorshimoni/meme-mcp
