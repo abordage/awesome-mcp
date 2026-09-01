@@ -1178,6 +1178,8 @@ categories:
             description: Apache Airflow API integration
           - url: https://github.com/allen-munsch/mcp-prefect
           - url: https://github.com/cuongtl1992/unleash-mcp
+          - url: https://github.com/zarcherlot/code-relay
+            description: Branch-scoped runbooks and cross-machine verification receipts for coding agents.
       - name: Code Analysis
         repos:
           - url: https://github.com/admica/FileScopeMCP
