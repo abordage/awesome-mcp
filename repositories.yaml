@@ -3121,6 +3121,8 @@ categories:
             description: "100+ agent-payable C-suite expertises in one MCP — competitive intel (EDGAR+Yahoo+Wayback), SEC filing decoder, 8-list sanctions screener (OFAC+EU+UK+UN+SECO+SEMA+DFAT), KYC, pentest scope, clinical evidence GRADE-graded (PubMed+ClinicalTrials.gov+OpenFDA), EU-first real estate, NAICS classifier, sentiment news (GDELT), research paper Q&A (OpenAlex 45M). 183 tools. x402 USDC/EURC. Free 100 calls/mo."
   - name: Social Media
     repos:
+      - url: https://github.com/azeemkafridi/bulkpublish-api
+        description: BulkPublish API and hosted MCP for approval-based multi-channel social scheduling and publishing
       - url: https://github.com/anwerj/youtube-uploader-mcp
       - url: https://github.com/Autoposting-ai/autoposting-mcp
         description: Social post scheduling, generation and publishing across five networks
