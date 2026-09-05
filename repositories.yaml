@@ -3162,6 +3162,8 @@ categories:
         description: Hosted MCP for twitterapi.io — Twitter/X data API for AI agents; 12 read-only tools (tweet search, profiles, threads, real-time streaming)
   - name: Sports
     repos:
+      - url: https://github.com/JacobiusMakes/parlay-api-mcp
+        description: Sports odds and player props using your own API key and account allowances
       - url: https://github.com/guillochon/mlb-api-mcp
         description: MCP server for MLB baseball statistics
       - url: https://github.com/mikechao/balldontlie-mcp
