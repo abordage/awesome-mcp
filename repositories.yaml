@@ -2123,6 +2123,8 @@ categories:
           - url: https://github.com/louiscklaw/mcp-hko
   - name: MCP Clients
     repos:
+      - url: https://github.com/mario-andreschak/FLUJO
+        description: Local-first visual AI agent builder with MCP server management and multi-model chat
       - url: https://github.com/ASCIT31/Dark-Moon
         description: Autonomous AI pentest MCP host that drives Claude or a local model to orchestrate 80+ offensive-security tools, with a local Privacy Gateway
       - url: https://github.com/rakesh-eltropy/mcp-client
