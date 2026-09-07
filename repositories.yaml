@@ -1223,6 +1223,8 @@ categories:
           - url: https://github.com/stass/lldb-mcp
           - url: https://github.com/jasonjmcghee/claude-debugs-for-you
             description: Interactive debugging via MCP and VS Code
+          - url: https://github.com/Continuum-AI-Corp/OrcaReplay
+            description: Record, replay and fork coding-agent runs
       - name: Design & UI
         repos:
           - url: https://github.com/21st-dev/magic-mcp
