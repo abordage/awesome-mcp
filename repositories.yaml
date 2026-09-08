@@ -136,6 +136,8 @@ categories:
             description: Offline encrypted vector memory, AEAD-encrypted vectors, no network
       - name: RAG
         repos:
+          - url: https://github.com/Prem5123/BookMCP
+            description: Local PDF book retrieval with page citations for agent system design and implementation
           - url: https://github.com/apecloud/ApeRAG
             description: Production GraphRAG with multi-modal
           - url: https://github.com/graphlit/graphlit-mcp-server
