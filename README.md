@@ -1311,6 +1311,7 @@
 - [tgeselle/bugsnag-mcp](https://github.com/tgeselle/bugsnag-mcp) — MCP server for Bugsnag error monitoring ☆`24`
 - [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) — Grafana Loki MCP Repository ☆`29`
 - [Pratyay/mac-monitor-mcp](https://github.com/Pratyay/mac-monitor-mcp) — MCP server for macOS system monitoring ☆`23`
+- [renduples/sitepassport-mcp](https://github.com/renduples/sitepassport-mcp) — Live-checks whether a WordPress site is ready to be safely operated by AI agents
 ## Productivity
 
 ### Atlassian
