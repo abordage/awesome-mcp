@@ -1676,6 +1676,12 @@ categories:
           - url: https://github.com/john-zhang-dev/xero-mcp
             description: Interact with Xero accounting
           - url: https://github.com/ChuckBryan/ynabmcpserver
+          - url: https://github.com/theluckystrike/mcp-invoice
+            description: Local PDF invoicing with sequential numbering and per-rate VAT
+          - url: https://github.com/theluckystrike/mcp-expense-tracker
+            description: Expenses, receipts and mileage with VAT splitting and rebilling
+          - url: https://github.com/theluckystrike/mcp-cash-book
+            description: Local double-entry cash book and ledger
       - name: Crypto & Blockchain
         repos:
           - url: https://github.com/aaronjmars/web3-research-mcp
@@ -1838,6 +1844,8 @@ categories:
             description: Stripe payments, customers, and refunds
           - url: https://github.com/madupay/mcp-sanctions
           - url: https://github.com/paracetamol951/caisse-enregistreuse-mcp-server
+          - url: https://github.com/theluckystrike/mcp-bank-statement
+            description: Import a bank CSV, categorise it and reconcile against expenses
       - name: Stock Data & Analytics
         repos:
           - url: https://github.com/anirbanbasu/frankfurtermcp
@@ -2493,6 +2501,10 @@ categories:
           - url: https://github.com/vgnshiyer/apple-books-mcp
           - url: https://github.com/thechandanbhagat/cv-forge
           - url: https://github.com/PhononX/cv-mcp-server
+          - url: https://github.com/theluckystrike/mcp-pdf
+            description: Merge, split, extract, rotate, reorder and stamp PDF pages locally
+          - url: https://github.com/theluckystrike/mcp-docx
+            description: Create and read real Word .docx files locally
       - name: Google Workspace
         repos:
           - url: https://github.com/giuseppe-coco/Google-Workspace-MCP-Server
