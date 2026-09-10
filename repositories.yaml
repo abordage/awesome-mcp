@@ -2427,6 +2427,8 @@ categories:
         description: Local-first observability for AI coding agent sessions, tool use, skills, and costs
       - url: https://github.com/ntk148v/alertmanager-mcp-server
         description: MCP server for Prometheus Alertmanager integration
+      - url: https://github.com/renduples/sitepassport-mcp
+        description: Live-checks whether a WordPress site is ready to be safely operated by AI agents
   - name: Productivity
     subcategories:
       - name: Atlassian
