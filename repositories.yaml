@@ -3160,6 +3160,8 @@ categories:
         description: X/Twitter API platform with MCP, tweet search, profile tweets, follower export, media download, posting, replies, webhooks, REST API, and SDKs
       - url: https://github.com/kaitoInfra/twitterapi-io-mcp-server
         description: Hosted MCP for twitterapi.io — Twitter/X data API for AI agents; 12 read-only tools (tweet search, profiles, threads, real-time streaming)
+      - url: https://github.com/Role1776/mcp-x
+        description: Official X API v2 over OAuth 1.0a, 42 tools, cost-aware reads
   - name: Sports
     repos:
       - url: https://github.com/guillochon/mlb-api-mcp
