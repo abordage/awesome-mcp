@@ -3072,6 +3072,8 @@ categories:
             description: Binary Ninja plugin for LLM integration
           - url: https://github.com/jtang613/GhidrAssistMCP
           - url: https://github.com/LaurieWired/GhidraMCP
+          - url: https://github.com/LING71671/open-reverselab
+            description: Agent-native reverse-engineering lab exposing Ghidra headless, Frida, x64dbg, Rizin and YARA MCP tools with a CTF/APK/PE knowledge base
           - url: https://github.com/zboralski/ida-headless-mcp
           - url: https://github.com/mrexodia/ida-pro-mcp
             description: IDA Pro reverse engineering with AI
