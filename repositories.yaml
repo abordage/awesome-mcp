@@ -134,6 +134,8 @@ categories:
             description: Hosted memory that reranks and fades by recency
           - url: https://github.com/MaxFreedomPollard/Compartment
             description: Offline encrypted vector memory, AEAD-encrypted vectors, no network
+          - url: https://github.com/stonianua/neither-mcp
+            description: Local stdio MCP for Cursor and Claude Desktop: selected notes/docs, related retrieval with source evidence
       - name: RAG
         repos:
           - url: https://github.com/apecloud/ApeRAG
