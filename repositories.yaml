@@ -1708,6 +1708,8 @@ categories:
     subcategories:
       - name: Accounting & Budgeting
         repos:
+          - url: https://github.com/usenetstate/statsnet-mcp
+            description: Background check any company in the world: registration, executives, courts and finances.
           - url: https://github.com/akutishevsky/lunchmoney-mcp
             description: MCP server for Lunch Money budgeting app
           - url: https://github.com/iiAtlas/hledger-mcp
