@@ -31,6 +31,8 @@ categories:
           - url: https://github.com/altinoren/Utopia
           - url: https://github.com/lamemind/mcp-server-multiverse
             description: MCP server for multiverse context management
+          - url: https://github.com/contextstream/mcp-server
+            description: Shared project context for AI coding agents across MCP clients
       - name: Human-in-the-Loop
         repos:
           - url: https://github.com/ttommyth/interactive-mcp
