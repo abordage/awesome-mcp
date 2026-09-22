@@ -2744,8 +2744,8 @@ categories:
             description: TickTick task management with filtering
           - url: https://github.com/jimfilippou/things-mcp
           - url: https://github.com/louis030195/toggl-mcp
-          - url: https://github.com/mediar-ai/screenpipe
-            description: AI app store with 24/7 desktop history
+          - url: https://github.com/screenpipe/screenpipe
+            description: Searchable screen text and audio history via MCP; source-available under the Screenpipe Commercial License
           - url: https://github.com/movstox/lazy-toggl-mcp
           - url: https://github.com/stanislavlysenko0912/todoist-mcp-server
             description: Todoist Rest API and Sync API
