@@ -1877,6 +1877,8 @@ categories:
           - url: https://github.com/square/square-mcp-server
           - url: https://github.com/stripe/ai
           - url: https://github.com/Fewsats/fewsats-mcp
+          - url: https://github.com/Feeless402/feeless402
+            description: Feeless x402 micropayments for AI agents — self-custodied Nano (XNO) wallet, pay-per-call x402 client, merchant server with railHint, and MCP server.
           - url: https://github.com/pyrimid-ai/pyrimid
             description: MCP server and x402 catalog for paid AI/API products, paid MCP tools, and agent-to-agent commerce on Base USDC.
           - url: https://github.com/Adfin-Engineering/mcp-server-adfin
