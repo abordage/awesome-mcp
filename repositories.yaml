@@ -2282,6 +2282,8 @@ categories:
         description: Google Ads diagnosis, recommendations, and edits
       - url: https://github.com/nowork-studio/NotFair
         description: SEO, GEO, ads, Search Console, and Analytics skills
+      - url: https://github.com/GlobalMatchHub/searchlink-lite
+        description: Google Search Console reports in Claude, Cursor, and other MCP clients
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
