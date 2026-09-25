@@ -582,6 +582,8 @@ categories:
           - url: https://github.com/dinghuazhou/sample-mcp-server-tos
           - url: https://github.com/kocierik/consul-mcp-server
           - url: https://github.com/edgee-cloud/mcp-server-edgee
+          - url: https://github.com/kleaphq/cli
+            description: Build, edit, publish and host real websites and web apps from AI agents
       - name: Kubernetes
         repos:
           - url: https://github.com/alexei-led/k8s-mcp-server
@@ -2288,6 +2290,8 @@ categories:
         description: SEO, GEO, ads, Search Console, and Analytics skills
       - url: https://github.com/GlobalMatchHub/searchlink-lite
         description: Google Search Console reports in Claude, Cursor, and other MCP clients
+      - url: https://github.com/robot-speed/mcp
+        description: Hosted SEO audits, Core Web Vitals, keywords, AI visibility and content publishing
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
