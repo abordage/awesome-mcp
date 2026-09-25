@@ -491,6 +491,8 @@ categories:
       - url: https://github.com/peakmojo/mcp-hubspot
         description: HubSpot CRM integration for AI assistants
       - url: https://github.com/avisangle/method-crm-mcp
+      - url: https://github.com/getclera/mcp
+        description: "Hosted recruiting server: search vetted startup candidates and request intros"
   - name: Cloud & Infrastructure
     subcategories:
       - name: AWS
