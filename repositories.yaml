@@ -1953,6 +1953,8 @@ categories:
           - url: https://github.com/vipbat/fmp-mcp-server
           - url: https://github.com/axionquant/mcp-server
             description: Quantitative finance and stock market analysis MCP server
+          - url: https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp
+            description: NSE and BSE (India) stock data, screeners, FII/DII flows, option chains and filings
       - name: Trading & Exchanges
         repos:
           - url: https://github.com/ariadng/metatrader-mcp-server
