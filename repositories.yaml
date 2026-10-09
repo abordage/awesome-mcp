@@ -1739,6 +1739,10 @@ categories:
             description: Expenses, receipts and mileage with VAT splitting and rebilling
           - url: https://github.com/theluckystrike/mcp-cash-book
             description: Local double-entry cash book and ledger
+          - url: https://github.com/LAHutchins91/invoice-mcp
+            description: Invoice by Ouroboros Apps - freelance invoice line items, rates, due dates, and late terms
+          - url: https://github.com/LAHutchins91/deposit-mcp
+            description: Deposit by Ouroboros Apps - freelance deposit and payment schedule
       - name: Crypto & Blockchain
         repos:
           - url: https://github.com/aaronjmars/web3-research-mcp
@@ -2302,6 +2306,10 @@ categories:
         description: Hosted SEO audits, Core Web Vitals, keywords, AI visibility and content publishing
       - url: https://github.com/lognorm/lognorm-mcp
         description: Hosted SEO/GEO growth backlog for Claude Code, Codex and Cursor
+      - url: https://github.com/LAHutchins91/claim-mcp
+        description: Claim by Ouroboros Apps - approved brand claims, offers, and banned phrases for AI-written marketing copy
+      - url: https://github.com/LAHutchins91/rank-mcp
+        description: Rank by Ouroboros Apps - SEO rankings and traffic from Google Search Console, read-only
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
@@ -2618,6 +2626,8 @@ categories:
           - url: https://github.com/echelon-ai-labs/servicenow-mcp
           - url: https://github.com/devrev/mcp-server
           - url: https://github.com/modesty/fluent-mcp
+          - url: https://github.com/LAHutchins91/desk-mcp
+            description: Desk by Ouroboros Apps - customer support answers, refund rules, and escalation limits
       - name: Learning & Flashcards
         repos:
           - url: https://github.com/ankimcp/anki-mcp-server
@@ -2687,7 +2697,7 @@ categories:
           - url: https://github.com/gornskew/lisply-mcp
             description: Manage Lisply lisp-speaking backends
           - url: https://github.com/LAHutchins91/continuity-mcp
-            description: Story bible for fiction writers that AI assistants read before writing
+            description: Continuity by Ouroboros Apps - story continuity, novel memory, and series bible for fiction writers
       - name: Notion
         repos:
           - url: https://github.com/Badhansen/notion-mcp
@@ -2757,6 +2767,10 @@ categories:
           - url: https://github.com/boma086/mcp-pm-openproject
           - url: https://github.com/lioarce01/trello-mcp-server
           - url: https://github.com/namar0x0309/wekan-mcp
+          - url: https://github.com/LAHutchins91/scope-mcp
+            description: Scope by Ouroboros Apps - freelance scope of work, rates, deadlines, and change orders
+          - url: https://github.com/LAHutchins91/milestone-mcp
+            description: Milestone by Ouroboros Apps - freelance project milestones and acceptance criteria
       - name: Tasks & Calendar
         repos:
           - url: https://github.com/abhiz123/todoist-mcp-server
@@ -2918,6 +2932,10 @@ categories:
             description: Zotero collections for Claude Desktop
           - url: https://github.com/connerlambden/bgpt-mcp
             description: Search scientific papers with structured experimental data from full-text studies
+          - url: https://github.com/LAHutchins91/papers-mcp
+            description: Papers by Ouroboros Apps - research paper search with real citations and reference formatting
+          - url: https://github.com/LAHutchins91/patent-mcp
+            description: Patent by Ouroboros Apps - USPTO patent search and prior art lookup
       - name: Data APIs
         repos:
           - url: https://github.com/0xDAEF0F/job-searchoor
