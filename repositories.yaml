@@ -1844,6 +1844,8 @@ categories:
           - url: https://github.com/QuantGeekDev/coincap-mcp
           - url: https://github.com/Regenerating-World/pix-mcp
           - url: https://github.com/RomThpt/mcp-xrpl
+          - url: https://github.com/tanod-labs/tanod-mcp
+            description: Hosted MCP server, 140+ tools for chain reads, OFAC and phishing checks, PDF and OCR
           - url: https://github.com/tatumio/blockchain-mcp
           - url: https://github.com/ThomasMarches/substrate-mcp-rs
           - url: https://github.com/token-metrics/mcp
