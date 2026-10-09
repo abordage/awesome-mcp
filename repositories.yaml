@@ -134,6 +134,8 @@ categories:
             description: Decentralized memory layer for AI agents
           - url: https://github.com/Beever-AI/beever-atlas
             description: LLM Wiki memory for team chat (Slack, Discord, Teams)
+          - url: https://github.com/jaybro2042-alt/liminality-mcp
+            description: Hosted objective-to-structured-work server that carries continuity across sessions
           - url: https://github.com/mnemoverse/mcp-memory-server
             description: Hosted memory that re-ranks recall by reported outcomes
           - url: https://github.com/MaxFreedomPollard/Compartment
