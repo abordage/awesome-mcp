@@ -709,6 +709,8 @@ categories:
           - url: https://github.com/Tencent-RTC/mcp
           - url: https://github.com/netease-im/yunxin-mcp-server
           - url: https://github.com/kone-net/mcp_server_lark
+          - url: https://github.com/GeiserX/telegram-archive-mcp
+            description: Search and read archived Telegram history from Telegram-Archive
       - name: Notifications
         repos:
           - url: https://github.com/Cactusinhand/mcp_server_notify
