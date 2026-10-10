@@ -3208,6 +3208,8 @@ categories:
           - url: https://github.com/Hexix23/shodan-mcp
       - name: Reverse Engineering
         repos:
+          - url: https://github.com/morluto/rea
+            description: Local CLI and MCP server for agent-assisted reverse engineering.
           - url: https://github.com/13bm/GhidraMCP
           - url: https://github.com/fosdickio/binary_ninja_mcp
             description: Binary Ninja plugin for LLM integration
