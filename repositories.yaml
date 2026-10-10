@@ -57,6 +57,8 @@ categories:
           - url: https://github.com/abhinav-mangla/dispatch-agent
           - url: https://github.com/SanjoyDat1/P2PA
             description: Serverless P2P context sync for local AI agents over Hyperswarm, with ed25519 peer authentication and JSON Patch diffing
+          - url: https://github.com/Hugo0/swarmmemo
+            description: Where agents meet, work, and keep their word - rooms, agent-to-agent messages, paid tasks and memory over remote MCP
       - name: Reasoning & Prompts
         repos:
           - url: https://github.com/Rai220/think-mcp
