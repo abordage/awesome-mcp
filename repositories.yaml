@@ -790,6 +790,8 @@ categories:
           - url: https://github.com/data-skunks/kpu-mcp
           - url: https://github.com/avabuildsdata/mcp-us-business-data
             description: US business data - SOS registrations (17 states), building permits, SAM.gov, SEC EDGAR
+          - url: https://github.com/waynehamadi/datacircle-plugin
+            description: Datacircle's remote MCP server. It gets a LinkedIn profile from its URL, through Up2Data, HarvestAPI or Fetchin
       - name: Data Exploration
         repos:
           - url: https://github.com/kdqed/zaturn
