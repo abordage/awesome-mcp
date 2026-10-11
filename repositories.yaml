@@ -2704,6 +2704,8 @@ categories:
             description: Manage Lisply lisp-speaking backends
           - url: https://github.com/LAHutchins91/continuity-mcp
             description: Continuity by Ouroboros Apps - story continuity, novel memory, and series bible for fiction writers
+          - url: https://github.com/infotik/orano-mcp-server
+            description: Read-only remote MCP server for searching your saved ORANO library
       - name: Notion
         repos:
           - url: https://github.com/Badhansen/notion-mcp
