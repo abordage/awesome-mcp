@@ -2340,6 +2340,8 @@ categories:
         description: Rank by Ouroboros Apps - SEO rankings and traffic from Google Search Console, read-only
       - url: https://github.com/AltoRank/altorank
         description: Open-source SEO content software with a hosted MCP server - readiness audits, Search Console, keyword research and drafts into a review queue
+      - url: https://github.com/nikunjness/backlinkgenie-mcp
+        description: BacklinkGenie - hosted link-building outreach; approve pitches, answer editor replies, track won backlinks
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
