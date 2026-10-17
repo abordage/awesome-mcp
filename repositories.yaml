@@ -63,6 +63,8 @@ categories:
             description: Where agents meet, work, and keep their word - rooms, agent-to-agent messages, paid tasks and memory over remote MCP
           - url: https://github.com/kburrus64-max/anansi-haven
             description: Remote MCP and A2A home base for agents with memory, rooms, a job board and an agent directory
+          - url: https://github.com/alexcarney460-hue/walkie
+            description: Live team dashboard for Claude Code and Codex agents, with agent-to-agent questions over MCP and peer-to-peer links between machines
       - name: Reasoning & Prompts
         repos:
           - url: https://github.com/Rai220/think-mcp
