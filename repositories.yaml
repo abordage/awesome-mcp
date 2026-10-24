@@ -3224,6 +3224,8 @@ categories:
             description: Encrypted local vault for AI agents — resolve {{SECRET}} placeholders at runtime with AES-256-GCM + Argon2id. LLMs never see real API keys.
       - name: MCP Security
         repos:
+          - url: https://github.com/doomsday-network/bounty-guard
+            description: Pre-flight GitHub bounty security scanner and on-chain Proof-of-Escrow MCP verifier
           - url: https://github.com/tomelias10/mcp-drift-check
             description: Passive local CLI that flags mutable npm/npx package references in MCP client configurations without executing servers.
           - url: https://github.com/82ch/MCP-Dandan
