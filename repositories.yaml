@@ -2039,6 +2039,9 @@ categories:
             description: Official Longbridge brokerage MCP — 133 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. OAuth 2.1.
   - name: Frameworks & SDKs
     repos:
+      - url: https://github.com/basementstudio/xmcp
+        name: xmcp
+        description: "TypeScript framework for building MCP servers. Website: https://xmcp.dev."
       - url: https://github.com/ECF/MCPToolGroups
       - url: https://github.com/GongRzhe/MCP-Server-Creator
         description: Create MCP servers programmatically
