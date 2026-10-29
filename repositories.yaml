@@ -742,6 +742,8 @@ categories:
           - url: https://github.com/aahl/mcp-notify
             description: Notify to Weixin, Telegram, Bark, Lark, DingTalk
           - url: https://github.com/ashiknesin/pushover-mcp
+          - url: https://github.com/777genius/agent-notifications
+            description: Local MCP server for desktop attention and progress notifications.
       - name: Team Chat
         repos:
           - url: https://github.com/discourse/discourse-mcp
