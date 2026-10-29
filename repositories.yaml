@@ -3072,6 +3072,8 @@ categories:
           - url: https://github.com/shopsavvy/shopsavvy-mcp-server
           - url: https://github.com/siva010928/multi-chat-mcp-server
             description: MCP server for multi-chat capabilities
+          - url: https://github.com/TheBestCo/bestprice-mcp
+            description: Official BestPrice.gr shopping search, live offers, delivered totals, and price history for Greece
           - url: https://github.com/unstoppabledomains/unstoppable-mcp-server
             description: Domain search, registration, DNS, marketplace, and checkout
           - url: https://github.com/urlbox/urlbox-mcp-server
