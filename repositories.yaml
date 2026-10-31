@@ -3208,6 +3208,8 @@ categories:
             description: Search engine for AI agents with 300+ tools ranked by agentic readiness
           - url: https://github.com/goofrey/zoom-search
             description: MCP server for multi-provider web search, evidence collection, and cited answer synthesis.
+          - url: https://github.com/agentsearchhq-coder/agentsearch-mcp
+            description: Live web search, page extract, and JS render for agents; keyless free search tier, pay-per-call beyond
   - name: Security
     subcategories:
       - name: Identity & Access
