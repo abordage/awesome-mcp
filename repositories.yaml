@@ -2383,6 +2383,8 @@ categories:
         description: App Store Tracker - hosted MCP server for iOS App Store rankings, competitor monitoring and app research (API key)
       - url: https://github.com/top-init/shortimize-mcp-registry-listing
         description: Shortimize - hosted MCP server for tracking TikTok, Instagram and YouTube short-form video performance across accounts (API key)
+      - url: https://github.com/Teralabsx/meta-ads-mcp
+        description: Tera Ads - hosted MCP server for Meta Ads with approval before changes, undo for pauses and budgets, and Shopify profit after returns (OAuth)
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
