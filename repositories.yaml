@@ -3030,6 +3030,8 @@ categories:
             description: Papers by Ouroboros Apps - research paper search with real citations and reference formatting
           - url: https://github.com/LAHutchins91/patent-mcp
             description: Patent by Ouroboros Apps - USPTO patent search and prior art lookup
+          - url: https://github.com/civai-technologies/research-agent-mcp-by-nova-civai
+            description: Hosted remote MCP for deep research and sourced report generation; Nova account required
       - name: Data APIs
         repos:
           - url: https://github.com/0xDAEF0F/job-searchoor
