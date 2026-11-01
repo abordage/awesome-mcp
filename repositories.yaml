@@ -2501,6 +2501,8 @@ categories:
           - url: https://github.com/cloudinary/mcp-servers
       - name: Video
         repos:
+          - url: https://github.com/arcmira/mcp
+            description: "YouTube and podcast transcript search with timestamped sources; proprietary hosted MCP, Arcmira account required. [API docs](https://arcmira.com/docs)."
           - url: https://github.com/bogdanminko/zapcap-mcp-server
           - url: https://github.com/marcindulak/stt-mcp-server-linux
             description: Local speech-to-text for Tmux on Linux
