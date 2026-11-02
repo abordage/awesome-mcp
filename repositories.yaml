@@ -3370,6 +3370,8 @@ categories:
           - url: https://github.com/Contrast-Security-OSS/mcp-contrast
           - url: https://github.com/safedep/pinner-mcp
           - url: https://github.com/Program-Integrity-Alliance/pia-mcp-local
+          - url: https://github.com/bernik-bot/ichi-mcp
+            description: Daily internet cyber-health barometer — five-band threat index, critical-vuln advisories, source-health diagnostics
       - name: Compliance & Regulatory
         repos:
           - url: https://github.com/getgapup/gapup-mcp-public
