@@ -803,6 +803,8 @@ categories:
           - url: https://github.com/0xshellming/mcp-summarizer
       - name: Data APIs
         repos:
+          - url: https://github.com/YILDIZ-TOLGA/verif-entreprise-mcp
+            description: "French company verification (KYB) by SIREN from official open data: legal status, insolvency (BODACC), RGE, LEI, asset-freeze screening, monitoring with signed webhooks. Free preview tool; other tools paid per call in USDC on Base via x402."
           - url: https://github.com/estevecastells/invokely-mcp-connector
             description: MIT-licensed local stdio adapter for official statistics through Invokely's hosted MCP; hosted backend code is not included.
           - url: https://github.com/davidf9999/gx-mcp-server
