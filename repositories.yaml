@@ -471,6 +471,8 @@ categories:
         description: SSH MCP server included in official repo
       - url: https://github.com/AB498/computer-control-mcp
         description: Mouse, keyboard, OCR via PyAutoGUI
+      - url: https://github.com/8itlab/reflex-computer-use
+        description: "macOS and Windows desktop control over MCP, with remote Windows over SSH and Jev for element selection and action verification."
       - url: https://github.com/domdomegg/computer-use-mcp
         description: Full computer control for AI models
       - url: https://github.com/erniebrodeur/mcp-grep
