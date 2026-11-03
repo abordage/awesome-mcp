@@ -3134,6 +3134,8 @@ categories:
             description: Read-only first-party iOS app finder for 29 verified live apps across 50 Apple locales, with localized publisher context and direct App Store links.
           - url: https://github.com/movahedi-ca/movahedi-ca
             description: Hosted Canadian privacy-law MCP server (enforcement actions, glossary, Law 25 checklist) at https://movahedi.ca/mcp
+          - url: https://github.com/GeminiGeorge22/ats-jobs-mcp
+            description: "New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards"
       - name: News & Content
         repos:
           - url: https://github.com/erithwik/mcp-hn
