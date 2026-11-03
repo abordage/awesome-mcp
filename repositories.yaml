@@ -2391,6 +2391,8 @@ categories:
         description: Tera Ads - hosted MCP server for Meta Ads with approval before changes, undo for pauses and budgets, and Shopify profit after returns (OAuth)
       - url: https://github.com/GeminiGeorge22/etsy-sales-mcp
         description: "Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop"
+      - url: https://github.com/GeminiGeorge22/google-ads-transparency-mcp
+        description: "Competitor Google ads from the Google Ads Transparency Center: new, running and stopped, with first and last shown dates"
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
