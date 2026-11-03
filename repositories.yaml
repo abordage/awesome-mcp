@@ -3140,6 +3140,8 @@ categories:
             description: Hosted Canadian privacy-law MCP server (enforcement actions, glossary, Law 25 checklist) at https://movahedi.ca/mcp
           - url: https://github.com/GeminiGeorge22/ats-jobs-mcp
             description: "New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards"
+          - url: https://github.com/GeminiGeorge22/gov-tenders-mcp
+            description: "Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link"
       - name: News & Content
         repos:
           - url: https://github.com/erithwik/mcp-hn
