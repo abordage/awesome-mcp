@@ -3455,6 +3455,8 @@ categories:
         description: Real-time football data
       - url: https://github.com/tomekkorbak/strava-mcp-server
       - url: https://github.com/Taidgh-Robinson/nba-mcp-server
+      - url: https://github.com/GeminiGeorge22/sports-odds-mcp
+        description: "Live odds from Kambi sportsbooks (BetRivers, Unibet, Paf, Svenska Spel, ATG and more) in one call, with every book's price and the best price per outcome"
   - name: Text-to-Speech
     repos:
       - url: https://github.com/daisys-ai/daisys-mcp
