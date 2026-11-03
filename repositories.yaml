@@ -3161,6 +3161,8 @@ categories:
             description: MCP server for Google News integration
           - url: https://github.com/ConechoAI/openai-websearch-mcp
           - url: https://github.com/exa-labs/exa-mcp-server
+          - url: https://github.com/keenableai/keenable-mcp
+            description: Web search and page fetch as clean Markdown over the Keenable index
           - url: https://github.com/fatwang2/search1api-mcp
             description: MCP server for web search and crawl via Search1API
           - url: https://github.com/ihor-sokoliuk/mcp-searxng
