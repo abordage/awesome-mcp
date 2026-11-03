@@ -2387,6 +2387,8 @@ categories:
         description: Shortimize - hosted MCP server for tracking TikTok, Instagram and YouTube short-form video performance across accounts (API key)
       - url: https://github.com/Teralabsx/meta-ads-mcp
         description: Tera Ads - hosted MCP server for Meta Ads with approval before changes, undo for pauses and budgets, and Shopify profit after returns (OAuth)
+      - url: https://github.com/GeminiGeorge22/etsy-sales-mcp
+        description: "Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop"
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
