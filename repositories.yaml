@@ -2393,6 +2393,8 @@ categories:
         description: "Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop"
       - url: https://github.com/GeminiGeorge22/company-social-mcp
         description: "Company website or name to LinkedIn, X, YouTube, Instagram and Facebook profile links with confidence scores and evidence"
+      - url: https://github.com/GeminiGeorge22/google-ads-transparency-mcp
+        description: "Competitor Google ads from the Google Ads Transparency Center: new, running and stopped, with first and last shown dates"
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
