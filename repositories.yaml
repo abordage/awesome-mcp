@@ -2130,6 +2130,8 @@ categories:
         description: VRChat API interaction
   - name: Healthcare & Bioinformatics
     repos:
+      - url: https://github.com/helena-bioinformatics/folklore-mcp
+        description: "Public Python adapter for read-only germline variant classification, gene profiles, disease associations and literature via Helena's hosted MCP service."
       - url: https://github.com/costkits/costkits-mcp
         description: Healthcare cost estimates, provider pricing, and bill analysis via the CostKits API
       - url: https://github.com/genomoncology/biomcp
