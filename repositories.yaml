@@ -2391,6 +2391,8 @@ categories:
         description: Tera Ads - hosted MCP server for Meta Ads with approval before changes, undo for pauses and budgets, and Shopify profit after returns (OAuth)
       - url: https://github.com/GeminiGeorge22/etsy-sales-mcp
         description: "Etsy search results by keyword, marketplace and category plus daily sales counts and growth for any Etsy shop"
+      - url: https://github.com/GeminiGeorge22/company-social-mcp
+        description: "Company website or name to LinkedIn, X, YouTube, Instagram and Facebook profile links with confidence scores and evidence"
       - url: https://github.com/GeminiGeorge22/google-ads-transparency-mcp
         description: "Competitor Google ads from the Google Ads Transparency Center: new, running and stopped, with first and last shown dates"
   - name: Media Processing
@@ -2438,6 +2440,8 @@ categories:
           - url: https://github.com/dschuler36/reaper-mcp-server
           - url: https://github.com/soundza/soundza-mcp
             description: "Search, preview and download free sound effects, music and ambience, or generate new sound effects from a prompt; hosted Streamable HTTP with OAuth or API key. [Site](https://soundza.com/developers)."
+          - url: https://github.com/GeminiGeorge22/spotify-play-count-mcp
+            description: "Spotify play counts for any track, album, artist or playlist, plus monthly listeners and followers"
       - name: Image Generation
         repos:
           - url: https://github.com/hamflx/imagen3-mcp
@@ -3142,6 +3146,8 @@ categories:
             description: Hosted Canadian privacy-law MCP server (enforcement actions, glossary, Law 25 checklist) at https://movahedi.ca/mcp
           - url: https://github.com/GeminiGeorge22/ats-jobs-mcp
             description: "New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards"
+          - url: https://github.com/GeminiGeorge22/gov-tenders-mcp
+            description: "Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link"
       - name: News & Content
         repos:
           - url: https://github.com/erithwik/mcp-hn
