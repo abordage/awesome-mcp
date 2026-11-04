@@ -2438,6 +2438,8 @@ categories:
           - url: https://github.com/dschuler36/reaper-mcp-server
           - url: https://github.com/soundza/soundza-mcp
             description: "Search, preview and download free sound effects, music and ambience, or generate new sound effects from a prompt; hosted Streamable HTTP with OAuth or API key. [Site](https://soundza.com/developers)."
+          - url: https://github.com/GeminiGeorge22/spotify-play-count-mcp
+            description: "Spotify play counts for any track, album, artist or playlist, plus monthly listeners and followers"
       - name: Image Generation
         repos:
           - url: https://github.com/hamflx/imagen3-mcp
