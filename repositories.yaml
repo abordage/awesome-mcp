@@ -607,6 +607,8 @@ categories:
         description: "Pipeline engine for LLM workflows, with a C++ core"
       - url: https://github.com/Perspective-AI/mcp
         description: "MCP server for Perspective AI. An AI Concierge replaces static forms with adaptive AI conversations that understand real situations, structure key information automatically, and"
+      - url: https://github.com/modelsalt/model-salt
+        description: Outside randomness for creative requests, so one prompt gives varied answers
   - name: Aggregators & Gateways
     subcategories:
       - name: Aggregators
