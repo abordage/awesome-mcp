@@ -856,7 +856,7 @@ categories:
           - url: https://github.com/desplega-ai/qa-use
           - url: https://github.com/getrupt/ashra-mcp
           - url: https://github.com/feder-cr/AIHawk
-            description: AI browser agent, ships as an MCP server and a web UI
+            description: AI browser agent as an MCP server and a web UI
           - url: https://github.com/kontext-security/browser-use-mcp-server
             description: "Browse the web, directly from Cursor etc."
           - url: https://github.com/aircodelabs/grasp
