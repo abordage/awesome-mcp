@@ -4946,6 +4946,8 @@ categories:
             description: "Validate Nigerian postcodes in Rust, Python, JavaScript, Java, PostgreSQL, DuckDB, and Polars, with MCP servers for AI agents. Covers Nigeria's NIPOST digital postcode (NDAPS):"
           - url: https://github.com/ni-c/osm-mcp
             description: "MCP server for OpenStreetMap: geocoding, walking/driving/cycling distances, route optimization, isochrones and POI search"
+          - url: https://github.com/burmanharry/openmapp
+            description: "Hosted MCP server for searching US BJJ gyms, open mats and drop-in classes (https://www.openmapp.com/mcp)."
       - name: Weather
         repos:
           - url: https://github.com/sjanaX01/weather-mcp-server
