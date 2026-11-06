@@ -1697,6 +1697,8 @@ categories:
           - url: https://github.com/data-skunks/kpu-mcp
           - url: https://github.com/avabuildsdata/mcp-us-business-data
             description: US business data - SOS registrations (17 states), building permits, SAM.gov, SEC EDGAR
+          - url: https://github.com/waynehamadi/datacircle-plugin
+            description: Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
           - url: https://github.com/loootai/looot-mcp
             description: Hosted data API with one key for 2,500+ endpoints, including work emails, phones, company enrichment and SERP
           - url: https://github.com/azmartone67/dchub-mcp-server
