@@ -6349,6 +6349,8 @@ categories:
           - url: https://github.com/JamesANZ/us-legal-mcp
           - url: https://github.com/jhomen368/overseerr-mcp
             description: Overseerr/Seerr media search, requests, and library
+          - url: https://github.com/jobspipe/mcp
+            description: "Search live job postings from 30+ ATS feeds and job boards via hosted MCP"
           - url: https://github.com/joelio/stocky
           - url: https://github.com/kehvinbehvin/json-mcp-filter
           - url: https://github.com/Linked-API/linkedapi-mcp
