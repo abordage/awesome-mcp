@@ -7359,6 +7359,8 @@ categories:
         description: "MCP server for Korean statutes, precedents and ordinances"
       - url: https://github.com/ilhamfp/pasal
         description: "Grounded lookup of Indonesian laws"
+      - url: https://github.com/kamilkaczmareksolutions/polish-mcp-servers
+        description: "16 tools for official Polish and Ukrainian public registers and law via Apify Actors"
       - url: https://github.com/lawchat-oss/mcp-taiwan-legal-db
         description: "Query Taiwan court decisions and statutes from any"
       - url: https://github.com/dealfluence/adeu
