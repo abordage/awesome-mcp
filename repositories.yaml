@@ -5104,6 +5104,8 @@ categories:
       - url: https://github.com/tomba-io/tomba-mcp-server
       - url: https://github.com/mackenly/mcp-fathom-analytics
       - url: https://github.com/AudienseCo/mcp-audiense-insights
+      - url: https://github.com/vaneform/vaneform-mcp
+        description: "Hosted MCP for free website traffic lookups (monthly visits, sources, countries, compares) at https://vaneform.com/mcp"
       - url: https://github.com/windsor-ai/windsor_mcp
       - url: https://github.com/QuentinCody/shopify-storefront-mcp-server
       - url: https://github.com/kontent-ai/mcp-server
