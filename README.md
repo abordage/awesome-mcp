@@ -2,8 +2,8 @@
 
 ![Awesome](https://raw.githubusercontent.com/abordage/schemas/main/badges/awesome.svg)
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-mcp?label=last%20update)](README.md)
-![Repositories](https://img.shields.io/badge/repositories-2,508-06b6d4)
-![Total Stars](https://img.shields.io/badge/total%20stars-2,592,740-gold)
+![Repositories](https://img.shields.io/badge/repositories-2,506-06b6d4)
+![Total Stars](https://img.shields.io/badge/total%20stars-2,593,135-gold)
 [![License](https://img.shields.io/github/license/abordage/awesome-mcp)](LICENSE)
 
 **Automated. Curated. Ranked.**
@@ -154,28 +154,28 @@
 
 ### Code Assistants
 
-- [oraios/serena](https://github.com/oraios/serena) — Semantic code retrieval and editing toolkit ☆`31,108`
-- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) — Code search for Claude Code agents ☆`12,669`
-- [Q00/ouroboros](https://github.com/Q00/ouroboros) — Agent that proposes changes, then evaluates them under a budget ☆`6,315`
-- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) — Code graph indexing for AI context ☆`4,376`
-- [ezyang/codemcp](https://github.com/ezyang/codemcp) — Coding assistant MCP for Claude Desktop ☆`1,604`
+- [oraios/serena](https://github.com/oraios/serena) — Semantic code retrieval and editing toolkit ☆`31,138`
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) — Code search for Claude Code agents ☆`12,673`
+- [Q00/ouroboros](https://github.com/Q00/ouroboros) — Agent that proposes changes, then evaluates them under a budget ☆`6,326`
+- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) — Code graph indexing for AI context ☆`4,379`
+- [ezyang/codemcp](https://github.com/ezyang/codemcp) — Coding assistant MCP for Claude Desktop ☆`1,603`
 - [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) — Reference tools for coding agents ☆`1,184`
 - [mybolide/coding-tools-mcp](https://github.com/mybolide/coding-tools-mcp) — Desktop workspace for edits, commands and history ☆`436`
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) — MCP implementation of Claude Code capabilities and more ☆`305`
 - [cafeTechne/antigravity-link-extension](https://github.com/cafeTechne/antigravity-link-extension) — Phone companion for the Antigravity IDE ☆`222`
+- [stippi/code-assistant](https://github.com/stippi/code-assistant) — LLM-powered autonomous coding assistant ☆`187`
 - [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) — OAuth bridge from Claude.ai to a self-hosted OpenClaw assistant ☆`188`
-- [stippi/code-assistant](https://github.com/stippi/code-assistant) — LLM-powered autonomous coding assistant ☆`186`
 - [aresyn/codex-control-plane-mcp](https://github.com/aresyn/codex-control-plane-mcp) — Keep long-running Codex Desktop tasks alive ☆`124`
-- [archcore-ai/archcore](https://github.com/archcore-ai/archcore) — Git-native specs and context for coding agents ☆`74`
+- [archcore-ai/archcore](https://github.com/archcore-ai/archcore) — Git-native specs and context for coding agents ☆`75`
 - [lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) — MCP server for multiverse context management ☆`82`
-- [sshahzaiib/agy-bridge](https://github.com/sshahzaiib/agy-bridge) — Hand heavy tasks from Claude Code to the Antigravity CLI ☆`60`
+- [sshahzaiib/agy-bridge](https://github.com/sshahzaiib/agy-bridge) — Hand heavy tasks from Claude Code to the Antigravity CLI ☆`61`
 - [contextstream/mcp-server](https://github.com/contextstream/mcp-server) — Shared project context for AI coding agents across MCP clients ☆`45`
 - [wende/cicada](https://github.com/wende/cicada) — AI Coders search blindly. Be their guide. ☆`41`
 - [mybolide/mcp-probe-kit](https://github.com/mybolide/mcp-probe-kit) — Spec-driven plans that can resume and must converge ☆`41`
 - [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) — MCP-powered code agent for development ☆`38`
 - [religa/multi_mcp](https://github.com/religa/multi_mcp) — Multi-Model chat, code review and analysis MCP Server for Claude Code ☆`36`
+- [Touchpoint-Labs/Touchpoint](https://github.com/Touchpoint-Labs/Touchpoint) — Cross-platform desktop control from the accessibility API ☆`48`
 - [josephsenior/Grinta-Coding-Agent](https://github.com/josephsenior/Grinta-Coding-Agent) — Local-first resilient terminal coding agent with MCP ☆`32`
-- [Touchpoint-Labs/Touchpoint](https://github.com/Touchpoint-Labs/Touchpoint) — Cross-platform desktop control from the accessibility API ☆`47`
 - [bshea-1/Routed](https://github.com/bshea-1/Routed) — Universal local router for Agent Skills across AI coding environments ☆`28`
 - [REX-codebase/fable-mode](https://github.com/REX-codebase/fable-mode) — Time locks, proof receipts and memory for coding agents ☆`26`
 - [x51xxx/codex-mcp-tool](https://github.com/x51xxx/codex-mcp-tool) — Claude/Cursor to Codex CLI bridge with multi-turn sessions ☆`24`
@@ -194,18 +194,18 @@
 ### Multi-Agent
 
 - [rinadelph/Agent-MCP](https://github.com/rinadelph/Agent-MCP) — Multi-agent AI collaboration framework ☆`1,304`
-- [Get-Concord-AI/concord-mcp](https://github.com/Get-Concord-AI/concord-mcp) — Shared presence, file claims and handoffs for coding agents ☆`949`
+- [Get-Concord-AI/concord-mcp](https://github.com/Get-Concord-AI/concord-mcp) — Shared presence, file claims and handoffs for coding agents ☆`978`
 - [roboticforce/sugar](https://github.com/roboticforce/sugar) — Local persistent memory, cross-session context, and optional tasks ☆`100`
 ### Reasoning & Prompts
 
-- [ooples/token-optimizer-mcp](https://github.com/ooples/token-optimizer-mcp) — Token optimization with caching and compression ☆`568`
+- [ooples/token-optimizer-mcp](https://github.com/ooples/token-optimizer-mcp) — Token optimization with caching and compression ☆`570`
 - [PV-Bhat/vibe-check-mcp-server](https://github.com/PV-Bhat/vibe-check-mcp-server) — Mentor-like feedback tool preventing AI over-engineering ☆`504`
 - [Rai220/think-mcp](https://github.com/Rai220/think-mcp) — MCP Server for reasoning ☆`107`
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) — MCP server for enhanced AI clarity and reasoning ☆`90`
 - [YuChenSSR/multi-ai-advisor-mcp](https://github.com/YuChenSSR/multi-ai-advisor-mcp) — council of models for decision ☆`89`
 - [nikkoxgonzales/crash-mcp](https://github.com/nikkoxgonzales/crash-mcp) — Structured reasoning with step validation ☆`72`
 - [VoDaiLocz/kilo-kit-mcp](https://github.com/VoDaiLocz/kilo-kit-mcp) — Skill routing and a check before the agent finishes ☆`27`
-- [gwbischof/free-will-mcp](https://github.com/gwbischof/free-will-mcp) — Experimental AI self-prompting MCP server ☆`38`
+- [gwbischof/free-will-mcp](https://github.com/gwbischof/free-will-mcp) — Experimental AI self-prompting MCP server ☆`39`
 - [aquarius-wing/actor-critic-thinking-mcp](https://github.com/aquarius-wing/actor-critic-thinking-mcp) — Dual-perspective thinking analysis server ☆`32`
 - [ejentum/ejentum-mcp](https://github.com/ejentum/ejentum-mcp) — Agent loop with reasoning, code, memory, and anti-deception ☆`16`
 - [vasayxtx/mcp-prompt-engine](https://github.com/vasayxtx/mcp-prompt-engine) — MCP Prompt Engine ☆`18`
@@ -215,14 +215,14 @@
 
 ### Memory
 
-- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Hindsight: Agent Memory That Learns ☆`58,892`
-- [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) — AI conversations that remember context ☆`4,487`
-- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) — Shared memory of coding-agent history across many clients ☆`1,400`
-- [shaneholloman/mcp-knowledge-graph](https://github.com/shaneholloman/mcp-knowledge-graph) — Local knowledge graph as memory for Claude ☆`887`
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Hindsight: Agent Memory That Learns ☆`59,216`
+- [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) — AI conversations that remember context ☆`4,502`
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) — Shared memory of coding-agent history across many clients ☆`1,416`
+- [shaneholloman/mcp-knowledge-graph](https://github.com/shaneholloman/mcp-knowledge-graph) — Local knowledge graph as memory for Claude ☆`888`
 - [riponcm/projectmem](https://github.com/riponcm/projectmem) — Record failed attempts and warn before the agent repeats one ☆`877`
 - [agentic-box/memora](https://github.com/agentic-box/memora) — Persistent shared memories in SQLite ☆`746`
-- [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) — Graded fixes for failures an agent has already solved ☆`553`
-- [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) — Offline AEAD-encrypted vector memory without network ☆`580`
+- [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) — Graded fixes for failures an agent has already solved ☆`554`
+- [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) — Offline AEAD-encrypted vector memory without network ☆`576`
 - [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public) — Structural memory graph, with no model call ☆`511`
 - [Beever-AI/beever-atlas](https://github.com/Beever-AI/beever-atlas) — LLM Wiki memory for team chat (Slack, Discord, Teams) ☆`451`
 - [gannonh/memento-mcp](https://github.com/gannonh/memento-mcp) — Memento MCP: A Knowledge Graph Memory System for LLMs ☆`426`
@@ -230,18 +230,17 @@
 - [Goldentrii/AgentRecall-X](https://github.com/Goldentrii/AgentRecall-X) — Memory that keeps corrections across sessions ☆`373`
 - [CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) — MCP server for knowledge graph memory ☆`354`
 - [qualixar/superlocalmemory](https://github.com/qualixar/superlocalmemory) — Local memory control plane for agents and teams ☆`271`
-- [roomi-fields/notebooklm-mcp](https://github.com/roomi-fields/notebooklm-mcp) — NotebookLM questions, citations and Studio generation ☆`219`
+- [roomi-fields/notebooklm-mcp](https://github.com/roomi-fields/notebooklm-mcp) — NotebookLM questions, citations and Studio generation ☆`221`
 - [alibaizhanov/mengram](https://github.com/alibaizhanov/mengram) — Semantic, episodic and procedural memory ☆`206`
 - [sandbaseai/cli](https://github.com/sandbaseai/cli) — CLI and local server for many clients and model APIs, with rollback ☆`185`
+- [dnotitia/akb](https://github.com/dnotitia/akb) — Org memory of docs, tables and files, addressed by URI ☆`166`
 - [Patdolitse/piia-engram](https://github.com/Patdolitse/piia-engram) — Local memory you can read, edit and override ☆`165`
-- [dnotitia/akb](https://github.com/dnotitia/akb) — Org memory of docs, tables and files, addressed by URI ☆`165`
 - [pi22by7/In-Memoria](https://github.com/pi22by7/In-Memoria) — Persistent Intelligence Infrastructure for AI Agents ☆`175`
 - [jean-technologies/jean-memory](https://github.com/jean-technologies/jean-memory) — AI memory with mem0 and graphiti ☆`171`
 - [redleaves/context-keeper](https://github.com/redleaves/context-keeper) — Intelligent memory and context for AI agents ☆`156`
-- [Bevel-Software/Hexis](https://github.com/Bevel-Software/Hexis) — Org-wide skills, tools, permissions and identity for agents ☆`122`
+- [Bevel-Software/Hexis](https://github.com/Bevel-Software/Hexis) — Org-wide skills, tools, permissions and identity for agents ☆`123`
 - [DrDroidLab/open-index](https://github.com/DrDroidLab/open-index) — Structured context graphs with hybrid search and writes ☆`113`
-- [HiAi-gg/docsmint](https://github.com/HiAi-gg/docsmint) — Knowledge base with rich text, hybrid search and GraphRAG ☆`110`
-- [unibaseio/membase](https://github.com/unibaseio/membase) — Decentralized memory layer for AI agents ☆`102`
+- [unibaseio/membase](https://github.com/unibaseio/membase) — Decentralized memory layer for AI agents ☆`107`
 - [2b3pro/roam-research-mcp](https://github.com/2b3pro/roam-research-mcp) — MCP Server and CLI tool for Roam Research Graph Integration ☆`100`
 - [IvenKooLab/loci](https://github.com/IvenKooLab/loci) — Shared memory with hybrid search and cited answers ☆`101`
 - [dweigend/joplin-mcp-server](https://github.com/dweigend/joplin-mcp-server) — Search and edit notes in Joplin ☆`96`
@@ -249,35 +248,36 @@
 - [zcag/tela](https://github.com/zcag/tela) — Self-hosted markdown wiki agents can read, edit and search ☆`91`
 - [dodopayments/context-mcp](https://github.com/dodopayments/context-mcp) — Self-hosted MCP server for your documentation ☆`87`
 - [spences10/mcp-memory-libsql](https://github.com/spences10/mcp-memory-libsql) — Persistent memory with vector search on libSQL ☆`87`
-- [James-Chahwan/repo-graph](https://github.com/James-Chahwan/repo-graph) — Graph of a codebase for navigation ☆`87`
 - [kunwar-shah/claudex](https://github.com/kunwar-shah/claudex) — Search Claude Code session history, with a small web UI ☆`97`
+- [HiAi-gg/docsmint](https://github.com/HiAi-gg/docsmint) — Knowledge base with rich text, hybrid search and GraphRAG ☆`81`
 - [cdeust/Cortex](https://github.com/cdeust/Cortex) — Local long-term memory for coding agents ☆`76`
-- [vbcherepanov/total-agent-memory](https://github.com/vbcherepanov/total-agent-memory) — Local temporal graph and procedural memory ☆`74`
+- [vbcherepanov/total-agent-memory](https://github.com/vbcherepanov/total-agent-memory) — Local temporal graph and procedural memory ☆`75`
 - [ukkit/memcord](https://github.com/ukkit/memcord) — MCP server for memory and context management ☆`74`
 - [writerslogic/scrivener-mcp](https://github.com/writerslogic/scrivener-mcp) — Novels and screenplays in Scrivener ☆`70`
 - [Abhigyan-Shekhar/Waggle-mcp](https://github.com/Abhigyan-Shekhar/Waggle-mcp) — External memory layer for agents, installable from PyPI ☆`44`
 - [knowall-ai/mcp-reverie](https://github.com/knowall-ai/mcp-reverie) — Memory management using Neo4j graphs ☆`67`
+- [max-ramas/rms-memory-mcp](https://github.com/max-ramas/rms-memory-mcp) — Local cross-editor memory, with semantic search in LanceDB ☆`65`
 - [decisionnode/DecisionNode](https://github.com/decisionnode/DecisionNode) — Shared structured memory any MCP client can query ☆`82`
-- [max-ramas/rms-memory-mcp](https://github.com/max-ramas/rms-memory-mcp) — Local cross-editor memory, with semantic search in LanceDB ☆`64`
-- [ZengLiangYi/ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal) — Import coding chats, distill notes and search them ☆`61`
-- [JinyangWang27/people-context](https://github.com/JinyangWang27/people-context) — Local notes about the people in your life, for agents ☆`59`
+- [ZengLiangYi/ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal) — Import coding chats, distill notes and search them ☆`60`
+- [JinyangWang27/people-context](https://github.com/JinyangWang27/people-context) — Local notes about the people in your life, for agents ☆`60`
 - [CamdenClark/anki-mcp-server](https://github.com/CamdenClark/anki-mcp-server) — Read and review Anki decks through AnkiConnect ☆`80`
 - [SecurityRonin/docx-mcp](https://github.com/SecurityRonin/docx-mcp) — Word documents with track changes, comments and footnotes ☆`67`
 - [roampal-ai/roampal-core](https://github.com/roampal-ai/roampal-core) — Memory that promotes advice that worked and demotes what failed ☆`54`
+- [James-Chahwan/repo-graph](https://github.com/James-Chahwan/repo-graph) — Graph of a codebase for navigation ☆`55`
 - [pallaprolus/mendeley-mcp](https://github.com/pallaprolus/mendeley-mcp) — Search and manage a Mendeley library ☆`47`
 - [jasperket/clanki](https://github.com/jasperket/clanki) — An MCP server for connecting LLMs with Anki Flashcards. ☆`45`
-- [DollhouseMCP/mcp-server](https://github.com/DollhouseMCP/mcp-server) — Swap personas, skills and templates from a public collection ☆`46`
+- [DollhouseMCP/mcp-server](https://github.com/DollhouseMCP/mcp-server) — Swap personas, skills and templates from a public collection ☆`45`
 - [BetaBots-LLC/callimachus](https://github.com/BetaBots-LLC/callimachus) — Searchable local index of coding-agent session history ☆`46`
-- [dailydaniel/logseq-mcp](https://github.com/dailydaniel/logseq-mcp) — simple logseq mcp server ☆`43`
+- [dailydaniel/logseq-mcp](https://github.com/dailydaniel/logseq-mcp) — simple logseq mcp server ☆`44`
 - [peless/claude-thread-continuity](https://github.com/peless/claude-thread-continuity) — Save and restore project context ☆`65`
 - [IzumiSy/mcp-duckdb-memory-server](https://github.com/IzumiSy/mcp-duckdb-memory-server) — MCP Memory Server with DuckDB backend ☆`59`
 - [linxule/lotus-wisdom-mcp](https://github.com/linxule/lotus-wisdom-mcp) — Contemplative reasoning based on the Lotus Sutra ☆`37`
 - [crewAIInc/enterprise-mcp-server](https://github.com/crewAIInc/enterprise-mcp-server) — Start a CrewAI deployment and check its status ☆`60`
 - [hungryrobot1/MCP-PIF](https://github.com/hungryrobot1/MCP-PIF) — Personal intelligence framework in Haskell ☆`57`
-- [majiayu000/remem](https://github.com/majiayu000/remem) — Local memory for long coding sessions, with an audit trail ☆`34`
-- [knaisoma/data-olympus](https://github.com/knaisoma/data-olympus) — Knowledge-base format with a single-writer server and CLI ☆`31`
+- [majiayu000/remem](https://github.com/majiayu000/remem) — Local memory for long coding sessions, with an audit trail ☆`33`
+- [nicholasglazer/gnosis-mcp](https://github.com/nicholasglazer/gnosis-mcp) — Searchable docs, in SQLite by default or PostgreSQL ☆`31`
 - [Yuchen20/Memory-Plus](https://github.com/Yuchen20/Memory-Plus) — Enhanced persistent memory management ☆`56`
-- [nicholasglazer/gnosis-mcp](https://github.com/nicholasglazer/gnosis-mcp) — Searchable docs, in SQLite by default or PostgreSQL ☆`30`
+- [knaisoma/data-olympus](https://github.com/knaisoma/data-olympus) — Knowledge-base format with a single-writer server and CLI ☆`30`
 - [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp) — Governed actions, shared memory, audit and rollback ☆`29`
 - [T1nker-1220/memories-with-lessons-mcp-server](https://github.com/T1nker-1220/memories-with-lessons-mcp-server) — Memory server extended with lessons ☆`52`
 - [mnemoverse/mcp-memory-server](https://github.com/mnemoverse/mcp-memory-server) — Hosted memory that re-ranks recall by reported outcomes ☆`28`
@@ -293,20 +293,20 @@
 - [get-engram/engram](https://github.com/get-engram/engram) — Searchable long-term memory for agents ☆`22`
 - [Destrayon/Connapse](https://github.com/Destrayon/Connapse) — Self-hosted knowledge base with hybrid search and permissions ☆`22`
 - [VonderVuflya/Yggdrasil](https://github.com/VonderVuflya/Yggdrasil) — Local memory in SQLite and markdown, de-duplicated ☆`22`
+- [Mnemosyne-OS/Mnemosyne-Neural-OS](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS) — Choose what enters and leaves searchable memory ☆`22`
 - [paladini/mcp-me](https://github.com/paladini/mcp-me) — Local profile so an assistant knows who you are ☆`21`
-- [Mnemosyne-OS/Mnemosyne-Neural-OS](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS) — Choose what enters and leaves searchable memory ☆`21`
 - [hjqcan/GoodMemory](https://github.com/hjqcan/GoodMemory) — Local memory for apps and coding agents, with an audit trail ☆`20`
 - [grooverLab/fable](https://github.com/grooverLab/fable) — Local transcript of Claude Code sessions you can search exactly ☆`19`
 - [JinNing6/Noosphere](https://github.com/JinNing6/Noosphere) — Discover and publish agent skills, and let agents message each other ☆`18`
 - [ihorponom/agentpack](https://github.com/ihorponom/agentpack) — Ledger of decisions, evidence and checkpoints ☆`18`
-- [epicsagas/alcove](https://github.com/epicsagas/alcove) — Hybrid search over private project docs for coding agents ☆`17`
 - [AtlasCloudAI/mcp-server](https://github.com/AtlasCloudAI/mcp-server) — Image, video and LLM APIs through Atlas Cloud ☆`17`
 - [graphpilot-oss/graphpilot](https://github.com/graphpilot-oss/graphpilot) — Index a repo once, then ask about symbols and call edges ☆`17`
 - [skydeckai/mcp-server-rememberizer](https://github.com/skydeckai/mcp-server-rememberizer) — An MCP Server to enable global access to Rememberizer ☆`36`
 - [michielinksee/linksee-memory](https://github.com/michielinksee/linksee-memory) — Local cross-agent memory, with a cache of file diffs ☆`16`
 - [remembra-ai/remembra](https://github.com/remembra-ai/remembra) — Hand the next coding agent a summary built from git facts ☆`16`
-- [ryanjoachim/mcp-rtfm](https://github.com/ryanjoachim/mcp-rtfm) — Generate the manual a project is missing ☆`35`
+- [epicsagas/alcove](https://github.com/epicsagas/alcove) — Hybrid search over private project docs for coding agents ☆`16`
 - [stagsz/Unconventional-thinking](https://github.com/stagsz/Unconventional-thinking) — Unconventional solutions kept out of the main context ☆`30`
+- [ryanjoachim/mcp-rtfm](https://github.com/ryanjoachim/mcp-rtfm) — Generate the manual a project is missing ☆`34`
 - [9Ninety/MCPNotes](https://github.com/9Ninety/MCPNotes) — Simple notes an assistant can record and look up ☆`37`
 - [Sivan22/mcp-sefaria-server](https://github.com/Sivan22/mcp-sefaria-server) — Fetch and read Jewish texts through the API of Sefaria.org ☆`35`
 - [TheStack-ai/jarvis-orb](https://github.com/TheStack-ai/jarvis-orb) — 3D orb that shows Claude Code reasoning as it happens ☆`24`
@@ -319,14 +319,14 @@
 ### RAG
 
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) — Production GraphRAG with multi-modal ☆`1,318`
-- [heymrun/heym](https://github.com/heymrun/heym) — Run agent workflows, inspect each step and keep a person in control ☆`1,176`
+- [heymrun/heym](https://github.com/heymrun/heym) — Run agent workflows, inspect each step and keep a person in control ☆`1,219`
 - [Minima-AI-Inc/minima](https://github.com/Minima-AI-Inc/minima) — On-premises conversational RAG with configurable containers ☆`1,056`
-- [GreatScottyMac/context-portal](https://github.com/GreatScottyMac/context-portal) — Memory bank MCP with knowledge graph ☆`767`
+- [GreatScottyMac/context-portal](https://github.com/GreatScottyMac/context-portal) — Memory bank MCP with knowledge graph ☆`768`
 - [shinpr/mcp-local-rag](https://github.com/shinpr/mcp-local-rag) — MCP server for local RAG operations ☆`429`
 - [graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) — Model Context Protocol (MCP) Server for Graphlit Platform ☆`378`
 - [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) — Local RAG with hybrid search and reranking, no API key ☆`301`
 - [hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) — MCP server for RAG document retrieval ☆`263`
-- [jztan/pdf-mcp](https://github.com/jztan/pdf-mcp) — Search large PDFs by meaning and by keyword, a file or a folder ☆`165`
+- [jztan/pdf-mcp](https://github.com/jztan/pdf-mcp) — Search large PDFs by meaning and by keyword, a file or a folder ☆`166`
 - [needle-ai/needle-mcp](https://github.com/needle-ai/needle-mcp) — Find perfect leads and run outreach campaigns on Linkedin, email, Instagram and more. ☆`104`
 - [newideas99/Deepseek-Thinking-Claude-3.5-Sonnet-CLINE-MCP](https://github.com/newideas99/Deepseek-Thinking-Claude-3.5-Sonnet-CLINE-MCP) — Reason, then a second model ☆`115`
 - [arthurpanhku/DocSentinel](https://github.com/arthurpanhku/DocSentinel) — Review security documents and questionnaires for gaps ☆`90`
@@ -343,12 +343,12 @@
 - [renl/mcp-rag-local](https://github.com/renl/mcp-rag-local) — Local RAG with Ollama embeddings and ChromaDB ☆`18`
 ## AI Platforms
 
-- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) — Pipeline engine for LLM workflows, with a C++ core ☆`19,899`
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) — Build AI systems with Evals, RAG, Agents, fine-tuning ☆`5,254`
+- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) — Pipeline engine for LLM workflows, with a C++ core ☆`19,948`
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) — Build AI systems with Evals, RAG, Agents, fine-tuning ☆`5,257`
 - [paiml/paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit) — Pragmatic AI Labs toolkit for deterministic agents ☆`170`
 - [TheRaLabs/legion-mcp](https://github.com/TheRaLabs/legion-mcp) — MCP server for Legion AI platform ☆`95`
-- [PromptExecution/just-mcp](https://github.com/PromptExecution/just-mcp) — mcp server for just ☆`62`
 - [atlanhq/agent-toolkit](https://github.com/atlanhq/agent-toolkit) — Atlan AI Agent Toolkit ☆`42`
+- [PromptExecution/just-mcp](https://github.com/PromptExecution/just-mcp) — mcp server for just ☆`60`
 - [Mitek99/deepview-mcp](https://github.com/Mitek99/deepview-mcp) — MCP server for DeepView AI analysis ☆`65`
 - [StitchAI/stitch-ai-mcp](https://github.com/StitchAI/stitch-ai-mcp) — Decentralized Knowledge Hub for AI ☆`39`
 - [PV-Bhat/gemsuite-mcp](https://github.com/PV-Bhat/gemsuite-mcp) — MCP server for GemSuite tools ☆`32`
@@ -358,14 +358,13 @@
 
 ### Aggregators
 
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) — Query Engine for AI Analytics - self-reasoning agents on live data ☆`39,837`
-- [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) — Platform for letting agents call tools reliably at scale ☆`5,828`
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) — Query Engine for AI Analytics - self-reasoning agents on live data ☆`39,841`
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) — MCP Aggregator, Orchestrator, Middleware, Gateway in one docker ☆`2,752`
-- [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) — One place to manage & connect to all your MCP servers ☆`1,598`
-- [1mcp-app/agent](https://github.com/1mcp-app/agent) — Unified MCP server aggregator ☆`529`
+- [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) — One place to manage & connect to all your MCP servers ☆`1,606`
+- [1mcp-app/agent](https://github.com/1mcp-app/agent) — Unified MCP server aggregator ☆`528`
 - [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) — Claude Agent Skills vector search ☆`411`
 - [BlockRunAI/blockrun-mcp](https://github.com/BlockRunAI/blockrun-mcp) — Search, markets and crypto, paid per call with x402 ☆`389`
-- [boltmcp/boltmcp](https://github.com/boltmcp/boltmcp) — Create and run custom MCP servers on your own machines ☆`371`
+- [boltmcp/boltmcp](https://github.com/boltmcp/boltmcp) — Create and run custom MCP servers on your own machines ☆`372`
 - [sitbon/magg](https://github.com/sitbon/magg) — Magg: The MCP Aggregator ☆`143`
 - [wanaku-ai/wanaku](https://github.com/wanaku-ai/wanaku) — Wanaku Governed Action Proxy for AI Agents ☆`135`
 - [badkk/awesome-crypto-mcp-servers](https://github.com/badkk/awesome-crypto-mcp-servers) — A collection of crypto MCP servers. ☆`147`
@@ -383,31 +382,32 @@
 - [tadas-github/a2asearch-mcp](https://github.com/tadas-github/a2asearch-mcp) — Search for agents, MCP servers, CLIs and skills ☆`21`
 - [membranehq/mcp-server](https://github.com/membranehq/mcp-server) — MCP Server for Membrane ☆`36`
 - [nazar256/combine-mcp](https://github.com/nazar256/combine-mcp) — MCP aggregator combining multiple servers into one interface ☆`35`
+- [Markgatcha/universal-mcp-toolkit](https://github.com/Markgatcha/universal-mcp-toolkit) — The canonical open-source monorepo for production-ready MCP servers. ☆`16`
 - [wojtyniak/mcp-mcp](https://github.com/wojtyniak/mcp-mcp) — Meta-MCP for tool discovery and provisioning ☆`23`
 - [agree-able/room-mcp](https://github.com/agree-able/room-mcp) — Coordinate agents using rooms ☆`23`
 - [isaac-levine/forage](https://github.com/isaac-levine/forage) — Agents find, install and learn new MCP tools on their own ☆`19`
 ### Gateways & Proxies
 
 - [apache/apisix](https://github.com/apache/apisix) — The Cloud-Native API Gateway and AI Gateway ☆`17,293`
-- [maximhq/bifrost](https://github.com/maximhq/bifrost) — Open-source gateway for models, MCP and agents, with failover ☆`9,375`
-- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) — Gateway and registry in front of MCP, A2A and REST APIs ☆`4,751`
-- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) — A bridge between Streamable HTTP and stdio MCP transports ☆`2,815`
+- [maximhq/bifrost](https://github.com/maximhq/bifrost) — Open-source gateway for models, MCP and agents, with failover ☆`9,398`
+- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) — Gateway and registry in front of MCP, A2A and REST APIs ☆`4,761`
+- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) — A bridge between Streamable HTTP and stdio MCP transports ☆`2,814`
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) — Runtime and gateway for deploying MCP servers in containers ☆`2,325`
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) — Turn existing APIs and MCP servers into MCP endpoints ☆`2,252`
-- [docker/mcp-gateway](https://github.com/docker/mcp-gateway) — docker mcp CLI plugin / MCP Gateway ☆`1,623`
-- [obot-platform/obot](https://github.com/obot-platform/obot) — Complete AI Governance Platform from Obot AI ☆`1,161`
-- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) — Self-hosted gateway from REST, SOAP, GraphQL, and SQL ☆`757`
+- [docker/mcp-gateway](https://github.com/docker/mcp-gateway) — docker mcp CLI plugin / MCP Gateway ☆`1,626`
+- [obot-platform/obot](https://github.com/obot-platform/obot) — Complete AI Governance Platform from Obot AI ☆`1,168`
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) — Self-hosted gateway from REST, SOAP, GraphQL, and SQL ☆`755`
 - [tbxark/mcp-proxy](https://github.com/tbxark/mcp-proxy) — Aggregate multiple MCP servers via HTTP ☆`742`
-- [TheLunarCompany/lunar](https://github.com/TheLunarCompany/lunar) — lunar.dev: Agent native MCP Gateway for governance and security ☆`507`
+- [TheLunarCompany/lunar](https://github.com/TheLunarCompany/lunar) — lunar.dev: Agent native MCP Gateway for governance and security ☆`508`
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) — CLI that compresses MCP tool schemas and discovers servers ☆`422`
 - [decocms/studio](https://github.com/decocms/studio) — Control plane to connect tools, run agents and track spend ☆`415`
-- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) — CLI that compresses MCP tool schemas and discovers servers ☆`420`
 - [Nexus-Router/nexus](https://github.com/Nexus-Router/nexus) — Govern & Secure your AI ☆`438`
-- [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) — Supercharge AI Agents, Safely ☆`407`
+- [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) — Supercharge AI Agents, Safely ☆`408`
 - [lasso-security/mcp-gateway](https://github.com/lasso-security/mcp-gateway) — Plugin gateway that orchestrates other MCP servers ☆`397`
 - [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) — HTTP and SSE proxy for MCP servers that speak stdio ☆`293`
 - [agoda-com/api-agent](https://github.com/agoda-com/api-agent) — Universal MCP server for GraphQL/REST APIs ☆`298`
-- [btsouth/toolport](https://github.com/btsouth/toolport) — One local gateway for MCP servers, with secrets in the keychain ☆`233`
-- [api7/aisix](https://github.com/api7/aisix) — Rust AI gateway with routing, guardrails, cache and limits ☆`212`
+- [btsouth/toolport](https://github.com/btsouth/toolport) — One local gateway for MCP servers, with secrets in the keychain ☆`236`
+- [api7/aisix](https://github.com/api7/aisix) — Rust AI gateway with routing, guardrails, cache and limits ☆`214`
 - [ssut/Remote-MCP](https://github.com/ssut/Remote-MCP) — Type-safe solution for remote MCP communication ☆`207`
 - [agiletec-inc/airis-mcp-gateway](https://github.com/agiletec-inc/airis-mcp-gateway) — MCP gateway for routing agent tool calls ☆`173`
 - [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) — Convert any web server to MCP instantly ☆`185`
@@ -416,7 +416,7 @@
 - [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) — Unified MCP proxy managing multiple MCPs ☆`138`
 - [acehoss/mcp-gateway](https://github.com/acehoss/mcp-gateway) — Expose STDIO MCP servers over HTTP and a REST API ☆`130`
 - [kfirtoledo/multi-mcp](https://github.com/kfirtoledo/multi-mcp) — One server that routes to several backend MCP servers ☆`111`
-- [MikkoParkkola/mcp-gateway](https://github.com/MikkoParkkola/mcp-gateway) — Many MCP servers behind one small, fixed context cost ☆`85`
+- [MikkoParkkola/mcp-gateway](https://github.com/MikkoParkkola/mcp-gateway) — Many MCP servers behind one small, fixed context cost ☆`84`
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) — STDIO-to-HTTP gateway, with an example server and client ☆`91`
 - [hasmcp/hasmcp-ce](https://github.com/hasmcp/hasmcp-ce) — HasMCP Community Edition ☆`63`
 - [Rendeverance/toolfunnel](https://github.com/Rendeverance/toolfunnel) — Host your own tools and forward others, with a smaller context ☆`38`
@@ -432,26 +432,26 @@
 - [nick1udwig/ws-mcp](https://github.com/nick1udwig/ws-mcp) — MCP server with WebSocket transport ☆`21`
 ### Platforms & Registries
 
-- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) — Community registry of MCP servers ☆`7,435`
-- [archestra-ai/archestra](https://github.com/archestra-ai/archestra) — Enterprise AI guardrails, registry, gateway, and orchestrator ☆`4,429`
-- [microsoft/mcp](https://github.com/microsoft/mcp) — Catalog of official Microsoft MCP servers ☆`3,832`
-- [metorial/metorial](https://github.com/metorial/metorial) — Connect any AI model to 1200+ integrations (MCP, CLI, API) ☆`3,373`
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) — Community registry of MCP servers ☆`7,445`
+- [archestra-ai/archestra](https://github.com/archestra-ai/archestra) — Enterprise AI guardrails, registry, gateway, and orchestrator ☆`4,431`
+- [microsoft/mcp](https://github.com/microsoft/mcp) — Catalog of official Microsoft MCP servers ☆`3,835`
+- [metorial/metorial](https://github.com/metorial/metorial) — Connect any AI model to 1200+ integrations (MCP, CLI, API) ☆`3,374`
 - [chatmcp/mcpso](https://github.com/chatmcp/mcpso) — directory for Awesome MCP Servers ☆`2,115`
-- [julien040/anyquery](https://github.com/julien040/anyquery) — SQL queries for GitHub, Notion, +40 more ☆`1,790`
+- [julien040/anyquery](https://github.com/julien040/anyquery) — SQL queries for GitHub, Notion, +40 more ☆`1,791`
 - [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) — Remote MCP Servers ☆`1,176`
-- [docker/mcp-registry](https://github.com/docker/mcp-registry) — Official Docker MCP registry ☆`580`
+- [docker/mcp-registry](https://github.com/docker/mcp-registry) — Official Docker MCP registry ☆`581`
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) — CLI to search, install and configure MCP servers ☆`1,021`
 - [apappascs/mcp-servers-hub](https://github.com/apappascs/mcp-servers-hub) — Catalog of open-source MCP servers ☆`330`
 - [liuyoshio/mcp-compass](https://github.com/liuyoshio/mcp-compass) — MCP discovery and recommendation ☆`249`
-- [juspay/neurolink](https://github.com/juspay/neurolink) — Universal AI platform with MCP and multi-provider support ☆`157`
+- [juspay/neurolink](https://github.com/juspay/neurolink) — Universal AI platform with MCP and multi-provider support ☆`168`
 - [integromat/make-mcp-server](https://github.com/integromat/make-mcp-server) — Make MCP Server ☆`174`
 - [Jeamee/MCPHub-Desktop](https://github.com/Jeamee/MCPHub-Desktop) — Desktop APP for Discover and Install MCP Servers ☆`148`
 - [rust-mcp-stack/mcp-discovery](https://github.com/rust-mcp-stack/mcp-discovery) — CLI for discovering MCP server capabilities ☆`87`
 - [matthewdcage/cursor-mcp-installer](https://github.com/matthewdcage/cursor-mcp-installer) — Install MCPs in Cursor from git URL ☆`75`
 - [useparagon/paragon-mcp](https://github.com/useparagon/paragon-mcp) — Access 130+ SaaS integrations via ActionKit ☆`48`
 - [aiagenta2z/onekey-gateway](https://github.com/aiagenta2z/onekey-gateway) — One registry for commercial APIs, skills and MCP servers ☆`52`
-- [VeyraX/veyrax-mcp](https://github.com/VeyraX/veyrax-mcp) — VeyraX unified tool access via single MCP ☆`48`
 - [robhunter/agentdeals](https://github.com/robhunter/agentdeals) — Free tiers and prices for developer infrastructure ☆`24`
+- [VeyraX/veyrax-mcp](https://github.com/VeyraX/veyrax-mcp) — VeyraX unified tool access via single MCP ☆`48`
 - [Data-Everything/mcp-server-templates](https://github.com/Data-Everything/mcp-server-templates) — Docker, Kubernetes, CLI, and HTTP MCP templates ☆`22`
 - [bytesagain/ai-skills](https://github.com/bytesagain/ai-skills) — AI Agent Skills for Claude Code, Manus, OpenClaw & more ☆`16`
 ## Browser Automation
@@ -465,21 +465,21 @@
 - [desplega-ai/qa-use](https://github.com/desplega-ai/qa-use) — Agent-first E2E testing CLI ☆`29`
 ### Browser Tools
 
-- [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) — Browser control for AI applications ☆`7,294`
-- [LvcidPsyche/auto-browser](https://github.com/LvcidPsyche/auto-browser) — Browser agent that can hand control back to a person ☆`921`
-- [nirholas/XActions](https://github.com/nirholas/XActions) — Scrape and automate X without paying for the API ☆`643`
+- [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) — Browser control for AI applications ☆`7,299`
+- [LvcidPsyche/auto-browser](https://github.com/LvcidPsyche/auto-browser) — Browser agent that can hand control back to a person ☆`922`
+- [nirholas/XActions](https://github.com/nirholas/XActions) — Scrape and automate X without paying for the API ☆`644`
 - [merajmehrabi/puppeteer-mcp-server](https://github.com/merajmehrabi/puppeteer-mcp-server) — Automate a new browser or an existing Chrome window ☆`489`
-- [fullselfbrowsing/FSB](https://github.com/fullselfbrowsing/FSB) — DOM-first AI browser automation for Chrome and MCP clients. ☆`204`
-- [swimmwatch/cloakbrowser-mcp](https://github.com/swimmwatch/cloakbrowser-mcp) — Playwright MCP on CloakBrowser Chromium ☆`177`
+- [fullselfbrowsing/FSB](https://github.com/fullselfbrowsing/FSB) — DOM-first AI browser automation for Chrome and MCP clients. ☆`205`
+- [swimmwatch/cloakbrowser-mcp](https://github.com/swimmwatch/cloakbrowser-mcp) — Playwright MCP on CloakBrowser Chromium ☆`176`
 - [hanzili/comet-mcp](https://github.com/hanzili/comet-mcp) — MCP Server connecting to Perplexity Comet browser ☆`181`
 - [onllm-dev/onUI](https://github.com/onllm-dev/onUI) — Annotation-first UI pair programming in the browser ☆`108`
-- [Agent360dk/browser-mcp](https://github.com/Agent360dk/browser-mcp) — Browser automation that can pause, ask you, then continue ☆`61`
+- [Agent360dk/browser-mcp](https://github.com/Agent360dk/browser-mcp) — Browser automation that can pause, ask you, then continue ☆`62`
 - [ofershap/real-browser-mcp](https://github.com/ofershap/real-browser-mcp) — Control your real Chrome, with the logins already in it ☆`58`
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) — AI assistants interact with local browser ☆`55`
 - [webdriverio/mcp](https://github.com/webdriverio/mcp) — Browsers and mobile apps through WebdriverIO ☆`44`
 - [2captcha/2captcha-mcp](https://github.com/2captcha/2captcha-mcp) — Captcha solving, scraping and browser automation for agents ☆`39`
+- [BeatAPI/BeatBrowser](https://github.com/BeatAPI/BeatBrowser) — Let an agent drive the Chrome you are already signed into ☆`38`
 - [ymw0407/auth-fetch-mcp](https://github.com/ymw0407/auth-fetch-mcp) — Fetch a page that requires the user to be signed in ☆`36`
-- [BeatAPI/BeatBrowser](https://github.com/BeatAPI/BeatBrowser) — Let an agent drive the Chrome you are already signed into ☆`36`
 - [samson-art/transcriptor-mcp](https://github.com/samson-art/transcriptor-mcp) — Transcripts, chapters and frames from online video ☆`24`
 - [SanggonBoy/PyreCrawl](https://github.com/SanggonBoy/PyreCrawl) — Self-hosted scrape, crawl, search and monitor, with no API key ☆`23`
 - [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) — Rust-based browser automation MCP server ☆`41`
@@ -496,16 +496,16 @@
 - [browserless/browserless-mcp](https://github.com/browserless/browserless-mcp) — Official MCP server for the Browserless.io ☆`18`
 ### DevTools
 
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents ☆`54,809`
-- [mozilla/firefox-devtools-mcp](https://github.com/mozilla/firefox-devtools-mcp) — MCP server for Firefox DevTools integration ☆`551`
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents ☆`54,859`
+- [mozilla/firefox-devtools-mcp](https://github.com/mozilla/firefox-devtools-mcp) — MCP server for Firefox DevTools integration ☆`553`
 - [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) — Browser control via extension for AI agents ☆`341`
-- [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) — Automate Safari through AppleScript while keeping logins ☆`233`
+- [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) — Automate Safari through AppleScript while keeping logins ☆`235`
 ### Playwright
 
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) — Playwright MCP server ☆`39,190`
-- [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) — MCP server for Playwright browser testing ☆`5,675`
-- [vostride/agent-qa](https://github.com/vostride/agent-qa) — Natural-language web and mobile tests that adapt ☆`924`
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) — Stealth Firefox browsing that avoids anti-bot checks ☆`885`
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) — Playwright MCP server ☆`39,248`
+- [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) — MCP server for Playwright browser testing ☆`5,678`
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) — Stealth Firefox browsing that avoids anti-bot checks ☆`871`
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) — Natural-language web and mobile tests that adapt ☆`870`
 - [VikashLoomba/MCP-Server-Playwright](https://github.com/VikashLoomba/MCP-Server-Playwright) — MCP server for browser automation using Playwright ☆`297`
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) — Enhanced Playwright browser automation ☆`188`
 - [wukan1986/mcp_query_table](https://github.com/wukan1986/mcp_query_table) — query table from some websites, support MCP ☆`60`
@@ -518,13 +518,13 @@
 - [random-robbie/mcp-web-browser](https://github.com/random-robbie/mcp-web-browser) — Headless browsing with Playwright ☆`27`
 ## CLI Tools
 
-- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) — Terminal control, file search, diff editing ☆`10,221`
-- [f/mcptools](https://github.com/f/mcptools) — CLI for calling MCP servers over stdio or HTTP ☆`1,629`
-- [classfang/ssh-mcp-server](https://github.com/classfang/ssh-mcp-server) — SSH MCP server included in official repo ☆`1,014`
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) — Terminal control, file search, diff editing ☆`10,233`
+- [f/mcptools](https://github.com/f/mcptools) — CLI for calling MCP servers over stdio or HTTP ☆`1,630`
+- [classfang/ssh-mcp-server](https://github.com/classfang/ssh-mcp-server) — SSH MCP server included in official repo ☆`1,019`
 - [20000419/fauxnix](https://github.com/20000419/fauxnix) — Run Linux-style commands on Windows by translating bash to PowerShell ☆`898`
 - [tufantunc/ssh-mcp](https://github.com/tufantunc/ssh-mcp) — SSH control for Linux servers ☆`858`
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) — iTerm command execution for REPL/CLI ☆`571`
-- [bvisible/mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager) — SSH commands and file copy, with approval ☆`532`
+- [bvisible/mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager) — SSH commands and file copy, with approval ☆`534`
 - [baryhuang/mcp-remote-macos-use](https://github.com/baryhuang/mcp-remote-macos-use) — AI agent for full Mac control ☆`491`
 - [peakmojo/applescript-mcp](https://github.com/peakmojo/applescript-mcp) — Execute AppleScript for Mac control ☆`466`
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) — A CLI inspector for the Model Context Protocol ☆`447`
@@ -550,8 +550,8 @@
 - [InsForge/insforge-mcp](https://github.com/InsForge/insforge-mcp) — MCP server for InsForge - full-stack builders for coding agents ☆`38`
 - [YawLabs/tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) — Tailscale MCP server for managing your tailnet from AI assistants ☆`35`
 - [JonathanRReed/Apple-MCPs](https://github.com/JonathanRReed/Apple-MCPs) — Mail, Calendar, Reminders, Messages and other Mac apps ☆`34`
-- [zb-ss/servonaut](https://github.com/zb-ss/servonaut) — One terminal UI for AWS, Hetzner, OVH and your own servers ☆`31`
-- [munimtechnologies/munim-computer-use](https://github.com/munimtechnologies/munim-computer-use) — Desktop control from accessibility APIs ☆`27`
+- [zb-ss/servonaut](https://github.com/zb-ss/servonaut) — One terminal UI for AWS, Hetzner, OVH and your own servers ☆`32`
+- [munimtechnologies/munim-computer-use](https://github.com/munimtechnologies/munim-computer-use) — Desktop control from accessibility APIs ☆`29`
 - [Harusame64/desktop-touch-mcp](https://github.com/Harusame64/desktop-touch-mcp) — Drive Windows apps by name, not by pixels ☆`25`
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) — Safe Python executor from smolagents ☆`48`
 - [faze79/WPFVisualTreeMcp](https://github.com/faze79/WPFVisualTreeMcp) — Inspect a WPF visual tree and record the steps as tests ☆`21`
@@ -585,8 +585,8 @@
 
 ### AWS
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) — AWS MCP servers for AI assistants ☆`9,879`
-- [towardsthecloud/cloudburn](https://github.com/towardsthecloud/cloudburn) — Block wasteful AWS spend before it ships ☆`1,800`
+- [awslabs/mcp](https://github.com/awslabs/mcp) — AWS MCP servers for AI assistants ☆`9,884`
+- [towardsthecloud/cloudburn](https://github.com/towardsthecloud/cloudburn) — Block wasteful AWS spend before it ships ☆`1,801`
 - [aarora79/aws-cost-explorer-mcp-server](https://github.com/aarora79/aws-cost-explorer-mcp-server) — MCP server for understanding AWS spend ☆`127`
 - [rishikavikondala/mcp-server-aws](https://github.com/rishikavikondala/mcp-server-aws) — MCP server for AWS resource operations ☆`127`
 - [aws-samples/sample-mcp-server-s3](https://github.com/aws-samples/sample-mcp-server-s3) — Retrieve PDFs and data from AWS S3 ☆`79`
@@ -597,10 +597,10 @@
 - [baryhuang/mcp-server-aws-resources-python](https://github.com/baryhuang/mcp-server-aws-resources-python) — Run boto3 code to manage AWS resources ☆`24`
 ### Cloud Platforms
 
-- [google/mcp](https://github.com/google/mcp) — Google MCP ☆`4,686`
-- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) — Cloudflare services management ☆`4,446`
+- [google/mcp](https://github.com/google/mcp) — Google MCP ☆`4,688`
+- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) — Cloudflare services management ☆`4,451`
 - [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) — Azure DevOps integration for AI agents ☆`2,081`
-- [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) — Connect CloudBase to AI agents ☆`1,159`
+- [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) — Connect CloudBase to AI agents ☆`1,160`
 - [GoogleCloudPlatform/cloud-run-mcp](https://github.com/GoogleCloudPlatform/cloud-run-mcp) — MCP server to deploy apps to Cloud Run ☆`636`
 - [aliyun/alibabacloud-devops-mcp-server](https://github.com/aliyun/alibabacloud-devops-mcp-server) — MCP server for Alibaba Yunxiao DevOps platform ☆`180`
 - [babelcloud/gbox](https://github.com/babelcloud/gbox) — AI control for Android, browser, desktop ☆`183`
@@ -608,14 +608,13 @@
 - [dkruyt/mcp-hetzner](https://github.com/dkruyt/mcp-hetzner) — Hetzner Cloud management ☆`152`
 - [heroku/heroku-mcp-server](https://github.com/heroku/heroku-mcp-server) — Heroku Platform MCP Server using the Heroku CLI ☆`82`
 - [vantage-sh/vantage-mcp-server](https://github.com/vantage-sh/vantage-mcp-server) — Fetch costs and usage from Vantage ☆`86`
-- [AliKarami/MikroMCP](https://github.com/AliKarami/MikroMCP) — Automate MikroTik RouterOS routers and SwOS switches ☆`84`
-- [rosenvladimirov/odoo-claude-mcp](https://github.com/rosenvladimirov/odoo-claude-mcp) — Self-hosted tools for Odoo 15 through 19 ☆`51`
+- [AliKarami/MikroMCP](https://github.com/AliKarami/MikroMCP) — Automate MikroTik RouterOS routers and SwOS switches ☆`85`
 - [call518/MCP-OpenStack-Ops](https://github.com/call518/MCP-OpenStack-Ops) — MCP server providing OpenStack project management ☆`49`
 - [backblaze-labs/b2-mcp](https://github.com/backblaze-labs/b2-mcp) — Manage Backblaze B2 buckets and objects ☆`47`
-- [aliyun/alibabacloud-dataworks-mcp-server](https://github.com/aliyun/alibabacloud-dataworks-mcp-server) — Alibaba Cloud DataWorks API integration ☆`56`
+- [aliyun/alibabacloud-dataworks-mcp-server](https://github.com/aliyun/alibabacloud-dataworks-mcp-server) — Alibaba Cloud DataWorks API integration ☆`57`
 - [aantti/mcp-netbird](https://github.com/aantti/mcp-netbird) — Netbird network management ☆`64`
 - [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) — Python MCP for Kestra AI Agents ☆`35`
-- [oborseth/Porkbun-MCP](https://github.com/oborseth/Porkbun-MCP) — Domains, DNS and the rest of the Porkbun v3 API ☆`34`
+- [oborseth/Porkbun-MCP](https://github.com/oborseth/Porkbun-MCP) — Domains, DNS and the rest of the Porkbun v3 API ☆`36`
 - [aliyun/alibabacloud-hologres-mcp-server](https://github.com/aliyun/alibabacloud-hologres-mcp-server) — MCP server for Alibaba Hologres data warehouse ☆`37`
 - [redis/mcp-redis-cloud](https://github.com/redis/mcp-redis-cloud) — MCP server for Redis Cloud database operations ☆`43`
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) — Qiniu Cloud storage, CDN, and media processing ☆`39`
@@ -631,19 +630,19 @@
 - [kocierik/consul-mcp-server](https://github.com/kocierik/consul-mcp-server) — A consul MCP Server (modelcontextprotocol) ☆`18`
 ### Kubernetes
 
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) — Proxy in front of AI agents and MCP servers ☆`5,938`
-- [skyhook-io/radar](https://github.com/skyhook-io/radar) — Kubernetes UI with issues, topology and a built-in MCP server ☆`4,032`
-- [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) — Kubernetes and OpenShift management ☆`2,221`
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) — Proxy in front of AI agents and MCP servers ☆`5,966`
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) — Kubernetes UI with issues, topology and a built-in MCP server ☆`4,057`
+- [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) — Kubernetes and OpenShift management ☆`2,228`
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) — MCP Server for kubernetes management commands ☆`1,610`
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) — Kubernetes cluster chat with Claude/Cursor ☆`968`
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) — Proxy and lifecycle manager for MCP on Kubernetes ☆`907`
-- [weibaohui/k8m](https://github.com/weibaohui/k8m) — Mini Kubernetes AI Dashboard ☆`890`
+- [weibaohui/k8m](https://github.com/weibaohui/k8m) — Mini Kubernetes AI Dashboard ☆`891`
 - [argoproj-labs/mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) — Manage Argo CD applications ☆`603`
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) — Go-based Kubernetes connection ☆`382`
 - [vfarcic/dot-ai](https://github.com/vfarcic/dot-ai) — Deploy apps to any Kubernetes cluster ☆`339`
 - [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) — Portainer container management ☆`241`
-- [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server) — Kubernetes cluster management ☆`188`
-- [kubestellar/console](https://github.com/kubestellar/console) — Multi-cluster Kubernetes dashboard with natural-language MCP ☆`152`
+- [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server) — Kubernetes cluster management ☆`189`
+- [kubestellar/console](https://github.com/kubestellar/console) — Multi-cluster Kubernetes dashboard with natural-language MCP ☆`151`
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) — Kubernetes cluster interaction ☆`153`
 - [weibaohui/kom](https://github.com/weibaohui/kom) — Kubernetes SDK wrapping kubectl ☆`150`
 - [andrewmoshu/diagram-mcp-server](https://github.com/andrewmoshu/diagram-mcp-server) — Diagrams for AWS, Azure, GCP and Kubernetes ☆`148`
@@ -658,9 +657,9 @@
 - [kubesphere/ks-mcp-server](https://github.com/kubesphere/ks-mcp-server) — KubeSphere APIs for workspaces, clusters, users, and roles ☆`17`
 ### Virtualization & IaC
 
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) — Diagrams to and from Terraform ☆`1,670`
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) — Diagrams to and from Terraform ☆`1,672`
 - [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) — Terraform ecosystem integration for AI ☆`1,556`
-- [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) — MCP gateway and registry with OAuth ☆`1,036`
+- [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) — MCP gateway and registry with OAuth ☆`1,038`
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) — Terraform AI-assisted infrastructure ☆`371`
 - [1Panel-dev/mcp-1panel](https://github.com/1Panel-dev/mcp-1panel) — MCP server for 1Panel management ☆`171`
 - [kocierik/mcp-nomad](https://github.com/kocierik/mcp-nomad) — A nomad MCP Server (modelcontextprotocol) ☆`59`
@@ -674,27 +673,27 @@
 
 ### Apple Messages
 
-- [mattt/iMCP](https://github.com/mattt/iMCP) — Access Messages, Contacts, Reminders on Mac ☆`1,948`
-- [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) — MCP server for secure iMessage database access on macOS ☆`344`
+- [mattt/iMCP](https://github.com/mattt/iMCP) — Access Messages, Contacts, Reminders on Mac ☆`1,950`
+- [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) — MCP server for secure iMessage database access on macOS ☆`343`
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) — Safe iMessage database queries ☆`81`
 - [wyattjoh/imessage-mcp](https://github.com/wyattjoh/imessage-mcp) — iMessage data reading from macOS ☆`29`
 - [ictinnovations/ictbroadcast-mcp](https://github.com/ictinnovations/ictbroadcast-mcp) — Start, stop and watch ICTBroadcast campaigns ☆`16`
 - [marissamarym/imessage-mcp-server](https://github.com/marissamarym/imessage-mcp-server) — Send iMessages and manage contacts through AppleScript ☆`29`
 ### Email
 
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) — AI email assistant for inbox zero ☆`12,913`
-- [Atomic-Mail/atomic-mail-agentic](https://github.com/Atomic-Mail/atomic-mail-agentic) — Agents read, send and react to email on their own ☆`268`
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) — AI email assistant for inbox zero ☆`12,925`
+- [Atomic-Mail/atomic-mail-agentic](https://github.com/Atomic-Mail/atomic-mail-agentic) — Agents read, send and react to email on their own ☆`260`
 - [wyattjoh/jmap-mcp](https://github.com/wyattjoh/jmap-mcp) — Mail on a JMAP server ☆`179`
-- [codefuturist/email-mcp](https://github.com/codefuturist/email-mcp) — Read, search, send and file mail over IMAP and SMTP ☆`145`
+- [codefuturist/email-mcp](https://github.com/codefuturist/email-mcp) — Read, search, send and file mail over IMAP and SMTP ☆`147`
 - [MadLlama25/fastmail-mcp](https://github.com/MadLlama25/fastmail-mcp) — Access to Fastmail API for AI assistants ☆`131`
 - [tecnologicachile/mail-mcp](https://github.com/tecnologicachile/mail-mcp) — IMAP, SMTP and Microsoft 365 mail for several accounts ☆`114`
 - [ZilongXue/claude-post](https://github.com/ZilongXue/claude-post) — Email management via natural language ☆`114`
-- [MrGo2/icloud-mcp](https://github.com/MrGo2/icloud-mcp) — Mail, calendar, contacts and notes through AppleScript or iCloud ☆`76`
-- [agentmail-to/agentmail-mcp](https://github.com/agentmail-to/agentmail-mcp) — Create inboxes so agents can send and receive email ☆`70`
+- [MrGo2/icloud-mcp](https://github.com/MrGo2/icloud-mcp) — Mail, calendar, contacts and notes through AppleScript or iCloud ☆`77`
+- [agentmail-to/agentmail-mcp](https://github.com/agentmail-to/agentmail-mcp) — Create inboxes so agents can send and receive email ☆`71`
 - [mailtrap/mailtrap-mcp](https://github.com/mailtrap/mailtrap-mcp) — Send and test email through Mailtrap, including sandboxes ☆`66`
 - [mailgun/mailgun-mcp-server](https://github.com/mailgun/mailgun-mcp-server) — Mailgun API integration ☆`63`
-- [qubrics/qubrics-sdk](https://github.com/qubrics/qubrics-sdk) — SDKs, a CLI and MCP servers for Sendmux email ☆`62`
 - [Shy2593666979/mcp-server-email](https://github.com/Shy2593666979/mcp-server-email) — Email with attachments for Gmail, Outlook, QQ ☆`81`
+- [qubrics/qubrics-sdk](https://github.com/qubrics/qubrics-sdk) — SDKs, a CLI and MCP servers for Sendmux email ☆`59`
 - [openagentemail/openagentemail](https://github.com/openagentemail/openagentemail) — Self-hosted mail and approvals between agents ☆`55`
 - [desek/outlook-local-mcp](https://github.com/desek/outlook-local-mcp) — Outlook mail and calendar through Microsoft Graph ☆`45`
 - [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant) — Outlook mail, calendar and contacts ☆`39`
@@ -705,14 +704,14 @@
 - [Zacccck/Claude-MCP-Read-Email-Attachments](https://github.com/Zacccck/Claude-MCP-Read-Email-Attachments) — Read Outlook mail and send local files ☆`19`
 ### Messengers
 
-- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) — WhatsApp MCP server ☆`6,809`
-- [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) — MCP server for Telegram messaging ☆`1,991`
+- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) — WhatsApp MCP server ☆`6,816`
+- [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) — MCP server for Telegram messaging ☆`1,995`
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) — LINE Messaging API for AI agents ☆`797`
 - [chaindead/telegram-mcp](https://github.com/chaindead/telegram-mcp) — Telegram dialogs, messages, drafts, statuses ☆`350`
 - [reminia/zendesk-mcp-server](https://github.com/reminia/zendesk-mcp-server) — A Model Context Protocol server for Zendesk ☆`125`
 - [cometchat/docs-mcp](https://github.com/cometchat/docs-mcp) — CometChat docs and bundles for adding chat, voice and video ☆`137`
-- [googlarz/proton-mail-bridge-client](https://github.com/googlarz/proton-mail-bridge-client) — Search, draft and send Proton Mail ☆`85`
-- [imdinu/apple-mail-mcp](https://github.com/imdinu/apple-mail-mcp) — Full-text search of Apple Mail, including large mailboxes ☆`74`
+- [googlarz/proton-mail-bridge-client](https://github.com/googlarz/proton-mail-bridge-client) — Search, draft and send Proton Mail ☆`86`
+- [imdinu/apple-mail-mcp](https://github.com/imdinu/apple-mail-mcp) — Full-text search of Apple Mail, including large mailboxes ☆`73`
 - [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) — Feishu/Lark OAuth and document management ☆`87`
 - [mcp-telegram/mcp-telegram](https://github.com/mcp-telegram/mcp-telegram) — Personal Telegram account over MTProto, self-hosted or hosted ☆`65`
 - [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) — Telegram for local Claude Code debug ☆`88`
@@ -720,12 +719,12 @@
 - [kushneryk/join.cloud](https://github.com/kushneryk/join.cloud) — Rooms where agents exchange messages and share files ☆`66`
 - [PhilflowIO/dav-mcp](https://github.com/PhilflowIO/dav-mcp) — Calendars, contacts and tasks over CalDAV and CardDAV ☆`42`
 - [mjknowles/matrix-mcp-server](https://github.com/mjknowles/matrix-mcp-server) — Matrix server integration and chat ☆`57`
+- [parasxos/apple-mail-mcp](https://github.com/parasxos/apple-mail-mcp) — Fast search of Apple Mail, including verified sends ☆`36`
 - [pubnub/pubnub-mcp-server](https://github.com/pubnub/pubnub-mcp-server) — PubNub Model Context Protocol Server ☆`33`
-- [parasxos/apple-mail-mcp](https://github.com/parasxos/apple-mail-mcp) — Fast search of Apple Mail, including verified sends ☆`34`
 - [yjcho9317/nworks](https://github.com/yjcho9317/nworks) — LINE WORKS messages, calendar, drive, mail and tasks ☆`28`
 - [belaytzev/Telebrief](https://github.com/belaytzev/Telebrief) — Daily or weekly digests of Telegram chats and channels ☆`25`
 - [qpd-v/mcp-communicator-telegram](https://github.com/qpd-v/mcp-communicator-telegram) — Ask the user a question through a Telegram bot and wait ☆`47`
-- [ictinnovations/ictfax-mcp](https://github.com/ictinnovations/ictfax-mcp) — List, upload and send faxes through ICTFax ☆`17`
+- [ictinnovations/ictfax-mcp](https://github.com/ictinnovations/ictfax-mcp) — List, upload and send faxes through ICTFax ☆`18`
 - [skeptrunedev/call4me](https://github.com/skeptrunedev/call4me) — Place phone calls through Telnyx and a live voice model ☆`16`
 - [gotoolkits/mcp-wecombot-server](https://github.com/gotoolkits/mcp-wecombot-server) — Post messages to a WeCom group robot ☆`36`
 - [DLHellMe/telegram-mcp-server](https://github.com/DLHellMe/telegram-mcp-server) — Scrape and analyze Telegram content ☆`31`
@@ -740,31 +739,31 @@
 - [aahl/mcp-notify](https://github.com/aahl/mcp-notify) — Notify to Weixin, Telegram, Bark, Lark, DingTalk ☆`29`
 ### Team Chat
 
-- [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) — MCP server for Slack workspace integration ☆`1,885`
+- [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) — MCP server for Slack workspace integration ☆`1,886`
 - [chatmcp/mcp-server-chatsum](https://github.com/chatmcp/mcp-server-chatsum) — Query and Summarize your chat messages. ☆`1,027`
-- [SaseQ/discord-mcp](https://github.com/SaseQ/discord-mcp) — MCP server for Discord integration ☆`588`
+- [SaseQ/discord-mcp](https://github.com/SaseQ/discord-mcp) — MCP server for Discord integration ☆`591`
 - [joinly-ai/joinly](https://github.com/joinly-ai/joinly) — Make your meetings accessible to AI Agents ☆`569`
 - [v-3/discordmcp](https://github.com/v-3/discordmcp) — Discord MCP Server for Claude Integration ☆`242`
 - [discourse/discourse-mcp](https://github.com/discourse/discourse-mcp) — MCP client for Discourse sites ☆`79`
 - [colibird-ai/local-mcp-releases](https://github.com/colibird-ai/local-mcp-releases) — Reach Mail, chat, files and Office on your Mac or PC ☆`78`
 - [zencoderai/slack-mcp-server](https://github.com/zencoderai/slack-mcp-server) — Slack workspace interaction and messaging ☆`75`
 - [jtalk22/slack-mcp-server](https://github.com/jtalk22/slack-mcp-server) — Search Slack and read threads without adding a bot ☆`32`
-- [PaSympa/discord-mcp](https://github.com/PaSympa/discord-mcp) — Messages, roles and moderation on Discord ☆`31`
+- [PaSympa/discord-mcp](https://github.com/PaSympa/discord-mcp) — Messages, roles and moderation on Discord ☆`32`
 - [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host) — Mattermost integration with LangGraph agent ☆`34`
 ### Voice & Telephony
 
-- [voygr-tech/placecall](https://github.com/voygr-tech/placecall) — Phone a US business and return the transcript and recording ☆`110`
-- [radres/call-me](https://github.com/radres/call-me) — Ring the user's iPhone so the agent can ask out loud ☆`32`
+- [voygr-tech/placecall](https://github.com/voygr-tech/placecall) — Phone a US business and return the transcript and recording ☆`111`
+- [radres/call-me](https://github.com/radres/call-me) — Ring the user's iPhone so the agent can ask out loud ☆`33`
 - [ictinnovations/pbx-mcp](https://github.com/ictinnovations/pbx-mcp) — Channels and dialplan on Asterisk or FreeSWITCH ☆`19`
 - [ictinnovations/ictpbx-mcp](https://github.com/ictinnovations/ictpbx-mcp) — Read extensions, trunks and tenants on ICTPBX ☆`16`
-- [mohitbadwal/ringback](https://github.com/mohitbadwal/ringback) — Agent places a live phone call and can be interrupted ☆`28`
+- [mohitbadwal/ringback](https://github.com/mohitbadwal/ringback) — Agent places a live phone call and can be interrupted ☆`29`
 - [gerkensm/callcenter.js-mcp](https://github.com/gerkensm/callcenter.js-mcp) — Callcenter.JS AI Voice Agent VOIP Connector, MCP + CLI ☆`25`
 ## Data & Analytics
 
 ### AI/ML Platforms
 
-- [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) — New model and product names before keyword tools ☆`2,099`
-- [MigoXLab/dingo](https://github.com/MigoXLab/dingo) — AI data, model, app quality evaluation ☆`765`
+- [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) — New model and product names before keyword tools ☆`2,115`
+- [MigoXLab/dingo](https://github.com/MigoXLab/dingo) — AI data, model, app quality evaluation ☆`766`
 - [evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) — HuggingFace Spaces integration ☆`389`
 - [huggingface/hf-mcp-server](https://github.com/huggingface/hf-mcp-server) — Hugging Face MCP Server ☆`312`
 - [YanxingLiu/dify-mcp-server](https://github.com/YanxingLiu/dify-mcp-server) — Model Context Protocol (MCP) Server for dify workflows ☆`279`
@@ -790,12 +789,12 @@
 - [santoshray02/csv-editor](https://github.com/santoshray02/csv-editor) — AI-powered CSV data manipulation and analysis ☆`25`
 ### Data Platforms
 
-- [dbt-labs/dbt-mcp](https://github.com/dbt-labs/dbt-mcp) — A MCP (Model Context Protocol) server for interacting with dbt. ☆`617`
+- [dbt-labs/dbt-mcp](https://github.com/dbt-labs/dbt-mcp) — A MCP (Model Context Protocol) server for interacting with dbt. ☆`616`
 - [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) — Apache Spark History Server bridge ☆`206`
 - [microsoft/fabric-rti-mcp](https://github.com/microsoft/fabric-rti-mcp) — Fabric Real-Time Intelligence server ☆`133`
 - [acryldata/mcp-server-datahub](https://github.com/acryldata/mcp-server-datahub) — Official MCP server for DataHub ☆`85`
 - [keboola/mcp-server](https://github.com/keboola/mcp-server) — Model Context Protocol (MCP) Server for the Keboola Platform ☆`85`
-- [bintocher/mcp-superset](https://github.com/bintocher/mcp-superset) — Dashboards, charts, datasets and SQL Lab in Apache Superset ☆`61`
+- [bintocher/mcp-superset](https://github.com/bintocher/mcp-superset) — Dashboards, charts, datasets and SQL Lab in Apache Superset ☆`63`
 - [thoughtspot/mcp-server](https://github.com/thoughtspot/mcp-server) — The ThoughtSpot MCP Server ☆`35`
 - [aywengo/kafka-schema-reg-mcp](https://github.com/aywengo/kafka-schema-reg-mcp) — Kafka Schema Registry management ☆`32`
 - [bruno-portfolio/agrobr-mcp](https://github.com/bruno-portfolio/agrobr-mcp) — Brazilian crop prices, trade, climate and fire data ☆`30`
@@ -815,7 +814,7 @@
 - [phisanti/MCPR](https://github.com/phisanti/MCPR) — AI agents in interactive R sessions ☆`27`
 ### Visualization
 
-- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) — 25+ visual charts using @antvis for data analysis ☆`4,414`
+- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) — 25+ visual charts using @antvis for data analysis ☆`4,415`
 - [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) — ECharts visual charts with AI ☆`268`
 - [isaacwasserman/mcp-vegalite-server](https://github.com/isaacwasserman/mcp-vegalite-server) — MCP server for Vega-Lite data visualization ☆`100`
 - [easecloudio/mcp-metabase-server](https://github.com/easecloudio/mcp-metabase-server) — A comprehensive MCP server for Metabase with 70+ tools. ☆`83`
@@ -825,7 +824,7 @@
 
 ### Analytics & Warehouses
 
-- [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) — Connect ClickHouse to your AI assistants. ☆`902`
+- [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) — Connect ClickHouse to your AI assistants. ☆`903`
 - [motherduckdb/mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck) — Local MCP server for DuckDB and MotherDuck ☆`539`
 - [Snowflake-Labs/mcp](https://github.com/Snowflake-Labs/mcp) — Snowflake Cortex AI and SQL orchestration ☆`303`
 - [isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server) — MCP server for Snowflake database queries ☆`184`
@@ -839,16 +838,16 @@
 - [iunera/druid-mcp-server](https://github.com/iunera/druid-mcp-server) — Apache Druid cluster tools, resources, and analysis ☆`18`
 ### Cache & Key-Value
 
-- [redis/mcp-redis](https://github.com/redis/mcp-redis) — MCP server for Redis database operations ☆`640`
+- [redis/mcp-redis](https://github.com/redis/mcp-redis) — MCP server for Redis database operations ☆`641`
 - [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) — MCP server for Alibaba Tablestore NoSQL ☆`157`
 - [upstash/mcp-server](https://github.com/upstash/mcp-server) — Upstash Model Context Server ☆`61`
 - [prajwalnayak7/mcp-server-redis](https://github.com/prajwalnayak7/mcp-server-redis) — Get and set keys in Redis or MemoryDB ☆`25`
 ### Cloud Platforms
 
-- [instantdb/instant](https://github.com/instantdb/instant) — Modern Firebase with real-time database ☆`10,562`
-- [supabase/mcp](https://github.com/supabase/mcp) — Connect Supabase to your AI assistants ☆`2,993`
-- [alexander-zuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) — MCP server for Supabase database and auth ☆`835`
-- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) — Neon Management API and databases ☆`662`
+- [instantdb/instant](https://github.com/instantdb/instant) — Modern Firebase with real-time database ☆`10,561`
+- [supabase/mcp](https://github.com/supabase/mcp) — Connect Supabase to your AI assistants ☆`2,994`
+- [alexander-zuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) — MCP server for Supabase database and auth ☆`836`
+- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) — Neon Management API and databases ☆`663`
 - [planetscale/cli](https://github.com/planetscale/cli) — The CLI for PlanetScale Database ☆`671`
 - [gannonh/firebase-mcp](https://github.com/gannonh/firebase-mcp) — Model Context Protocol (MCP) server for Firebase. ☆`247`
 - [coleam00/supabase-mcp](https://github.com/coleam00/supabase-mcp) — Supabase MCP server created in Python. ☆`194`
@@ -864,23 +863,23 @@
 - [ravenwits/mcp-server-arangodb](https://github.com/ravenwits/mcp-server-arangodb) — ArangoDB database interaction ☆`46`
 ### Multi-Database Tools
 
-- [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) — Open source database MCP toolbox ☆`16,804`
+- [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) — Open source database MCP toolbox ☆`16,815`
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) — Token-efficient multi-database MCP ☆`3,788`
 - [damms005/devdb-vscode](https://github.com/damms005/devdb-vscode) — Zero-config VS Code database extension ☆`1,454`
 - [centralmind/gateway](https://github.com/centralmind/gateway) — Universal database MCP for LLMs ☆`549`
 - [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) — MCP server for database operations ☆`479`
 - [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) — MCP server for SQLAlchemy database operations ☆`422`
 - [executeautomation/mcp-database-server](https://github.com/executeautomation/mcp-database-server) — Connect to SQLite, SQL Server, PostgreSQL ☆`390`
-- [XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server) — Natural language database queries ☆`238`
-- [memgraph/ai-toolkit](https://github.com/memgraph/ai-toolkit) — Agent memory and GraphRAG on Memgraph ☆`118`
+- [XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server) — Natural language database queries ☆`239`
+- [memgraph/ai-toolkit](https://github.com/memgraph/ai-toolkit) — Agent memory and GraphRAG on Memgraph ☆`119`
 - [FROWNINGdev/orm-lens](https://github.com/FROWNINGdev/orm-lens) — ER diagrams, N+1 and migration risk for Django and SQLAlchemy ☆`98`
 - [appwrite/mcp](https://github.com/appwrite/mcp) — Appwrite's MCP server. Operating your backend has never been easier. ☆`72`
-- [yimindev/dati](https://github.com/yimindev/dati) — Turn your database into secure, semantically rich MCP tools for agents. ☆`74`
+- [yimindev/dati](https://github.com/yimindev/dati) — Turn your database into secure, semantically rich MCP tools for agents. ☆`73`
 - [AzureCosmosDB/azure-cosmos-mcp-server-samples](https://github.com/AzureCosmosDB/azure-cosmos-mcp-server-samples) — Sample MCP servers on Azure Cosmos DB ☆`64`
 - [s2-streamstore/s2-sdk-typescript](https://github.com/s2-streamstore/s2-sdk-typescript) — TypeScript SDK for S2, the durable streams API ☆`37`
 - [cyanheads/filesystem-mcp-server](https://github.com/cyanheads/filesystem-mcp-server) — Search, read and edit files, including directory trees ☆`54`
 - [schemacrawler/SchemaCrawler-AI-MCP-Server-Usage](https://github.com/schemacrawler/SchemaCrawler-AI-MCP-Server-Usage) — How to use SchemaCrawler AI MCP Server ☆`30`
-- [ExpeditedProjects/hutchdb](https://github.com/ExpeditedProjects/hutchdb) — Schema-free store agents can write to and query together ☆`24`
+- [ExpeditedProjects/hutchdb](https://github.com/ExpeditedProjects/hutchdb) — Schema-free store agents can write to and query together ☆`26`
 - [spences10/mcp-turso-cloud](https://github.com/spences10/mcp-turso-cloud) — Turso databases, with separate platform and database auth ☆`18`
 - [codeurali/mcp-dataverse](https://github.com/codeurali/mcp-dataverse) — MCP server for Microsoft Dataverse Web API for devs ! ☆`18`
 - [FocusSearch/focus_mcp_sql](https://github.com/FocusSearch/focus_mcp_sql) — Natural language to SQL, parsed from keywords ☆`38`
@@ -891,7 +890,7 @@
 - [OpenLinkSoftware/mcp-jdbc-server](https://github.com/OpenLinkSoftware/mcp-jdbc-server) — Java JDBC access for SQL databases ☆`17`
 ### NoSQL & Document
 
-- [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) — Connect to MongoDB and Atlas clusters ☆`1,156`
+- [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) — Connect to MongoDB and Atlas clusters ☆`1,157`
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) — A Model Context Protocol Server for MongoDB ☆`284`
 - [furey/mongodb-lens](https://github.com/furey/mongodb-lens) — MongoDB Lens: Full Featured MCP Server for MongoDB Databases ☆`207`
 - [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) — A mongo db server for the model context protocol (MCP) ☆`176`
@@ -900,21 +899,21 @@
 - [Knuckles-Team/vector-mcp](https://github.com/Knuckles-Team/vector-mcp) — Vector search on Chroma, Qdrant, MongoDB or pgvector ☆`16`
 ### SQL Databases
 
-- [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) — Postgres with read/write access and performance ☆`3,454`
-- [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) — MCP server for MySQL database operations ☆`2,205`
+- [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) — Postgres with read/write access and performance ☆`3,457`
+- [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) — MCP server for MySQL database operations ☆`2,207`
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) — Secure MySQL database interaction ☆`1,408`
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) — An MCP server to query any Postgres database in natural language. ☆`542`
-- [agent-next/polymarket-paper-trader](https://github.com/agent-next/polymarket-paper-trader) — Paper trading simulator for Polymarket ☆`495`
-- [oracle/mcp](https://github.com/oracle/mcp) — Tools for managing Oracle products ☆`473`
-- [RichardHan/mssql_mcp_server](https://github.com/RichardHan/mssql_mcp_server) — Query SQL Server through a limited interface ☆`401`
+- [agent-next/polymarket-paper-trader](https://github.com/agent-next/polymarket-paper-trader) — Paper trading simulator for Polymarket ☆`496`
+- [oracle/mcp](https://github.com/oracle/mcp) — Tools for managing Oracle products ☆`474`
+- [RichardHan/mssql_mcp_server](https://github.com/RichardHan/mssql_mcp_server) — Query SQL Server through a limited interface ☆`402`
 - [apache/doris-mcp-server](https://github.com/apache/doris-mcp-server) — Apache Doris MCP Server ☆`357`
 - [MariaDB/mcp](https://github.com/MariaDB/mcp) — MariaDB MCP (Model Context Protocol) server implementation ☆`217`
 - [wenb1n-dev/mysql_mcp_server_pro](https://github.com/wenb1n-dev/mysql_mcp_server_pro) — Enhanced MySQL with anomaly analysis ☆`249`
 - [StarRocks/mcp-server-starrocks](https://github.com/StarRocks/mcp-server-starrocks) — StarRocks MCP (Model Context Protocol) Server ☆`196`
 - [HenkDz/postgresql-mcp-server](https://github.com/HenkDz/postgresql-mcp-server) — PostgreSQL admin tools folded into a smaller set ☆`204`
-- [ashishsinha1602/schemagate](https://github.com/ashishsinha1602/schemagate) — Text-to-SQL that only shows tables the caller may read ☆`173`
 - [call518/MCP-PostgreSQL-Ops](https://github.com/call518/MCP-PostgreSQL-Ops) — PostgreSQL operations and monitoring ☆`164`
 - [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) — A Model Context Protocol server for MySQL database operations ☆`171`
+- [ashishsinha1602/schemagate](https://github.com/ashishsinha1602/schemagate) — Text-to-SQL that only shows tables the caller may read ☆`143`
 - [tuannvm/mcp-trino](https://github.com/tuannvm/mcp-trino) — High-performance Trino MCP in Go ☆`122`
 - [jparkerweb/mcp-sqlite](https://github.com/jparkerweb/mcp-sqlite) — Comprehensive SQLite interaction ☆`130`
 - [oceanbase/awesome-oceanbase-mcp](https://github.com/oceanbase/awesome-oceanbase-mcp) — MCP Server for OceanBase database and its tools ☆`110`
@@ -922,8 +921,8 @@
 - [wenb1n-dev/SmartDB_MCP](https://github.com/wenb1n-dev/SmartDB_MCP) — Universal database MCP for MySQL, PostgreSQL, Oracle and more ☆`78`
 - [Teradata/teradata-mcp-server](https://github.com/Teradata/teradata-mcp-server) — Teradata database integration ☆`58`
 - [donghao1393/mcp-dbutils](https://github.com/donghao1393/mcp-dbutils) — Multi-database connector for SQLite, MySQL, PostgreSQL ☆`89`
+- [shkyyy18/mi_fitness_data_bridge](https://github.com/shkyyy18/mi_fitness_data_bridge) — Unofficial Mi Fitness export to SQLite, CSV and JSON ☆`64`
 - [JexinSam/mssql_mcp_server](https://github.com/JexinSam/mssql_mcp_server) — Controlled access to Microsoft SQL Server ☆`60`
-- [shkyyy18/mi_fitness_data_bridge](https://github.com/shkyyy18/mi_fitness_data_bridge) — Unofficial Mi Fitness export to SQLite, CSV and JSON ☆`62`
 - [aliyun/alibabacloud-rds-openapi-mcp-server](https://github.com/aliyun/alibabacloud-rds-openapi-mcp-server) — MCP server for RDS Services via OPENAPI. ☆`54`
 - [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql) — Go-based MCP server for MySQL ☆`66`
 - [drhalto/agentmako](https://github.com/drhalto/agentmako) — Local context packets, code facts and diagnostics for agents ☆`54`
@@ -965,10 +964,10 @@
 - [suhail-ak-2/mcp-typesense-server](https://github.com/suhail-ak-2/mcp-typesense-server) — Typesense search for AI assistants ☆`19`
 ### Spreadsheets & No-Code
 
-- [baserow/baserow](https://github.com/baserow/baserow) — No-code database, apps, agents with AI ☆`6,272`
-- [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) — Google Drive and Sheets integration ☆`1,016`
-- [negokaz/excel-mcp-server](https://github.com/negokaz/excel-mcp-server) — Read and write Excel workbooks ☆`1,046`
-- [busabase/busabase](https://github.com/busabase/busabase) — Local database and workspace where agents store data and skills ☆`692`
+- [baserow/baserow](https://github.com/baserow/baserow) — No-code database, apps, agents with AI ☆`6,276`
+- [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) — Google Drive and Sheets integration ☆`1,017`
+- [negokaz/excel-mcp-server](https://github.com/negokaz/excel-mcp-server) — Read and write Excel workbooks ☆`1,048`
+- [busabase/busabase](https://github.com/busabase/busabase) — Local database and workspace where agents store data and skills ☆`717`
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) — Airtable bases integration for AI systems ☆`456`
 - [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) — Google Sheets read, write, manipulate ☆`104`
 - [rashidazarang/airtable-mcp](https://github.com/rashidazarang/airtable-mcp) — Airtable integration for AI applications ☆`87`
@@ -981,23 +980,23 @@
 - [VOYAGER-Inc/excel-vision-mcp](https://github.com/VOYAGER-Inc/excel-vision-mcp) — Read images embedded in an Excel file ☆`20`
 ### Streaming & Messaging
 
-- [confluentinc/mcp-confluent](https://github.com/confluentinc/mcp-confluent) — MCP server for Confluent Kafka platform ☆`168`
+- [confluentinc/mcp-confluent](https://github.com/confluentinc/mcp-confluent) — MCP server for Confluent Kafka platform ☆`169`
 - [kanapuli/mcp-kafka](https://github.com/kanapuli/mcp-kafka) — A Model Context Protocol Server to perform Kafka client operations ☆`82`
 - [amazon-mq/mcp-server-rabbitmq](https://github.com/amazon-mq/mcp-server-rabbitmq) — MCP server for RabbitMQ ☆`43`
 - [tuannvm/kafka-mcp-server](https://github.com/tuannvm/kafka-mcp-server) — Apache Kafka server in Go ☆`57`
 - [kenliao94/mcp-server-rabbitmq](https://github.com/kenliao94/mcp-server-rabbitmq) — MCP server for interacting with RabbitMQ ☆`38`
 ### Time-Series & Metrics
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) — Unified observability DB for metrics, logs, traces ☆`6,786`
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) — Unified observability DB for metrics, logs, traces ☆`6,789`
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) — MCP server for Prometheus metrics ☆`522`
-- [VictoriaMetrics/mcp-victorialogs](https://github.com/VictoriaMetrics/mcp-victorialogs) — VictoriaLogs log management integration ☆`107`
+- [VictoriaMetrics/mcp-victorialogs](https://github.com/VictoriaMetrics/mcp-victorialogs) — VictoriaLogs log management integration ☆`108`
 - [idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server) — An MCP Server for querying InfluxDB ☆`48`
 - [apache/iotdb-mcp-server](https://github.com/apache/iotdb-mcp-server) — Apache IoTDB MCP Server ☆`39`
 - [influxdata/influxdb3_mcp_server](https://github.com/influxdata/influxdb3_mcp_server) — MCP Server for InfluxDB 3 ☆`38`
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) — A Model Context Protocol (MCP) server for GreptimeDB ☆`29`
 ### Vector Databases
 
-- [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) — Official Qdrant vector database MCP ☆`1,562`
+- [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) — Official Qdrant vector database MCP ☆`1,564`
 - [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) — Chroma vector database capabilities ☆`601`
 - [zilliztech/mcp-server-milvus](https://github.com/zilliztech/mcp-server-milvus) — Model Context Protocol Servers for Milvus ☆`246`
 - [weaviate/mcp-server-weaviate](https://github.com/weaviate/mcp-server-weaviate) — MCP (Model Context Protocol) server for Weaviate ☆`162`
@@ -1010,8 +1009,8 @@
 
 ### API Tools
 
-- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) — Expose FastAPI endpoints as MCP tools ☆`12,025`
-- [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) — Bridge Abilities API to MCP ☆`1,904`
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) — Expose FastAPI endpoints as MCP tools ☆`12,026`
+- [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) — Bridge Abilities API to MCP ☆`1,906`
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) — A flexible HTTP fetching Model Context Protocol server. ☆`836`
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) — Convert Any OpenAPI V3 API to MCP Server ☆`624`
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) — Model Context Protocol server for GraphQL ☆`407`
@@ -1035,20 +1034,20 @@
 - [drestrepom/mcp_graphql](https://github.com/drestrepom/mcp_graphql) — Interact with GraphQL APIs via MCP tools ☆`19`
 ### CI/CD & DevOps
 
-- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) — Build n8n workflows with AI assistants ☆`23,208`
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) — Build n8n workflows with AI assistants ☆`23,219`
 - [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) — Tools for interacting with n8n API ☆`1,630`
-- [googleapis/gcloud-mcp](https://github.com/googleapis/gcloud-mcp) — gcloud MCP server ☆`943`
-- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) — MCP-NixOS - Model Context Protocol Server for NixOS resources ☆`876`
+- [googleapis/gcloud-mcp](https://github.com/googleapis/gcloud-mcp) — gcloud MCP server ☆`944`
+- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) — MCP-NixOS - Model Context Protocol Server for NixOS resources ☆`877`
 - [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker) — MCP server for Docker ☆`753`
-- [vercel-labs/mcp-handler](https://github.com/vercel-labs/mcp-handler) — MCP server helper for Next.js, Nuxt and Svelte ☆`694`
+- [vercel-labs/mcp-handler](https://github.com/vercel-labs/mcp-handler) — MCP server helper for Next.js, Nuxt and Svelte ☆`695`
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) — A docker MCP Server (modelcontextprotocol) ☆`504`
 - [jamsocket/forevervm](https://github.com/jamsocket/forevervm) — Stateful AI code sandboxes ☆`230`
 - [docker/hub-mcp](https://github.com/docker/hub-mcp) — Docker Hub MCP Server ☆`171`
-- [MatanYemini/bitbucket-mcp](https://github.com/MatanYemini/bitbucket-mcp) — Bitbucket Cloud and Server repositories and pull requests ☆`167`
+- [MatanYemini/bitbucket-mcp](https://github.com/MatanYemini/bitbucket-mcp) — Bitbucket Cloud and Server repositories and pull requests ☆`168`
 - [DefangLabs/defang](https://github.com/DefangLabs/defang) — MCP server for Defang cloud deployment ☆`167`
 - [yangkyeongmo/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) — MCP server for Apache Airflow workflows ☆`182`
 - [nacos-group/nacos-mcp-router](https://github.com/nacos-group/nacos-mcp-router) — MCP server discovery, install, and proxy ☆`183`
-- [harness/mcp-server](https://github.com/harness/mcp-server) — Harness’ official MCP Server ☆`111`
+- [harness/mcp-server](https://github.com/harness/mcp-server) — Harness’ official MCP Server ☆`112`
 - [OctopusDeploy/mcp-server](https://github.com/OctopusDeploy/mcp-server) — Octopus Deploy Official MCP Server ☆`103`
 - [buildkite/buildkite-mcp-server](https://github.com/buildkite/buildkite-mcp-server) — Official MCP Server for Buildkite. ☆`56`
 - [Vortiago/mcp-azure-devops](https://github.com/Vortiago/mcp-azure-devops) — AI assistants with Azure DevOps ☆`79`
@@ -1071,13 +1070,13 @@
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) — MCP server for executing code in Docker containers ☆`18`
 ### Code Analysis
 
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — Persistent graph of code, docs and infrastructure ☆`48,109`
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) — Find copy-pasted code across more than 200 languages ☆`6,499`
-- [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) — Lightweight AST search over a codebase ☆`2,963`
-- [Mibayy/token-savior](https://github.com/Mibayy/token-savior) — Structural code navigation and memory that cut active tokens ☆`1,204`
-- [bgauryy/octocode](https://github.com/bgauryy/octocode) — Find and cite code in your repos and on GitHub, in fewer tokens ☆`958`
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — Persistent graph of code, docs and infrastructure ☆`48,181`
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) — Find copy-pasted code across more than 200 languages ☆`6,506`
+- [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) — Lightweight AST search over a codebase ☆`2,965`
+- [Mibayy/token-savior](https://github.com/Mibayy/token-savior) — Structural code navigation and memory that cut active tokens ☆`1,207`
+- [bgauryy/octocode](https://github.com/bgauryy/octocode) — Find and cite code in your repos and on GitHub, in fewer tokens ☆`957`
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) — Official SonarQube quality and security for agents ☆`679`
-- [Muvon/octocode](https://github.com/Muvon/octocode) — Semantic search and a knowledge graph of code, in one Rust binary ☆`520`
+- [Muvon/octocode](https://github.com/Muvon/octocode) — Semantic search and a knowledge graph of code, in one Rust binary ☆`522`
 - [admica/FileScopeMCP](https://github.com/admica/FileScopeMCP) — Codebase dependency diagrams ☆`302`
 - [ozgurcd/gograph](https://github.com/ozgurcd/gograph) — Call graphs, impact and symbol search for Go, locally ☆`231`
 - [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) — Framework-aware code intelligence across many languages ☆`202`
@@ -1100,7 +1099,7 @@
 ### Debuggers
 
 - [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) — Interactive debugging via MCP and VS Code ☆`514`
-- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — Record, replay and fork coding-agent runs ☆`340`
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — Record, replay and fork coding-agent runs ☆`353`
 - [cameroncooke/reloaderoo](https://github.com/cameroncooke/reloaderoo) — Powerful MCP debugging proxy and CLI inspection tool. ☆`127`
 - [stass/lldb-mcp](https://github.com/stass/lldb-mcp) — LLDB MCP server ☆`114`
 - [pansila/mcp_server_gdb](https://github.com/pansila/mcp_server_gdb) — MCP Server to expose the GDB debugging capabilities ☆`68`
@@ -1109,15 +1108,15 @@
 - [imatza-rh/mcp-zuul](https://github.com/imatza-rh/mcp-zuul) — Debug Zuul CI failures, logs and pipelines ☆`21`
 ### Design & UI
 
-- [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) — Figma layout info for AI coding agents ☆`16,163`
-- [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — Cursor and Figma communication ☆`7,081`
-- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) — Frontend development with AI like Magic ☆`6,381`
-- [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) — MCP server for shadcn/ui component library ☆`3,087`
-- [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) — Spec and SDK for MCP apps embedded in a chat ☆`3,046`
-- [awdr74100/figwright](https://github.com/awdr74100/figwright) — Two-way Figma: design to code, and code back to the canvas ☆`1,298`
-- [gethopp/figma-mcp-bridge](https://github.com/gethopp/figma-mcp-bridge) — Figma Plugin & MCP server to bypass API limits ☆`876`
-- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) — Generate mermaid diagram and chart with AI MCP dynamically. ☆`647`
-- [marvkr/better-design](https://github.com/marvkr/better-design) — Design system and shadcn/ui registry for MCP clients ☆`554`
+- [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) — Figma layout info for AI coding agents ☆`16,171`
+- [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — Cursor and Figma communication ☆`7,085`
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) — Frontend development with AI like Magic ☆`6,393`
+- [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) — MCP server for shadcn/ui component library ☆`3,088`
+- [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) — Spec and SDK for MCP apps embedded in a chat ☆`3,051`
+- [awdr74100/figwright](https://github.com/awdr74100/figwright) — Two-way Figma: design to code, and code back to the canvas ☆`1,312`
+- [gethopp/figma-mcp-bridge](https://github.com/gethopp/figma-mcp-bridge) — Figma Plugin & MCP server to bypass API limits ☆`885`
+- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) — Generate mermaid diagram and chart with AI MCP dynamically. ☆`648`
+- [marvkr/better-design](https://github.com/marvkr/better-design) — Design system and shadcn/ui registry for MCP clients ☆`556`
 - [public-ui/kolibri](https://github.com/public-ui/kolibri) — The accessible HTML-Standard ☆`289`
 - [mastergo-design/mastergo-magic-mcp](https://github.com/mastergo-design/mastergo-magic-mcp) — Connect MasterGo to AI assistants ☆`287`
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) — mindmap, mcp server, artifact ☆`240`
@@ -1134,23 +1133,23 @@
 - [kapilduraphe/webflow-mcp-server](https://github.com/kapilduraphe/webflow-mcp-server) — Webflow MCP server ☆`21`
 ### Diagrams
 
-- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) — Draw and edit draw.io diagrams by chatting ☆`36,682`
-- [jinzcdev/markmap-mcp-server](https://github.com/jinzcdev/markmap-mcp-server) — Markdown to interactive mind maps ☆`290`
-- [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid) — MCP Server to previewing mermaid diagrams with live reload ☆`221`
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) — Draw and edit draw.io diagrams by chatting ☆`36,716`
+- [jinzcdev/markmap-mcp-server](https://github.com/jinzcdev/markmap-mcp-server) — Markdown to interactive mind maps ☆`289`
+- [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid) — MCP Server to previewing mermaid diagrams with live reload ☆`222`
 - [apeyroux/mcp-xmind](https://github.com/apeyroux/mcp-xmind) — Analyze and query XMind mind maps ☆`95`
 - [paulhkang94/markview](https://github.com/paulhkang94/markview) — Native Mac markdown preview, with Mermaid ☆`38`
 - [Narasimhaponnada/mermaid-mcp](https://github.com/Narasimhaponnada/mermaid-mcp) — MCP server for Mermaid diagram generation ☆`53`
 ### Documentation
 
-- [upstash/context7](https://github.com/upstash/context7) — Up-to-date code docs for LLMs ☆`64,211`
-- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) — Cross-language curriculum for learning MCP ☆`17,602`
-- [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) — Specification and documentation for MCP ☆`9,613`
+- [upstash/context7](https://github.com/upstash/context7) — Up-to-date code docs for LLMs ☆`64,262`
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) — Cross-language curriculum for learning MCP ☆`17,610`
+- [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) — Specification and documentation for MCP ☆`9,624`
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) — MCP server for Lingo localization platform ☆`5,404`
-- [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) — Chinese getting-started guide ☆`3,580`
-- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) — Microsoft Learn MCP for LLMs ☆`1,973`
-- [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) — Serve library documentation so model answers stay grounded ☆`1,856`
+- [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) — Chinese getting-started guide ☆`3,582`
+- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) — Microsoft Learn MCP for LLMs ☆`1,975`
+- [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) — Serve library documentation so model answers stay grounded ☆`1,861`
 - [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) — Apple Developer Documentation search ☆`1,382`
-- [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources) — Servers and clients from the MCP tutorials ☆`1,231`
+- [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources) — Servers and clients from the MCP tutorials ☆`1,233`
 - [andrea9293/mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) — Document management with Gemini ☆`344`
 - [context-hub/generator](https://github.com/context-hub/generator) — Collect project context so a model sees the right files ☆`341`
 - [szeider/consult7](https://github.com/szeider/consult7) — MCP server to consult a language model with large context size ☆`295`
@@ -1175,11 +1174,11 @@
 - [augmentedivan/fabric-mcp-server](https://github.com/augmentedivan/fabric-mcp-server) — Fabric patterns with AI agents ☆`18`
 ### IDE & Editors
 
-- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) — The fast, Pythonic way to build MCP servers and clients. ☆`28,311`
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) — The fast, Pythonic way to build MCP servers and clients. ☆`28,324`
 - [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) — MCP server for Xcode build operations ☆`6,541`
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) — Run a stdio MCP server over HTTP or SSE ☆`2,948`
-- [samanhappy/mcphub](https://github.com/samanhappy/mcphub) — Self-hosted gateway to connect and operate MCP servers ☆`2,631`
-- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) — MCP server implementing Language Server Protocol ☆`1,614`
+- [samanhappy/mcphub](https://github.com/samanhappy/mcphub) — Self-hosted gateway to connect and operate MCP servers ☆`2,634`
+- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) — MCP server implementing Language Server Protocol ☆`1,615`
 - [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) — MCP server for JetBrains IDE integration ☆`962`
 - [maquina-app/rails-mcp-server](https://github.com/maquina-app/rails-mcp-server) — Let a model inspect and work inside a Rails project ☆`574`
 - [hanlulong/stata-mcp](https://github.com/hanlulong/stata-mcp) — Stata MCP Extension for VS Code, Cursor, and Antigravity IDE ☆`520`
@@ -1196,15 +1195,15 @@
 - [adamwattis/mcp-proxy-server](https://github.com/adamwattis/mcp-proxy-server) — One proxy in front of several MCP resource servers ☆`202`
 - [cyanheads/mcp-ts-core](https://github.com/cyanheads/mcp-ts-core) — Agent-native TypeScript framework for building MCP servers. ☆`153`
 - [aspect-build/rules_ts](https://github.com/aspect-build/rules_ts) — Bazel rules for the tsc compiler from http://typescriptlang.org ☆`139`
-- [leehack/mcp_dart](https://github.com/leehack/mcp_dart) — Dart implementation of MCP SDK ☆`117`
+- [leehack/mcp_dart](https://github.com/leehack/mcp_dart) — Dart implementation of MCP SDK ☆`116`
 - [hechtcarmel/jetbrains-debugger-mcp-plugin](https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin) — JetBrains debugger control via MCP ☆`117`
 - [lucasmontano/mcp-montano-server](https://github.com/lucasmontano/mcp-montano-server) — Simple MCP Server Implementation ☆`133`
 - [Tritlo/lsp-mcp](https://github.com/Tritlo/lsp-mcp) — An MCP server that lets you interact with LSP servers ☆`128`
 - [hloiseau/mcp-gopls](https://github.com/hloiseau/mcp-gopls) — Go LSP server via gopls ☆`105`
 - [dkmaker/mcp-rest-api](https://github.com/dkmaker/mcp-rest-api) — Call any REST endpoint and inspect the response ☆`103`
 - [bourhaouta/vscode-tailwindshades](https://github.com/bourhaouta/vscode-tailwindshades) — Tailwind palettes from any color ☆`78`
+- [linw1995/nvim-mcp](https://github.com/linw1995/nvim-mcp) — MCP server for Neovim integration ☆`76`
 - [hanweg/mcp-pdf-tools](https://github.com/hanweg/mcp-pdf-tools) — MCP server for working with PDF files ☆`76`
-- [linw1995/nvim-mcp](https://github.com/linw1995/nvim-mcp) — MCP server for Neovim integration ☆`75`
 - [vertile-ai/next-mcp-server](https://github.com/vertile-ai/next-mcp-server) — Help LLMs to understand your Next apps better ☆`99`
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) — Drive a running Neovim instance, with no plugin ☆`67`
 - [marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) — CodeMirror MCP extension ☆`79`
@@ -1226,30 +1225,30 @@
 - [kaichen/mcp-local-router](https://github.com/kaichen/mcp-local-router) — Local proxy that aggregates several MCP servers ☆`18`
 ### MCP SDKs
 
-- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) — Official Python SDK for MCP servers and clients ☆`24,758`
-- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) — Official TypeScript SDK for MCP ☆`13,706`
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) — Go implementation of MCP ☆`9,224`
-- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) — Official Go SDK for MCP servers and clients ☆`5,308`
-- [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) — Official C# SDK for MCP servers and clients ☆`4,614`
-- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) — The official Rust SDK for the Model Context Protocol ☆`4,088`
-- [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) — Official Java SDK for MCP servers and clients ☆`3,762`
-- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) — Official PHP SDK for MCP servers and clients ☆`1,654`
-- [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) — Official Swift SDK for MCP servers and clients ☆`1,563`
+- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) — Official Python SDK for MCP servers and clients ☆`24,773`
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) — Official TypeScript SDK for MCP ☆`13,716`
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) — Go implementation of MCP ☆`9,225`
+- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) — Official Go SDK for MCP servers and clients ☆`5,314`
+- [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) — Official C# SDK for MCP servers and clients ☆`4,616`
+- [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) — The official Rust SDK for the Model Context Protocol ☆`4,093`
+- [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) — Official Java SDK for MCP servers and clients ☆`3,759`
+- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) — Official PHP SDK for MCP servers and clients ☆`1,657`
+- [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) — Official Swift SDK for MCP servers and clients ☆`1,565`
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) — Official Kotlin SDK for MCP servers and clients ☆`1,485`
-- [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) — Write an MCP server in a few lines of Go ☆`1,229`
-- [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) — Official Ruby SDK for MCP servers and clients ☆`943`
+- [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) — Write an MCP server in a few lines of Go ☆`1,230`
+- [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) — Official Ruby SDK for MCP servers and clients ☆`945`
 - [QuantGeekDev/mcp-framework](https://github.com/QuantGeekDev/mcp-framework) — TypeScript framework with auto-discovery ☆`930`
 - [bhauman/clojure-mcp](https://github.com/bhauman/clojure-mcp) — Clojure MCP ☆`784`
 - [baidubce/app-builder](https://github.com/baidubce/app-builder) — SDK for building AI applications on Baidu AppBuilder ☆`587`
-- [php-mcp/laravel](https://github.com/php-mcp/laravel) — Laravel SDK for building MCP servers ☆`476`
+- [php-mcp/laravel](https://github.com/php-mcp/laravel) — Laravel SDK for building MCP servers ☆`477`
 - [ghost-in-the-droid/android-agent](https://github.com/ghost-in-the-droid/android-agent) — Drive a real Android phone or iPhone from an agent ☆`413`
 - [opgginc/laravel-mcp-server](https://github.com/opgginc/laravel-mcp-server) — Laravel package for MCP servers ☆`330`
 - [zcaceres/easy-mcp](https://github.com/zcaceres/easy-mcp) — Absurdly easy Model Context Protocol Servers in Typescript ☆`197`
 - [agentfront/frontmcp](https://github.com/agentfront/frontmcp) — TypeScript framework for MCP tools, services and access rules ☆`148`
-- [dev-mirzabicer/ticktick-sdk](https://github.com/dev-mirzabicer/ticktick-sdk) — Async Python client for TickTick, with MCP tools ☆`147`
+- [dev-mirzabicer/ticktick-sdk](https://github.com/dev-mirzabicer/ticktick-sdk) — Async Python client for TickTick, with MCP tools ☆`148`
 - [agentcathq/agentcat-typescript-sdk](https://github.com/agentcathq/agentcat-typescript-sdk) — TypeScript SDK for analytics on your MCP server ☆`127`
 - [Epistates/turbomcp](https://github.com/Epistates/turbomcp) — High-performance MCP framework ☆`99`
-- [bulutarkan/mac-mcp](https://github.com/bulutarkan/mac-mcp) — Let an assistant use Mac apps, files, the terminal and the browser ☆`96`
+- [bulutarkan/mac-mcp](https://github.com/bulutarkan/mac-mcp) — Let an assistant use Mac apps, files, the terminal and the browser ☆`97`
 - [agentcathq/agentcat-python-sdk](https://github.com/agentcathq/agentcat-python-sdk) — Python SDK for analytics on your MCP server ☆`53`
 - [edwin-finance/edwin](https://github.com/edwin-finance/edwin) — Empowering AI agents to dominate DeFAI ☆`66`
 - [justjoehere/mcp_gradio_client](https://github.com/justjoehere/mcp_gradio_client) — Example of a Gradio UI built on the MCP Python client ☆`68`
@@ -1268,17 +1267,17 @@
 - [waldzellai/mcp-agent-ts](https://github.com/waldzellai/mcp-agent-ts) — TypeScript port of the MCP Agent framework ☆`18`
 ### Mobile Development
 
-- [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) — Mobile automation for iOS, Android, emulators ☆`10,304`
-- [callstack/agent-device](https://github.com/callstack/agent-device) — Control phones, browsers, TVs and desktop apps on devices ☆`5,265`
-- [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) — MCP server for interacting with the iOS simulator ☆`2,207`
+- [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) — Mobile automation for iOS, Android, emulators ☆`10,333`
+- [callstack/agent-device](https://github.com/callstack/agent-device) — Control phones, browsers, TVs and desktop apps on devices ☆`5,280`
+- [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) — MCP server for interacting with the iOS simulator ☆`2,209`
 - [minhalvp/android-mcp-server](https://github.com/minhalvp/android-mcp-server) — Android device control via adb ☆`811`
 - [hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind) — Control your Android devices with AI using Model Context Protocol ☆`450`
 - [Arenukvern/mcp_flutter](https://github.com/Arenukvern/mcp_flutter) — Flutter toolkit with visual and semantic snapshots for agents ☆`395`
-- [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb) — MCP server for iOS simulator via IDB ☆`343`
+- [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb) — MCP server for iOS simulator via IDB ☆`345`
 - [mhmzdev/figma-flutter-mcp](https://github.com/mhmzdev/figma-flutter-mcp) — Figma design tokens for Flutter code agents ☆`241`
-- [zelentsov-dev/asc-mcp](https://github.com/zelentsov-dev/asc-mcp) — Apps, builds, TestFlight and subscriptions in App Store Connect ☆`83`
+- [zelentsov-dev/asc-mcp](https://github.com/zelentsov-dev/asc-mcp) — Apps, builds, TestFlight and subscriptions in App Store Connect ☆`84`
 - [ateymoori/oh-my-android](https://github.com/ateymoori/oh-my-android) — Drive the Android emulator and phones from macOS ☆`77`
-- [ethbak/icon-composer-mcp](https://github.com/ethbak/icon-composer-mcp) — Build and edit Apple .icon bundles, including Liquid Glass ☆`66`
+- [ethbak/icon-composer-mcp](https://github.com/ethbak/icon-composer-mcp) — Build and edit Apple .icon bundles, including Liquid Glass ☆`67`
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) — Mobile automation tools with MCP ☆`80`
 - [martingeidobler/android-mcp-server](https://github.com/martingeidobler/android-mcp-server) — Screenshots, taps and logcat on an Android emulator ☆`69`
 - [mikusnuz/app-publish-mcp](https://github.com/mikusnuz/app-publish-mcp) — Listings and releases on the App Store and Google Play ☆`40`
@@ -1286,17 +1285,17 @@
 - [JoshuaRileyDev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server) — MCP server for iOS Simulator control ☆`53`
 - [Tommertom/awesome-ionic-mcp](https://github.com/Tommertom/awesome-ionic-mcp) — Ionic and Capacitor mobile app development ☆`45`
 - [kao273183/mk-qa-master](https://github.com/kao273183/mk-qa-master) — MCP server that drives pytest, Jest, Cypress, Go and Maestro ☆`37`
+- [thecombatwombat/replicant-mcp](https://github.com/thecombatwombat/replicant-mcp) — Android control aimed at accessibility and fewer tokens ☆`19`
 - [FidelisMM/shipstores](https://github.com/FidelisMM/shipstores) — Ship iOS and Android builds to the stores and Expo ☆`19`
-- [thecombatwombat/replicant-mcp](https://github.com/thecombatwombat/replicant-mcp) — Android control aimed at accessibility and fewer tokens ☆`18`
 - [iksnerd/adb-mcp](https://github.com/iksnerd/adb-mcp) — Screenshots, taps and logcat on Android over adb ☆`17`
 - [XixianLiang/HarmonyOS-mcp-server](https://github.com/XixianLiang/HarmonyOS-mcp-server) — MCP server for manipulating HarmonyOS next devices. ☆`35`
 - [Neverlow512/agent-droid-bridge](https://github.com/Neverlow512/agent-droid-bridge) — Control Android devices and emulators over adb ☆`23`
 - [ambar/simctl-mcp](https://github.com/ambar/simctl-mcp) — MCP server for iOS Simulator control ☆`20`
 ### OpenAPI
 
-- [open-webui/mcpo](https://github.com/open-webui/mcpo) — A simple, secure MCP-to-OpenAPI proxy server ☆`4,417`
-- [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) — Korea Investment & Securities Open API Github ☆`1,655`
-- [cuga-project/cuga-agent](https://github.com/cuga-project/cuga-agent) — Enterprise agent harness for tasks on the web and on APIs ☆`1,070`
+- [open-webui/mcpo](https://github.com/open-webui/mcpo) — A simple, secure MCP-to-OpenAPI proxy server ☆`4,418`
+- [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) — Korea Investment & Securities Open API Github ☆`1,659`
+- [cuga-project/cuga-agent](https://github.com/cuga-project/cuga-agent) — Enterprise agent harness for tasks on the web and on APIs ☆`1,107`
 - [janwilmake/openapi-mcp-server](https://github.com/janwilmake/openapi-mcp-server) — Complex OpenAPI exploration with plain language ☆`905`
 - [mattt/emcee](https://github.com/mattt/emcee) — MCP generator for OpenAPIs ☆`334`
 - [ivo-toby/mcp-openapi-server](https://github.com/ivo-toby/mcp-openapi-server) — Turn an OpenAPI spec into MCP resources ☆`302`
@@ -1325,8 +1324,8 @@
 - [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) — MCP server for Ruby Bundler integration ☆`21`
 ### Robotics & Automation
 
-- [trycua/cua](https://github.com/trycua/cua) — MCP server for CUA platform ☆`31,761`
-- [robotmcp/ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) — ROS robot control with Claude and GPT ☆`1,513`
+- [trycua/cua](https://github.com/trycua/cua) — MCP server for CUA platform ☆`31,836`
+- [robotmcp/ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) — ROS robot control with Claude and GPT ☆`1,514`
 - [omni-mcp/isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp) — Isaac Simulation MCP Extension and Server ☆`199`
 - [wise-vision/ros2_mcp](https://github.com/wise-vision/ros2_mcp) — ROS 2 robotics AI bridge ☆`98`
 - [abrinsmead/mindpilot-mcp](https://github.com/abrinsmead/mindpilot-mcp) — Visualize code and architect new systems ☆`90`
@@ -1338,8 +1337,8 @@
 - [amxv/mcp-manager](https://github.com/amxv/mcp-manager) — Web UI to manage MCP servers in Claude ☆`296`
 ### Testing & QA
 
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) — Deterministic testing tools for MCP servers ☆`11,229`
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) — Chat with, inspect and debug MCP servers and apps ☆`2,298`
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) — Deterministic testing tools for MCP servers ☆`11,243`
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) — Chat with, inspect and debug MCP servers and apps ☆`2,299`
 - [QAInsights/jmeter-mcp-server](https://github.com/QAInsights/jmeter-mcp-server) — JMeter AI workflow integration ☆`74`
 - [debugg-ai/debugg-ai-mcp](https://github.com/debugg-ai/debugg-ai-mcp) — AI-managed end-to-end testing ☆`69`
 - [SmartBear/smartbear-mcp](https://github.com/SmartBear/smartbear-mcp) — SmartBear's official MCP Server ☆`44`
@@ -1351,26 +1350,26 @@
 ### Utilities
 
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) — An MCP server that installs other MCP servers for you ☆`1,535`
-- [johnhuang316/code-index-mcp](https://github.com/johnhuang316/code-index-mcp) — Index a repo so a model can search it cheaply ☆`1,007`
-- [jina-ai/MCP](https://github.com/jina-ai/MCP) — Official Jina AI Remote MCP Server ☆`902`
+- [johnhuang316/code-index-mcp](https://github.com/johnhuang316/code-index-mcp) — Index a repo so a model can search it cheaply ☆`1,006`
+- [jina-ai/MCP](https://github.com/jina-ai/MCP) — Official Jina AI Remote MCP Server ☆`904`
 - [tidewave-ai/tidewave_phoenix](https://github.com/tidewave-ai/tidewave_phoenix) — Runtime tools for developing a Phoenix app ☆`858`
-- [zinja-coder/jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server) — MCP server for JADX-AI Plugin ☆`832`
+- [zinja-coder/jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server) — MCP server for JADX-AI Plugin ☆`834`
 - [vercel/next-devtools-mcp](https://github.com/vercel/next-devtools-mcp) — Next.js Development for Coding Agent ☆`835`
 - [slowmist/MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) — Security checklist for tools built on MCP ☆`831`
-- [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) — Measure rooms on a construction PDF for a quantity takeoff ☆`752`
+- [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff) — Measure rooms on a construction PDF for a quantity takeoff ☆`759`
 - [tedeh/jayson](https://github.com/tedeh/jayson) — JSON-RPC 2.0 client and server for Node.js ☆`727`
-- [daobataotie/CAD-MCP](https://github.com/daobataotie/CAD-MCP) — CAD MCP Server ☆`668`
-- [puran-water/autocad-mcp](https://github.com/puran-water/autocad-mcp) — Draw in AutoCAD LT through AutoLISP, with undo ☆`627`
+- [daobataotie/CAD-MCP](https://github.com/daobataotie/CAD-MCP) — CAD MCP Server ☆`673`
+- [puran-water/autocad-mcp](https://github.com/puran-water/autocad-mcp) — Draw in AutoCAD LT through AutoLISP, with undo ☆`634`
 - [cloudflare/workers-mcp](https://github.com/cloudflare/workers-mcp) — Talk to a Cloudflare Worker from Claude Desktop! ☆`647`
-- [Wasdubya/x64dbgMCP](https://github.com/Wasdubya/x64dbgMCP) — Model Context Protocol for x64dbg & x32dbg ☆`609`
-- [spences10/mcp-sequentialthinking-tools](https://github.com/spences10/mcp-sequentialthinking-tools) — Suggest which MCP tool to use at each step ☆`587`
+- [Wasdubya/x64dbgMCP](https://github.com/Wasdubya/x64dbgMCP) — Model Context Protocol for x64dbg & x32dbg ☆`610`
+- [spences10/mcp-sequentialthinking-tools](https://github.com/spences10/mcp-sequentialthinking-tools) — Suggest which MCP tool to use at each step ☆`588`
 - [google/mcp-security](https://github.com/google/mcp-security) — Chronicle and Mandiant tools for detection and response ☆`537`
-- [makafeli/n8n-workflow-builder](https://github.com/makafeli/n8n-workflow-builder) — Create and run n8n workflows in natural language ☆`550`
+- [makafeli/n8n-workflow-builder](https://github.com/makafeli/n8n-workflow-builder) — Create and run n8n workflows in natural language ☆`549`
 - [Miasyster/QuantGPT](https://github.com/Miasyster/QuantGPT) — Design, backtest and submit factors to WorldQuant BRAIN ☆`506`
 - [tidewave-ai/tidewave_rails](https://github.com/tidewave-ai/tidewave_rails) — MCP server with runtime-level tools for Rails development ☆`475`
 - [delorenj/mcp-server-trello](https://github.com/delorenj/mcp-server-trello) — Boards, lists and cards in Trello ☆`447`
-- [cyanheads/atlas-mcp-server](https://github.com/cyanheads/atlas-mcp-server) — Projects, tasks and notes for agents, stored in Neo4j ☆`478`
-- [dnakov/frida-mcp](https://github.com/dnakov/frida-mcp) — MCP stdio server for frida ☆`463`
+- [cyanheads/atlas-mcp-server](https://github.com/cyanheads/atlas-mcp-server) — Projects, tasks and notes for agents, stored in Neo4j ☆`480`
+- [dnakov/frida-mcp](https://github.com/dnakov/frida-mcp) — MCP stdio server for frida ☆`464`
 - [dcSpark/shinkai-local-ai-agents](https://github.com/dcSpark/shinkai-local-ai-agents) — Desktop app for local agents, models and payments ☆`435`
 - [TencentEdgeOne/edgeone-makers-mcp](https://github.com/TencentEdgeOne/edgeone-makers-mcp) — Publish HTML to EdgeOne Makers and get a public URL ☆`440`
 - [adhikasp/mcp-reddit](https://github.com/adhikasp/mcp-reddit) — Fetch and analyze Reddit posts and comments ☆`437`
@@ -1383,8 +1382,8 @@
 - [kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server) — Example MCP server with tools for Cursor ☆`338`
 - [proxy-intell/facebook-ads-library-mcp](https://github.com/proxy-intell/facebook-ads-library-mcp) — Search the Facebook ads library ☆`321`
 - [jkf87/hwp-mcp](https://github.com/jkf87/hwp-mcp) — mcp for handling hwp ☆`271`
-- [zh19980811/Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad) — MCP server for creating and editing AutoCAD drawings ☆`270`
-- [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) — Start and watch prints on common printer APIs ☆`258`
+- [zh19980811/Easy-MCP-AutoCad](https://github.com/zh19980811/Easy-MCP-AutoCad) — MCP server for creating and editing AutoCAD drawings ☆`271`
+- [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) — Start and watch prints on common printer APIs ☆`259`
 - [MCP-Defender/MCP-Defender](https://github.com/MCP-Defender/MCP-Defender) — Desktop app that scans and blocks malicious MCP traffic ☆`255`
 - [salacoste/mcp-n8n-workflow-builder](https://github.com/salacoste/mcp-n8n-workflow-builder) — Create and monitor n8n workflows from chat ☆`237`
 - [aliargun/mcp-server-gemini](https://github.com/aliargun/mcp-server-gemini) — MCP server implementation for Google's Gemini API ☆`259`
@@ -1397,19 +1396,19 @@
 - [jhacksman/OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) — Turn a prompt into an OpenSCAD preview and a 3D file ☆`214`
 - [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) — Quarkus extension for implementing an MCP server ☆`202`
 - [microsoft/mcp-dotnet-samples](https://github.com/microsoft/mcp-dotnet-samples) — Samples of MCP servers and clients in .NET ☆`201`
-- [bonninr/freecad_mcp](https://github.com/bonninr/freecad_mcp) — Drive FreeCAD: model, inspect and export from an assistant ☆`227`
+- [bonninr/freecad_mcp](https://github.com/bonninr/freecad_mcp) — Drive FreeCAD: model, inspect and export from an assistant ☆`228`
 - [minipuft/claude-prompts-mcp](https://github.com/minipuft/claude-prompts-mcp) — Reusable prompts, workflow chains and quality gates ☆`192`
 - [invariantlabs-ai/mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments) — Snippets that reproduce MCP tool poisoning ☆`210`
 - [mattt/Companion](https://github.com/mattt/Companion) — Your neighborhood friendly MCP utility for macOS, iOS, and visionOS ☆`189`
 - [rectalogic/langchain-mcp](https://github.com/rectalogic/langchain-mcp) — Model Context Protocol tool support for LangChain ☆`205`
 - [eniayomi/gcp-mcp](https://github.com/eniayomi/gcp-mcp) — Query a Google Cloud project in natural language ☆`200`
-- [blackwell-systems/agent-lsp](https://github.com/blackwell-systems/agent-lsp) — Language servers packaged as tools for coding agents ☆`170`
+- [blackwell-systems/agent-lsp](https://github.com/blackwell-systems/agent-lsp) — Language servers packaged as tools for coding agents ☆`172`
 - [openfate-ai/openfate-mcp](https://github.com/openfate-ai/openfate-mcp) — Four Pillars calculation, true solar time and reverse lookup ☆`162`
 - [sammcj/mcp-devtools](https://github.com/sammcj/mcp-devtools) — Common developer tools collected for coding agents ☆`162`
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) — A Model Context Protocol server for calculating. ☆`161`
 - [BV-Venky/excalidraw-architect-mcp](https://github.com/BV-Venky/excalidraw-architect-mcp) — Architecture graph drawn as an Excalidraw diagram ☆`163`
 - [Azure-Samples/remote-mcp-functions-dotnet](https://github.com/Azure-Samples/remote-mcp-functions-dotnet) — Azure Functions template for a remote MCP ☆`134`
-- [pzfreo/build123d-mcp](https://github.com/pzfreo/build123d-mcp) — Build 3D models with build123d ☆`140`
+- [pzfreo/build123d-mcp](https://github.com/pzfreo/build123d-mcp) — Build 3D models with build123d ☆`142`
 - [Flux159/mcp-chat](https://github.com/Flux159/mcp-chat) — Generic client for trying MCP servers and agents ☆`139`
 - [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) — Economic series from FRED ☆`130`
 - [Nyrok/flompt](https://github.com/Nyrok/flompt) — Edit a prompt as a flowchart, then compile it back ☆`155`
@@ -1421,10 +1420,10 @@
 - [baryhuang/mcp-hubspot](https://github.com/baryhuang/mcp-hubspot) — Read and update HubSpot CRM records ☆`129`
 - [rcontesti/IB_MCP](https://github.com/rcontesti/IB_MCP) — Market data and orders through the Interactive Brokers API ☆`141`
 - [makalin/SecureMCP](https://github.com/makalin/SecureMCP) — Audit MCP apps for vulnerabilities and bad configuration ☆`140`
-- [jangtrinh/design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) — Blender workflow with a gate for 3D-print files ☆`109`
+- [jangtrinh/design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) — Blender workflow with a gate for 3D-print files ☆`110`
 - [borgius/jobspy-mcp-server](https://github.com/borgius/jobspy-mcp-server) — Search jobs across several listing sites ☆`123`
-- [mertkayacs/reevesagents](https://github.com/mertkayacs/reevesagents) — Run many coding agents from MCP, a CLI or a web UI ☆`109`
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) — Score MCP tools with a model, including a GitHub Action ☆`134`
+- [mertkayacs/reevesagents](https://github.com/mertkayacs/reevesagents) — Run many coding agents from MCP, a CLI or a web UI ☆`108`
 - [yylo-dev/roundtable](https://github.com/yylo-dev/roundtable) — One interface that discovers Codex, Claude Code, Cursor and Gemini ☆`128`
 - [LeulAria/Aria-Icons](https://github.com/LeulAria/Aria-Icons) — MCP server for 1M+ SVG icons ☆`104`
 - [jlsookiki/secondhand-mcp](https://github.com/jlsookiki/secondhand-mcp) — Search Facebook Marketplace, eBay and Depop ☆`99`
@@ -1432,19 +1431,18 @@
 - [TonyWang-hub/mcp-cn-commerce](https://github.com/TonyWang-hub/mcp-cn-commerce) — MCP connectors for Chinese commerce platforms ☆`96`
 - [mikeyny/ai-image-gen-mcp](https://github.com/mikeyny/ai-image-gen-mcp) — Generate images from text through Replicate ☆`121`
 - [theronic/modex](https://github.com/theronic/modex) — Clojure library for MCP tools, resources and prompts ☆`121`
-- [garagon/aguara](https://github.com/garagon/aguara) — The open source security engine for AI agent and supply-chain trust. ☆`94`
+- [MaxEllis/orcaslicer-mcp](https://github.com/MaxEllis/orcaslicer-mcp) — Load a model in OrcaSlicer, tune settings and slice it ☆`92`
+- [garagon/aguara](https://github.com/garagon/aguara) — The open source security engine for AI agent and supply-chain trust. ☆`93`
 - [f/mcp-startup-boilerplate](https://github.com/f/mcp-startup-boilerplate) — Rails template for a paid MCP server, with Stripe and OAuth ☆`112`
-- [MaxEllis/orcaslicer-mcp](https://github.com/MaxEllis/orcaslicer-mcp) — Load a model in OrcaSlicer, tune settings and slice it ☆`90`
+- [embedded-society/altium-designer-mcp](https://github.com/embedded-society/altium-designer-mcp) — Manage Altium Designer component libraries ☆`90`
 - [pfldy2850/py-mcp-naver](https://github.com/pfldy2850/py-mcp-naver) — python MCP NAVER ☆`115`
-- [embedded-society/altium-designer-mcp](https://github.com/embedded-society/altium-designer-mcp) — Manage Altium Designer component libraries ☆`89`
 - [TocharianOU/mcp-server-kibana](https://github.com/TocharianOU/mcp-server-kibana) — Search and manage Kibana ☆`86`
-- [JoxoAI/joxo](https://github.com/JoxoAI/joxo) — Shared project and task board for coding agents, on desktop and iPhone ☆`89`
-- [LLMQuant/data-mcp](https://github.com/LLMQuant/data-mcp) — Finance datasets from LLMQuant Data ☆`87`
+- [LLMQuant/data-mcp](https://github.com/LLMQuant/data-mcp) — Finance datasets from LLMQuant Data ☆`88`
 - [NapthaAI/http-oauth-mcp-server](https://github.com/NapthaAI/http-oauth-mcp-server) — Remote MCP server with the OAuth extension ☆`110`
 - [TermiX-official/bsc-mcp](https://github.com/TermiX-official/bsc-mcp) — Send BNB, move BEP-20 tokens and call contracts on BSC ☆`105`
 - [oculairmedia/Letta-MCP-server](https://github.com/oculairmedia/Letta-MCP-server) — Manage a Letta server and talk to its agents ☆`80`
+- [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) — Self-hosted mission control for multi-agent workflows ☆`78`
 - [TermiX-official/binance-mcp](https://github.com/TermiX-official/binance-mcp) — binance-mcp ☆`97`
-- [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) — Self-hosted mission control for multi-agent workflows ☆`77`
 - [ronantakizawa/a11ymcp](https://github.com/ronantakizawa/a11ymcp) — Test a page for web accessibility issues ☆`94`
 - [smadi0x86/MDB-MCP](https://github.com/smadi0x86/MDB-MCP) — Debug a binary with GDB or LLDB ☆`74`
 - [MarcelRoozekrans/roslyn-codelens-mcp](https://github.com/MarcelRoozekrans/roslyn-codelens-mcp) — Navigate, diagnose and refactor .NET code ☆`70`
@@ -1454,33 +1452,34 @@
 - [contentful/contentful-mcp-server](https://github.com/contentful/contentful-mcp-server) — Manage Contentful entries through the Management API ☆`62`
 - [jsdelivr/globalping-mcp-server](https://github.com/jsdelivr/globalping-mcp-server) — Remote network commands for LLMs ☆`66`
 - [lethain/library-mcp](https://github.com/lethain/library-mcp) — MCP server for operating on Markdown knowledge bases ☆`91`
-- [Mearman/mcp-wayback-machine](https://github.com/Mearman/mcp-wayback-machine) — Look up pages in the Internet Archive Wayback Machine ☆`64`
-- [ilyautov/marketplaces-mcp-ru](https://github.com/ilyautov/marketplaces-mcp-ru) — Wildberries, Ozon, Yandex Market and Avito seller data ☆`60`
+- [Mearman/mcp-wayback-machine](https://github.com/Mearman/mcp-wayback-machine) — Look up pages in the Internet Archive Wayback Machine ☆`65`
+- [JoxoAI/joxo](https://github.com/JoxoAI/joxo) — Shared project and task board for coding agents, on desktop and iPhone ☆`65`
+- [ilyautov/marketplaces-mcp-ru](https://github.com/ilyautov/marketplaces-mcp-ru) — Wildberries, Ozon, Yandex Market and Avito seller data ☆`61`
 - [PSPDFKit/nutrient-document-engine-mcp-server](https://github.com/PSPDFKit/nutrient-document-engine-mcp-server) — Process documents in natural language ☆`62`
 - [DeDeveloper23/codebase-mcp](https://github.com/DeDeveloper23/codebase-mcp) — Pack a repository with RepoMix so a model can read it ☆`85`
 - [kranz-org/kranz](https://github.com/kranz-org/kranz) — Keyboard-first local service orchestrator with a focused terminal UI ☆`62`
-- [Pantani/tdmcp](https://github.com/Pantani/tdmcp) — Build a playable TouchDesigner network from a description ☆`58`
+- [Pantani/tdmcp](https://github.com/Pantani/tdmcp) — Build a playable TouchDesigner network from a description ☆`59`
 - [linux-china/mcp-rs-template](https://github.com/linux-china/mcp-rs-template) — Model Context Protocol (MCP) CLI server template for Rust ☆`82`
 - [brentmid/evernote-mcp-server](https://github.com/brentmid/evernote-mcp-server) — Search and read notes in Evernote ☆`56`
 - [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) — Verifiable AI coding agent harness with an evidence hash-chain ☆`56`
 - [MorDavid/ExternalAttacker-MCP](https://github.com/MorDavid/ExternalAttacker-MCP) — Map an external attack surface for recon and bug bounty ☆`78`
-- [gabrielekarra/mcp-anything](https://github.com/gabrielekarra/mcp-anything) — One command to turn any codebase into an MCP server ☆`55`
 - [LadislavSopko/mcp-ai-server-visual-studio](https://github.com/LadislavSopko/mcp-ai-server-visual-studio) — Roslyn tools inside Visual Studio ☆`55`
+- [gabrielekarra/mcp-anything](https://github.com/gabrielekarra/mcp-anything) — One command to turn any codebase into an MCP server ☆`55`
+- [HaseebKhalid1507/SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) — Rust terminal agent with parallel workers and supervision ☆`54`
 - [raw-labs/mxcp](https://github.com/raw-labs/mxcp) — Enterprise path from data sources to tools a model can call ☆`68`
 - [priyankark/a11y-mcp](https://github.com/priyankark/a11y-mcp) — Accessibility audits of a page with axe-core ☆`53`
-- [HaseebKhalid1507/SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) — Rust terminal agent with parallel workers and supervision ☆`53`
 - [ThingsPanel/thingspanel-mcp](https://github.com/ThingsPanel/thingspanel-mcp) — Devices and data on the ThingsPanel IoT platform ☆`48`
-- [MarcusJellinghaus/mcp-workspace](https://github.com/MarcusJellinghaus/mcp-workspace) — Files, git and GitHub inside a project sandbox ☆`49`
 - [maton-ai/agent-toolkit](https://github.com/maton-ai/agent-toolkit) — Connect SaaS tools such as HubSpot and Salesforce ☆`50`
+- [MarcusJellinghaus/mcp-workspace](https://github.com/MarcusJellinghaus/mcp-workspace) — Files, git and GitHub inside a project sandbox ☆`49`
 - [attalla1/photopea-mcp-server](https://github.com/attalla1/photopea-mcp-server) — MCP server for AI-driven image editing with Photopea ☆`49`
 - [RyanCardin15/AzureDevOps-MCP](https://github.com/RyanCardin15/AzureDevOps-MCP) — Work items, repos and boards in Azure DevOps ☆`60`
-- [adenot/mcp-google-search](https://github.com/adenot/mcp-google-search) — Google results through the Custom Search API ☆`71`
 - [CSCSoftware/AiDex](https://github.com/CSCSoftware/AiDex) — Persistent index so an assistant can jump around a codebase ☆`48`
-- [rootlyhq/rootly-mcp-server](https://github.com/rootlyhq/rootly-mcp-server) — Rootly MCP server ☆`45`
+- [adenot/mcp-google-search](https://github.com/adenot/mcp-google-search) — Google results through the Custom Search API ☆`71`
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) — Automatic operation of on-screen GUI. ☆`72`
+- [rootlyhq/rootly-mcp-server](https://github.com/rootlyhq/rootly-mcp-server) — Rootly MCP server ☆`45`
+- [dejuknow/md-redline](https://github.com/dejuknow/md-redline) — Inline review comments on markdown specs, handed to the agent ☆`47`
 - [pzalutski-pixel/javalens-mcp](https://github.com/pzalutski-pixel/javalens-mcp) — Navigate, search and refactor Java through Eclipse JDT ☆`46`
 - [CheckPointSW/mcp-servers](https://github.com/CheckPointSW/mcp-servers) — AI-accessible Check Point firewall and threat management. ☆`44`
-- [dejuknow/md-redline](https://github.com/dejuknow/md-redline) — Inline review comments on markdown specs, handed to the agent ☆`46`
 - [datadog-labs/mcp-server](https://github.com/datadog-labs/mcp-server) — Official Datadog MCP Server ☆`47`
 - [heltonteixeira/openrouterai](https://github.com/heltonteixeira/openrouterai) — MCP server for OpenRouter.ai integration ☆`64`
 - [anzy-renlab-ai/pronounce](https://github.com/anzy-renlab-ai/pronounce) — Hear how developers pronounce kubectl, nginx and other terms ☆`47`
@@ -1489,20 +1488,20 @@
 - [MikeRecognex/mcp-codebase-index](https://github.com/MikeRecognex/mcp-codebase-index) — Functions, imports and change impact ☆`63`
 - [withastro/docs-mcp](https://github.com/withastro/docs-mcp) — Astro Docs MCP Server ☆`68`
 - [hetaoBackend/mcp-github-trending](https://github.com/hetaoBackend/mcp-github-trending) — GitHub trending repositories and developers ☆`62`
+- [flamexnreal/davinci-resolve-ai-bridge-mcp](https://github.com/flamexnreal/davinci-resolve-ai-bridge-mcp) — Cut and grade a DaVinci Resolve timeline ☆`44`
+- [Decodo/mcp-server](https://github.com/Decodo/mcp-server) — Scrape sites, search and shops into structured results ☆`40`
 - [Text2Go/ai-humanizer-mcp-server](https://github.com/Text2Go/ai-humanizer-mcp-server) — Rewrite AI-sounding text so it reads more naturally ☆`64`
-- [flamexnreal/davinci-resolve-ai-bridge-mcp](https://github.com/flamexnreal/davinci-resolve-ai-bridge-mcp) — Cut and grade a DaVinci Resolve timeline ☆`42`
+- [pzalutski-pixel/sharplens-mcp](https://github.com/pzalutski-pixel/sharplens-mcp) — Semantic analysis and refactoring of C# through Roslyn ☆`41`
 - [Mtehabsim/ScreenPilot](https://github.com/Mtehabsim/ScreenPilot) — AI device control like a human ☆`55`
 - [pylegifrance/mcp-server-legifrance](https://github.com/pylegifrance/mcp-server-legifrance) — Legifrance MCP Server ☆`65`
-- [Decodo/mcp-server](https://github.com/Decodo/mcp-server) — Scrape sites, search and shops into structured results ☆`39`
-- [pzalutski-pixel/sharplens-mcp](https://github.com/pzalutski-pixel/sharplens-mcp) — Semantic analysis and refactoring of C# through Roslyn ☆`40`
 - [daobataotie/mssql-mcp](https://github.com/daobataotie/mssql-mcp) — mssql mcp server ☆`39`
-- [decriptor/DilettoLabs.AvaloniaUI.MCP](https://github.com/decriptor/DilettoLabs.AvaloniaUI.MCP) — MCP server for AvaloniaUI ☆`39`
-- [demcp/demcp-defillama-mcp](https://github.com/demcp/demcp-defillama-mcp) — DeFi protocol data from DefiLlama ☆`63`
 - [verygoodplugins/mcp-toggl](https://github.com/verygoodplugins/mcp-toggl) — Time entries and reports in Toggl Track ☆`36`
 - [circuit-synth/kicad-sch-api](https://github.com/circuit-synth/kicad-sch-api) — API for manipulating sexpr in KiCAD schematic editor ☆`57`
+- [decriptor/DilettoLabs.AvaloniaUI.MCP](https://github.com/decriptor/DilettoLabs.AvaloniaUI.MCP) — MCP server for AvaloniaUI ☆`39`
+- [demcp/demcp-defillama-mcp](https://github.com/demcp/demcp-defillama-mcp) — DeFi protocol data from DefiLlama ☆`63`
 - [alxspiker/mcp-server-ftp](https://github.com/alxspiker/mcp-server-ftp) — Model Context Protocol server for FTP access ☆`36`
-- [xiaotonng/lc2mcp](https://github.com/xiaotonng/lc2mcp) — Convert LangChain tools to FastMCP tools ☆`56`
 - [bharathvaj-ganesan/whois-mcp](https://github.com/bharathvaj-ganesan/whois-mcp) — MCP Server for whois lookups. ☆`60`
+- [xiaotonng/lc2mcp](https://github.com/xiaotonng/lc2mcp) — Convert LangChain tools to FastMCP tools ☆`55`
 - [kirich1409/maven-mcp](https://github.com/kirich1409/maven-mcp) — Look up Maven dependencies and how they are used ☆`37`
 - [swgee/BurpMCP](https://github.com/swgee/BurpMCP) — Burp Suite extension that exposes the proxy to an assistant ☆`57`
 - [telmon95/VulneraMCP](https://github.com/telmon95/VulneraMCP) — Security testing and vulnerability research for bug bounty ☆`50`
@@ -1512,49 +1511,49 @@
 - [daipendency/daipendency-mcp](https://github.com/daipendency/daipendency-mcp) — Model Context Protocol server for Daipendency ☆`58`
 - [muppet-dev/kit](https://github.com/muppet-dev/kit) — Debugging and Testing tool for MCP servers ☆`58`
 - [feiyun0112/spec-coding-mcp](https://github.com/feiyun0112/spec-coding-mcp) — Spec-driven workflow that turns feature ideas ☆`50`
+- [librejustice/librejustice](https://github.com/librejustice/librejustice) — Search French and European case law and statutes ☆`32`
 - [Azure-Samples/mcp-auth-servers](https://github.com/Azure-Samples/mcp-auth-servers) — Reference servers showing how MCP authentication works ☆`50`
 - [XenoXilus/outlook-mcp](https://github.com/XenoXilus/outlook-mcp) — Outlook mail, calendar and SharePoint through Microsoft Graph ☆`30`
 - [zhaoyouj/mcp-slicer](https://github.com/zhaoyouj/mcp-slicer) — A Model Context Protocol server for 3D Slicer integration ☆`45`
 - [zxzinn/opencti-mcp](https://github.com/zxzinn/opencti-mcp) — Indicators, reports and threat actors in OpenCTI ☆`42`
-- [librejustice/librejustice](https://github.com/librejustice/librejustice) — Search French and European case law and statutes ☆`30`
 - [newtype-01/prompthouse-mcp](https://github.com/newtype-01/prompthouse-mcp) — Personal prompt library manager ☆`53`
 - [henilcalagiya/mcp-apple-notes](https://github.com/henilcalagiya/mcp-apple-notes) — Read and write Apple Notes on this Mac ☆`53`
 - [portone-io/mcp-server](https://github.com/portone-io/mcp-server) — PortOne MCP Server for Developers ☆`29`
-- [taiste/harvest-mcp-server](https://github.com/taiste/harvest-mcp-server) — MCP Server for Harvest ☆`38`
 - [HarshJ23/deepseek-claude-MCP-server](https://github.com/HarshJ23/deepseek-claude-MCP-server) — DeepSeek R1 reasoning inside Claude Desktop ☆`50`
 - [StefH/McpDotNet.Extensions.SemanticKernel](https://github.com/StefH/McpDotNet.Extensions.SemanticKernel) — Use MCP tools as Semantic Kernel functions ☆`40`
+- [taiste/harvest-mcp-server](https://github.com/taiste/harvest-mcp-server) — MCP Server for Harvest ☆`37`
 - [Whq02/MercuryCLI](https://github.com/Whq02/MercuryCLI) — Several coding sessions in one terminal, mixing providers ☆`27`
+- [wretcher207/reaper-daemon](https://github.com/wretcher207/reaper-daemon) — Drive REAPER: plugins, automation and measurements ☆`27`
 - [mcp-agents-ai/mcp-agents-hub](https://github.com/mcp-agents-ai/mcp-agents-hub) — Find, build and deploy MCP servers and clients ☆`44`
 - [mcp2everything/mcp2serial](https://github.com/mcp2everything/mcp2serial) — Control hardware such as a Raspberry Pi Pico over serial ☆`50`
 - [FelixFoster/mcp-enhance-prompt](https://github.com/FelixFoster/mcp-enhance-prompt) — AI-powered prompt enhancement and generation ☆`24`
-- [wretcher207/reaper-daemon](https://github.com/wretcher207/reaper-daemon) — Drive REAPER: plugins, automation and measurements ☆`25`
 - [shieldyguy/stm32-mcp](https://github.com/shieldyguy/stm32-mcp) — build, flash, debug stm32 projects ☆`25`
 - [fireostendere/mcp_diptrace](https://github.com/fireostendere/mcp_diptrace) — MCP server and live XML bridge for DipTrace ☆`25`
 - [fastn-ai/fastn-mcp](https://github.com/fastn-ai/fastn-mcp) — Governed, audited access to customer systems of record ☆`23`
+- [hjbaard/SolidWorks-MCP](https://github.com/hjbaard/SolidWorks-MCP) — Build and measure parts in a running SolidWorks session ☆`24`
 - [Ming-jiayou/mcp_demo](https://github.com/Ming-jiayou/mcp_demo) — A simple example of building an MCP client using C#. ☆`47`
 - [panbanda/omen](https://github.com/panbanda/omen) — Complexity, hotspots and blast radius for a codebase ☆`21`
 - [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) — SymPy, NumPy, and Matplotlib in one math engine ☆`22`
 - [maple-kit/maple](https://github.com/maple-kit/maple) — Visual review comments on a preview, with a CI merge gate ☆`22`
 - [keplertech/naja-scope](https://github.com/keplertech/naja-scope) — Trace connectivity and hierarchy in SystemVerilog and VHDL ☆`22`
 - [ourongxing/newsnow-mcp-server](https://github.com/ourongxing/newsnow-mcp-server) — Official MCP Server for newnow, 40+ sources available. ☆`34`
+- [huanglizhuo/OctoCounts](https://github.com/huanglizhuo/OctoCounts) — Count lines of code in a public GitHub repo without cloning it ☆`21`
 - [addozhang/spring-rest-to-mcp](https://github.com/addozhang/spring-rest-to-mcp) — Convert Spring REST API to MCP Server with OpenRewrite ☆`39`
 - [nsxdavid/clickup-mcp-server](https://github.com/nsxdavid/clickup-mcp-server) — ClickUp tasks, docs and checklists from the conversation ☆`43`
-- [hjbaard/SolidWorks-MCP](https://github.com/hjbaard/SolidWorks-MCP) — Build and measure parts in a running SolidWorks session ☆`20`
-- [huanglizhuo/OctoCounts](https://github.com/huanglizhuo/OctoCounts) — Count lines of code in a public GitHub repo without cloning it ☆`20`
 - [ZedMoster/revit-mcp](https://github.com/ZedMoster/revit-mcp) — revit-mcp ☆`38`
-- [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) — Datetime info for agentic systems ☆`42`
 - [patchloom/patchloom](https://github.com/patchloom/patchloom) — Structured edits for JSON, YAML, markdown and code, with a dry run ☆`20`
-- [jonemo/openpyxl-mcp-server](https://github.com/jonemo/openpyxl-mcp-server) — Read and write Excel workbooks through openpyxl ☆`19`
+- [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) — Datetime info for agentic systems ☆`42`
 - [axonixtools/PocketMCP](https://github.com/axonixtools/PocketMCP) — Expose an Android phone as an MCP server on the local network ☆`19`
+- [jonemo/openpyxl-mcp-server](https://github.com/jonemo/openpyxl-mcp-server) — Read and write Excel workbooks through openpyxl ☆`19`
 - [Azure-Samples/remote-mcp-webapp-dotnet](https://github.com/Azure-Samples/remote-mcp-webapp-dotnet) — .NET MCP server for Azure App Service ☆`40`
+- [angrysky56/ast-mcp-server](https://github.com/angrysky56/ast-mcp-server) — Query a semantic graph and AST of a codebase ☆`37`
 - [jmtanguy/droit-francais-mcp](https://github.com/jmtanguy/droit-francais-mcp) — French statutes and case law from Legifrance ☆`36`
 - [tokenizin-agency/mcp-npx-fetch](https://github.com/tokenizin-agency/mcp-npx-fetch) — Fetch a page as HTML, JSON, markdown or plain text ☆`42`
-- [angrysky56/ast-mcp-server](https://github.com/angrysky56/ast-mcp-server) — Query a semantic graph and AST of a codebase ☆`37`
 - [Cyreslab-AI/crunchbase-mcp-server](https://github.com/Cyreslab-AI/crunchbase-mcp-server) — Companies, funding and investors from Crunchbase ☆`17`
 - [stefanoamorelli/companies-house-mcp](https://github.com/stefanoamorelli/companies-house-mcp) — UK companies, officers and filings ☆`31`
 - [Buga-luga/cursor-mcp](https://github.com/Buga-luga/cursor-mcp) — Bridge Claude to desktop apps through Cursor ☆`39`
-- [arikusi/nakkas](https://github.com/arikusi/nakkas) — MCP server that turns AI into an SVG artist ☆`31`
 - [bingal/FastDomainCheck-MCP-Server](https://github.com/bingal/FastDomainCheck-MCP-Server) — Check whether many domain names are registered ☆`40`
+- [arikusi/nakkas](https://github.com/arikusi/nakkas) — MCP server that turns AI into an SVG artist ☆`31`
 - [qualixar/slm-mesh](https://github.com/qualixar/slm-mesh) — Peer-to-peer messaging between coding agents ☆`16`
 - [shadowfax92/apple-reminders-mcp](https://github.com/shadowfax92/apple-reminders-mcp) — Create, complete and delete Apple Reminders ☆`39`
 - [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) — Current time check for Claude via MCP ☆`33`
@@ -1619,11 +1618,11 @@
 - [torshepherd/compiler-explorer-mcp](https://github.com/torshepherd/compiler-explorer-mcp) — Compile on Compiler Explorer and compare assembly ☆`16`
 ### Version Control
 
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) — GitHub's official MCP Server ☆`34,239`
-- [idosal/git-mcp](https://github.com/idosal/git-mcp) — Free remote MCP for any GitHub project ☆`8,504`
-- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) — Code health, generated docs, dead code and git analytics ☆`8,133`
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) — GitHub's official MCP Server ☆`34,274`
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) — Free remote MCP for any GitHub project ☆`8,503`
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) — Code health, generated docs, dead code and git analytics ☆`8,084`
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) — GitKraken CLI Releases and Documentation ☆`462`
-- [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) — An MCP server for Azure DevOps ☆`400`
+- [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) — An MCP server for Azure DevOps ☆`399`
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) — GitHub repository content reading ☆`315`
 - [cyanheads/git-mcp-server](https://github.com/cyanheads/git-mcp-server) — Clone, commit, branch, merge and stash in local git repos ☆`245`
 - [puravparab/Gitingest-MCP](https://github.com/puravparab/Gitingest-MCP) — mcp server for gitingest ☆`138`
@@ -1636,8 +1635,8 @@
 - [raohwork/forgejo-mcp](https://github.com/raohwork/forgejo-mcp) — Manage Gitea and Forgejo repositories ☆`70`
 - [jmrplens/gitlab-mcp-server](https://github.com/jmrplens/gitlab-mcp-server) — Find and run GitLab actions, with a read-only mode ☆`46`
 - [Ryan0204/github-repo-mcp](https://github.com/Ryan0204/github-repo-mcp) — GitHub repository reading ☆`33`
-- [cq27-dev/rag-rat](https://github.com/cq27-dev/rag-rat) — Semantic search, symbols and impact across a local repo ☆`25`
-- [sgroy10/speclock](https://github.com/sgroy10/speclock) — Guardrails on coding-agent actions, in Claude Code, MCP and CI ☆`25`
+- [cq27-dev/rag-rat](https://github.com/cq27-dev/rag-rat) — Semantic search, symbols and impact across a local repo ☆`26`
+- [sgroy10/speclock](https://github.com/sgroy10/speclock) — Guardrails on coding-agent actions, in Claude Code, MCP and CI ☆`26`
 - [MykytaStel/repopilot](https://github.com/MykytaStel/repopilot) — Review a git diff for weakened tests, security and blast radius ☆`24`
 - [xxczaki/local-history-mcp](https://github.com/xxczaki/local-history-mcp) — MCP server for accessing VS Code/Cursor's Local History ☆`16`
 - [geropl/git-mcp-go](https://github.com/geropl/git-mcp-go) — Git MCP based on mcp-go ☆`38`
@@ -1645,26 +1644,26 @@
 - [kurdin/github-repos-manager-mcp](https://github.com/kurdin/github-repos-manager-mcp) — GitHub Repos Manager MCP Server for MCP clients ☆`22`
 ## Embedded & IoT
 
-- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) — A JavaScript-driven M5Stack-embedded super-kawaii robot. ☆`1,847`
-- [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) — A MCP server for Home Assistant ☆`575`
+- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) — A JavaScript-driven M5Stack-embedded super-kawaii robot. ☆`1,846`
+- [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) — A MCP server for Home Assistant ☆`574`
 - [lamaalrajih/kicad-mcp](https://github.com/lamaalrajih/kicad-mcp) — KiCad integration for Mac, Windows, Linux ☆`532`
-- [Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) — Chat with robotics, drone, IoT data ☆`401`
+- [Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) — Chat with robotics, drone, IoT data ☆`403`
 - [voska/hass-mcp](https://github.com/voska/hass-mcp) — Home Assistant control and queries from LLMs ☆`351`
-- [recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) — Apple Shortcuts automation on macOS ☆`353`
-- [wiresage/mikrotik-mcp](https://github.com/wiresage/mikrotik-mcp) — MCP server for Mikrotik ☆`319`
+- [recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) — Apple Shortcuts automation on macOS ☆`354`
+- [wiresage/mikrotik-mcp](https://github.com/wiresage/mikrotik-mcp) — MCP server for Mikrotik ☆`320`
 - [hao-cyber/phone-mcp](https://github.com/hao-cyber/phone-mcp) — Control Android phone via ADB ☆`249`
-- [codeofaxel/Kiln](https://github.com/codeofaxel/Kiln) — 3D-printing workflow an agent can drive ☆`240`
-- [FradSer/mcp-server-apple-events](https://github.com/FradSer/mcp-server-apple-events) — Native integration with Apple Reminders and Calendar ☆`232`
-- [coffeenmusic/altium-mcp](https://github.com/coffeenmusic/altium-mcp) — Altium Model Context Protocol server and Altium API script ☆`211`
-- [Adancurusul/embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) — Debug ARM, RISC-V and ESP32 via probe-rs or OpenOCD ☆`212`
-- [horw/esp-mcp](https://github.com/horw/esp-mcp) — ESP32 commands and getting started ☆`156`
+- [codeofaxel/Kiln](https://github.com/codeofaxel/Kiln) — 3D-printing workflow an agent can drive ☆`241`
+- [FradSer/mcp-server-apple-events](https://github.com/FradSer/mcp-server-apple-events) — Native integration with Apple Reminders and Calendar ☆`231`
+- [coffeenmusic/altium-mcp](https://github.com/coffeenmusic/altium-mcp) — Altium Model Context Protocol server and Altium API script ☆`210`
+- [Adancurusul/embedded-debugger-mcp](https://github.com/Adancurusul/embedded-debugger-mcp) — Debug ARM, RISC-V and ESP32 via probe-rs or OpenOCD ☆`213`
+- [horw/esp-mcp](https://github.com/horw/esp-mcp) — ESP32 commands and getting started ☆`157`
 - [LGDiMaggio/predictive-maintenance-mcp](https://github.com/LGDiMaggio/predictive-maintenance-mcp) — Predictive maintenance and fault diagnosis ☆`109`
 - [johannesPettersson80/codesys-mcp-toolkit](https://github.com/johannesPettersson80/codesys-mcp-toolkit) — CODESYS industrial automation platform ☆`129`
 - [Adancurusul/serial-mcp-server](https://github.com/Adancurusul/serial-mcp-server) — Talk to serial and UART devices with timed JSON macros ☆`96`
 - [thingsboard/thingsboard-mcp](https://github.com/thingsboard/thingsboard-mcp) — MCP server for ThingsBoard IoT platform interaction ☆`99`
 - [handsomejustin/mijia-control](https://github.com/handsomejustin/mijia-control) — Bridge between Xiaomi Mijia devices, MCP and HomeKit ☆`80`
 - [yoelbassin/gr-mcp](https://github.com/yoelbassin/gr-mcp) — MCP server for GNU Radio ☆`57`
-- [Hybirdss/smartest-tv](https://github.com/Hybirdss/smartest-tv) — Control LG, Samsung, Roku and Android TVs ☆`56`
+- [Hybirdss/smartest-tv](https://github.com/Hybirdss/smartest-tv) — Control LG, Samsung, Roku and Android TVs ☆`57`
 - [vishalmysore/choturobo](https://github.com/vishalmysore/choturobo) — Arduino robotics with AI integration ☆`79`
 - [aqara/aqara-mcp-server](https://github.com/aqara/aqara-mcp-server) — Aqara's official MCP Server ☆`49`
 - [jango-blockchained/advanced-homeassistant-mcp](https://github.com/jango-blockchained/advanced-homeassistant-mcp) — Control Home Assistant devices ☆`58`
@@ -1689,9 +1688,9 @@
 - [gNucleus/text-to-cad-mcp](https://github.com/gNucleus/text-to-cad-mcp) — gNucleus Text To CAD MCP server ☆`19`
 ## File Systems & Storage
 
-- [chrisryugj/kordoc](https://github.com/chrisryugj/kordoc) — Read and edit Korean HWP, HWPX, PDF and Office documents via MCP ☆`2,914`
-- [SylphxAI/anymd](https://github.com/SylphxAI/anymd) — PDF, Office, EPUB, images and audio turned into markdown ☆`1,061`
-- [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) — Go filesystem operations via MCP ☆`696`
+- [chrisryugj/kordoc](https://github.com/chrisryugj/kordoc) — Read and edit Korean HWP, HWPX, PDF and Office documents via MCP ☆`2,929`
+- [SylphxAI/anymd](https://github.com/SylphxAI/anymd) — PDF, Office, EPUB, images and audio turned into markdown ☆`1,063`
+- [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) — Go filesystem operations via MCP ☆`697`
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) — Python library for LLM context management ☆`308`
 - [8b-is/smart-tree](https://github.com/8b-is/smart-tree) — Context-aware AI-crafted replacement for tree command ☆`272`
 - [isaacphi/mcp-gdrive](https://github.com/isaacphi/mcp-gdrive) — Google Drive file reading ☆`282`
@@ -1699,7 +1698,7 @@
 - [efforthye/fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp) — High-performance MCP server for file operations ☆`65`
 - [UseJunior/safe-docx](https://github.com/UseJunior/safe-docx) — Compare Word documents and edit them through a safer tool set ☆`47`
 - [vespo92/TrueNasCoreMCP](https://github.com/vespo92/TrueNasCoreMCP) — A working TrueNAS Core MCP Server ☆`34`
-- [j0hanz/filesystem-mcp](https://github.com/j0hanz/filesystem-mcp) — Search, read and edit files in directories you choose ☆`30`
+- [j0hanz/filesystem-mcp](https://github.com/j0hanz/filesystem-mcp) — Search, read and edit files in directories you choose ☆`32`
 - [dimitar-grigorov/mcp-file-tools](https://github.com/dimitar-grigorov/mcp-file-tools) — Read and write text files that are not UTF-8 ☆`29`
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) — MCP server for merging multiple files into one ☆`28`
 - [Tencent/cos-mcp](https://github.com/Tencent/cos-mcp) — Tencent Cloud COS storage integration ☆`40`
@@ -1710,27 +1709,27 @@
 
 ### Accounting & Budgeting
 
-- [intuit/quickbooks-online-mcp-server](https://github.com/intuit/quickbooks-online-mcp-server) — Read and update QuickBooks Online ☆`442`
-- [openaccountants/openaccountants](https://github.com/openaccountants/openaccountants) — Tax figures for many countries, cited to the statute ☆`476`
-- [XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server) — Xero accounting API integration ☆`389`
+- [intuit/quickbooks-online-mcp-server](https://github.com/intuit/quickbooks-online-mcp-server) — Read and update QuickBooks Online ☆`445`
+- [openaccountants/openaccountants](https://github.com/openaccountants/openaccountants) — Tax figures for many countries, cited to the statute ☆`477`
+- [XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server) — Xero accounting API integration ☆`390`
 - [akutishevsky/lunchmoney-mcp](https://github.com/akutishevsky/lunchmoney-mcp) — MCP server for Lunch Money budgeting app ☆`112`
 - [ignaciohermosillacornejo/copilot-money-mcp](https://github.com/ignaciohermosillacornejo/copilot-money-mcp) — Questions over local Copilot Money data ☆`88`
 - [iiAtlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) — A local MCP server for interacting with the HLedger cli ☆`65`
 - [openMF/mcp-mifosx](https://github.com/openMF/mcp-mifosx) — Model Context Protocol - MCP for Mifos X ☆`28`
-- [finlynq/finlynq](https://github.com/finlynq/finlynq) — Personal finance app whose data an assistant can query ☆`28`
+- [finlynq/finlynq](https://github.com/finlynq/finlynq) — Personal finance app whose data an assistant can query ☆`29`
 - [minhyeoky/mcp-server-ledger](https://github.com/minhyeoky/mcp-server-ledger) — MCP server for Ledger CLI double-entry accounting ☆`51`
 - [john-zhang-dev/xero-mcp](https://github.com/john-zhang-dev/xero-mcp) — Interact with Xero accounting ☆`22`
 - [henfrydls/actual-budget-mcp](https://github.com/henfrydls/actual-budget-mcp) — Query and update a budget in Actual Budget ☆`20`
 ### Crypto & Blockchain
 
-- [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) — Screeners and backtests for crypto, stocks and forex ☆`5,203`
+- [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) — Screeners and backtests for crypto, stocks and forex ☆`5,216`
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) — EVM network interaction for LLMs ☆`379`
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) — Local crypto token research via CoinGecko and DeFiLlama ☆`171`
-- [yolfinance/yolfi-agent](https://github.com/yolfinance/yolfi-agent) — Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents. ☆`177`
+- [yolfinance/yolfi-agent](https://github.com/yolfinance/yolfi-agent) — Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents. ☆`176`
 - [armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp) — Blockchain swaps and strategic planning ☆`178`
 - [sendaifun/solana-mcp](https://github.com/sendaifun/solana-mcp) — Solana actions through the Solana Agent Kit ☆`166`
 - [Scottcjn/rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) — Wallets, bounties and agent messages in the RustChain network ☆`119`
-- [coinpaprika/dexpaprika-mcp](https://github.com/coinpaprika/dexpaprika-mcp) — MCP server for DEX trading data and crypto token analytics ☆`119`
+- [coinpaprika/dexpaprika-mcp](https://github.com/coinpaprika/dexpaprika-mcp) — MCP server for DEX trading data and crypto token analytics ☆`118`
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) — Cryptocurrency technical analysis indicators ☆`131`
 - [alchemyplatform/alchemy-mcp-server](https://github.com/alchemyplatform/alchemy-mcp-server) — Alchemy blockchain API for AI agents ☆`88`
 - [twelvedata/mcp](https://github.com/twelvedata/mcp) — MCP server for real-time financial market data access ☆`86`
@@ -1794,41 +1793,41 @@
 - [paypal/agent-toolkit](https://github.com/paypal/agent-toolkit) — PayPal Agent ☆`198`
 - [square/square-mcp-server](https://github.com/square/square-mcp-server) — A Model Context Protocol (MCP) server for square ☆`109`
 - [ninetails-io/gnucash-mcp](https://github.com/ninetails-io/gnucash-mcp) — Read and write a GnuCash book ☆`85`
-- [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) — Local agent payments on Apple silicon, with approval ☆`77`
+- [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) — Local agent payments on Apple silicon, with approval ☆`75`
 - [PaddleHQ/paddle-mcp-server](https://github.com/PaddleHQ/paddle-mcp-server) — Interact with Paddle API ☆`49`
-- [icyberdeveloper/tbank-mcp](https://github.com/icyberdeveloper/tbank-mcp) — T-Bank accounts, cards, transfers and bill pay ☆`40`
-- [CorpusIQ/corpusiq-docs](https://github.com/CorpusIQ/corpusiq-docs) — Ask questions over live business data from the tools you use ☆`29`
+- [icyberdeveloper/tbank-mcp](https://github.com/icyberdeveloper/tbank-mcp) — T-Bank accounts, cards, transfers and bill pay ☆`41`
+- [CorpusIQ/corpusiq-docs](https://github.com/CorpusIQ/corpusiq-docs) — Ask questions over live business data from the tools you use ☆`28`
 - [qonto/qonto-mcp-server](https://github.com/qonto/qonto-mcp-server) — Qonto MCP Server ☆`42`
 - [atharvagupta2003/mcp-stripe](https://github.com/atharvagupta2003/mcp-stripe) — Stripe payments, customers, and refunds ☆`44`
 - [ant-intl/global-antom-mcp](https://github.com/ant-intl/global-antom-mcp) — MCP server for Antom global payments ☆`32`
 - [Fewsats/fewsats-mcp](https://github.com/Fewsats/fewsats-mcp) — Fewsats MCP server ☆`21`
 ### Stock Data & Analytics
 
-- [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) — Financial Datasets stock market API ☆`2,318`
-- [relaticle/relaticle](https://github.com/relaticle/relaticle) — CRM for companies, people and deals that an agent can update ☆`1,807`
-- [rootSunc/CNEquity](https://github.com/rootSunc/CNEquity) — Local data lake for China A-share research, with an MCP server ☆`948`
+- [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) — Financial Datasets stock market API ☆`2,317`
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) — CRM for companies, people and deals that an agent can update ☆`1,811`
+- [rootSunc/CNEquity](https://github.com/rootSunc/CNEquity) — Local data lake for China A-share research, with an MCP server ☆`958`
 - [massive-com/mcp_massive](https://github.com/massive-com/mcp_massive) — An MCP server for Massive.com Financial Market Data ☆`400`
-- [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) — A SEC EDGAR MCP (Model Context Protocol) Server ☆`384`
-- [s-stefanov/actual-mcp](https://github.com/s-stefanov/actual-mcp) — Model Context Protocol for Actual Budget API ☆`280`
-- [daniel3303/Equibles](https://github.com/daniel3303/Equibles) — SEC filings, fundamentals, transcripts, 13F and insider data ☆`241`
+- [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) — A SEC EDGAR MCP (Model Context Protocol) Server ☆`383`
+- [s-stefanov/actual-mcp](https://github.com/s-stefanov/actual-mcp) — Model Context Protocol for Actual Budget API ☆`279`
+- [daniel3303/Equibles](https://github.com/daniel3303/Equibles) — SEC filings, fundamentals, transcripts, 13F and insider data ☆`240`
 - [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) — MCP server for Yahoo Finance stock data and news ☆`207`
 - [traceloop/opentelemetry-mcp-server](https://github.com/traceloop/opentelemetry-mcp-server) — Query traces in Jaeger, Tempo and other backends ☆`204`
 - [jjlabsio/korea-stock-mcp](https://github.com/jjlabsio/korea-stock-mcp) — MCP Server for Korean stock analysis ☆`184`
 - [calebl/ynab-mcp-server](https://github.com/calebl/ynab-mcp-server) — Model Context Protocol for YNAB (you need a budget) ☆`162`
 - [Tapetide-hq/nse-bse-indian-stock-market-data-mcp](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) — NSE and BSE prices, flows and filings ☆`147`
-- [OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server) — Public filings, earnings, financial analysis ☆`148`
+- [OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server) — Public filings, earnings, financial analysis ☆`149`
 - [berlinbra/polymarket-mcp](https://github.com/berlinbra/polymarket-mcp) — MCP Server for PolyMarket API ☆`144`
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) — MCP server for BaoStock Chinese stock market data ☆`119`
 - [unusual-whales/unusual-whales-official-mcp](https://github.com/unusual-whales/unusual-whales-official-mcp) — Official MCP server for Unusual Whales ☆`93`
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) — MCP Server for Alpha Advantage API ☆`104`
+- [dustinliang666-blip/lava-mcp](https://github.com/dustinliang666-blip/lava-mcp) — Trending China A-share concepts, sectors and tickers ☆`65`
 - [calvernaz/alphavantage](https://github.com/calvernaz/alphavantage) — A MCP server for the stock market data API, Alphavantage API. ☆`74`
 - [twolven/mcp-stockscreen](https://github.com/twolven/mcp-stockscreen) — Stock screening provider for Claude Desktop using MCP ☆`49`
 - [infaton/MCP35](https://github.com/infaton/MCP35) — Tools for 1C:Enterprise ERP ☆`47`
 - [twolven/mcp-optionsflow](https://github.com/twolven/mcp-optionsflow) — Options greeks and strategies from Yahoo Finance ☆`41`
 - [Adity-star/mcp-yfinance-server](https://github.com/Adity-star/mcp-yfinance-server) — Real-time stock data with yfinance ☆`54`
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) — Polymarket, PredictIt, Kalshi data ☆`38`
-- [dustinliang666-blip/lava-mcp](https://github.com/dustinliang666-blip/lava-mcp) — Trending China A-share concepts, sectors and tickers ☆`40`
-- [AgentX-ai/yahoo-finance-server](https://github.com/AgentX-ai/yahoo-finance-server) — Yahoo Finance stock data and news ☆`53`
+- [AgentX-ai/yahoo-finance-server](https://github.com/AgentX-ai/yahoo-finance-server) — Yahoo Finance stock data and news ☆`54`
 - [ComplyEaze/bridge](https://github.com/ComplyEaze/bridge) — Read a local TallyPrime company and prepare vouchers ☆`35`
 - [9crusher/mcp-server-kalshi](https://github.com/9crusher/mcp-server-kalshi) — A MCP server to interact with Kalshi prediction markets ☆`32`
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) — Financial data from Tushare, Wind, DataYes ☆`57`
@@ -1836,36 +1835,36 @@
 - [twolven/mcp-stockflow](https://github.com/twolven/mcp-stockflow) — Stock market data provider for Claude Desktop using MCP ☆`27`
 - [trayders/trayd-mcp](https://github.com/trayders/trayd-mcp) — Trade Robinhood via Claude Code - MCP Server ☆`41`
 - [Mrbaeksang/korea-stock-analyzer-mcp](https://github.com/Mrbaeksang/korea-stock-analyzer-mcp) — Korean stocks from DART filings and KRX quotes ☆`26`
-- [tonnode/mcp](https://github.com/tonnode/mcp) — TON balances, account state and transactions over ADNL ☆`27`
 - [danishashko/yahoo-finance-mcp](https://github.com/danishashko/yahoo-finance-mcp) — Quotes, charts and financials from Yahoo Finance ☆`24`
 - [grahammccain/chart-library-mcp](https://github.com/grahammccain/chart-library-mcp) — Find past stock charts that resemble this one ☆`23`
+- [tonnode/mcp](https://github.com/tonnode/mcp) — TON balances, account state and transactions over ADNL ☆`21`
 - [cliwant/mcp-sam-gov](https://github.com/cliwant/mcp-sam-gov) — US federal and state contracting, spending and sanctions data ☆`16`
 - [OctagonAI/octagon-vc-agents](https://github.com/OctagonAI/octagon-vc-agents) — AI-driven venture capitalist agents ☆`32`
 - [27dream/mcp-eastmoney](https://github.com/27dream/mcp-eastmoney) — East Money MCP for A-share quotes, fund flow, sectors and candles ☆`18`
 - [QuantGeekDev/fiscal-data-mcp](https://github.com/QuantGeekDev/fiscal-data-mcp) — US Treasury fiscal data ☆`20`
 ### Trading & Exchanges
 
-- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — "Vibe-Trading: Your Personal Trading Agent" ☆`37,639`
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — "Vibe-Trading: Your Personal Trading Agent" ☆`37,734`
 - [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk) — Zero-dependency JavaScript SDK for fetching stock data ☆`1,999`
 - [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) — Memory and audit trail for trading agents ☆`1,440`
 - [whchien/ai-trader](https://github.com/whchien/ai-trader) — Backtests with many strategies, plus an MCP server ☆`1,132`
-- [alpacahq/alpaca-mcp-server](https://github.com/alpacahq/alpaca-mcp-server) — Trade stocks, ETFs, crypto, options ☆`1,058`
+- [alpacahq/alpaca-mcp-server](https://github.com/alpacahq/alpaca-mcp-server) — Trade stocks, ETFs, crypto, options ☆`1,061`
 - [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) — MetaTrader trading platform for AI LLMs ☆`842`
-- [dragon1086/prism-insight](https://github.com/dragon1086/prism-insight) — AI-based stock analysis and trading system ☆`795`
-- [krakenfx/kraken-cli](https://github.com/krakenfx/kraken-cli) — Trade on Kraken, including a paper account ☆`797`
-- [YoungCan-Wang/WyckoffTradingAgent](https://github.com/YoungCan-Wang/WyckoffTradingAgent) — Wyckoff trading agent and stock screener with MCP ☆`768`
-- [caiovicentino/polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server) — Read and trade Polymarket prediction markets ☆`737`
-- [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) — Yahoo Finance data, technicals and local Python backtests ☆`718`
-- [saidsurucu/borsa-mcp](https://github.com/saidsurucu/borsa-mcp) — MCP Server for Turkish & American Stock Exchange and Fund Data ☆`660`
+- [dragon1086/prism-insight](https://github.com/dragon1086/prism-insight) — AI-based stock analysis and trading system ☆`794`
+- [krakenfx/kraken-cli](https://github.com/krakenfx/kraken-cli) — Trade on Kraken, including a paper account ☆`802`
+- [YoungCan-Wang/WyckoffTradingAgent](https://github.com/YoungCan-Wang/WyckoffTradingAgent) — Wyckoff trading agent and stock screener with MCP ☆`769`
+- [caiovicentino/polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server) — Read and trade Polymarket prediction markets ☆`740`
+- [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) — Yahoo Finance data, technicals and local Python backtests ☆`719`
+- [saidsurucu/borsa-mcp](https://github.com/saidsurucu/borsa-mcp) — MCP Server for Turkish & American Stock Exchange and Fund Data ☆`659`
 - [okx/agent-trade-kit](https://github.com/okx/agent-trade-kit) — Spot, swap, futures and grid bots on OKX ☆`501`
 - [longbridge/openapi](https://github.com/longbridge/openapi) — Longbridge OpenAPI SDK Base. ☆`465`
 - [elsejj/mcp-cn-a-stock](https://github.com/elsejj/mcp-cn-a-stock) — MCP server for China A-share market data ☆`462`
 - [koreal6803/finlab-ai](https://github.com/koreal6803/finlab-ai) — Backtest Taiwan and US stocks on real market data ☆`424`
-- [staskh/trading_skills](https://github.com/staskh/trading_skills) — Claude powered advisor system for option traders ☆`403`
+- [staskh/trading_skills](https://github.com/staskh/trading_skills) — Claude powered advisor system for option traders ☆`404`
 - [Alex2Yang97/yahoo-finance-mcp](https://github.com/Alex2Yang97/yahoo-finance-mcp) — Quotes, fundamentals and history from Yahoo Finance ☆`366`
 - [aahl/mcp-aktools](https://github.com/aahl/mcp-aktools) — MCP server for stock and crypto data queries ☆`391`
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) — Investor agent building via MCP ☆`348`
-- [QuantMLResearch/AI-Kline](https://github.com/QuantMLResearch/AI-Kline) — Technical analysis and a forecast from stock candlesticks ☆`345`
+- [QuantMLResearch/AI-Kline](https://github.com/QuantMLResearch/AI-Kline) — Technical analysis and a forecast from stock candlesticks ☆`344`
 - [guangxiangdebizi/TradingAgents-MCPmode](https://github.com/guangxiangdebizi/TradingAgents-MCPmode) — Multi-agent stock analysis and trading ☆`339`
 - [Qoyyuum/mcp-metatrader5-server](https://github.com/Qoyyuum/mcp-metatrader5-server) — Market data and trading actions in MetaTrader 5 ☆`239`
 - [zwldarren/akshare-one-mcp](https://github.com/zwldarren/akshare-one-mcp) — Chinese stock data through akshare-one ☆`240`
@@ -1882,10 +1881,10 @@
 - [netanelavr/trading-mcp](https://github.com/netanelavr/trading-mcp) — Stock screening, fundamentals, insider trades and news sentiment ☆`75`
 - [hypurrquant/perp-cli](https://github.com/hypurrquant/perp-cli) — Perpetual futures on several DEXes ☆`40`
 - [ethancod1ng/binance-mcp-server](https://github.com/ethancod1ng/binance-mcp-server) — Binance exchange API integration ☆`34`
-- [coinpaprika/coinpaprika-mcp](https://github.com/coinpaprika/coinpaprika-mcp) — Prices, tickers and exchanges from CoinPaprika ☆`31`
 - [ozgureyilmaz/polymarket-mcp](https://github.com/ozgureyilmaz/polymarket-mcp) — Polymarket prediction markets data ☆`48`
+- [coinpaprika/coinpaprika-mcp](https://github.com/coinpaprika/coinpaprika-mcp) — Prices, tickers and exchanges from CoinPaprika ☆`30`
 - [mektigboy/server-hyperliquid](https://github.com/mektigboy/server-hyperliquid) — Hyperliquid DEX trading integration ☆`44`
-- [demwick/polymarket-agent-mcp](https://github.com/demwick/polymarket-agent-mcp) — Discover, trade and backtest Polymarket markets ☆`18`
+- [demwick/polymarket-agent-mcp](https://github.com/demwick/polymarket-agent-mcp) — Discover, trade and backtest Polymarket markets ☆`19`
 - [saintdoresh/YFinance-Trader-MCP-ClaudeDesktop](https://github.com/saintdoresh/YFinance-Trader-MCP-ClaudeDesktop) — Stock data and trades through yfinance ☆`37`
 - [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) — Alpaca stock and crypto trading ☆`35`
 - [ferdousbhai/wsb-analyst-mcp](https://github.com/ferdousbhai/wsb-analyst-mcp) — MCP server for analyzing WallStreetBets ☆`31`
@@ -1893,10 +1892,10 @@
 - [solangii/upbit-mcp-server](https://github.com/solangii/upbit-mcp-server) — MCP(Model Context Protocol) server for Upbit ☆`17`
 ## Frameworks & SDKs
 
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) — TypeScript AI agent framework with RAG ☆`29,341`
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) — Framework for MCP apps and servers ☆`10,845`
-- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) — Build agents with MCP and workflow patterns ☆`8,576`
-- [xmcp](https://github.com/basementstudio/xmcp) — TypeScript framework for building MCP servers. Website: https://xmcp.dev. ☆`1,346`
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) — TypeScript AI agent framework with RAG ☆`29,372`
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) — Framework for MCP apps and servers ☆`10,848`
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) — Build agents with MCP and workflow patterns ☆`8,577`
+- [xmcp](https://github.com/basementstudio/xmcp) — TypeScript framework for building MCP servers. Website: https://xmcp.dev. ☆`1,347`
 - [afrise/MCPSharp](https://github.com/afrise/MCPSharp) — .NET library for building MCP servers and clients ☆`377`
 - [vinkius-labs/mcpfusion](https://github.com/vinkius-labs/mcpfusion) — MCP Fusion - The TypeScript framework for secure MCP servers. ☆`255`
 - [posit-dev/mcptools](https://github.com/posit-dev/mcptools) — Model Context Protocol For R ☆`204`
@@ -1914,13 +1913,13 @@
 - [mcpx-dev/mcp-badges](https://github.com/mcpx-dev/mcp-badges) — Get your projects MCP (Model Context Protocol) badges ☆`30`
 ## Gaming
 
-- [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) — MCP server for Godot game engine ☆`6,510`
-- [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) — AI-powered bridge connecting LLMs to Unity Editor ☆`4,585`
-- [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) — MCP server for Unity game engine integration ☆`2,013`
-- [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) — Godot 4 scenes, animation, physics and shaders ☆`641`
+- [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) — MCP server for Godot game engine ☆`6,532`
+- [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) — AI-powered bridge connecting LLMs to Unity Editor ☆`4,591`
+- [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) — MCP server for Unity game engine integration ☆`2,012`
+- [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) — Godot 4 scenes, animation, physics and shaders ☆`640`
 - [ee0pdt/Godot-MCP](https://github.com/ee0pdt/Godot-MCP) — Create and edit games in the Godot editor ☆`621`
 - [kvick-games/UnrealMCP](https://github.com/kvick-games/UnrealMCP) — MCP to allow AI agents to control Unreal ☆`615`
-- [IvanMurzak/Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) — Godot 4.x editor and runtime for AI agents ☆`324`
+- [IvanMurzak/Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) — Godot 4.x editor and runtime for AI agents ☆`325`
 - [playcanvas/editor-mcp-server](https://github.com/playcanvas/editor-mcp-server) — MCP Server for AI automation of the PlayCanvas Editor ☆`151`
 - [ayeletstudioindia/unreal-analyzer-mcp](https://github.com/ayeletstudioindia/unreal-analyzer-mcp) — MCP server for Unreal Engine 5 ☆`161`
 - [quazaai/UnityMCPIntegration](https://github.com/quazaai/UnityMCPIntegration) — Enable AI Agents to Control Unity ☆`155`
@@ -1951,24 +1950,24 @@
 - [sonirico/mcp-stockfish](https://github.com/sonirico/mcp-stockfish) — MCP server connecting AI systems to Stockfish chess engine ☆`16`
 ## Healthcare & Bioinformatics
 
-- [genomoncology/biomcp](https://github.com/genomoncology/biomcp) — BioMCP: Biomedical Model Context Protocol ☆`673`
+- [genomoncology/biomcp](https://github.com/genomoncology/biomcp) — BioMCP: Biomedical Model Context Protocol ☆`674`
 - [the-momentum/apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) — Apple Health data queries with DuckDB ☆`285`
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) — FHIR healthcare API integration ☆`137`
 - [JamesANZ/medical-mcp](https://github.com/JamesANZ/medical-mcp) — MCP server for medical data processing ☆`120`
 - [ChristianHinge/dicom-mcp](https://github.com/ChristianHinge/dicom-mcp) — DICOM server (PACS) interaction ☆`106`
 - [grll/pubmedmcp](https://github.com/grll/pubmedmcp) — A MCP server for PubMed data ☆`122`
-- [davidmosiah/google-health-mcp](https://github.com/davidmosiah/google-health-mcp) — Google Health, Fitbit and Pixel Watch data ☆`79`
+- [davidmosiah/google-health-mcp](https://github.com/davidmosiah/google-health-mcp) — Google Health, Fitbit and Pixel Watch data ☆`80`
 - [the-momentum/fhir-mcp-server](https://github.com/the-momentum/fhir-mcp-server) — FHIR MCP Server for handling medical data standard. ☆`102`
-- [soma-intelligence/open-health-sync](https://github.com/soma-intelligence/open-health-sync) — One API for Apple Health, Oura, WHOOP and Fitbit ☆`60`
+- [soma-intelligence/open-health-sync](https://github.com/soma-intelligence/open-health-sync) — One API for Apple Health, Oura, WHOOP and Fitbit ☆`61`
 - [srijanshukla18/xray](https://github.com/srijanshukla18/xray) — MCP server for X-ray analysis ☆`52`
 - [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) — Spatial transcriptomics via natural language (Python/R) ☆`45`
 - [akutishevsky/withings-mcp](https://github.com/akutishevsky/withings-mcp) — MCP server for Withings health data integration ☆`45`
 - [kidzik/other-public-mcps](https://github.com/kidzik/other-public-mcps) — Biomedical databases for literature and life-science research ☆`58`
 - [OHNLP/omop_mcp](https://github.com/OHNLP/omop_mcp) — MCP server for OMOP medical data standard ☆`41`
 - [OkGoDoIt/beemcp](https://github.com/OkGoDoIt/beemcp) — Unofficial bridge from a Bee wearable lifelog to an assistant ☆`51`
-- [ammawla/encode-toolkit](https://github.com/ammawla/encode-toolkit) — Search and analyze ENCODE ChIP-seq, ATAC-seq and RNA-seq data ☆`22`
 - [wavelovey/pubmed_search](https://github.com/wavelovey/pubmed_search) — MCP PubMed Search Server ☆`46`
-- [Jezue/fitatu_library](https://github.com/Jezue/fitatu_library) — Unofficial Python client for the Fitatu food API ☆`21`
+- [Jezue/fitatu_library](https://github.com/Jezue/fitatu_library) — Unofficial Python client for the Fitatu food API ☆`22`
+- [ammawla/encode-toolkit](https://github.com/ammawla/encode-toolkit) — Search and analyze ENCODE ChIP-seq, ATAC-seq and RNA-seq data ☆`21`
 - [SidneyBissoli/medical-terminologies-mcp](https://github.com/SidneyBissoli/medical-terminologies-mcp) — ICD-11, LOINC, RxNorm, MeSH and related codes ☆`16`
 - [tomekkorbak/oura-mcp-server](https://github.com/tomekkorbak/oura-mcp-server) — MCP server for Oura API integration ☆`39`
 - [longevity-genie/biothings-mcp](https://github.com/longevity-genie/biothings-mcp) — MCP (Model Context Protocol) server for biothings ☆`37`
@@ -1978,7 +1977,7 @@
 - [deak-ai/openehr-mcp-server](https://github.com/deak-ai/openehr-mcp-server) — Create and read openEHR health records ☆`18`
 ## LLM Bridges
 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) — Your AI workspace for models, agents, and productivity. ☆`53,256`
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) — Your AI workspace for models, agents, and productivity. ☆`53,295`
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) — Official Perplexity API MCP server ☆`2,609`
 - [ggozad/oterm](https://github.com/ggozad/oterm) — the terminal client for LLMs ☆`2,446`
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) — MCP server for Gemini CLI with large file analysis ☆`2,294`
@@ -2007,10 +2006,10 @@
 
 ### GIS
 
-- [jjsantos01/qgis_mcp](https://github.com/jjsantos01/qgis_mcp) — QGIS Desktop control for language models ☆`1,146`
-- [mahdin75/gis-mcp](https://github.com/mahdin75/gis-mcp) — MCP server connecting LLMs to GIS capabilities ☆`203`
+- [jjsantos01/qgis_mcp](https://github.com/jjsantos01/qgis_mcp) — QGIS Desktop control for language models ☆`1,148`
+- [mahdin75/gis-mcp](https://github.com/mahdin75/gis-mcp) — MCP server connecting LLMs to GIS capabilities ☆`204`
 - [mahdin75/geoserver-mcp](https://github.com/mahdin75/geoserver-mcp) — GeoServer geospatial integration ☆`97`
-- [JordanGunn/gdal-mcp](https://github.com/JordanGunn/gdal-mcp) — Geospatial analysis with epistemic reasoning ☆`85`
+- [JordanGunn/gdal-mcp](https://github.com/JordanGunn/gdal-mcp) — Geospatial analysis with epistemic reasoning ☆`86`
 - [BnJam/stac-mcp](https://github.com/BnJam/stac-mcp) — An MCP Server for STAC requests ☆`20`
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) — Geocoding MCP server with GeoPY! ☆`34`
 ### IP Geolocation
@@ -2020,13 +2019,13 @@
 - [iplocate/mcp-server-iplocate](https://github.com/iplocate/mcp-server-iplocate) — IP geolocation, proxy detection via IPLocate.io API ☆`20`
 ### Maps & Navigation
 
-- [cablate/mcp-google-map](https://github.com/cablate/mcp-google-map) — Places, routes and local SEO from Google Maps ☆`488`
+- [cablate/mcp-google-map](https://github.com/cablate/mcp-google-map) — Places, routes and local SEO from Google Maps ☆`489`
 - [baidu-maps/mcp](https://github.com/baidu-maps/mcp) — Baidu Map MCP Server ☆`447`
 - [mapbox/mcp-server](https://github.com/mapbox/mcp-server) — Mapbox Model Context Protocol (MCP) server ☆`366`
-- [jagan-shanmugam/open-streetmap-mcp](https://github.com/jagan-shanmugam/open-streetmap-mcp) — MCP server for OpenStreetMap data ☆`232`
-- [gaopengbin/cesium-mcp](https://github.com/gaopengbin/cesium-mcp) — Drive a CesiumJS scene from an agent or the browser ☆`149`
+- [jagan-shanmugam/open-streetmap-mcp](https://github.com/jagan-shanmugam/open-streetmap-mcp) — MCP server for OpenStreetMap data ☆`233`
+- [gaopengbin/cesium-mcp](https://github.com/gaopengbin/cesium-mcp) — Drive a CesiumJS scene from an agent or the browser ☆`150`
 - [tomtom-international/tomtom-maps-mcp](https://github.com/tomtom-international/tomtom-maps-mcp) — TomTom location, search, routing ☆`59`
-- [Knight60/ArcGIS-Pro-MCP](https://github.com/Knight60/ArcGIS-Pro-MCP) — Drive an open ArcGIS Pro project, including geoprocessing ☆`58`
+- [Knight60/ArcGIS-Pro-MCP](https://github.com/Knight60/ArcGIS-Pro-MCP) — Drive an open ArcGIS Pro project, including geoprocessing ☆`61`
 - [muend/arcgis-mcp-bridge](https://github.com/muend/arcgis-mcp-bridge) — Local access to ArcGIS Pro through ArcPy ☆`24`
 - [stadiamaps/stadiamaps-mcp-server-ts](https://github.com/stadiamaps/stadiamaps-mcp-server-ts) — Stadia Maps API integration in TypeScript ☆`25`
 - [kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp) — Nearby place search with IP-based location ☆`22`
@@ -2041,36 +2040,36 @@
 - [mschneider82/mcp-openweather](https://github.com/mschneider82/mcp-openweather) — mcp server for openweather free api ☆`22`
 ## MCP Clients
 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) — Hire, schedule and report on a team of agents ☆`83,869`
-- [aaif-goose/goose](https://github.com/aaif-goose/goose) — Agent that installs, edits, runs and tests code with any LLM ☆`56,224`
-- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) — Chat app with agents, MCP and many model providers ☆`46,739`
-- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) — Build autonomous AI agents in Python. ☆`7,967`
-- [genkit-ai/genkit](https://github.com/genkit-ai/genkit) — AI app framework for JavaScript and Go ☆`6,566`
-- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) — Desktop assistant that connects models to personal tools ☆`6,383`
-- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) — Desktop assistant and MCP client, with a local knowledge base ☆`5,373`
-- [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) — MCP tools inside ChatGPT, Gemini and Grok ☆`2,627`
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) — Hire, schedule and report on a team of agents ☆`84,085`
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) — Agent that installs, edits, runs and tests code with any LLM ☆`56,272`
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) — Chat app with agents, MCP and many model providers ☆`46,785`
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) — Build autonomous AI agents in Python. ☆`7,966`
+- [genkit-ai/genkit](https://github.com/genkit-ai/genkit) — AI app framework for JavaScript and Go ☆`6,568`
+- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) — Desktop assistant that connects models to personal tools ☆`6,384`
+- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) — Desktop assistant and MCP client, with a local knowledge base ☆`5,372`
+- [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) — MCP tools inside ChatGPT, Gemini and Grok ☆`2,625`
 - [daodao97/chatmcp](https://github.com/daodao97/chatmcp) — Chat client that speaks MCP ☆`2,223`
 - [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) — Local-first chat client with workspaces, plugins and cloud sync ☆`1,841`
-- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) — MCP client for Neovim with intuitive server management ☆`1,790`
+- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) — MCP client for Neovim with intuitive server management ☆`1,789`
 - [CopilotKit/open-mcp-client](https://github.com/CopilotKit/open-mcp-client) — Self-hosted chat client for any MCP server ☆`1,651`
-- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) — Autonomous pentest host for 80+ security tools ☆`1,203`
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) — Autonomous pentest host for 80+ security tools ☆`1,206`
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) — OpenAI-compatible endpoint calling MCP tools ☆`922`
 - [aeonfun/aeon](https://github.com/aeonfun/aeon) — GitHub Actions agents with OAuth to remote MCP servers ☆`788`
-- [xark-argo/argo](https://github.com/xark-argo/argo) — Desktop agent platform with local models and offline RAG ☆`832`
+- [xark-argo/argo](https://github.com/xark-argo/argo) — Desktop agent platform with local models and offline RAG ☆`833`
 - [BigSweetPotatoStudio/HyperChat](https://github.com/BigSweetPotatoStudio/HyperChat) — Chat client for many LLMs, with tools over MCP ☆`708`
-- [swarmclawai/swarmclaw](https://github.com/swarmclawai/swarmclaw) — Self-hosted runtime for swarms of agents, with schedules ☆`704`
+- [swarmclawai/swarmclaw](https://github.com/swarmclawai/swarmclaw) — Self-hosted runtime for swarms of agents, with schedules ☆`703`
 - [mario-andreschak/FLUJO](https://github.com/mario-andreschak/FLUJO) — Local visual agent builder with MCP and multi-model chat ☆`673`
-- [truffle-ai/dexto](https://github.com/truffle-ai/dexto) — Harness, CLI and SDKs for building agents ☆`660`
-- [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) — A simple CLI to run LLM prompt and implement MCP client. ☆`675`
+- [truffle-ai/dexto](https://github.com/truffle-ai/dexto) — Harness, CLI and SDKs for building agents ☆`659`
+- [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli) — A simple CLI to run LLM prompt and implement MCP client. ☆`676`
+- [Muvon/octomind](https://github.com/Muvon/octomind) — Coding agent and runtime in one binary, for any model ☆`564`
 - [QuixiAI/dolphin-mcp](https://github.com/QuixiAI/dolphin-mcp) — Connect several MCP servers to any local or remote model ☆`533`
-- [Muvon/octomind](https://github.com/Muvon/octomind) — Coding agent and runtime in one binary, for any model ☆`478`
 - [Lucassssss/eechat](https://github.com/Lucassssss/eechat) — Local AI chat application ☆`352`
 - [supercorp-ai/superinterface](https://github.com/supercorp-ai/superinterface) — React components for assistants inside your own app ☆`346`
 - [3choff/mcp-chatbot](https://github.com/3choff/mcp-chatbot) — CLI chatbot with MCP integration demo ☆`251`
 - [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect) — Cloud AI access to local Stdio MCP servers ☆`240`
 - [autohandai/code-cli](https://github.com/autohandai/code-cli) — Terminal coding agent with many providers and a plan mode ☆`216`
 - [AI-QL/chat-mcp](https://github.com/AI-QL/chat-mcp) — Desktop chat app with MCP support ☆`240`
-- [benord-labs/frink](https://github.com/benord-labs/frink) — Desktop app for parallel agents and multi-step workflows ☆`183`
+- [benord-labs/frink](https://github.com/benord-labs/frink) — Desktop app for parallel agents and multi-step workflows ☆`181`
 - [johannesbrandenburger/typst-mcp](https://github.com/johannesbrandenburger/typst-mcp) — MCP server for Typst markup-based typesetting system ☆`186`
 - [3dify-project/dify-mcp-client](https://github.com/3dify-project/dify-mcp-client) — Dify plugin that acts as an MCP client ☆`172`
 - [aofp/yume](https://github.com/aofp/yume) — Desktop app for Claude Code, with background agents ☆`151`
@@ -2081,8 +2080,8 @@
 - [tanaikech/ToolsForMCPServer](https://github.com/tanaikech/ToolsForMCPServer) — MCP server built with Google Apps Script for Gemini CLI ☆`108`
 - [ckanthony/gin-mcp](https://github.com/ckanthony/gin-mcp) — Enable MCP features for any Gin API with a line of code ☆`85`
 - [nick1udwig/kibitz](https://github.com/nick1udwig/kibitz) — The coding agent for professionals ☆`111`
-- [taskade/taskade](https://github.com/taskade/taskade) — Public docs and starter kits for the Taskade workspace ☆`73`
 - [xzq-xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) — JVM-based MCP server implementation ☆`91`
+- [taskade/taskade](https://github.com/taskade/taskade) — Public docs and starter kits for the Taskade workspace ☆`70`
 - [apify/tester-mcp-client](https://github.com/apify/tester-mcp-client) — Model Context Protocol (MCP) Client for Apify's Actors ☆`80`
 - [Xingsandesu/CarrotAI](https://github.com/Xingsandesu/CarrotAI) — Streaming chat client with MCP tools ☆`86`
 - [n00bvn/CanvasMCPClient](https://github.com/n00bvn/CanvasMCPClient) — Zoomable canvas dashboard for talking to MCP servers ☆`78`
@@ -2091,25 +2090,25 @@
 - [php-mcp/client](https://github.com/php-mcp/client) — Core PHP implementation for the Model Context Protocol (MCP) Client ☆`58`
 - [jdbcx/jdbcx](https://github.com/jdbcx/jdbcx) — JDBC driver for queries across languages, with an optional bridge ☆`33`
 - [rakesh-eltropy/mcp-client](https://github.com/rakesh-eltropy/mcp-client) — REST API and CLI client for MCP with LangChain ☆`49`
-- [LeulAria/volt](https://github.com/LeulAria/volt) — AI editor on the VS Code core, with an MCP client ☆`20`
+- [LeulAria/volt](https://github.com/LeulAria/volt) — AI editor on the VS Code core, with an MCP client ☆`24`
 - [gcc3/simple-ai-chat](https://github.com/gcc3/simple-ai-chat) — Chat app for LLMs, on the web and in the terminal ☆`16`
 - [vincent-pli/mcp-cli-host](https://github.com/vincent-pli/mcp-cli-host) — CLI host that connects a model to external MCP tools ☆`21`
 - [shane-kercheval/mcp-client-agent](https://github.com/shane-kercheval/mcp-client-agent) — CLI that uses DSPy to interact with MCP servers. ☆`24`
 - [johnrobinsn/askit](https://github.com/johnrobinsn/askit) — LLM Function Calling Library and CLI with Support for MCP Servers ☆`21`
 ## Marketing & Analytics
 
-- [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — SEO and marketing skills for agents ☆`4,113`
-- [pipeboard-co/meta-ads-mcp](https://github.com/pipeboard-co/meta-ads-mcp) — Hosted Facebook and Instagram Ads for AI agents ☆`1,350`
-- [getopenpost/openpost](https://github.com/getopenpost/openpost) — Create, adapt, schedule and track social posts ☆`865`
+- [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — SEO and marketing skills for agents ☆`4,114`
+- [pipeboard-co/meta-ads-mcp](https://github.com/pipeboard-co/meta-ads-mcp) — Hosted Facebook and Instagram Ads for AI agents ☆`1,354`
+- [getopenpost/openpost](https://github.com/getopenpost/openpost) — Create, adapt, schedule and track social posts ☆`875`
 - [gomarble-ai/facebook-ads-mcp-server](https://github.com/gomarble-ai/facebook-ads-mcp-server) — Facebook and Instagram Ads management ☆`368`
 - [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools) — MCP server for marketing automation tools ☆`274`
-- [stape-io/google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) — MCP server for Google Tag Manager ☆`243`
+- [stape-io/google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) — MCP server for Google Tag Manager ☆`244`
 - [surendranb/google-analytics-mcp](https://github.com/surendranb/google-analytics-mcp) — Google Analytics 4 data access ☆`244`
 - [cnych/seo-mcp](https://github.com/cnych/seo-mcp) — SEO tool based on Ahrefs data ☆`260`
-- [gomarble-ai/google-ads-mcp-server](https://github.com/gomarble-ai/google-ads-mcp-server) — Google Ads performance data analysis ☆`146`
-- [microsoft/clarity-mcp-server](https://github.com/microsoft/clarity-mcp-server) — Microsoft Clarity integration ☆`137`
+- [gomarble-ai/google-ads-mcp-server](https://github.com/gomarble-ai/google-ads-mcp-server) — Google Ads performance data analysis ☆`147`
+- [microsoft/clarity-mcp-server](https://github.com/microsoft/clarity-mcp-server) — Microsoft Clarity integration ☆`138`
 - [amekala/ads-mcp](https://github.com/amekala/ads-mcp) — Google, Meta, LinkedIn, and TikTok campaign management ☆`106`
-- [mikusnuz/meta-ads-mcp](https://github.com/mikusnuz/meta-ads-mcp) — Facebook and Instagram ad campaigns through the Marketing API ☆`93`
+- [mikusnuz/meta-ads-mcp](https://github.com/mikusnuz/meta-ads-mcp) — Facebook and Instagram ad campaigns through the Marketing API ☆`94`
 - [bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp) — Run Screaming Frog crawls and read the exports ☆`94`
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) — TikTok Ads Marketing API integration via MCP ☆`54`
 - [builtwith/builtwith-mcp](https://github.com/builtwith/builtwith-mcp) — BuiltWith MCP Server ☆`43`
@@ -2117,7 +2116,7 @@
 - [gvaibhav/TAM-MCP-Server](https://github.com/gvaibhav/TAM-MCP-Server) — Market sizing and TAM/SAM analysis ☆`36`
 - [MarketplaceAdPros/amazon-ads-mcp-server](https://github.com/MarketplaceAdPros/amazon-ads-mcp-server) — MCP Server to interact with Amazon Ads ☆`29`
 - [brandu-mos/konquest-meta-ads-mcp](https://github.com/brandu-mos/konquest-meta-ads-mcp) — Create and review Meta ads, with a safety check ☆`44`
-- [alexey-pelykh/lhremote](https://github.com/alexey-pelykh/lhremote) — Drive LinkedHelper LinkedIn outreach from an assistant ☆`20`
+- [alexey-pelykh/lhremote](https://github.com/alexey-pelykh/lhremote) — Drive LinkedHelper LinkedIn outreach from an assistant ☆`21`
 - [Synter-Media-AI/mcp-server](https://github.com/Synter-Media-AI/mcp-server) — Read many ad platforms, and write to a smaller verified set ☆`21`
 - [stape-io/stape-mcp-server](https://github.com/stape-io/stape-mcp-server) — Stape API for Claude, Cursor, and other AI clients ☆`18`
 - [Kiran1689/storyblok-mcp-server](https://github.com/Kiran1689/storyblok-mcp-server) — MCP server for Storyblok CMS management ☆`41`
@@ -2129,30 +2128,30 @@
 
 ### 3D & Animation
 
-- [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) — MCP server integration for DaVinci Resolve Studio ☆`3,939`
+- [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) — MCP server integration for DaVinci Resolve Studio ☆`3,955`
 - [ATH-MaaS/Pixelle-MCP](https://github.com/ATH-MaaS/Pixelle-MCP) — Multimodal AIGC with ComfyUI + MCP ☆`1,131`
-- [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) — MCP server for interacting with the Aseprite API ☆`884`
-- [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) — Manim animation code execution ☆`656`
-- [8beeeaaat/touchdesigner-mcp](https://github.com/8beeeaaat/touchdesigner-mcp) — MCP server for TouchDesigner ☆`613`
-- [mhyrr/sketchup-mcp](https://github.com/mhyrr/sketchup-mcp) — Sketchup Model Context Protocol ☆`531`
-- [dylanroscover/Embody](https://github.com/dylanroscover/Embody) — Inspect and edit a TouchDesigner network ☆`211`
+- [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) — MCP server for interacting with the Aseprite API ☆`897`
+- [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) — Manim animation code execution ☆`657`
+- [8beeeaaat/touchdesigner-mcp](https://github.com/8beeeaaat/touchdesigner-mcp) — MCP server for TouchDesigner ☆`611`
+- [mhyrr/sketchup-mcp](https://github.com/mhyrr/sketchup-mcp) — Sketchup Model Context Protocol ☆`534`
+- [dylanroscover/Embody](https://github.com/dylanroscover/Embody) — Inspect and edit a TouchDesigner network ☆`212`
 - [PatrickPalmer/MayaMCP](https://github.com/PatrickPalmer/MayaMCP) — Autodesk Maya 3D integration ☆`121`
 - [pranav-deshmukh/blender-mcp](https://github.com/pranav-deshmukh/blender-mcp) — Blender 3D modeling integration ☆`98`
 - [FishWoWater/trellis_blender](https://github.com/FishWoWater/trellis_blender) — Blender plugin for TRELLIS text-to-3D and image-to-3D ☆`77`
-- [BearNetwork-BRNKC/SketchUp-MCP](https://github.com/BearNetwork-BRNKC/SketchUp-MCP) — SketchUp-MCP For AI ☆`28`
 - [wilsonchenghy/ShaderToy-MCP](https://github.com/wilsonchenghy/ShaderToy-MCP) — Create and explore GLSL shaders on ShaderToy ☆`51`
+- [BearNetwork-BRNKC/SketchUp-MCP](https://github.com/BearNetwork-BRNKC/SketchUp-MCP) — SketchUp-MCP For AI ☆`28`
 - [junmer/mcp-server-lottiefiles](https://github.com/junmer/mcp-server-lottiefiles) — Search and retrieve Lottie animations from LottieFiles ☆`19`
 ### Audio & Music
 
-- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) — Create tracks, arrange clips and compose in Ableton Live ☆`3,296`
+- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) — Create tracks, arrange clips and compose in Ableton Live ☆`3,306`
 - [varunneal/spotify-mcp](https://github.com/varunneal/spotify-mcp) — MCP to connect your LLM with Spotify. ☆`614`
 - [marcelmarais/spotify-mcp-server](https://github.com/marcelmarais/spotify-mcp-server) — Lightweight MCP server for Spotify ☆`497`
 - [Simon-Kansara/ableton-live-mcp-server](https://github.com/Simon-Kansara/ableton-live-mcp-server) — Ableton Live OSC control ☆`397`
-- [adamjmurray/producer-pal](https://github.com/adamjmurray/producer-pal) — AI music production assistant for Ableton Live ☆`359`
+- [adamjmurray/producer-pal](https://github.com/adamjmurray/producer-pal) — AI music production assistant for Ableton Live ☆`361`
 - [tiianhk/MaxMSP-MCP-Server](https://github.com/tiianhk/MaxMSP-MCP-Server) — MCP (Model Context Protocol) Server for Max (Max/MSP/Jitter) ☆`286`
 - [dschuler36/reaper-mcp-server](https://github.com/dschuler36/reaper-mcp-server) — An MCP Server for interacting with Reaper projects. ☆`135`
-- [rosasynthesiz/flstudio-mcp](https://github.com/rosasynthesiz/flstudio-mcp) — Mixing and arrangement inside FL Studio ☆`127`
-- [xDarkzx/Reaper-MCP](https://github.com/xDarkzx/Reaper-MCP) — Composition, mixing and batch edits in REAPER ☆`112`
+- [rosasynthesiz/flstudio-mcp](https://github.com/rosasynthesiz/flstudio-mcp) — Mixing and arrangement inside FL Studio ☆`128`
+- [xDarkzx/Reaper-MCP](https://github.com/xDarkzx/Reaper-MCP) — Composition, mixing and batch edits in REAPER ☆`113`
 - [TwelveTake-Studios/reaper-mcp](https://github.com/TwelveTake-Studios/reaper-mcp) — REAPER DAW mixing, mastering, MIDI, and production ☆`103`
 - [SkyworkAI/Mureka-mcp](https://github.com/SkyworkAI/Mureka-mcp) — AI lyrics, song, and music generation ☆`123`
 - [AceDataCloud/SunoMCP](https://github.com/AceDataCloud/SunoMCP) — Generate Suno music, lyrics and covers through Ace Data Cloud ☆`72`
@@ -2160,7 +2159,7 @@
 - [vsaez/mcp-spotify-player](https://github.com/vsaez/mcp-spotify-player) — MCP server to manage Spotify from MCP clients ☆`22`
 ### Image Generation
 
-- [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) — Generate images and video from current AI models ☆`1,797`
+- [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) — Generate images and video from current AI models ☆`1,798`
 - [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) — Hosted tools for generating images, video and audio ☆`218`
 - [shinpr/mcp-image](https://github.com/shinpr/mcp-image) — AI image generation with Gemini 3 ☆`187`
 - [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) — MCP server for Replicate Flux image and SVG generation ☆`106`
@@ -2175,9 +2174,9 @@
 ### Image Processing
 
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) — macOS screenshot and window capture MCP server ☆`5,436`
-- [BeatAPI/BeatDesign](https://github.com/BeatAPI/BeatDesign) — Local canvas and timeline any MCP agent can draw on ☆`327`
-- [sunriseapps/imagesorcery-mcp](https://github.com/sunriseapps/imagesorcery-mcp) — Image processing operations ☆`335`
-- [royshil/obs-mcp](https://github.com/royshil/obs-mcp) — An MCP server for OBS ☆`158`
+- [BeatAPI/BeatDesign](https://github.com/BeatAPI/BeatDesign) — Local canvas and timeline any MCP agent can draw on ☆`331`
+- [sunriseapps/imagesorcery-mcp](https://github.com/sunriseapps/imagesorcery-mcp) — Image processing operations ☆`337`
+- [royshil/obs-mcp](https://github.com/royshil/obs-mcp) — An MCP server for OBS ☆`159`
 - [IDEA-Research/DINO-X-MCP](https://github.com/IDEA-Research/DINO-X-MCP) — MCP server for DINO-X vision model ☆`111`
 - [drolosoft/immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) — Search and organize a self-hosted Immich photo library ☆`62`
 - [upnorthmedia/ScreenshotMCP](https://github.com/upnorthmedia/ScreenshotMCP) — Website screenshot capture and optimization ☆`62`
@@ -2189,7 +2188,7 @@
 - [saury1120/pdf-mcp](https://github.com/saury1120/pdf-mcp) — MCP server for analyzing PDF documents ☆`51`
 - [MoussaabBadla/code-screenshot-mcp](https://github.com/MoussaabBadla/code-screenshot-mcp) — Generate code screenshots ☆`44`
 - [stass/exif-mcp](https://github.com/stass/exif-mcp) — MCP server to extract image metadata (EXIF, XMP, etc) ☆`40`
-- [editmamei/editmamei](https://github.com/editmamei/editmamei) — Edit photos in Photoshop with natural-language instructions ☆`16`
+- [editmamei/editmamei](https://github.com/editmamei/editmamei) — Edit photos in Photoshop with natural-language instructions ☆`18`
 - [torrentclaw/torrentclaw-mcp](https://github.com/torrentclaw/torrentclaw-mcp) — The official MCP by TorrentClaw.com ☆`16`
 - [magarcia/mcp-server-giphy](https://github.com/magarcia/mcp-server-giphy) — Giphy GIF integration ☆`36`
 - [kazuph/mcp-screenshot](https://github.com/kazuph/mcp-screenshot) — Repository for MCP screenshot functionality ☆`23`
@@ -2200,31 +2199,30 @@
 - [garylab/pexels-mcp-server](https://github.com/garylab/pexels-mcp-server) — A Pexels MCP Server for Images and Videos searching ☆`27`
 ### Video
 
-- [ronak-create/FableCut](https://github.com/ronak-create/FableCut) — Browser video editor an agent can drive from a JSON timeline ☆`778`
-- [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) — CLI, MCP server, and AI agent to automate YouTube workflows ☆`712`
-- [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server) — YouTube API and video management ☆`593`
+- [ronak-create/FableCut](https://github.com/ronak-create/FableCut) — Browser video editor an agent can drive from a JSON timeline ☆`780`
+- [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) — CLI, MCP server, and AI agent to automate YouTube workflows ☆`713`
+- [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server) — YouTube API and video management ☆`594`
 - [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) — YouTube video transcript downloader ☆`603`
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) — A Model-Context Protocol Server for YouTube ☆`552`
-- [ffroliva/gflow-cli](https://github.com/ffroliva/gflow-cli) — Generate Veo video and Imagen images from Google Flow ☆`358`
-- [WeftCut/WeftCut](https://github.com/WeftCut/WeftCut) — Video editor whose timeline any MCP client can drive ☆`310`
+- [ffroliva/gflow-cli](https://github.com/ffroliva/gflow-cli) — Generate Veo video and Imagen images from Google Flow ☆`361`
+- [WeftCut/WeftCut](https://github.com/WeftCut/WeftCut) — Video editor whose timeline any MCP client can drive ☆`315`
 - [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark) — Self-hosted RAG, browser agents and LoRA training ☆`299`
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) — MCP Interface for Video Jungle ☆`295`
-- [KyaniteLabs/kinocut](https://github.com/KyaniteLabs/kinocut) — Guardrailed video editing with FFmpeg and Hyperframes ☆`244`
-- [Cassette-Editor/oh-my-cassette](https://github.com/Cassette-Editor/oh-my-cassette) — Pocket AI co-editor and MCP server for video montage ☆`217`
+- [KyaniteLabs/kinocut](https://github.com/KyaniteLabs/kinocut) — Guardrailed video editing with FFmpeg and Hyperframes ☆`251`
+- [Cassette-Editor/oh-my-cassette](https://github.com/Cassette-Editor/oh-my-cassette) — Pocket AI co-editor and MCP server for video montage ☆`216`
 - [muxinc/mux-ts](https://github.com/muxinc/mux-ts) — Mux Video and Data API wrapper ☆`182`
 - [video-creator/ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp) — Search, cut, join and overlay local video with ffmpeg ☆`153`
 - [DareDev256/fcp-mcp-server](https://github.com/DareDev256/fcp-mcp-server) — Read and edit Final Cut Pro timelines from XML ☆`136`
-- [guimatheus92/mcp-video-analyzer](https://github.com/guimatheus92/mcp-video-analyzer) — Transcripts, frames and OCR from a video ☆`111`
+- [guimatheus92/mcp-video-analyzer](https://github.com/guimatheus92/mcp-video-analyzer) — Transcripts, frames and OCR from a video ☆`113`
 - [stabgan/openrouter-mcp-multimodal](https://github.com/stabgan/openrouter-mcp-multimodal) — Chat and media generation on OpenRouter ☆`102`
-- [arcmira/mcp](https://github.com/arcmira/mcp) — Search YouTube and podcast transcripts with timestamps ☆`78`
 - [Laksh-star/mcp-server-tmdb](https://github.com/Laksh-star/mcp-server-tmdb) — MCP Server with TMDB ☆`74`
 - [tan-yong-sheng/ai-vision-mcp](https://github.com/tan-yong-sheng/ai-vision-mcp) — Image and video analysis capabilities ☆`80`
 - [runapi-ai/mcp](https://github.com/runapi-ai/mcp) — Model list, prices, media tasks and balance on RunAPI ☆`56`
+- [arcmira/mcp](https://github.com/arcmira/mcp) — Search YouTube and podcast transcripts with timestamps ☆`46`
 - [luminarylane/fal-mcp-server](https://github.com/luminarylane/fal-mcp-server) — Fal.ai image, video, music generation ☆`61`
 - [nabid-pf/youtube-video-summarizer-mcp](https://github.com/nabid-pf/youtube-video-summarizer-mcp) — YouTube video captions and summarization ☆`62`
 - [video-db/agent-toolkit](https://github.com/video-db/agent-toolkit) — MCP toolkit for video database operations ☆`50`
 - [marcindulak/stt-mcp-server-linux](https://github.com/marcindulak/stt-mcp-server-linux) — Local speech-to-text for Tmux on Linux ☆`24`
-- [tubeagentkit/youtube-mcp](https://github.com/tubeagentkit/youtube-mcp) — YouTube transcripts, search and playlists ☆`24`
 - [Aditya2755/video-edit-mcp](https://github.com/Aditya2755/video-edit-mcp) — Trim, merge and convert video and audio, including YouTube ☆`30`
 - [maoxiaoke/mcp-media-processor](https://github.com/maoxiaoke/mcp-media-processor) — Process video and images from Node.js ☆`29`
 - [omergocmen/json2video-mcp-server](https://github.com/omergocmen/json2video-mcp-server) — json2video API integration ☆`26`
@@ -2234,7 +2232,7 @@
 - [ananddtyagi/gif-creator-mcp](https://github.com/ananddtyagi/gif-creator-mcp) — Turn a video into a GIF ☆`18`
 ## Monitoring & Observability
 
-- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) — MCP server for Grafana ☆`3,641`
+- [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) — MCP server for Grafana ☆`3,644`
 - [getsentry/toolkit](https://github.com/getsentry/toolkit) — Agentic tooling for Sentry ☆`957`
 - [0xKoda/WireMCP](https://github.com/0xKoda/WireMCP) — MCP server for Wireshark and tshark live packet analysis ☆`604`
 - [Higangssh/homebutler](https://github.com/Higangssh/homebutler) — Tell you what changed on a server, without an agent on the host ☆`314`
@@ -2245,15 +2243,15 @@
 - [aliyun/alibabacloud-observability-mcp-server](https://github.com/aliyun/alibabacloud-observability-mcp-server) — Alibaba Cloud logs and app monitoring ☆`171`
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) — MCP server for Langfuse LLM observability ☆`176`
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) — The Logfire MCP Server is here! ☆`162`
-- [prometheus/prometheus-mcp](https://github.com/prometheus/prometheus-mcp) — MCP server for LLMs to interact with Prometheus ☆`134`
+- [prometheus/prometheus-mcp](https://github.com/prometheus/prometheus-mcp) — MCP server for LLMs to interact with Prometheus ☆`135`
 - [Necmttn/ax](https://github.com/Necmttn/ax) — Local observability for agent sessions, tools, and costs ☆`122`
 - [avivsinai/langfuse-mcp](https://github.com/avivsinai/langfuse-mcp) — Query Langfuse traces for debugging ☆`112`
-- [ruslanlap/pagespeed-insights-mcp](https://github.com/ruslanlap/pagespeed-insights-mcp) — PageSpeed Insights and Chrome UX Report scores ☆`78`
+- [ruslanlap/pagespeed-insights-mcp](https://github.com/ruslanlap/pagespeed-insights-mcp) — PageSpeed Insights and Chrome UX Report scores ☆`79`
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) — MCP server monitoring tool ☆`91`
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) — Last9 MCP Server ☆`63`
-- [andreisirbu91-lab/MCPSpend](https://github.com/andreisirbu91-lab/MCPSpend) — Attribute MCP tool-call cost by tool, project and customer ☆`62`
 - [8bitgentleman/activitywatch-mcp-server](https://github.com/8bitgentleman/activitywatch-mcp-server) — Read ActivityWatch time-tracking data ☆`74`
 - [mcpcap/mcpcap](https://github.com/mcpcap/mcpcap) — Network analysis for the AI age ☆`54`
+- [andreisirbu91-lab/MCPSpend](https://github.com/andreisirbu91-lab/MCPSpend) — Attribute MCP tool-call cost by tool, project and customer ☆`55`
 - [GeLi2001/datadog-mcp-server](https://github.com/GeLi2001/datadog-mcp-server) — MCP server interacts with the official Datadog API ☆`70`
 - [mhajder/librenms-mcp](https://github.com/mhajder/librenms-mcp) — Devices, alerts and graphs in LibreNMS ☆`42`
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) — Metoro MCP Server ☆`51`
@@ -2279,8 +2277,8 @@
 
 ### Atlassian
 
-- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) — MCP server for Atlassian tools (Confluence, Jira) ☆`6,082`
-- [atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) — Official server for Jira, Confluence and Bitbucket ☆`1,146`
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) — MCP server for Atlassian tools (Confluence, Jira) ☆`6,088`
+- [atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) — Official server for Jira, Confluence and Bitbucket ☆`1,149`
 - [aashari/mcp-server-atlassian-bitbucket](https://github.com/aashari/mcp-server-atlassian-bitbucket) — Atlassian Bitbucket repositories and PRs ☆`164`
 - [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) — Jira issues and sprints via Go MCP ☆`96`
 - [aashari/mcp-server-atlassian-jira](https://github.com/aashari/mcp-server-atlassian-jira) — Atlassian Jira projects, issues and sprints ☆`78`
@@ -2292,27 +2290,27 @@
 - [KS-GEN-AI/jira-mcp-server](https://github.com/KS-GEN-AI/jira-mcp-server) — A test of jira mcp server ☆`26`
 ### Collaboration
 
-- [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) — Encrypted clipboard sync for Mac, Windows and Linux ☆`2,689`
-- [erpipe-org/mcp-odoo](https://github.com/erpipe-org/mcp-odoo) — Odoo access for agents, with writes that must be approved ☆`428`
-- [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Describe a video; the agent writes and renders it ☆`343`
+- [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) — Encrypted clipboard sync for Mac, Windows and Linux ☆`2,690`
+- [erpipe-org/mcp-odoo](https://github.com/erpipe-org/mcp-odoo) — Odoo access for agents, with writes that must be approved ☆`427`
+- [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Describe a video; the agent writes and renders it ☆`344`
 - [workopia/workopia-mcp](https://github.com/workopia/workopia-mcp) — Job search, a resume builder and career advice ☆`312`
 - [BrightbeamAI/chap](https://github.com/BrightbeamAI/chap) — Approvals, handoffs and evidence for work shared with agents ☆`122`
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro) — MCP server for Miro whiteboard manipulation and sticky creation ☆`113`
 - [hiromitsusasaki/raindrop-io-mcp-server](https://github.com/hiromitsusasaki/raindrop-io-mcp-server) — Raindrop.io bookmark management ☆`74`
 - [k-jarzyna/mcp-miro](https://github.com/k-jarzyna/mcp-miro) — Miro integration for Model Context Protocol ☆`65`
-- [dearlordylord/huly-mcp](https://github.com/dearlordylord/huly-mcp) — Work items and documents on the Huly platform ☆`63`
+- [dearlordylord/huly-mcp](https://github.com/dearlordylord/huly-mcp) — Work items and documents on the Huly platform ☆`64`
 - [kintone/mcp-server](https://github.com/kintone/mcp-server) — kintone official MCP server ☆`59`
 - [orellazri/coda-mcp](https://github.com/orellazri/coda-mcp) — MCP Server for Coda ☆`62`
 - [tale-project/tale](https://github.com/tale-project/tale) — Org knowledge plus authoring of automations, tests and deploys ☆`42`
 - [6figr-com/jobgpt-mcp-server](https://github.com/6figr-com/jobgpt-mcp-server) — Search jobs, tailor resumes and track applications ☆`26`
 - [lexmount/artifact-site](https://github.com/lexmount/artifact-site) — Host AI-generated pages and documents as versioned links ☆`26`
-- [OurThinkTank/founders-os](https://github.com/OurThinkTank/founders-os) — CRM, tasks, finances and memory for founders ☆`22`
+- [OurThinkTank/founders-os](https://github.com/OurThinkTank/founders-os) — CRM, tasks, finances and memory for founders ☆`21`
 - [winfunc/asterisk-mcp-server](https://github.com/winfunc/asterisk-mcp-server) — Asterisk Model Context Protocol (MCP) server. ☆`34`
 - [srikanth-paladugula/mcp-dynamics365-server](https://github.com/srikanth-paladugula/mcp-dynamics365-server) — MCP Server for Microsoft Dynamics 365 ☆`22`
 ### Documents
 
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) — Convert almost anything to Markdown ☆`2,999`
-- [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) — MCP server for document format conversion using pandoc. ☆`585`
+- [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) — MCP server for document format conversion using pandoc. ☆`586`
 - [onebirdrocks/ebook-mcp](https://github.com/onebirdrocks/ebook-mcp) — MCP server for ebook processing ☆`396`
 - [baruchiro/paperless-mcp](https://github.com/baruchiro/paperless-mcp) — MCP server for Paperless-NGX document management ☆`150`
 - [vgnshiyer/apple-books-mcp](https://github.com/vgnshiyer/apple-books-mcp) — Apple Books MCP Server ☆`64`
@@ -2340,7 +2338,7 @@
 - [quickchatai/quickchat-ai-mcp](https://github.com/quickchatai/quickchat-ai-mcp) — The Quickchat AI MCP server ☆`24`
 ### Learning & Flashcards
 
-- [ankimcp/anki-mcp-server](https://github.com/ankimcp/anki-mcp-server) — MCP server for Anki spaced repetition flashcards ☆`545`
+- [ankimcp/anki-mcp-server](https://github.com/ankimcp/anki-mcp-server) — MCP server for Anki spaced repetition flashcards ☆`546`
 - [scorzeth/anki-mcp-server](https://github.com/scorzeth/anki-mcp-server) — An MCP server for Anki ☆`185`
 - [jinzcdev/leetcode-mcp-server](https://github.com/jinzcdev/leetcode-mcp-server) — MCP server for LeetCode problems and solutions ☆`155`
 - [nietus/anki-mcp](https://github.com/nietus/anki-mcp) — Quiz, retention and leeches in Anki, through AnkiConnect ☆`44`
@@ -2349,9 +2347,9 @@
 - [doggybee/mcp-server-leetcode](https://github.com/doggybee/mcp-server-leetcode) — MCP server for LeetCode coding challenges ☆`44`
 ### Microsoft 365
 
-- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) — Excel file manipulation ☆`4,276`
-- [Softeria/ms-365-mcp-server](https://github.com/Softeria/ms-365-mcp-server) — Microsoft 365 and Office via Graph API ☆`1,111`
-- [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) — Excel MCP Server - 23 tools for AI-powered automation ☆`847`
+- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) — Excel file manipulation ☆`4,279`
+- [Softeria/ms-365-mcp-server](https://github.com/Softeria/ms-365-mcp-server) — Microsoft 365 and Office via Graph API ☆`1,114`
+- [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) — Excel MCP Server - 23 tools for AI-powered automation ☆`853`
 - [InditexTech/mcp-teams-server](https://github.com/InditexTech/mcp-teams-server) — MCP server for Microsoft Teams integration ☆`467`
 - [merill/lokka](https://github.com/merill/lokka) — MCP for Microsoft 365 and Graph ☆`310`
 - [pnp/cli-microsoft365-mcp-server](https://github.com/pnp/cli-microsoft365-mcp-server) — Manage Microsoft 365 using MCP server ☆`135`
@@ -2366,9 +2364,9 @@
 - [entanglr/zettelkasten-mcp](https://github.com/entanglr/zettelkasten-mcp) — MCP server implementing Zettelkasten knowledge management ☆`168`
 - [gornskew/cyborg-whisperer](https://github.com/gornskew/cyborg-whisperer) — Manage Lisply lisp-speaking backends ☆`54`
 - [2slides/mcp-2slides](https://github.com/2slides/mcp-2slides) — MCP Server for 2slides - AI agent for PPT generation ☆`34`
+- [koruworks/mono](https://github.com/koruworks/mono) — Local MCP server for Koru, a local-first notes, docs and files app ☆`33`
 - [ONLYOFFICE/docspace-mcp](https://github.com/ONLYOFFICE/docspace-mcp) — DocSpace MCP Server ☆`31`
-- [koruworks/mono](https://github.com/koruworks/mono) — Local MCP server for Koru, a local-first notes, docs and files app ☆`31`
-- [pinto-notes/pinto-notes](https://github.com/pinto-notes/pinto-notes) — Encrypted notes on iPhone and Mac that an assistant can edit ☆`30`
+- [pinto-notes/pinto-notes](https://github.com/pinto-notes/pinto-notes) — Encrypted notes on iPhone and Mac that an assistant can edit ☆`31`
 - [Piotr1215/mcp-obsidian](https://github.com/Piotr1215/mcp-obsidian) — simple mcp server for interacting with local obsidian notes ☆`24`
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) — MCP Server integration for Bear note app ☆`45`
 - [joshylchen/zettelkasten](https://github.com/joshylchen/zettelkasten) — Zettelkasten notes with search, links, CLI, API, and web ☆`40`
@@ -2390,11 +2388,11 @@
 - [orbit-logistics/notion-mcp-server](https://github.com/orbit-logistics/notion-mcp-server) — MCP server for Notion integration ☆`21`
 ### Obsidian
 
-- [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) — Obsidian integration via REST API plugin ☆`4,518`
-- [bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault) — Lightweight Obsidian vault access ☆`1,715`
+- [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) — Obsidian integration via REST API plugin ☆`4,520`
+- [bitbonsai/mcpvault](https://github.com/bitbonsai/mcpvault) — Lightweight Obsidian vault access ☆`1,717`
 - [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) — A simple MCP server for Obsidian ☆`748`
-- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) — Read, search and edit Obsidian notes ☆`701`
-- [WenyuChiou/research-hub](https://github.com/WenyuChiou/research-hub) — Research workspace over Zotero, Obsidian and NotebookLM ☆`68`
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) — Read, search and edit Obsidian notes ☆`702`
+- [WenyuChiou/research-hub](https://github.com/WenyuChiou/research-hub) — Research workspace over Zotero, Obsidian and NotebookLM ☆`67`
 - [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone) — Search Obsidian from disk, with no plugin running ☆`35`
 - [oomkapwn/enquire-mcp](https://github.com/oomkapwn/enquire-mcp) — Read-only Obsidian search that cites notes and watches freshness ☆`34`
 - [aliasunder/vault-cortex](https://github.com/aliasunder/vault-cortex) — Obsidian server with hybrid search, tasks and OAuth ☆`34`
@@ -2409,15 +2407,15 @@
 - [anpigon/mcp-server-obsidian-omnisearch](https://github.com/anpigon/mcp-server-obsidian-omnisearch) — Search Obsidian through the Omnisearch plugin ☆`30`
 ### Project Management
 
-- [mondaycom/mcp](https://github.com/mondaycom/mcp) — AI agents with secure data access ☆`437`
+- [mondaycom/mcp](https://github.com/mondaycom/mcp) — AI agents with secure data access ☆`436`
 - [makeplane/plane-mcp-server](https://github.com/makeplane/plane-mcp-server) — Plane's Official Model Context Protocol Server ☆`356`
 - [jerhadf/linear-mcp-server](https://github.com/jerhadf/linear-mcp-server) — MCP server for Linear issue tracking ☆`346`
-- [taskade/mcp](https://github.com/taskade/mcp) — MCP server for Taskade project management ☆`171`
+- [taskade/mcp](https://github.com/taskade/mcp) — MCP server for Taskade project management ☆`170`
 - [tacticlaunch/mcp-linear](https://github.com/tacticlaunch/mcp-linear) — MCP server for Linear project management ☆`149`
 - [roychri/mcp-server-asana](https://github.com/roychri/mcp-server-asana) — MCP server for Asana task and project management ☆`149`
 - [its-dart/dart-mcp-server](https://github.com/its-dart/dart-mcp-server) — Dart AI Model Context Protocol (MCP) server ☆`128`
 - [aikts/yandex-tracker-mcp](https://github.com/aikts/yandex-tracker-mcp) — Yandex Tracker MCP Server with OAuth2 support ☆`123`
-- [feuerdev/keep-mcp](https://github.com/feuerdev/keep-mcp) — MCP server for Google Keep ☆`111`
+- [feuerdev/keep-mcp](https://github.com/feuerdev/keep-mcp) — MCP server for Google Keep ☆`112`
 - [georgeantonopoulos/Basecamp-MCP-Server](https://github.com/georgeantonopoulos/Basecamp-MCP-Server) — Basecamp 3+ project management ☆`101`
 - [tonyzorin/youtrack-mcp](https://github.com/tonyzorin/youtrack-mcp) — YouTrack server, ARM64 and AMD64 ☆`99`
 - [taazkareem/clickup-mcp-server](https://github.com/taazkareem/clickup-mcp-server) — ClickUp MCP Server - project management with AI ☆`53`
@@ -2434,20 +2432,20 @@
 - [khaoss85/mcp-orchestro](https://github.com/khaoss85/mcp-orchestro) — Task breakdown, dependencies, and progress for AI teams ☆`16`
 ### Tasks & Calendar
 
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) — Search text and audio captured from the screen ☆`22,242`
-- [nspady/google-calendar-mcp](https://github.com/nspady/google-calendar-mcp) — MCP integration for Google Calendar to manage events. ☆`1,210`
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) — Search text and audio captured from the screen ☆`22,246`
+- [nspady/google-calendar-mcp](https://github.com/nspady/google-calendar-mcp) — MCP integration for Google Calendar to manage events. ☆`1,211`
 - [Doist/todoist-mcp](https://github.com/Doist/todoist-mcp) — Todoist tools for AI agents ☆`561`
 - [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server) — Todoist natural language task management ☆`392`
 - [Omar-V2/mcp-ical](https://github.com/Omar-V2/mcp-ical) — Interact with MacOS Calendar ☆`333`
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) — A Google Tasks Model Context Protocol Server for Claude ☆`176`
-- [dominik1001/caldav-mcp](https://github.com/dominik1001/caldav-mcp) — CalDAV calendar sync ☆`108`
+- [dominik1001/caldav-mcp](https://github.com/dominik1001/caldav-mcp) — CalDAV calendar sync ☆`109`
 - [alexarevalo9/ticktick-mcp-server](https://github.com/alexarevalo9/ticktick-mcp-server) — TickTick task management ☆`73`
 - [takumi0706/google-calendar-mcp](https://github.com/takumi0706/google-calendar-mcp) — Google Calendar for Claude Desktop ☆`59`
 - [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks) — MCP server for Google Tasks management ☆`51`
 - [stanislavlysenko0912/todoist-mcp-server](https://github.com/stanislavlysenko0912/todoist-mcp-server) — Todoist Rest API and Sync API ☆`63`
-- [flesler/mcp-tasks](https://github.com/flesler/mcp-tasks) — Efficient task management with views ☆`47`
 - [jen6/ticktick-mcp](https://github.com/jen6/ticktick-mcp) — TickTick task management with filtering ☆`67`
 - [2nd1st/open-mcp-apps](https://github.com/2nd1st/open-mcp-apps) — Interactive MCP apps whose data outlives the conversation ☆`36`
+- [flesler/mcp-tasks](https://github.com/flesler/mcp-tasks) — Efficient task management with views ☆`47`
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) — MCP Server for TaskWarrior! ☆`51`
 - [urbanogardun/things3-mcp](https://github.com/urbanogardun/things3-mcp) — MCP server for Things3 integration on macOS ☆`25`
 - [jbrinkman/valkey-ai-tasks](https://github.com/jbrinkman/valkey-ai-tasks) — MCP server for task management with Valkey persistence ☆`25`
@@ -2464,14 +2462,13 @@
 ### Education
 
 - [RohanMuppa/brightspace-mcp-server](https://github.com/RohanMuppa/brightspace-mcp-server) — Grades, due dates and course content in Brightspace ☆`62`
-- [AnonymousOnyx22/brightspace-d2l-mcp](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp) — Brightspace deadlines, skipping submitted work ☆`29`
 - [ictinnovations/ictexam-mcp](https://github.com/ictinnovations/ictexam-mcp) — Read exams and gradebooks, and publish exams in ICTExam ☆`17`
 ## Research & Science
 
-- [mnemox-ai/idea-reality-mcp](https://github.com/mnemox-ai/idea-reality-mcp) — Check GitHub, HN, npm and PyPI before building ☆`828`
+- [mnemox-ai/idea-reality-mcp](https://github.com/mnemox-ai/idea-reality-mcp) — Check GitHub, HN, npm and PyPI before building ☆`829`
 - [oOo0oOo/lean-lsp-mcp](https://github.com/oOo0oOo/lean-lsp-mcp) — Lean Theorem Prover MCP ☆`548`
 - [rrrrrredy/research-toolkit](https://github.com/rrrrrredy/research-toolkit) — Research methods and an independent review step for agents ☆`313`
-- [yusong652/itasca-mcp](https://github.com/yusong652/itasca-mcp) — Geotechnical simulations in PFC, FLAC and other ITASCA engines ☆`226`
+- [yusong652/itasca-mcp](https://github.com/yusong652/itasca-mcp) — Geotechnical simulations in PFC, FLAC and other ITASCA engines ☆`227`
 - [szeider/mcp-solver](https://github.com/szeider/mcp-solver) — Constraint optimization and solving ☆`187`
 - [pminervini/deep-research-mcp](https://github.com/pminervini/deep-research-mcp) — Deep research via OpenAI, Gemini, Tavily or self-hosted ☆`116`
 - [ProgramComputer/NASA-MCP-server](https://github.com/ProgramComputer/NASA-MCP-server) — NASA imagery, astronomy and other public NASA APIs ☆`94`
@@ -2479,7 +2476,7 @@
 - [NellyW8/MCP4EDA](https://github.com/NellyW8/MCP4EDA) — RTL-to-GDSII automation with LLM ☆`112`
 - [patsnap/patent-literature-search-mcp](https://github.com/patsnap/patent-literature-search-mcp) — Patents from major offices, plus PubMed and arXiv ☆`85`
 - [SecretiveShell/MCP-wolfram-alpha](https://github.com/SecretiveShell/MCP-wolfram-alpha) — Wolfram Alpha computational intelligence ☆`76`
-- [smaniches/semantic-scholar-mcp](https://github.com/smaniches/semantic-scholar-mcp) — Papers, citations and authors on Semantic Scholar ☆`24`
+- [smaniches/semantic-scholar-mcp](https://github.com/smaniches/semantic-scholar-mcp) — Papers, citations and authors on Semantic Scholar ☆`25`
 - [Scormave/gramps-web-mcp](https://github.com/Scormave/gramps-web-mcp) — Family trees in Gramps Web ☆`22`
 - [kimimgo/viznoir](https://github.com/kimimgo/viznoir) — VTK visualization aimed at science and engineering agents ☆`19`
 - [nguyenvanduocit/research-kit](https://github.com/nguyenvanduocit/research-kit) — Toolkit to help you get started with Spec-Driven Research ☆`20`
@@ -2489,11 +2486,11 @@
 - [anuj0456/arxiv-mcp-server](https://github.com/anuj0456/arxiv-mcp-server) — Search, analyze and export arXiv papers ☆`19`
 ## Sandboxing & Execution
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) — Local microVM runtime and library ☆`8,939`
-- [dagger/container-use](https://github.com/dagger/container-use) — MCP server for container orchestration ☆`4,083`
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) — Local microVM runtime and library ☆`8,958`
+- [dagger/container-use](https://github.com/dagger/container-use) — MCP server for container orchestration ☆`4,085`
 - [grafbase/grafbase](https://github.com/grafbase/grafbase) — [Acquired by The Guild] The Grafbase GraphQL Federation Gateway ☆`1,226`
 - [microsoft/wassette](https://github.com/microsoft/wassette) — Run WebAssembly components through MCP, with a security focus ☆`974`
-- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) — Sandboxed local agent runtime with approvals and audit ☆`641`
+- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) — Sandboxed local agent runtime with approvals and audit ☆`640`
 - [docker/labs-ai-tools-for-devs](https://github.com/docker/labs-ai-tools-for-devs) — Find MCP tools and run them from Docker ☆`398`
 - [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) — Secure code sandbox in Docker ☆`327`
 - [formulahendry/mcp-server-code-runner](https://github.com/formulahendry/mcp-server-code-runner) — Code Runner MCP Server ☆`242`
@@ -2518,22 +2515,22 @@
 
 ### Academic Research
 
-- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) — arXiv paper search and analysis ☆`3,255`
-- [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) — Search and download documents from Anna's Archive ☆`1,108`
+- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) — arXiv paper search and analysis ☆`3,258`
+- [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) — Search and download documents from Anna's Archive ☆`1,109`
 - [JackKuo666/Google-Scholar-MCP-Server](https://github.com/JackKuo666/Google-Scholar-MCP-Server) — Search Google Scholar papers ☆`432`
 - [reading-plus-ai/mcp-server-deep-research](https://github.com/reading-plus-ai/mcp-server-deep-research) — Comprehensive research with reports ☆`215`
 - [adityak74/mcp-scholarly](https://github.com/adityak74/mcp-scholarly) — A MCP server to search for accurate academic articles. ☆`185`
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) — arXiv paper search and reading ☆`202`
-- [kujenga/zotero-mcp](https://github.com/kujenga/zotero-mcp) — Search a Zotero library through the API ☆`162`
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) — PubMed medical research search ☆`171`
 - [takashiishida/arxiv-latex-mcp](https://github.com/takashiishida/arxiv-latex-mcp) — MCP server for arXiv LaTeX paper retrieval ☆`149`
+- [kujenga/zotero-mcp](https://github.com/kujenga/zotero-mcp) — Search a Zotero library through the API ☆`162`
 - [kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) — Zotero collections for Claude Desktop ☆`163`
 - [JackKuo666/PubMed-MCP-Server](https://github.com/JackKuo666/PubMed-MCP-Server) — Search and analyze PubMed articles ☆`132`
 - [afrise/academic-search-mcp-server](https://github.com/afrise/academic-search-mcp-server) — Search papers on Semantic Scholar and Crossref ☆`119`
 - [OctagonAI/octagon-deep-research-mcp](https://github.com/OctagonAI/octagon-deep-research-mcp) — AI-powered comprehensive research and analysis ☆`94`
-- [HzaCode/OneCite](https://github.com/HzaCode/OneCite) — Parse and format academic references ☆`68`
-- [akalaric/mcp-wolframalpha](https://github.com/akalaric/mcp-wolframalpha) — Wolfram Alpha integration for Python ☆`86`
+- [akalaric/mcp-wolframalpha](https://github.com/akalaric/mcp-wolframalpha) — Wolfram Alpha integration for Python ☆`87`
 - [oscardvs/zoteus](https://github.com/oscardvs/zoteus) — Search Zotero, add by DOI and pull PDF page images ☆`64`
+- [HzaCode/OneCite](https://github.com/HzaCode/OneCite) — Parse and format academic references ☆`68`
 - [szeider/mcp-dblp](https://github.com/szeider/mcp-dblp) — Access DBLP computer science bibliography ☆`47`
 - [drAbreu/alex-mcp](https://github.com/drAbreu/alex-mcp) — MCP server for OpenAlex ☆`57`
 - [wd041216-bit/zero-api-key-web-search](https://github.com/wd041216-bit/zero-api-key-web-search) — Web search for agents, with no API key ☆`20`
@@ -2544,13 +2541,13 @@
 - [gemy411/multi-agents-research](https://github.com/gemy411/multi-agents-research) — Kotlin multi-agent research server on Ktor ☆`16`
 ### Data APIs
 
-- [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) — Bazi Chinese astrology information ☆`436`
+- [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) — Bazi Chinese astrology information ☆`435`
 - [Rudra-ravi/wikipedia-mcp](https://github.com/Rudra-ravi/wikipedia-mcp) — Retrieve Wikipedia information ☆`305`
 - [ahonn/mcp-server-gsc](https://github.com/ahonn/mcp-server-gsc) — Google Search Console data access ☆`283`
 - [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server) — A MCP server for Unsplash image search. ☆`239`
-- [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) — MCP server for nutrition data and analysis ☆`208`
+- [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) — MCP server for nutrition data and analysis ☆`209`
 - [cameronrye/openzim-mcp](https://github.com/cameronrye/openzim-mcp) — MCP server for OpenZIM archive access ☆`149`
-- [damionrashford/RivalSearchMCP](https://github.com/damionrashford/RivalSearchMCP) — MCP server for competitive search analysis ☆`135`
+- [damionrashford/RivalSearchMCP](https://github.com/damionrashford/RivalSearchMCP) — MCP server for competitive search analysis ☆`137`
 - [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server) — MCP Server for Discogs ☆`134`
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) — Connect any Open Data to any LLM with Model Context Protocol. ☆`156`
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) — MCP server for Open Library book and author search ☆`100`
@@ -2558,8 +2555,8 @@
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) — MCP server for ZoomEye network asset information ☆`83`
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) — AniList MCP server for accessing anime and manga data ☆`91`
 - [Linked-API/linkedapi-mcp](https://github.com/Linked-API/linkedapi-mcp) — LinkedIn account control and data retrieval ☆`70`
-- [anysiteio/anysite-mcp-server](https://github.com/anysiteio/anysite-mcp-server) — LinkedIn data access ☆`65`
 - [imprvhub/mcp-domain-availability](https://github.com/imprvhub/mcp-domain-availability) — MCP server to check domain availability ☆`61`
+- [anysiteio/anysite-mcp-server](https://github.com/anysiteio/anysite-mcp-server) — LinkedIn data access ☆`65`
 - [djalal/quran-mcp-server](https://github.com/djalal/quran-mcp-server) — Quran.com verses, translations, tafsir ☆`73`
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) — Rijksmuseum artwork exploration ☆`72`
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) — MCP server for Dappier AI integration ☆`44`
@@ -2586,7 +2583,7 @@
 ### News & Content
 
 - [6551Team/opennews-mcp](https://github.com/6551Team/opennews-mcp) — Live news, ratings and trading signals from many sources ☆`2,435`
-- [guangxiangdebizi/FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP) — Financial data MCP for stocks, funds, bonds, macro ☆`867`
+- [guangxiangdebizi/FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP) — Financial data MCP for stocks, funds, bonds, macro ☆`869`
 - [lfnovo/content-core](https://github.com/lfnovo/content-core) — Extract what matters from any media source ☆`183`
 - [wopal-cn/mcp-hotnews-server](https://github.com/wopal-cn/mcp-hotnews-server) — Trending topics on major Chinese platforms ☆`202`
 - [superagents-lab/search1api-mcp](https://github.com/superagents-lab/search1api-mcp) — Web search, news, crawls and trends from Search1API ☆`173`
@@ -2597,26 +2594,26 @@
 - [VectorInstitute/mcp-goodnews](https://github.com/VectorInstitute/mcp-goodnews) — A feed of positive news stories ☆`48`
 - [aloth/cred-1](https://github.com/aloth/cred-1) — Check a news source against a domain-credibility dataset ☆`18`
 - [pskill9/hn-server](https://github.com/pskill9/hn-server) — Hacker news MCP server ☆`40`
-- [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp) — MCP server for real-time world news - free, no API key required ☆`35`
+- [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp) — MCP server for real-time world news - free, no API key required ☆`33`
 - [format37/youtube_mcp](https://github.com/format37/youtube_mcp) — youtube transcriber mcp server ☆`32`
 - [the0807/GeekNews-MCP-Server](https://github.com/the0807/GeekNews-MCP-Server) — GeekNews MCP Server ☆`18`
 ### Web Search Engines
 
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) — Autonomous research agent that can use any LLM provider ☆`30,480`
-- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) — Exa MCP for web search and web crawling! ☆`5,212`
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) — Autonomous research agent that can use any LLM provider ☆`30,510`
+- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) — Exa MCP for web search and web crawling! ☆`5,215`
 - [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) — Real-time search, extract, map and crawl ☆`2,478`
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) — MCP server for open web search ☆`1,895`
+- [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) — MCP server for DuckDuckGo search ☆`1,569`
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) — Brave Search with AI summarization ☆`1,561`
-- [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) — MCP server for DuckDuckGo search ☆`1,567`
-- [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng) — Private SearXNG web search for AI assistants ☆`1,345`
-- [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) — Local web search for Claude Desktop ☆`1,194`
+- [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng) — Private SearXNG web search for AI assistants ☆`1,347`
+- [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) — Local web search for Claude Desktop ☆`1,197`
 - [kagisearch/kagimcp](https://github.com/kagisearch/kagimcp) — Official Kagi search MCP server ☆`559`
 - [pskill9/web-search](https://github.com/pskill9/web-search) — Web search using free google search (NO API KEYS REQUIRED) ☆`473`
 - [angiejones/mcp-selenium](https://github.com/angiejones/mcp-selenium) — An MCP implementation for Selenium WebDriver ☆`430`
 - [spences10/mcp-omnisearch](https://github.com/spences10/mcp-omnisearch) — Search via Tavily, Brave, Kagi and Exa ☆`358`
 - [jae-jae/g-search-mcp](https://github.com/jae-jae/g-search-mcp) — Parallel Google search with summaries ☆`272`
 - [serpapi/serpapi-mcp](https://github.com/serpapi/serpapi-mcp) — SerpApi MCP Server for Google and other search engine results ☆`183`
-- [DasDigitaleMomentum/searxNcrawl](https://github.com/DasDigitaleMomentum/searxNcrawl) — Self-hosted search and crawls of logged-in pages ☆`184`
+- [DasDigitaleMomentum/searxNcrawl](https://github.com/DasDigitaleMomentum/searxNcrawl) — Self-hosted search and crawls of logged-in pages ☆`185`
 - [nkapila6/mcpsurfr](https://github.com/nkapila6/mcpsurfr) — RAG-like web search via MCP ☆`151`
 - [ChanMeng666/server-google-news](https://github.com/ChanMeng666/server-google-news) — MCP server for Google News integration ☆`130`
 - [SecretiveShell/MCP-searxng](https://github.com/SecretiveShell/MCP-searxng) — SearXNG search for agentic systems ☆`132`
@@ -2626,7 +2623,7 @@
 - [zoharbabin/web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) — Search, read full pages and check each citation ☆`77`
 - [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) — Perplexity API chat with citations ☆`95`
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp) — openai websearch tool as mcp server ☆`94`
-- [JovaniPink/mcp-browser-use](https://github.com/JovaniPink/mcp-browser-use) — Browser-use automation exposed over MCP ☆`62`
+- [JovaniPink/mcp-browser-use](https://github.com/JovaniPink/mcp-browser-use) — Browser-use automation exposed over MCP ☆`64`
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mcp-server) — MCP server for DuckDuckGo web search ☆`87`
 - [goesByhc/cn-scraper-mcp](https://github.com/goesByhc/cn-scraper-mcp) — Search Taobao, Xiaohongshu, Weibo, Bilibili and more ☆`76`
 - [steel-dev/steel-mcp-server](https://github.com/steel-dev/steel-mcp-server) — Cloud Chrome for blocked pages, with a human login ☆`58`
@@ -2639,24 +2636,24 @@
 - [OvertliDS/mcp-searxng-enhanced](https://github.com/OvertliDS/mcp-searxng-enhanced) — SearXNG web search with category awareness ☆`55`
 - [dazeb/markdown-downloader](https://github.com/dazeb/markdown-downloader) — Save a web page as markdown for the editor ☆`56`
 - [dorukardahan/domain-search-mcp](https://github.com/dorukardahan/domain-search-mcp) — Check whether a domain is free, with live pricing ☆`28`
+- [youdotcom-oss/mcp](https://github.com/youdotcom-oss/mcp) — Local stdio bridge to the hosted You.com MCP server ☆`26`
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) — MCP Server for Tavily API integration ☆`50`
-- [youdotcom-oss/mcp](https://github.com/youdotcom-oss/mcp) — Local stdio bridge to the hosted You.com MCP server ☆`25`
 - [apache/solr-mcp](https://github.com/apache/solr-mcp) — Solr MCP Server ☆`21`
 - [n24q02m/wet](https://github.com/n24q02m/wet) — Web search, page extraction and library docs, with no API key ☆`23`
 - [czottmann/kagi-ken-mcp](https://github.com/czottmann/kagi-ken-mcp) — Search and summarize Kagi with a session token, no API key ☆`42`
 - [Role1776/mcp-retrieval](https://github.com/Role1776/mcp-retrieval) — Local web search, image search and page-to-markdown, no API key ☆`23`
 - [garylab/serper-mcp-server](https://github.com/garylab/serper-mcp-server) — A Serper MCP Server ☆`39`
-- [HasData/hasdata-mcp](https://github.com/HasData/hasdata-mcp) — Structured scrapes of Google, Amazon, Zillow, YouTube and more ☆`21`
 - [robertheadley/chrome-debug-mcp](https://github.com/robertheadley/chrome-debug-mcp) — An MCP server to allow you to debug webpages using LLMs ☆`45`
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) — A Model Context Protocol server implementation for Kagi's API ☆`44`
 - [mnhlt/WebSearch-MCP](https://github.com/mnhlt/WebSearch-MCP) — MCP server for web search integration ☆`42`
 - [MikkoParkkola/nab](https://github.com/MikkoParkkola/nab) — Fetch a URL as clean markdown, using real browser cookies ☆`19`
 - [cevatkerim/unsplash-mcp](https://github.com/cevatkerim/unsplash-mcp) — Search Unsplash photos and get ready-to-use attribution ☆`36`
+- [HasData/hasdata-mcp](https://github.com/HasData/hasdata-mcp) — Structured scrapes of Google, Amazon, Zillow, YouTube and more ☆`17`
 - [KyuRish/mcp-server-for-fiverr-unofficial](https://github.com/KyuRish/mcp-server-for-fiverr-unofficial) — Search public Fiverr gig listings ☆`16`
 - [andyliszewski/webcrawl-mcp](https://github.com/andyliszewski/webcrawl-mcp) — Local scrape, search and crawl, with a Firecrawl fallback ☆`16`
 - [orliesaurus/pulsemcp-server](https://github.com/orliesaurus/pulsemcp-server) — Find MCP servers listed on PulseMCP ☆`30`
-- [codingthefuturewithai/rag-retriever](https://github.com/codingthefuturewithai/rag-retriever) — Index pages and files, then search by meaning ☆`28`
-- [oso95/domain-suite-mcp](https://github.com/oso95/domain-suite-mcp) — Domains and DNS on Porkbun, Namecheap, GoDaddy and Cloudflare ☆`23`
+- [oso95/domain-suite-mcp](https://github.com/oso95/domain-suite-mcp) — Domains and DNS on Porkbun, Namecheap, GoDaddy and Cloudflare ☆`24`
+- [codingthefuturewithai/rag-retriever](https://github.com/codingthefuturewithai/rag-retriever) — Index pages and files, then search by meaning ☆`27`
 - [chatmcp/mcp-server-collector](https://github.com/chatmcp/mcp-server-collector) — Find MCP servers published on the internet ☆`20`
 ## Security
 
@@ -2664,7 +2661,7 @@
 
 - [auth0/auth0-mcp-server](https://github.com/auth0/auth0-mcp-server) — Auth0 tenant management via natural language ☆`122`
 - [hashicorp/vault-mcp-server](https://github.com/hashicorp/vault-mcp-server) — Read secrets and manage HashiCorp Vault policies via MCP. ☆`66`
-- [sshaaf/keycloak-mcp-server](https://github.com/sshaaf/keycloak-mcp-server) — MCP server for Keycloak identity and access management ☆`48`
+- [sshaaf/keycloak-mcp-server](https://github.com/sshaaf/keycloak-mcp-server) — MCP server for Keycloak identity and access management ☆`49`
 - [ChristophEnglisch/keycloak-model-context-protocol](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) — Keycloak user and realm management ☆`46`
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) — Authenticator App for AI agents ☆`48`
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) — Azure AD ROADrecon analysis for Claude ☆`53`
@@ -2673,30 +2670,30 @@
 - [kapilduraphe/okta-mcp-server](https://github.com/kapilduraphe/okta-mcp-server) — Okta MCP Server ☆`22`
 ### MCP Security
 
-- [snyk/agent-scan](https://github.com/snyk/agent-scan) — Security scanner for AI agents, MCP servers and agent skills. ☆`3,203`
-- [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) — Damn Vulnerable MCP Server ☆`1,364`
-- [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) — Block risky tools, secrets and prompt injection ☆`1,069`
+- [snyk/agent-scan](https://github.com/snyk/agent-scan) — Security scanner for AI agents, MCP servers and agent skills. ☆`3,211`
+- [harishsg993010/damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) — Damn Vulnerable MCP Server ☆`1,365`
+- [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) — Block risky tools, secrets and prompt injection ☆`1,072`
 - [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) — Security scanner for MCP servers ☆`555`
-- [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) — Ask questions about a pcap and get answers from tshark ☆`368`
+- [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) — Ask questions about a pcap and get answers from tshark ☆`371`
 - [trailofbits/mcp-context-protector](https://github.com/trailofbits/mcp-context-protector) — MCP security wrapper ☆`228`
 - [eqtylab/mcp-guardian](https://github.com/eqtylab/mcp-guardian) — Manage / Proxy / Secure your MCP Servers ☆`204`
 - [stevenyu113228/BloodHound-MCP](https://github.com/stevenyu113228/BloodHound-MCP) — Active Directory questions against BloodHound ☆`164`
-- [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) — Local security tests for MCP servers ☆`135`
 - [kapilduraphe/mcp-watch](https://github.com/kapilduraphe/mcp-watch) — Security scanner for MCP servers ☆`139`
+- [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) — Local security tests for MCP servers ☆`121`
 - [mobilehackinglab/jadx-mcp-plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin) — Live access to code decompiled in jadx ☆`105`
 - [dtkmn/mcp-zap-server](https://github.com/dtkmn/mcp-zap-server) — Guided OWASP ZAP scans, findings and reports ☆`68`
 - [82ch/MCP-Dandan](https://github.com/82ch/MCP-Dandan) — MCP security with real-time proxying ☆`67`
 - [snyk/studio-mcp](https://github.com/snyk/studio-mcp) — Snyk checks on AI-written code and existing vulnerabilities ☆`58`
-- [postralai/masquerade](https://github.com/postralai/masquerade) — The Privacy Firewall for LLMs ☆`79`
-- [pomerium/mcp-app-demo](https://github.com/pomerium/mcp-app-demo) — Demo of securing MCP servers and clients with Pomerium ☆`51`
+- [postralai/masquerade](https://github.com/postralai/masquerade) — The Privacy Firewall for LLMs ☆`80`
 - [Synvoya/codeinspectus](https://github.com/Synvoya/codeinspectus) — Security scan of an AI-generated app, then a rescan after fixes ☆`50`
+- [pomerium/mcp-app-demo](https://github.com/pomerium/mcp-app-demo) — Demo of securing MCP servers and clients with Pomerium ☆`51`
 - [doublegate/CyberChef-MCP](https://github.com/doublegate/CyberChef-MCP) — CyberChef encode, hash and forensics operations as tools ☆`32`
 - [icoretech/warden-mcp](https://github.com/icoretech/warden-mcp) — Vaultwarden / Bitwarden MCP server for credential-aware AI agents ☆`26`
 - [CakeRepository/1Password-MCP](https://github.com/CakeRepository/1Password-MCP) — 1Password vaults without secrets in the chat ☆`22`
+- [echelongraph/echelongraph-mcp](https://github.com/echelongraph/echelongraph-mcp) — CVE records, KEV, EPSS and exploit notes ☆`20`
 - [Acacian/aegis](https://github.com/Acacian/aegis) — Python guardrails for prompt injection, PII and toxicity ☆`18`
-- [echelongraph/echelongraph-mcp](https://github.com/echelongraph/echelongraph-mcp) — CVE records, KEV, EPSS and exploit notes ☆`17`
 - [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) — Security gateway for agents and Docker ☆`16`
-- [operantlabs/operant-mcp](https://github.com/operantlabs/operant-mcp) — Turn your AI agent into a hacker by plugging in this MCP ☆`27`
+- [operantlabs/operant-mcp](https://github.com/operantlabs/operant-mcp) — Turn your AI agent into a hacker by plugging in this MCP ☆`26`
 - [MorDavid/Hashcat-MCP](https://github.com/MorDavid/Hashcat-MCP) — Run Hashcat cracking jobs in natural language ☆`27`
 - [AIM-Intelligence/AIM-MCP](https://github.com/AIM-Intelligence/AIM-MCP) — AIM MCP Server :: Guard and Protect your MCPs & AI Chatting ☆`23`
 - [cromwellian/hippycampus](https://github.com/cromwellian/hippycampus) — REST endpoint to MCP conversion ☆`20`
@@ -2709,20 +2706,20 @@
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) — An MCP server to let AI agents control Intruder ☆`26`
 ### Pentesting & OSINT
 
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) — News, geopolitics and infrastructure on one dashboard ☆`90,153`
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — Red-team scans of agents, MCP servers and jailbreaks ☆`7,377`
-- [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) — Passive OSINT checks as a CLI, an MCP server and a web UI ☆`1,850`
-- [prompt-security/clawsec](https://github.com/prompt-security/clawsec) — Security and drift checks for OpenClaw-family agents ☆`1,130`
-- [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) — Markets, filings, conflict and aviation from public APIs ☆`1,063`
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) — News, geopolitics and infrastructure on one dashboard ☆`90,232`
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — Red-team scans of agents, MCP servers and jailbreaks ☆`7,393`
+- [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) — Passive OSINT checks as a CLI, an MCP server and a web UI ☆`1,857`
+- [prompt-security/clawsec](https://github.com/prompt-security/clawsec) — Security and drift checks for OpenClaw-family agents ☆`1,133`
+- [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) — Markets, filings, conflict and aviation from public APIs ☆`1,064`
 - [w0h1v/mcp-maigret](https://github.com/w0h1v/mcp-maigret) — Maigret OSINT user account collection ☆`269`
-- [JeanExtreme002/PyMemoryEditor](https://github.com/JeanExtreme002/PyMemoryEditor) — Inspect and edit another process's memory ☆`225`
+- [OSINT-Experts-Society/Consensus-OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) — Username, email and phone lookups with evidence ☆`232`
+- [JeanExtreme002/PyMemoryEditor](https://github.com/JeanExtreme002/PyMemoryEditor) — Inspect and edit another process's memory ☆`226`
 - [frishtik/osint-tools-mcp-server](https://github.com/frishtik/osint-tools-mcp-server) — Several OSINT tools behind one server ☆`247`
-- [OSINT-Experts-Society/Consensus-OSINT](https://github.com/OSINT-Experts-Society/Consensus-OSINT) — Username, email and phone lookups with evidence ☆`203`
-- [w0h1v/mcp-shodan](https://github.com/w0h1v/mcp-shodan) — MCP server for Shodan - device search, IP recon, CVE intel ☆`186`
-- [timescale/rsigma](https://github.com/timescale/rsigma) — Parse, lint and evaluate Sigma detection rules ☆`183`
+- [w0h1v/mcp-shodan](https://github.com/w0h1v/mcp-shodan) — MCP server for Shodan - device search, IP recon, CVE intel ☆`187`
+- [timescale/rsigma](https://github.com/timescale/rsigma) — Parse, lint and evaluate Sigma detection rules ☆`184`
 - [w0h1v/mcp-virustotal](https://github.com/w0h1v/mcp-virustotal) — VirusTotal API queries ☆`155`
 - [XposedOrNot/XposedOrNot-API](https://github.com/XposedOrNot/XposedOrNot-API) — Check whether an email showed up in a breach ☆`103`
-- [26zl/cybersec-toolkit](https://github.com/26zl/cybersec-toolkit) — Install security tools and run them in a disposable VM via MCP ☆`87`
+- [26zl/cybersec-toolkit](https://github.com/26zl/cybersec-toolkit) — Install security tools and run them in a disposable VM via MCP ☆`89`
 - [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) — CVE database security queries ☆`109`
 - [mobb-dev/bugsy](https://github.com/mobb-dev/bugsy) — Automatic security vulnerability remediation for your code. ☆`68`
 - [MediaPublishing/mcp-manager](https://github.com/MediaPublishing/mcp-manager) — Web UI for MCP servers used by Claude and Cursor ☆`83`
@@ -2737,8 +2734,8 @@
 - [vetcoders/mcp-server-semgrep](https://github.com/vetcoders/mcp-server-semgrep) — Run Semgrep static analysis ☆`28`
 - [addcontent/nuclei-mcp](https://github.com/addcontent/nuclei-mcp) — Run Nuclei scans with the context the model needs ☆`50`
 - [sophymarine/openregistry](https://github.com/sophymarine/openregistry) — Company profiles and filings from official registries ☆`23`
+- [SOsintOps/claudii-exploratores](https://github.com/SOsintOps/claudii-exploratores) — OSINT tools with an indicator classifier ☆`22`
 - [mastyf-ai/mastyf.ai](https://github.com/mastyf-ai/mastyf.ai) — Perimeter checks, policy and adversarial tests for agents ☆`21`
-- [SOsintOps/claudii-exploratores](https://github.com/SOsintOps/claudii-exploratores) — OSINT tools with an indicator classifier ☆`21`
 - [kontext-security/attestable-mcp-server](https://github.com/kontext-security/attestable-mcp-server) — Attest that the MCP server code is untampered ☆`22`
 - [nickpending/mcp-recon](https://github.com/nickpending/mcp-recon) — Tellix conversational recon interface ☆`31`
 - [agentward-ai/agentward](https://github.com/agentward-ai/agentward) — Scan, enforce and audit every agent tool call ☆`19`
@@ -2749,15 +2746,15 @@
 - [Hexix23/shodan-mcp](https://github.com/Hexix23/shodan-mcp) — MCP server for Shodan search and host data ☆`16`
 ### Reverse Engineering
 
-- [morluto/rea](https://github.com/morluto/rea) — Local CLI and MCP server for agent-assisted reverse engineering. ☆`431,637`
-- [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) — IDA Pro reverse engineering with AI ☆`13,366`
-- [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) — MCP Server for Ghidra ☆`11,764`
-- [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) — Plugin for JADX to integrate MCP server ☆`2,980`
-- [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg) — Model Context Protocol for WinDbg. ☆`1,653`
-- [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) — Ghidra, Frida, x64dbg, Rizin, and YARA in one lab ☆`1,338`
-- [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) — Reverse-engineering help inside Ghidra ☆`935`
-- [symgraph/GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP) — An native MCP server extension for Ghidra ☆`805`
-- [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) — APK Tool for Android reverse engineering ☆`707`
+- [morluto/rea](https://github.com/morluto/rea) — Local CLI and MCP server for agent-assisted reverse engineering. ☆`435,404`
+- [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) — IDA Pro reverse engineering with AI ☆`13,381`
+- [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) — MCP Server for Ghidra ☆`11,779`
+- [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) — Plugin for JADX to integrate MCP server ☆`2,985`
+- [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg) — Model Context Protocol for WinDbg. ☆`1,656`
+- [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) — Ghidra, Frida, x64dbg, Rizin, and YARA in one lab ☆`1,344`
+- [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) — Reverse-engineering help inside Ghidra ☆`944`
+- [symgraph/GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP) — An native MCP server extension for Ghidra ☆`807`
+- [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) — APK Tool for Android reverse engineering ☆`708`
 - [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp) — Binary Ninja plugin for LLM integration ☆`455`
 - [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) — MCP stdio server for radare2 ☆`352`
 - [taida957789/ida-mcp-server-plugin](https://github.com/taida957789/ida-mcp-server-plugin) — IDA Pro plugin that serves an MCP endpoint ☆`191`
@@ -2769,9 +2766,9 @@
 - [pullkitsan/mobsf-mcp-server](https://github.com/pullkitsan/mobsf-mcp-server) — MobSF APK and IPA security scanning ☆`24`
 ### SIEM & SecOps
 
-- [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) — Low-code honeypot with AI virtualization ☆`2,230`
+- [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) — Low-code honeypot with AI virtualization ☆`2,232`
 - [MorDavid/BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI) — BloodHound integration with AI through MCP ☆`383`
-- [CrowdStrike/falcon-mcp](https://github.com/CrowdStrike/falcon-mcp) — CrowdStrike Falcon security analysis ☆`277`
+- [CrowdStrike/falcon-mcp](https://github.com/CrowdStrike/falcon-mcp) — CrowdStrike Falcon security analysis ☆`278`
 - [gbrigandi/mcp-server-wazuh](https://github.com/gbrigandi/mcp-server-wazuh) — MCP Server for Wazuh SIEM ☆`240`
 - [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp) — All-in-one security testing toolbox via MCP ☆`219`
 - [cycodehq/cycode-cli](https://github.com/cycodehq/cycode-cli) — SAST, SCA, Secrets, IaC security scanning ☆`99`
@@ -2789,15 +2786,15 @@
 ## Social Media
 
 - [iFurySt/RedNote-MCP](https://github.com/iFurySt/RedNote-MCP) — MCP server for accessing RedNote(XiaoHongShu, xhs). ☆`1,129`
-- [karanb192/reddit-mcp-buddy](https://github.com/karanb192/reddit-mcp-buddy) — Clean Reddit data: posts, search, users ☆`879`
-- [dialog-tools/reddit-research-mcp](https://github.com/dialog-tools/reddit-research-mcp) — Reddit research with structured insights ☆`261`
+- [karanb192/reddit-mcp-buddy](https://github.com/karanb192/reddit-mcp-buddy) — Clean Reddit data: posts, search, users ☆`882`
+- [dialog-tools/reddit-research-mcp](https://github.com/dialog-tools/reddit-research-mcp) — Reddit research with structured insights ☆`263`
 - [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) — X/Twitter search, profiles, posting, and media download ☆`227`
 - [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server) — Facebook posts, comments, insights automation ☆`234`
 - [taisly/agent](https://github.com/taisly/agent) — Publish video to TikTok, Reels, Shorts, X and Facebook ☆`222`
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) — Twitter interaction via MCP ☆`237`
 - [Seym0n/tiktok-mcp](https://github.com/Seym0n/tiktok-mcp) — Model Context Protocol (MCP) with TikTok integration ☆`208`
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) — Bilibili video search MCP service ☆`198`
-- [ihuzaifashoukat/x-use](https://github.com/ihuzaifashoukat/x-use) — Read X profiles, inboxes and posts without an X API key ☆`180`
+- [ihuzaifashoukat/x-use](https://github.com/ihuzaifashoukat/x-use) — Read X profiles, inboxes and posts without an X API key ☆`181`
 - [sparfenyuk/mcp-telegram](https://github.com/sparfenyuk/mcp-telegram) — MCP server to work with Telegram through MTProto ☆`190`
 - [trypeggy/instagram_dm_mcp](https://github.com/trypeggy/instagram_dm_mcp) — Instagram Direct messages MCP ☆`188`
 - [hanweg/mcp-discord](https://github.com/hanweg/mcp-discord) — MCP server for discord bot ☆`166`
@@ -2807,7 +2804,7 @@
 - [mikusnuz/meta-mcp](https://github.com/mikusnuz/meta-mcp) — Instagram, Threads and other Meta platform APIs ☆`31`
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) — MCP server for Product Hunt data access ☆`56`
 - [macrocosm-os/macrocosmos-mcp](https://github.com/macrocosm-os/macrocosmos-mcp) — The MCP for macrocosmos subnets. ☆`29`
-- [AstaBlackClove/posthive](https://github.com/AstaBlackClove/posthive) — Schedule posts across social networks ☆`25`
+- [AstaBlackClove/posthive](https://github.com/AstaBlackClove/posthive) — Schedule posts across social networks ☆`26`
 - [bulatko/vk-mcp-server](https://github.com/bulatko/vk-mcp-server) — Read and post on VK through its API ☆`16`
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) — Nostr posting and interaction ☆`39`
 - [lumizone/postsider](https://github.com/lumizone/postsider) — Schedule posts on 30-plus networks, with an API and SDK ☆`16`
@@ -2816,20 +2813,21 @@
 - [jonathan-politzki/mcp-writer-substack](https://github.com/jonathan-politzki/mcp-writer-substack) — Bridge Substack writings to Claude ☆`34`
 - [mbelinky/x-mcp-server](https://github.com/mbelinky/x-mcp-server) — MCP server to post on x.com with OAuth v1 and v2 ☆`24`
 - [gwbischof/bluesky-social-mcp](https://github.com/gwbischof/bluesky-social-mcp) — A Bluesky MCP ☆`16`
+- [wangshunnn/bilibili-mcp-server](https://github.com/wangshunnn/bilibili-mcp-server) — MCP server for the bilibili API ☆`16`
 ## Sports
 
 - [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) — Strava fitness data integration ☆`503`
 - [JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp) — Workouts and fitness metrics from TrainingPeaks ☆`194`
-- [livetennisapi/livetennisapi-mcp](https://github.com/livetennisapi/livetennisapi-mcp) — Live tennis scores, odds and model win probabilities ☆`148`
-- [krmisystems/fantasy-football-manager](https://github.com/krmisystems/fantasy-football-manager) — ESPN fantasy drafts and lineups, with limits ☆`88`
+- [livetennisapi/livetennisapi-mcp](https://github.com/livetennisapi/livetennisapi-mcp) — Live tennis scores, odds and model win probabilities ☆`138`
+- [krmisystems/fantasy-football-manager](https://github.com/krmisystems/fantasy-football-manager) — ESPN fantasy drafts and lineups, with limits ☆`85`
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp) — Fantasy Premier League MCP Server ☆`80`
 - [guillochon/mlb-api-mcp](https://github.com/guillochon/mlb-api-mcp) — MCP server for MLB baseball statistics ☆`59`
 - [lacausecrypto/mcp-sports-hub](https://github.com/lacausecrypto/mcp-sports-hub) — Scores, stats and odds from many sports APIs ☆`40`
 - [googlarz/suunto-mcp](https://github.com/googlarz/suunto-mcp) — Read training data from a Suunto watch ☆`39`
 - [jordanlyall/wc26-mcp](https://github.com/jordanlyall/wc26-mcp) — Matches, venues and city guides for the 2026 FIFA World Cup ☆`34`
 - [DanielTomaro13/sportsdata-mcp](https://github.com/DanielTomaro13/sportsdata-mcp) — Scores, odds and stats from many sports-data providers ☆`32`
+- [PeanutSplash/chelaile-mcp](https://github.com/PeanutSplash/chelaile-mcp) — MCP server for Chelaile realtime bus data ☆`37`
 - [RobSpectre/mvf1](https://github.com/RobSpectre/mvf1) — Python package and CLI for MultiViewer For F1 ☆`20`
-- [PeanutSplash/chelaile-mcp](https://github.com/PeanutSplash/chelaile-mcp) — MCP server for Chelaile realtime bus data ☆`35`
 - [drivly/auto-dev-skill](https://github.com/drivly/auto-dev-skill) — Automotive Data for AI Agents ☆`19`
 - [yeonupark/mcp-soccer-data](https://github.com/yeonupark/mcp-soccer-data) — Real-time football data ☆`39`
 - [mikechao/balldontlie-mcp](https://github.com/mikechao/balldontlie-mcp) — MCP server for NBA, NFL, MLB sports data ☆`26`
@@ -2843,21 +2841,22 @@
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) — MCP server for professional cycling data from FirstCycling ☆`18`
 ## Text-to-Speech
 
-- [mbailey/voicemode](https://github.com/mbailey/voicemode) — Natural voice conversations with Claude Code ☆`1,437`
+- [mbailey/voicemode](https://github.com/mbailey/voicemode) — Natural voice conversations with Claude Code ☆`1,439`
 - [mberg/kokoro-tts-mcp](https://github.com/mberg/kokoro-tts-mcp) — Kokoro Text to Speech (TTS) MCP Server ☆`83`
 - [cartesia-ai/cartesia-mcp](https://github.com/cartesia-ai/cartesia-mcp) — The official Cartesia MCP Server ☆`17`
 - [ybouhjira/claude-code-tts](https://github.com/ybouhjira/claude-code-tts) — Spoken feedback while Claude Code works ☆`21`
+- [da-okazaki/mcp-fish-audio-server](https://github.com/da-okazaki/mcp-fish-audio-server) —  ☆`16`
 ## Translation
 
-- [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) — Markdown formatting and translation to Chinese ☆`1,354`
+- [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) — Markdown formatting and translation to Chinese ☆`1,355`
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) — MCP server for Intlayer internationalization ☆`863`
 - [DeepL/deepl-mcp-server](https://github.com/DeepL/deepl-mcp-server) — Translation with DeepL API ☆`120`
 - [translated/lara-mcp](https://github.com/translated/lara-mcp) — Lara Translate API with language detection ☆`100`
 - [mmntm/weblate-mcp](https://github.com/mmntm/weblate-mcp) — Manage Weblate projects, components, and translations ☆`24`
 ## Travel & Transport
 
-- [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) — Search train tickets on 12306 ☆`2,422`
-- [LetsFG/LetsFG](https://github.com/LetsFG/LetsFG) — Flight and hotel search and booking, with a reliability history ☆`2,229`
+- [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp) — Search train tickets on 12306 ☆`2,423`
+- [LetsFG/LetsFG](https://github.com/LetsFG/LetsFG) — Flight and hotel search and booking, with a reliability history ☆`2,234`
 - [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) — Search Airbnb using your AI Agent ☆`556`
 - [shaikhspeare/wanderlog-mcp](https://github.com/shaikhspeare/wanderlog-mcp) — Build and edit a Wanderlog trip itinerary ☆`169`
 - [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) — MCP server for TeslaMate vehicle data and analytics ☆`142`
@@ -2874,12 +2873,12 @@
 ## Web Scraping
 
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — Python scraper based on AI ☆`32,511`
-- [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) — MCP server for Apify web scraping and data extraction ☆`14,808`
-- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) — Web scraping and search for LLM clients ☆`7,765`
-- [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) — Local web search, fetch and crawl, with no API key ☆`5,527`
-- [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) — All-in-one public web access solution ☆`2,711`
-- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) — Local web scraper and crawler with a CLI, REST API and MCP server ☆`2,428`
-- [fastcrw/crw](https://github.com/fastcrw/crw) — Rust scraper, crawler and search API, with a Firecrawl-like API ☆`1,226`
+- [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) — MCP server for Apify web scraping and data extraction ☆`14,975`
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) — Web scraping and search for LLM clients ☆`7,766`
+- [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) — Local web search, fetch and crawl, with no API key ☆`5,531`
+- [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) — All-in-one public web access solution ☆`2,710`
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) — Local web scraper and crawler with a CLI, REST API and MCP server ☆`2,430`
+- [fastcrw/crw](https://github.com/fastcrw/crw) — Rust scraper, crawler and search API, with a Firecrawl-like API ☆`1,227`
 - [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) — Playwright web page content fetching ☆`1,088`
 - [etsd-tech/mcp-pointer](https://github.com/etsd-tech/mcp-pointer) — DOM element pointing for agents ☆`599`
 - [eliasbiondo/linkedin-mcp-server](https://github.com/eliasbiondo/linkedin-mcp-server) — Search LinkedIn people, companies and jobs ☆`212`
@@ -2887,9 +2886,8 @@
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) — Scrapeless Mcp Server ☆`170`
 - [just-every/mcp-read-website-fast](https://github.com/just-every/mcp-read-website-fast) — Fast webpage to markdown conversion ☆`163`
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) — MCP server to download entire websites ☆`157`
-- [cyberchitta/scrapling-fetch-mcp](https://github.com/cyberchitta/scrapling-fetch-mcp) — Access bot-protected websites ☆`127`
+- [cyberchitta/scrapling-fetch-mcp](https://github.com/cyberchitta/scrapling-fetch-mcp) — Access bot-protected websites ☆`128`
 - [just-every/mcp-screenshot-website-fast](https://github.com/just-every/mcp-screenshot-website-fast) — Fast webpage screenshots for LLMs ☆`111`
-- [oxylabs/oxylabs-mcp](https://github.com/oxylabs/oxylabs-mcp) — Official Oxylabs MCP integration ☆`104`
 - [supadata-ai/mcp](https://github.com/supadata-ai/mcp) — Video and web scraping for Claude ☆`63`
 - [pragmar/mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) — Web crawler data and archives connection ☆`46`
 - [webscraping-ai/webscraping-ai-mcp-server](https://github.com/webscraping-ai/webscraping-ai-mcp-server) — MCP server for AI-powered web scraping ☆`45`
@@ -2912,9 +2910,9 @@
 - [uju777/coupang-mcp](https://github.com/uju777/coupang-mcp) — Search Coupang products, compare prices and see rocket delivery ☆`18`
 ## Legal
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) — MCP server for Korean statutes, precedents and ordinances ☆`2,836`
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) — MCP server for Korean statutes, precedents and ordinances ☆`2,843`
 - [ilhamfp/pasal](https://github.com/ilhamfp/pasal) — Grounded lookup of Indonesian laws ☆`285`
-- [lawchat-oss/mcp-taiwan-legal-db](https://github.com/lawchat-oss/mcp-taiwan-legal-db) — Query Taiwan court decisions and statutes from any ☆`226`
+- [lawchat-oss/mcp-taiwan-legal-db](https://github.com/lawchat-oss/mcp-taiwan-legal-db) — Query Taiwan court decisions and statutes from any ☆`228`
 - [dealfluence/adeu](https://github.com/dealfluence/adeu) — Edit a Word file as markdown and write back tracked changes ☆`170`
 - [AI-WorkDeck/aiworkdeck](https://github.com/AI-WorkDeck/aiworkdeck) — Legal workspace for documents, reviewable edits and sources ☆`169`
 - [ayunis-core/ayunis-legal-mcp](https://github.com/ayunis-core/ayunis-legal-mcp) — An MCP server for German legal codes ☆`91`
@@ -2938,106 +2936,106 @@
 
 > The most starred projects in this list, sorted by GitHub stars.
 
-1. [morluto/rea](https://github.com/morluto/rea) — Local CLI and MCP server for agent-assisted reverse engineering. ☆`431,637`
-1. [koala73/worldmonitor](https://github.com/koala73/worldmonitor) — News, geopolitics and infrastructure on one dashboard ☆`90,153`
-1. [lobehub/lobehub](https://github.com/lobehub/lobehub) — Hire, schedule and report on a team of agents ☆`83,869`
-1. [upstash/context7](https://github.com/upstash/context7) — Up-to-date code docs for LLMs ☆`64,211`
-1. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Hindsight: Agent Memory That Learns ☆`58,892`
-1. [aaif-goose/goose](https://github.com/aaif-goose/goose) — Agent that installs, edits, runs and tests code with any LLM ☆`56,224`
-1. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents ☆`54,809`
-1. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) — Your AI workspace for models, agents, and productivity. ☆`53,256`
-1. [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — Persistent graph of code, docs and infrastructure ☆`48,109`
-1. [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) — Chat app with agents, MCP and many model providers ☆`46,739`
-1. [mindsdb/mindshub](https://github.com/mindsdb/mindshub) — Query Engine for AI Analytics - self-reasoning agents on live data ☆`39,837`
-1. [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) — Playwright MCP server ☆`39,190`
-1. [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — "Vibe-Trading: Your Personal Trading Agent" ☆`37,639`
-1. [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) — Draw and edit draw.io diagrams by chatting ☆`36,682`
-1. [github/github-mcp-server](https://github.com/github/github-mcp-server) — GitHub's official MCP Server ☆`34,239`
+1. [morluto/rea](https://github.com/morluto/rea) — Local CLI and MCP server for agent-assisted reverse engineering. ☆`435,404`
+1. [koala73/worldmonitor](https://github.com/koala73/worldmonitor) — News, geopolitics and infrastructure on one dashboard ☆`90,232`
+1. [lobehub/lobehub](https://github.com/lobehub/lobehub) — Hire, schedule and report on a team of agents ☆`84,085`
+1. [upstash/context7](https://github.com/upstash/context7) — Up-to-date code docs for LLMs ☆`64,262`
+1. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Hindsight: Agent Memory That Learns ☆`59,216`
+1. [aaif-goose/goose](https://github.com/aaif-goose/goose) — Agent that installs, edits, runs and tests code with any LLM ☆`56,272`
+1. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents ☆`54,859`
+1. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) — Your AI workspace for models, agents, and productivity. ☆`53,295`
+1. [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — Persistent graph of code, docs and infrastructure ☆`48,181`
+1. [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) — Chat app with agents, MCP and many model providers ☆`46,785`
+1. [mindsdb/mindshub](https://github.com/mindsdb/mindshub) — Query Engine for AI Analytics - self-reasoning agents on live data ☆`39,841`
+1. [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) — Playwright MCP server ☆`39,248`
+1. [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — "Vibe-Trading: Your Personal Trading Agent" ☆`37,734`
+1. [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) — Draw and edit draw.io diagrams by chatting ☆`36,716`
+1. [github/github-mcp-server](https://github.com/github/github-mcp-server) — GitHub's official MCP Server ☆`34,274`
 1. [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — Python scraper based on AI ☆`32,511`
-1. [trycua/cua](https://github.com/trycua/cua) — MCP server for CUA platform ☆`31,761`
-1. [oraios/serena](https://github.com/oraios/serena) — Semantic code retrieval and editing toolkit ☆`31,108`
-1. [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) — Autonomous research agent that can use any LLM provider ☆`30,480`
-1. [mastra-ai/mastra](https://github.com/mastra-ai/mastra) — TypeScript AI agent framework with RAG ☆`29,341`
-1. [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) — The fast, Pythonic way to build MCP servers and clients. ☆`28,311`
-1. [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) — Official Python SDK for MCP servers and clients ☆`24,758`
+1. [trycua/cua](https://github.com/trycua/cua) — MCP server for CUA platform ☆`31,836`
+1. [oraios/serena](https://github.com/oraios/serena) — Semantic code retrieval and editing toolkit ☆`31,138`
+1. [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) — Autonomous research agent that can use any LLM provider ☆`30,510`
+1. [mastra-ai/mastra](https://github.com/mastra-ai/mastra) — TypeScript AI agent framework with RAG ☆`29,372`
+1. [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) — The fast, Pythonic way to build MCP servers and clients. ☆`28,324`
+1. [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) — Official Python SDK for MCP servers and clients ☆`24,773`
 1. [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) — Automate browser based workflows with AI ☆`23,340`
-1. [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) — Build n8n workflows with AI assistants ☆`23,208`
-1. [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) — Search text and audio captured from the screen ☆`22,242`
-1. [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) — Pipeline engine for LLM workflows, with a C++ core ☆`19,899`
-1. [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) — Cross-language curriculum for learning MCP ☆`17,602`
+1. [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) — Build n8n workflows with AI assistants ☆`23,219`
+1. [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) — Search text and audio captured from the screen ☆`22,246`
+1. [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) — Pipeline engine for LLM workflows, with a C++ core ☆`19,948`
+1. [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) — Cross-language curriculum for learning MCP ☆`17,610`
 1. [apache/apisix](https://github.com/apache/apisix) — The Cloud-Native API Gateway and AI Gateway ☆`17,293`
-1. [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) — Open source database MCP toolbox ☆`16,804`
-1. [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) — Figma layout info for AI coding agents ☆`16,163`
-1. [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) — MCP server for Apify web scraping and data extraction ☆`14,808`
-1. [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) — Official TypeScript SDK for MCP ☆`13,706`
-1. [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) — IDA Pro reverse engineering with AI ☆`13,366`
-1. [elie222/inbox-zero](https://github.com/elie222/inbox-zero) — AI email assistant for inbox zero ☆`12,913`
-1. [zilliztech/claude-context](https://github.com/zilliztech/claude-context) — Code search for Claude Code agents ☆`12,669`
-1. [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) — Expose FastAPI endpoints as MCP tools ☆`12,025`
-1. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) — MCP Server for Ghidra ☆`11,764`
-1. [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) — Deterministic testing tools for MCP servers ☆`11,229`
-1. [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) — Framework for MCP apps and servers ☆`10,845`
-1. [instantdb/instant](https://github.com/instantdb/instant) — Modern Firebase with real-time database ☆`10,562`
-1. [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) — Mobile automation for iOS, Android, emulators ☆`10,304`
-1. [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) — Terminal control, file search, diff editing ☆`10,221`
-1. [awslabs/mcp](https://github.com/awslabs/mcp) — AWS MCP servers for AI assistants ☆`9,879`
-1. [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) — Specification and documentation for MCP ☆`9,613`
-1. [maximhq/bifrost](https://github.com/maximhq/bifrost) — Open-source gateway for models, MCP and agents, with failover ☆`9,375`
-1. [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) — Go implementation of MCP ☆`9,224`
-1. [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) — Local microVM runtime and library ☆`8,939`
-1. [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) — Build agents with MCP and workflow patterns ☆`8,576`
-1. [idosal/git-mcp](https://github.com/idosal/git-mcp) — Free remote MCP for any GitHub project ☆`8,504`
-1. [repowise-dev/repowise](https://github.com/repowise-dev/repowise) — Code health, generated docs, dead code and git analytics ☆`8,133`
-1. [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) — Build autonomous AI agents in Python. ☆`7,967`
-1. [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) — Web scraping and search for LLM clients ☆`7,765`
-1. [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) — Community registry of MCP servers ☆`7,435`
-1. [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — Red-team scans of agents, MCP servers and jailbreaks ☆`7,377`
-1. [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) — Browser control for AI applications ☆`7,294`
-1. [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — Cursor and Figma communication ☆`7,081`
-1. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) — WhatsApp MCP server ☆`6,809`
-1. [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) — Unified observability DB for metrics, logs, traces ☆`6,786`
-1. [genkit-ai/genkit](https://github.com/genkit-ai/genkit) — AI app framework for JavaScript and Go ☆`6,566`
+1. [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) — Open source database MCP toolbox ☆`16,815`
+1. [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) — Figma layout info for AI coding agents ☆`16,171`
+1. [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) — MCP server for Apify web scraping and data extraction ☆`14,975`
+1. [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) — Official TypeScript SDK for MCP ☆`13,716`
+1. [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) — IDA Pro reverse engineering with AI ☆`13,381`
+1. [elie222/inbox-zero](https://github.com/elie222/inbox-zero) — AI email assistant for inbox zero ☆`12,925`
+1. [zilliztech/claude-context](https://github.com/zilliztech/claude-context) — Code search for Claude Code agents ☆`12,673`
+1. [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) — Expose FastAPI endpoints as MCP tools ☆`12,026`
+1. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) — MCP Server for Ghidra ☆`11,779`
+1. [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) — Deterministic testing tools for MCP servers ☆`11,243`
+1. [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) — Framework for MCP apps and servers ☆`10,848`
+1. [instantdb/instant](https://github.com/instantdb/instant) — Modern Firebase with real-time database ☆`10,561`
+1. [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) — Mobile automation for iOS, Android, emulators ☆`10,333`
+1. [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) — Terminal control, file search, diff editing ☆`10,233`
+1. [awslabs/mcp](https://github.com/awslabs/mcp) — AWS MCP servers for AI assistants ☆`9,884`
+1. [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) — Specification and documentation for MCP ☆`9,624`
+1. [maximhq/bifrost](https://github.com/maximhq/bifrost) — Open-source gateway for models, MCP and agents, with failover ☆`9,398`
+1. [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) — Go implementation of MCP ☆`9,225`
+1. [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) — Local microVM runtime and library ☆`8,958`
+1. [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) — Build agents with MCP and workflow patterns ☆`8,577`
+1. [idosal/git-mcp](https://github.com/idosal/git-mcp) — Free remote MCP for any GitHub project ☆`8,503`
+1. [repowise-dev/repowise](https://github.com/repowise-dev/repowise) — Code health, generated docs, dead code and git analytics ☆`8,084`
+1. [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) — Build autonomous AI agents in Python. ☆`7,966`
+1. [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) — Web scraping and search for LLM clients ☆`7,766`
+1. [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) — Community registry of MCP servers ☆`7,445`
+1. [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — Red-team scans of agents, MCP servers and jailbreaks ☆`7,393`
+1. [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) — Browser control for AI applications ☆`7,299`
+1. [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — Cursor and Figma communication ☆`7,085`
+1. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) — WhatsApp MCP server ☆`6,816`
+1. [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) — Unified observability DB for metrics, logs, traces ☆`6,789`
+1. [genkit-ai/genkit](https://github.com/genkit-ai/genkit) — AI app framework for JavaScript and Go ☆`6,568`
 1. [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) — MCP server for Xcode build operations ☆`6,541`
-1. [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) — MCP server for Godot game engine ☆`6,510`
-1. [kucherenko/jscpd](https://github.com/kucherenko/jscpd) — Find copy-pasted code across more than 200 languages ☆`6,499`
-1. [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) — Desktop assistant that connects models to personal tools ☆`6,383`
-1. [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) — Frontend development with AI like Magic ☆`6,381`
-1. [Q00/ouroboros](https://github.com/Q00/ouroboros) — Agent that proposes changes, then evaluates them under a budget ☆`6,315`
-1. [baserow/baserow](https://github.com/baserow/baserow) — No-code database, apps, agents with AI ☆`6,272`
-1. [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) — MCP server for Atlassian tools (Confluence, Jira) ☆`6,082`
-1. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) — Proxy in front of AI agents and MCP servers ☆`5,938`
-1. [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) — Platform for letting agents call tools reliably at scale ☆`5,828`
-1. [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) — MCP server for Playwright browser testing ☆`5,675`
-1. [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) — Local web search, fetch and crawl, with no API key ☆`5,527`
+1. [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) — MCP server for Godot game engine ☆`6,532`
+1. [kucherenko/jscpd](https://github.com/kucherenko/jscpd) — Find copy-pasted code across more than 200 languages ☆`6,506`
+1. [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) — Frontend development with AI like Magic ☆`6,393`
+1. [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) — Desktop assistant that connects models to personal tools ☆`6,384`
+1. [Q00/ouroboros](https://github.com/Q00/ouroboros) — Agent that proposes changes, then evaluates them under a budget ☆`6,326`
+1. [baserow/baserow](https://github.com/baserow/baserow) — No-code database, apps, agents with AI ☆`6,276`
+1. [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) — MCP server for Atlassian tools (Confluence, Jira) ☆`6,088`
+1. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) — Proxy in front of AI agents and MCP servers ☆`5,966`
+1. [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) — MCP server for Playwright browser testing ☆`5,678`
+1. [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) — Local web search, fetch and crawl, with no API key ☆`5,531`
 1. [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) — macOS screenshot and window capture MCP server ☆`5,436`
 1. [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) — MCP server for Lingo localization platform ☆`5,404`
-1. [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) — Desktop assistant and MCP client, with a local knowledge base ☆`5,373`
-1. [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) — Official Go SDK for MCP servers and clients ☆`5,308`
-1. [callstack/agent-device](https://github.com/callstack/agent-device) — Control phones, browsers, TVs and desktop apps on devices ☆`5,265`
-1. [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) — Build AI systems with Evals, RAG, Agents, fine-tuning ☆`5,254`
-1. [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) — Exa MCP for web search and web crawling! ☆`5,212`
-1. [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) — Screeners and backtests for crypto, stocks and forex ☆`5,203`
-1. [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) — Gateway and registry in front of MCP, A2A and REST APIs ☆`4,751`
+1. [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) — Desktop assistant and MCP client, with a local knowledge base ☆`5,372`
+1. [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) — Official Go SDK for MCP servers and clients ☆`5,314`
+1. [callstack/agent-device](https://github.com/callstack/agent-device) — Control phones, browsers, TVs and desktop apps on devices ☆`5,280`
+1. [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) — Build AI systems with Evals, RAG, Agents, fine-tuning ☆`5,257`
+1. [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) — Screeners and backtests for crypto, stocks and forex ☆`5,216`
+1. [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) — Exa MCP for web search and web crawling! ☆`5,215`
+1. [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) — Gateway and registry in front of MCP, A2A and REST APIs ☆`4,761`
 1. [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) — Official Notion MCP Server ☆`4,697`
-1. [google/mcp](https://github.com/google/mcp) — Google MCP ☆`4,686`
-1. [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) — Official C# SDK for MCP servers and clients ☆`4,614`
-1. [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) — AI-powered bridge connecting LLMs to Unity Editor ☆`4,585`
-1. [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) — Obsidian integration via REST API plugin ☆`4,518`
-1. [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) — AI conversations that remember context ☆`4,487`
-1. [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) — Cloudflare services management ☆`4,446`
-1. [archestra-ai/archestra](https://github.com/archestra-ai/archestra) — Enterprise AI guardrails, registry, gateway, and orchestrator ☆`4,429`
-1. [open-webui/mcpo](https://github.com/open-webui/mcpo) — A simple, secure MCP-to-OpenAPI proxy server ☆`4,417`
-1. [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) — 25+ visual charts using @antvis for data analysis ☆`4,414`
-1. [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) — Code graph indexing for AI context ☆`4,376`
-1. [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) — Excel file manipulation ☆`4,276`
-1. [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — SEO and marketing skills for agents ☆`4,113`
-1. [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) — The official Rust SDK for the Model Context Protocol ☆`4,088`
-1. [dagger/container-use](https://github.com/dagger/container-use) — MCP server for container orchestration ☆`4,083`
-1. [skyhook-io/radar](https://github.com/skyhook-io/radar) — Kubernetes UI with issues, topology and a built-in MCP server ☆`4,032`
-1. [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) — MCP server integration for DaVinci Resolve Studio ☆`3,939`
-1. [microsoft/mcp](https://github.com/microsoft/mcp) — Catalog of official Microsoft MCP servers ☆`3,832`
+1. [google/mcp](https://github.com/google/mcp) — Google MCP ☆`4,688`
+1. [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) — Official C# SDK for MCP servers and clients ☆`4,616`
+1. [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) — AI-powered bridge connecting LLMs to Unity Editor ☆`4,591`
+1. [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) — Obsidian integration via REST API plugin ☆`4,520`
+1. [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) — AI conversations that remember context ☆`4,502`
+1. [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) — Cloudflare services management ☆`4,451`
+1. [archestra-ai/archestra](https://github.com/archestra-ai/archestra) — Enterprise AI guardrails, registry, gateway, and orchestrator ☆`4,431`
+1. [open-webui/mcpo](https://github.com/open-webui/mcpo) — A simple, secure MCP-to-OpenAPI proxy server ☆`4,418`
+1. [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) — 25+ visual charts using @antvis for data analysis ☆`4,415`
+1. [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) — Code graph indexing for AI context ☆`4,379`
+1. [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) — Excel file manipulation ☆`4,279`
+1. [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — SEO and marketing skills for agents ☆`4,114`
+1. [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) — The official Rust SDK for the Model Context Protocol ☆`4,093`
+1. [dagger/container-use](https://github.com/dagger/container-use) — MCP server for container orchestration ☆`4,085`
+1. [skyhook-io/radar](https://github.com/skyhook-io/radar) — Kubernetes UI with issues, topology and a built-in MCP server ☆`4,057`
+1. [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) — MCP server integration for DaVinci Resolve Studio ☆`3,955`
+1. [microsoft/mcp](https://github.com/microsoft/mcp) — Catalog of official Microsoft MCP servers ☆`3,835`
 1. [bytebase/dbhub](https://github.com/bytebase/dbhub) — Token-efficient multi-database MCP ☆`3,788`
-1. [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) — Official Java SDK for MCP servers and clients ☆`3,762`
+1. [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) — Official Java SDK for MCP servers and clients ☆`3,759`
+1. [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) — MCP server for Grafana ☆`3,644`
 
 ## Contributing
 
