@@ -1448,6 +1448,8 @@ categories:
             description: Email with attachments for Gmail, Outlook, QQ
           - url: https://github.com/mailgun/mailgun-mcp-server
             description: Mailgun API integration
+          - url: https://github.com/mailveri/mailveri-mcp
+            description: "Email verification for AI agents via the MailVeri API: SMTP, catch-all, disposable and role detection"
           - url: https://github.com/egyptianego17/email-mcp-server
             description: Send emails with attachments via SMTP
           - url: https://github.com/MadLlama25/fastmail-mcp
