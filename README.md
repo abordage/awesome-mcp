@@ -3056,3 +3056,10 @@ Found something wrong? Open an issue or submit a pull request — contributions 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
+
+## CrakSEO SEO MCP skills
+
+- Repo: https://github.com/CrakSEO/skills
+- Install: `npx skills add CrakSEO/skills`
+- Plugins: https://github.com/CrakSEO/crakseo-mcp-plugins
+- Docs: https://docs.crakseo.com/seo-mcp/connect
