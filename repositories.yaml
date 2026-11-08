@@ -6781,6 +6781,8 @@ categories:
             description: "MCP server for Microsoft Patch Tuesday - query MSRC security updates, CVEs, and KBs with EPSS + CISA KEV enrichment. No API keys. Works with Claude, Copilot, Cursor, and any MCP"
           - url: https://github.com/shyshlakov/pci-dss-mcp
             description: "Narrow-and-deep PCI DSS v4.0.1 compliance scanner for Go payment services, delivered as an MCP server"
+          - url: https://github.com/vulnify/vulnify-mcp
+            description: "Checks an agent action and returns ALLOW, REVIEW or BLOCK before it runs."
       - name: Network & Firewall
         repos:
           - url: https://github.com/intruder-io/intruder-mcp
