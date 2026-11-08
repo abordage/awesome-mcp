@@ -1504,6 +1504,8 @@ categories:
             description: "Self-hosted email CLI / API / MCP server for AI agents and apps"
           - url: https://github.com/peter-fusek/oncofiles
             description: "Medical records scattered across Gmail and Google Drive? Oncofiles reads, organizes, and makes them available through AI. For cancer patients and caregivers. Works with Claude &"
+          - url: https://github.com/mehdis34/fezola-mcp
+            description: "Hosted, closed-source server for Gmail, iCloud and IMAP mail plus read-only Google Chat and Telegram; this repo holds docs and client configs"
       - name: Messengers
         repos:
           - url: https://github.com/areweai/tsgram-mcp
