@@ -7194,6 +7194,8 @@ categories:
         description: "Model Context Protocol (MCP) server for XERT API - access fitness signature, training load, workouts and activities"
       - url: https://github.com/seang1121/sports-betting-mcp
         description: "The first MCP server for sports betting - 9 tools, live odds, AI picks, 59.6% win rate across 1,353+ picks"
+      - url: https://github.com/AlonDrilich/depot-fitness-mcp
+        description: "Hosted MCP for depot.fitness: search 101 written-out strength programs, exercises and guides; save programs and read logged workouts (OAuth)"
   - name: Text-to-Speech
     repos:
       - url: https://github.com/daisys-ai/daisys-mcp
@@ -7271,6 +7273,8 @@ categories:
         description: "Neutral freight reference & correctness layer for AI agents - source-backed DG, customs, location & freight-math data agents can call and cite. No freight to sell."
       - url: https://github.com/warpfreight/warp-agent-mcp
         description: "MCP server for the Warp freight API. Quote, book, and track LTL/FTL shipments from any MCP-compatible AI agent."
+      - url: https://github.com/AlonDrilich/latino-events-mcp
+        description: "Hosted MCP for events.lat: search concerts, festivals and cultural events across Latin America, with venue, dates and ticket page (OAuth)"
   - name: Web Scraping
     repos:
       - url: https://github.com/olostep/olostep-mcp-server
