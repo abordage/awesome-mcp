@@ -5412,7 +5412,7 @@ categories:
       - name: Video
         repos:
           - url: https://github.com/arcmira/mcp
-            description: "Search YouTube and podcast transcripts with timestamps"
+            description: "YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers."
           - url: https://github.com/bogdanminko/zapcap-mcp-server
           - url: https://github.com/marcindulak/stt-mcp-server-linux
             description: Local speech-to-text for Tmux on Linux
