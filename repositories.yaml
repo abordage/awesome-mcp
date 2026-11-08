@@ -508,6 +508,8 @@ categories:
             description: "Standalone MCP server - cross-session memory, 10-gate VERITAS build pipeline, cryptographic audit ledger, Cortex approval gate. Two files, one dependency."
           - url: https://github.com/zzallirog/weighted-compact
             description: "Substrate-based context compaction for Claude Code. Inspectable signal weights, local-only, MCP-ready. Alternative to /compact + hook-based capture (claude-mem, etc.)."
+          - url: https://github.com/zambodotdev/zambo-mcp
+            description: "Remote MCP server: cross-AI continuity with a verifiable receipt for every job"
       - name: RAG
         repos:
           - url: https://github.com/Prem5123/BookMCP
