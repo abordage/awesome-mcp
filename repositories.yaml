@@ -512,6 +512,9 @@ categories:
             description: "Remote MCP server: cross-AI continuity with a verifiable receipt for every job"
       - name: RAG
         repos:
+
+          - url: https://github.com/tidybytetools/md-chunk-lite
+            description: Split Markdown into heading-based chunks with heading path and line numbers
           - url: https://github.com/Prem5123/BookMCP
             description: Local PDF book retrieval with page citations for agent system design and implementation
           - url: https://github.com/apecloud/ApeRAG
@@ -3019,6 +3022,11 @@ categories:
             description: "Chat with, inspect and debug MCP servers and apps"
       - name: Utilities
         repos:
+
+          - url: https://github.com/tidybytetools/link-check-lite
+            description: Check a list of links for status codes, broken links, and redirect chains
+          - url: https://github.com/tidybytetools/json-shaper-lite
+            description: Turn key:value notes, CSV/TSV, and Markdown tables into typed JSON
           - url: https://github.com/agent-hanju/char-index-mcp
           - url: https://github.com/anaisbetts/mcp-installer
           - url: https://github.com/andybrandt/mcp-simple-timeserver
@@ -3985,6 +3993,11 @@ categories:
         description: "home-assistant-mcp-server"
   - name: File Systems & Storage
     repos:
+
+      - url: https://github.com/tidybytetools/pdf-table-pull-lite
+        description: Pull tables from local text PDFs into CSV files (CLI + MCP, no upload)
+      - url: https://github.com/tidybytetools/doc2md-lite
+        description: Convert local text PDFs and HTML into clean Markdown with real tables
       - url: https://github.com/8b-is/smart-tree
         description: Context-aware AI-crafted replacement for tree command
       - url: https://github.com/box/mcp-server-box-remote
