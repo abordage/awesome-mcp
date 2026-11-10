@@ -696,6 +696,8 @@ categories:
             description: "MCP server for CLIRank - search, compare, and get docs for 420+ APIs ranked by AI-agent friendliness"
           - url: https://github.com/Aganium/agenium
             description: "AGENIUM - DNS of the Agent Web. Identity, trust & discovery for AI agents. MCP-compatible. agent:// protocol with mTLS, trust scores & capability search."
+          - url: https://github.com/agent-tool-router/agentik
+            description: "Hosted MCP gateway to paid data and media tools from many providers, priced per call from one prepaid balance"
       - name: Gateways & Proxies
         repos:
           - url: https://github.com/HelpCode-ai/anythingmcp
