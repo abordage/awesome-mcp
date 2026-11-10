@@ -5300,6 +5300,8 @@ categories:
             description: "Generate Suno music, lyrics and covers through Ace Data Cloud"
           - url: https://github.com/Pantani/ableton-mind
             description: "Definitive MCP server for Ableton Live - full LOM coverage, embedded device knowledge base, and declarative music recipes. Build real music in Live from plain language with"
+          - url: https://github.com/AlonDrilich/internet-radio-mcp
+            description: "Search 50,000+ internet radio stations from the public-domain Radio Browser directory and get direct stream URLs; no API key"
       - name: Image Generation
         repos:
           - url: https://github.com/hamflx/imagen3-mcp
