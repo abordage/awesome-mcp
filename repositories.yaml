@@ -1329,6 +1329,8 @@ categories:
             description: "OCI Pricing MCP Server - Model Context Protocol server for Oracle Cloud Infrastructure pricing information"
           - url: https://github.com/Labs64/NetLicensing-MCP
             description: "The official NetLicensing MCP Server is a natural language interface that enables agentic applications to manage the full software licensing lifecycle in Labs64 NetLicensing"
+          - url: https://github.com/mrhy7176/cloudgpu-mcp
+            description: Discover rental GPUs, request quotes, run GPU jobs, transfer files, read logs, and shut down instances through MCP.
       - name: Kubernetes
         repos:
           - url: https://github.com/alexei-led/k8s-mcp-server
