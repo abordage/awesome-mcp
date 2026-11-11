@@ -7384,6 +7384,8 @@ categories:
         description: "Facilitates seamless interaction with Shopify store data via GraphQL API, offering comprehensive tools for managing products, customers, orders, and collections."
       - url: https://github.com/mrslbt/rakuten-mcp
         description: "MCP server for the Rakuten Web Service API. 28 read-only tools across Ichiba (e-commerce), Books, Travel, Recipe, Kobo, and GORA (golf). Bilingual EN/JA tool descriptions."
+      - url: https://github.com/quickman924/plushsource-mcp
+        description: "Search and compare custom plush manufacturers in a public directory"
   - name: Legal
     repos:
       - url: https://github.com/chrisryugj/korean-law-mcp
