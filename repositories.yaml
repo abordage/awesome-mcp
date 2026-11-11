@@ -7458,3 +7458,6 @@ categories:
         description: "MCP server for TranscriptFetch: transcripts from YouTube, TikTok, Instagram and media URLs, with AI transcription when captions are missing, plus YouTube search, channel and"
       - url: https://github.com/spokenmd/spoken
         description: "Podcast transcript API and MCP server - any published podcast as clean Markdown with real speaker names. For Claude, Cursor and other AI agents."
+
+      - url: https://github.com/SalyyS1/mcp-slim
+        description: "Zero-dependency MCP JSON-RPC 2.0 stdio proxy that reduces tool schema and output token usage by 47-52% and redacts leaked secrets in real time."
