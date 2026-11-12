@@ -5238,6 +5238,8 @@ categories:
         description: "8 stdio MCP-серверов для SEO (xmlstock/SERP, wordstat, gsc, ywm, metrika) для Claude Code - read-only, строгий JSON, мультиаккаунт, OAuth с авто-refresh"
       - url: https://github.com/askads/mcp-yandex-wordstat
         description: "MCP server for Yandex Wordstat: search query volume, related phrases, trends and regions in Claude, Cursor, Codex"
+      - url: https://github.com/wavegrain/wavegrain-mcp
+        description: "Wavegrain - curated slideshows and carousels for your brand on autopilot: hosted MCP server that writes TikTok slideshows and Instagram carousels, then schedules and posts them (OAuth)"
       - url: https://github.com/pucilpet/crawlgraph-mcp
         description: "MCP server for the CrawlGraph backlink-intelligence API (Common Crawl webgraph). Backlink lookups + competitor gap analysis for Claude, Cursor, Cline, and any MCP client."
       - url: https://github.com/AKzar1el/mcp-gsc
