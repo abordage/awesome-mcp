@@ -7390,6 +7390,8 @@ categories:
         description: "MCP server for the Rakuten Web Service API. 28 read-only tools across Ichiba (e-commerce), Books, Travel, Recipe, Kobo, and GORA (golf). Bilingual EN/JA tool descriptions."
       - url: https://github.com/quickman924/plushsource-mcp
         description: "Search and compare custom plush manufacturers in a public directory"
+      - url: https://github.com/Toolbox-POD/toolbox-pod-mcp
+        description: "Hosted server to design custom tees and hoodies, see mockups, and order prints shipped from Utah"
   - name: Legal
     repos:
       - url: https://github.com/chrisryugj/korean-law-mcp
