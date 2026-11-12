@@ -5422,6 +5422,8 @@ categories:
             description: "Topaz Labs MCP Server - AI image enhancement via Model Context Protocol"
           - url: https://github.com/verIdyia/autoeq-mcp
             description: "MCP server for AutoEQ headphone equalization database - search, compare, and get EQ settings for 8800+ headphones/IEMs"
+          - url: https://github.com/sightradar-hq/sightradar-mcp
+            description: "Official MCP server for the SightRadar face recognition API: index photos, find every photo of a person from one selfie, compare and detect faces."
       - name: Media Services
         repos:
           - url: https://github.com/felores/cloudinary-mcp-server
