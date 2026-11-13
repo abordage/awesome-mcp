@@ -853,6 +853,8 @@ categories:
             description: "Search 13,870+ MCP servers, 4,384+ agent skills, and plugins from your terminal or AI agent. CLI + MCP server for remoteopenclaw.com"
           - url: https://github.com/khalidsaidi/ragmap
             description: "Find a retrieval MCP server that works today: a daily-checked list of MCP servers that search knowledge"
+          - url: https://github.com/openanysi/openany-mcp
+            description: "The open marketplace for agents: 3,200+ APIs and 168+ AI models via https://mcp.openany.si."
   - name: Browser Automation
     subcategories:
       - name: AI Automation
