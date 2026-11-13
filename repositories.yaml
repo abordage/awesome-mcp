@@ -5260,6 +5260,8 @@ categories:
         description: "MCP server to publish to Dev.to, Ghost, Hashnode, WordPress, Medium, LinkedIn, X, Bluesky, Mastodon from Claude Code. SEO scoring, canonical-URL wiring, social-post generation,"
       - url: https://github.com/optifeed/optifeed-radar
         description: "Open-source AI brand + product visibility checker (GEO/AEO). Are your brand and products recommended by ChatGPT, Perplexity, Gemini and Claude? CLI + MCP server, BYO keys, runs"
+      - url: https://github.com/seodata-dev/mcp-server
+        description: "Remote keyword search volume, CPC and competition data for 50+ countries, works without signup"
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
