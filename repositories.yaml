@@ -3829,6 +3829,8 @@ categories:
             description: "Find and download the best-quality favicon of any website (SVG/PNG/ICO). Bulk download, free no-key API, MCP server, image-to-favicon generator."
           - url: https://github.com/tejpalvirk/developer
             description: "MCP server to help developers manage project context across sessions"
+          - url: https://github.com/immurray/gridzen-developer-kit
+            description: "Five read-only research and synthetic MCP tools for planning identity-verification coverage and exercising sandbox decision results."
       - name: Version Control
         repos:
           - url: https://github.com/adhikasp/mcp-git-ingest
