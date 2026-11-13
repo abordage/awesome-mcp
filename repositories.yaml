@@ -874,6 +874,8 @@ categories:
             description: "The agentic browser for your AI apps and agents, with built-in MCP and A2A support."
       - name: Browser Tools
         repos:
+          - url: https://github.com/julianosig/easi.run
+            description: "Self-hosted Chrome for external AI agents via MCP/REST, with live viewing and human takeover."
           - url: https://github.com/masakaai/rea-captcha
             description: Local MCP for verification detection, authorized test-flow actions, and validated same-session browser-agent resumption.
           - url: https://github.com/BB-fat/browser-use-rs
