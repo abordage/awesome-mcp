@@ -2751,6 +2751,8 @@ categories:
             description: Laravel package for MCP servers
           - url: https://github.com/php-mcp/laravel
             description: Laravel SDK for building MCP servers
+          - url: https://github.com/polygonlab-ai/mcp-php-kit
+            description: Build MCP servers in plain PHP, with an optional Cloudflare Worker in front
           - url: https://github.com/punkpeye/fastmcp
             description: TypeScript framework for MCP servers with sessions
           - url: https://github.com/QuantGeekDev/mcp-framework
