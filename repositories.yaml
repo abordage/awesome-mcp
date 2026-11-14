@@ -1530,8 +1530,8 @@ categories:
           - url: https://github.com/chigwell/telegram-mcp
             description: MCP server for Telegram messaging
           - url: https://github.com/lharries/whatsapp-mcp
-              - url: https://github.com/yehudashtein/wa-bridge-mcp
-              description: "MCP client that connects a WhatsApp number to Claude or ChatGPT through the API-Supp bridge."
+      - url: https://github.com/yehudashtein/wa-bridge-mcp
+            description: "MCP client that connects a WhatsApp number to Claude or ChatGPT through the API-Supp bridge."
           - url: https://github.com/line/line-bot-mcp-server
             description: LINE Messaging API for AI agents
           - url: https://github.com/ztxtxwd/open-feishu-mcp-server
