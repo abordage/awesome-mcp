@@ -854,7 +854,7 @@ categories:
           - url: https://github.com/khalidsaidi/ragmap
             description: "Find a retrieval MCP server that works today: a daily-checked list of MCP servers that search knowledge"
           - url: https://github.com/openanysi/openany-mcp
-            description: "The open marketplace for agents: 3,200+ APIs and 168+ AI models via https://mcp.openany.si."
+            description: "The B2A (business to agent) marketplace. One MCP endpoint for 3,200+ APIs and 168+ AI models. Browse free; pay per call. https://mcp.openany.si"
   - name: Browser Automation
     subcategories:
       - name: AI Automation
