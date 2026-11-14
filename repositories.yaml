@@ -5444,6 +5444,8 @@ categories:
           - url: https://github.com/cloudinary/mcp-servers
       - name: Video
         repos:
+          - url: https://github.com/klingai-tech/claude-plugin
+            description: Claude Code plugin client for Kling hosted image and video MCP.
           - url: https://github.com/arcmira/mcp
             description: "YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers."
           - url: https://github.com/bogdanminko/zapcap-mcp-server
