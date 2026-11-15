@@ -833,6 +833,8 @@ categories:
             description: 'mcp-brew: Homebrew-style installer for MCP servers with version-pinned installs, OS Keychain secrets, and config backup/rollback'
           - url: https://github.com/modelcontextprotocol/registry
             description: "Community registry of MCP servers"
+          - url: https://github.com/f-o-x11/perq-skill
+            description: Verified free AI credits and startup perks directory with a remote MCP server (https://perq.sh/mcp), by Avatar 8 LLC
           - url: https://github.com/microsoft/mcp
             description: "Catalog of official Microsoft MCP servers"
           - url: https://github.com/pathintegral-institute/mcpm.sh
