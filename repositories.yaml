@@ -7394,6 +7394,8 @@ categories:
         description: "MCP Server for skrape.ai, lets you input any URL and it returns clean markdown for the LLM"
       - url: https://github.com/Crawleo/Crawleo-MCP
         description: "Crawleo MCP Server - Real-Time Web Knowledge for AI Crawleo's Model Context Protocol (MCP) server enables AI assistants like Claude to access real-time web data directly through"
+      - url: https://github.com/BEBOTECH-OU/scrapewise-mcp
+        description: "Remote MCP server that scrapes, cleans and matches product and price data from any website"
   - name: E-Commerce
     repos:
       - url: https://github.com/Azure-Samples/eShopLite
