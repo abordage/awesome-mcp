@@ -6293,6 +6293,8 @@ categories:
         description: "Self-hostable GPU-aware job broker for your own machines, with native MCP/agent integration"
       - url: https://github.com/The-40-Thieves/codecalc
         description: "Universal code & logic calculator for AI models: 51 MCP tools across 31 languages. Rust-sandboxed execution with verdicts, sessions, artifacts, exact arithmetic, and verified"
+      - url: https://github.com/SalyyS1/omnivm
+        description: "Scale-to-zero Linux Cloud Hypervisor microVM orchestrator and stdio MCP server with wake-on-HTTP/TCP proxies, vsock exec, Copy-on-Write snapshot branching and KSM memory deduplication."
   - name: Search & Extraction
     subcategories:
       - name: Academic Research
