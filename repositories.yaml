@@ -4775,6 +4775,8 @@ categories:
         description: "MCP server for Steam: keyless store/catalog data (deals, tags, SteamOS/Deck/Frame compat) plus player profiles, libraries and achievements via the Steam Web API."
       - url: https://github.com/SalyyS1/minecraftkit
         description: "Offline Minecraft Paper, Folia and RPG plugin bytecode API catalog and stdio MCP server for symbol search, version capability checks and server log diagnostics."
+      - url: https://github.com/SalyyS1/serverdoctor
+        description: "Read-only stdio MCP server and diagnostic auditor for Paper, Purpur, Pufferfish and Folia Minecraft server directories across server configs, JVM flags, plugin JAR compatibility, crash reports and server diffs."
   - name: Healthcare & Bioinformatics
     repos:
       - url: https://github.com/helena-bioinformatics/folklore-mcp
