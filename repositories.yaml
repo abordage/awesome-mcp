@@ -5384,6 +5384,8 @@ categories:
             description: "Creative AI MCP server - 32 tools (18 free): image generation, upscaling, bg removal, mockups, CMYK, print-ready PDF, vectorization, watermarking, enrichment, provenance. Pay per"
           - url: https://github.com/j-east/pixel-surgeon-mcp
             description: "MCP server for AI image generation via Google Gemini Flash Image. Style presets, interactive fix, multi-shot region repair."
+          - url: https://github.com/incendies/imageat-mcp
+            description: "Official MCP server for generating and editing images and videos."
       - name: Image Processing
         repos:
           - url: https://github.com/stass/exif-mcp
