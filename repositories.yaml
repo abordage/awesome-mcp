@@ -6700,6 +6700,8 @@ categories:
             description: "Official Talonic MCP server. Lets AI agents extract structured data from any document via the Model Context Protocol."
           - url: https://github.com/usestring/string-ai-mcp
             description: "Model Context Protocol server for the Web Access API."
+          - url: https://github.com/sudomichael/search-console-mcp
+            description: "Google Search Console for any MCP client - 30-second login, no Google Cloud project."
   - name: Security
     subcategories:
       - name: Identity & Access
