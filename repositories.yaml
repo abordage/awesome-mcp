@@ -3839,6 +3839,8 @@ categories:
             description: "MCP server to help developers manage project context across sessions"
           - url: https://github.com/immurray/gridzen-developer-kit
             description: "Five read-only research and synthetic MCP tools for planning identity-verification coverage and exercising sandbox decision results."
+          - url: https://github.com/321zz321/computefirst-skill
+            description: "Setup kit (Agent Skill, Claude Code plugin, .mcp.json) for ComputeFirst, a hosted MCP server of deterministic tools for CSV, JSON, text, dates and exact math"
       - name: Version Control
         repos:
           - url: https://github.com/adhikasp/mcp-git-ingest
