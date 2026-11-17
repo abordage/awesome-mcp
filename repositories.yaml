@@ -4488,6 +4488,8 @@ categories:
             description: "From company name to investment decision. Sieve scores startups across 7 dimensions so you know who's worth a meeting."
           - url: https://github.com/zemloai-ctrl/elecz-api
             description: "Real-time electricity price signal API for AI agents - dozens of countries, 100+ zones, no authentication."
+          - url: https://github.com/theluckystrike/prime-rate-sofr-fed-funds-rate-today-mcp
+            description: "Prime rate, SOFR and fed funds rate from the New York Fed, FOMC rate changes; hosted, no API key"
       - name: Trading & Exchanges
         repos:
           - url: https://github.com/ariadng/metatrader-mcp-server
@@ -4870,6 +4872,8 @@ categories:
         description: "The MCP Servers for Bio-OS instance platforms."
       - url: https://github.com/NyxToolsDev/dicom-hl7-mcp-server
         description: "DICOM/HL7 healthcare interoperability MCP server for Claude"
+      - url: https://github.com/theluckystrike/covid-flu-rsv-wastewater-levels-mcp
+        description: "CDC wastewater COVID-19, flu and RSV levels by US state and county; hosted, no API key"
   - name: LLM Bridges
     repos:
       - url: https://github.com/perplexityai/modelcontextprotocol
@@ -5015,6 +5019,8 @@ categories:
             description: "Your AI's personal travel agent - 66 tools, zero API keys. Flights (incl. fares airlines hide), hotels, visas, weather, points & miles, via MCP."
           - url: https://github.com/xmpuspus/ph-civic-data-mcp
             description: "Philippine civic data as MCP tools: the full PSA OpenSTAT statistical catalog, hazards, weather, procurement, elections, and one-call area profiles. 41 tools, no API keys."
+          - url: https://github.com/theluckystrike/last-frost-date-hardiness-zone-mcp
+            description: "USDA hardiness zone by ZIP, last and first frost dates, frost forecast; hosted, no API key"
   - name: MCP Clients
     repos:
       - url: https://github.com/Mubboo-Ai/mubboo-flights-mcp
@@ -6478,6 +6484,8 @@ categories:
             description: "New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards"
           - url: https://github.com/GeminiGeorge22/gov-tenders-mcp
             description: "Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link"
+          - url: https://github.com/theluckystrike/powerball-mega-millions-winning-numbers-mcp
+            description: "Powerball and Mega Millions winning numbers, ticket checker, hot and cold numbers; hosted, no API key"
       - name: News & Content
         repos:
           - url: https://github.com/KKKKhazix/AIHOT
@@ -7334,6 +7342,12 @@ categories:
         description: "MCP server for the Warp freight API. Quote, book, and track LTL/FTL shipments from any MCP-compatible AI agent."
       - url: https://github.com/AlonDrilich/latino-events-mcp
         description: "Hosted MCP for events.lat: search concerts, festivals and cultural events across Latin America, with venue, dates and ticket page (OAuth)"
+      - url: https://github.com/theluckystrike/airport-delays-faa-status-mcp
+        description: "Live FAA ground stops, ground delay programs and delays at US airports; hosted, no API key"
+      - url: https://github.com/theluckystrike/border-wait-times-canada-mexico-mcp
+        description: "Live CBP wait times at US-Mexico and US-Canada land border crossings; hosted, no API key"
+      - url: https://github.com/theluckystrike/fuel-economy-gas-mileage-mpg-mcp
+        description: "EPA MPG, EV range and annual fuel cost for any car by year, make and model; hosted, no API key"
   - name: Web Scraping
     repos:
       - url: https://github.com/olostep/olostep-mcp-server
@@ -7486,6 +7500,8 @@ categories:
         description: "Zillow MCP server by HasData: for-sale, for-rent and sold listings and full property details, as JSON."
       - url: https://github.com/ashev87/propstack-mcp
         description: "Connect AI assistants (Claude, ChatGPT) to Propstack real estate CRM via MCP"
+      - url: https://github.com/theluckystrike/flood-zone-lookup-fema-flood-map-mcp
+        description: "FEMA flood zone and base flood elevation for any US address; hosted, no API key"
   - name: Speech-to-Text
     repos:
       - url: https://github.com/korovin-aa97/talkthrough-mcp
