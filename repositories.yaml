@@ -6550,7 +6550,7 @@ categories:
           - url: https://github.com/SecretiveShell/MCP-searxng
             description: SearXNG search for agentic systems
           - url: https://github.com/rocosen/flashdata-mcp
-            description: "Google Search, News, Images, Shopping, Videos and Places; YouTube search, extended search, metadata, existing transcripts/captions, license labels, channels, autocomplete and asynchronous media delivery. MIT stdio MCP client; API key and paid Credits required."
+            description: "MCP server for Google SERP data, YouTube data, and YouTube video/audio downloads to your cloud storage. Requires a FlashData API key and paid Credits."
           - url: https://github.com/serpapi/serpapi-mcp
           - url: https://github.com/tanigami/mcp-server-perplexity
             description: Perplexity API chat with citations
