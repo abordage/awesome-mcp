@@ -2825,6 +2825,7 @@
 - [mbelinky/x-mcp-server](https://github.com/mbelinky/x-mcp-server) — MCP server to post on x.com with OAuth v1 and v2 ☆`24`
 - [gwbischof/bluesky-social-mcp](https://github.com/gwbischof/bluesky-social-mcp) — A Bluesky MCP ☆`16`
 - [wangshunnn/bilibili-mcp-server](https://github.com/wangshunnn/bilibili-mcp-server) — MCP server for the bilibili API ☆`16`
+- - [social-freak-ltd/socialfetch-mcp](https://github.com/social-freak-ltd/socialfetch-mcp) — Live public data from TikTok, Instagram, YouTube, X, Reddit and LinkedIn for AI agents ☆`1`
 ## Sports
 
 - [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) — Strava fitness data integration ☆`509`
