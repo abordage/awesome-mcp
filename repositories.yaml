@@ -4783,6 +4783,8 @@ categories:
         description: "Offline Minecraft Paper, Folia and RPG plugin bytecode API catalog and stdio MCP server for symbol search, version capability checks and server log diagnostics."
       - url: https://github.com/SalyyS1/serverdoctor
         description: "Read-only stdio MCP server and diagnostic auditor for Paper, Purpur, Pufferfish and Folia Minecraft server directories across server configs, JVM flags, plugin JAR compatibility, crash reports and server diffs."
+      - url: https://github.com/SalyyS1/pluginscope
+        description: "Static bytecode and packaging auditor and stdio MCP server for Paper and Folia Minecraft plugins across shading collisions, remapper hazards, dependency graphs and resource packs."
   - name: Healthcare & Bioinformatics
     repos:
       - url: https://github.com/helena-bioinformatics/folklore-mcp
