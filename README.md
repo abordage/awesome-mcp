@@ -2920,6 +2920,7 @@
 - [nexscope-ai/nexscope-ecommerce-api](https://github.com/nexscope-ai/nexscope-ecommerce-api) — Marketplace research, product images and video ☆`18`
 - [arthurpanhku/DragonMCP](https://github.com/arthurpanhku/DragonMCP) — MCP server for local life services in Greater China and Asia ☆`22`
 - [uju777/coupang-mcp](https://github.com/uju777/coupang-mcp) — Search Coupang products, compare prices and see rocket delivery ☆`18`
+- [Reggiebro/oppi-digital-products](https://github.com/Reggiebro/oppi-digital-products) — Agent-commerce storefront MCP for digital products: agents browse the catalog, test free prompt samples, get verified wallet addresses, and payments are verified read-only on-chain before public GitHub-issue delivery ☆`0`
 ## Legal
 
 - [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) — MCP server for Korean statutes, precedents and ordinances ☆`2,879`
