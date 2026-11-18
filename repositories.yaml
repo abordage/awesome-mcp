@@ -6175,6 +6175,8 @@ categories:
         description: MATLAB pipelines by section and figure inspection
       - url: https://github.com/Scento-com/perfume-mcp-server
         description: Remote, read-only perfume knowledge server for AI assistants with notes, families, raw materials and similar scents, no API key.
+      - url: https://github.com/10ml-com/perfume-finder-mcp
+        description: Free remote perfume knowledge server for AI assistants with notes, accords, families, similar scents and decant prices, no API key.
       - url: https://github.com/mnemox-ai/idea-reality-mcp
         description: "Check GitHub, HN, npm and PyPI before building"
       - url: https://github.com/rrrrrredy/research-toolkit
