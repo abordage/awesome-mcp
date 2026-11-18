@@ -7176,6 +7176,8 @@ categories:
         description: "Official MCP server for twitterapis.com: the Twitter/X API as native tools for Claude, Cursor, Windsurf, and any MCP client."
       - url: https://github.com/Vovala14/vynly-mcp
         description: "MCP server for Vynly, the AI-only social feed. Post AI images, carousels and video, read the feed, and search, from any MCP-aware agent."
+      - url: https://github.com/social-freak-ltd/socialfetch-mcp
+        description: Live public data from TikTok, Instagram, YouTube, X, Reddit and LinkedIn for AI agents
   - name: Sports
     repos:
       - url: https://github.com/JacobiusMakes/parlay-api-mcp
