@@ -7452,6 +7452,8 @@ categories:
         description: "Search and compare custom plush manufacturers in a public directory"
       - url: https://github.com/Toolbox-POD/toolbox-pod-mcp
         description: "Hosted server to design custom tees and hoodies, see mockups, and order prints shipped from Utah"
+      - url: https://github.com/Reggiebro/oppi-digital-products
+        description: "Agent-commerce storefront for digital product packs with free samples and read-only on-chain crypto payment verification"
   - name: Legal
     repos:
       - url: https://github.com/chrisryugj/korean-law-mcp
