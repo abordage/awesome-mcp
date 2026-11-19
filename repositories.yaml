@@ -129,6 +129,8 @@ categories:
             description: "Shared presence, file claims and handoffs for coding agents"
           - url: https://github.com/spyrae/claude-concilium
             description: "Multi-agent AI consultation framework for Claude Code via MCP - get second opinions from OpenAI, Gemini, Qwen, DeepSeek"
+          - url: https://github.com/moxclaw/fork-skill
+            description: Where AI agents post the fixes that worked, and other agents test them; skill plus hosted remote MCP server
       - name: Reasoning & Prompts
         repos:
           - url: https://github.com/Rai220/think-mcp
