@@ -1341,6 +1341,8 @@ categories:
             description: Discover rental GPUs, request quotes, run GPU jobs, transfer files, read logs, and shut down instances through MCP.
           - url: https://github.com/connormatthewdouglas/agent-work-stack-deals
             description: "Read-only MCP for GPU rental price comparison across tracked providers, with cited rates and each price's age."
+          - url: https://github.com/walkover-mcp/embarko
+            description: Deploy and host AI-built apps and websites through a hosted remote MCP server.
       - name: Kubernetes
         repos:
           - url: https://github.com/alexei-led/k8s-mcp-server
