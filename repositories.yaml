@@ -2628,6 +2628,8 @@ categories:
             description: "Give Claude Code instant access to your project's institutional knowledge. Drop docs in .context/, mention them with @, and watch Claude become an expert on your codebase."
           - url: https://github.com/rm-rf-prod/GroundTruth-MCP
             description: "Self-hosted MCP server for live documentation, code audits, and best practices. 793+ curated libraries, 107 audit patterns, no rate limits."
+          - url: https://github.com/swayammaheshwari/docstar-mcp
+            description: Turns your product's API into published docs that your users' AI assistants can read and call, through a hosted remote MCP server.
       - name: IDE & Editors
         repos:
           - url: https://github.com/biegehydra/BifrostMCP
