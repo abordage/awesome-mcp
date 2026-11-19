@@ -7352,6 +7352,8 @@ categories:
         description: "Live CBP wait times at US-Mexico and US-Canada land border crossings; hosted, no API key"
       - url: https://github.com/theluckystrike/fuel-economy-gas-mileage-mpg-mcp
         description: "EPA MPG, EV range and annual fuel cost for any car by year, make and model; hosted, no API key"
+      - url: https://github.com/aleksandrjefimov4-crypto/cheapcarent-mcp
+        description: "Hosted Streamable HTTP MCP server for car rental search at 15,000 pickup points in 46 countries. No account or API key."
   - name: Web Scraping
     repos:
       - url: https://github.com/olostep/olostep-mcp-server
