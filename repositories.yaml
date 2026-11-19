@@ -859,6 +859,8 @@ categories:
             description: "The B2A (business to agent) marketplace. One MCP endpoint for 3,200+ APIs and 168+ AI models. Browse free; pay per call. https://mcp.openany.si"
           - url: https://github.com/northlarkhq/kitbay-mcp
             description: "Hosted, read-only MCP server (https://kitbay.app/mcp) for searching 48,000+ MCP servers and agent skills by tool, with sourced facts and install configs"
+          - url: https://github.com/northlarkhq/tresca-mcp
+            description: "Hosted, read-only MCP server (https://tresca.app/mcp) for searching MCP servers and agent skills for engineering software (CAD, BIM, FEA, CFD, EDA, PLC), with sourced facts and install steps"
   - name: Browser Automation
     subcategories:
       - name: AI Automation
