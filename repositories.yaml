@@ -5767,6 +5767,8 @@ categories:
             description: "Asterisk Model Context Protocol (MCP) server."
           - url: https://github.com/6figr-com/jobgpt-mcp-server
             description: "Search jobs, tailor resumes and track applications"
+          - url: https://github.com/Simba0315/jobseveryhour-mcp
+            description: "Search open jobs read hourly from employers' career pages"
           - url: https://github.com/lexmount/artifact-site
             description: "Host AI-generated pages and documents as versioned links"
           - url: https://github.com/OurThinkTank/founders-os
