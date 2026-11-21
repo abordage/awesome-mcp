@@ -3074,5 +3074,3 @@ Found something wrong? Open an issue or submit a pull request — contributions 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
-
-| [alpha_syndicate x402 Gateway](https://pfq-opencode-wr96rj6p4xwwh59v-8001.app.github.dev/.well-known/x402.json) | 11 pay-per-call USDC endpoints for AI agents | Remote |
