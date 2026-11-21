@@ -6132,6 +6132,8 @@ categories:
             description: "Interactive MCP apps whose data outlives the conversation"
           - url: https://github.com/bit2beat/bitrix24-mcp
             description: "MCP server that connects Claude AI to Bitrix24 - CRM, tasks, disk, calendar, automations and more"
+          - url: https://github.com/gettaskhold/taskhold-plugin
+            description: Shared task list for people and coding agents with live progress.
       - name: Wiki & Collaboration
         repos:
           - url: https://github.com/brianxiadong/ones-wiki-mcp-server
