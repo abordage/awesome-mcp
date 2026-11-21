@@ -1670,6 +1670,8 @@ categories:
             description: "Channels and dialplan on Asterisk or FreeSWITCH"
           - url: https://github.com/ictinnovations/ictpbx-mcp
             description: "Read extensions, trunks and tenants on ICTPBX"
+          - url: https://github.com/callforme-tel/callforme
+            description: "Remote MCP server that phones businesses for your agent"
   - name: Data & Analytics
     subcategories:
       - name: AI/ML Platforms
