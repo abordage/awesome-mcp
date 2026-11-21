@@ -7471,6 +7471,8 @@ categories:
       - url: https://github.com/Reggiebro/oppi-digital-products
         description: "Agent-commerce storefront for digital product packs with free samples and read-only on-chain crypto payment verification"
       - url: https://github.com/TRW123123/car-listing-check-mcp
+      - url: https://pfq-opencode-wr96rj6p4xwwh59v-8001.app.github.dev/.well-known/x402.json
+        description: "11 pay-per-call USDC endpoints for AI agents on Base & Solana"
         description: "Remote MCP server (no auth) that checks supplied vehicle listings for completeness and presentation and returns a score with concrete fixes."
   - name: Legal
     repos:
@@ -7545,3 +7547,4 @@ categories:
 
       - url: https://github.com/SalyyS1/mcp-slim
         description: "Zero-dependency MCP JSON-RPC 2.0 stdio proxy that reduces tool schema and output token usage by 47-52% and redacts leaked secrets in real time."
+
