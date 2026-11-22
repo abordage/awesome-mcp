@@ -5581,6 +5581,9 @@ categories:
       - url: https://github.com/metoro-io/metoro-mcp-server
       - url: https://github.com/MindscapeHQ/mcp-server-raygun
         description: Raygun error investigation for AI
+      - url: https://github.com/getrunheed/runheed-plugin
+        description: Remote MCP server that gives coding agents production errors to fix and resolve
+        description: Raygun error investigation for AI
       - url: https://github.com/getsentry/sentry-mcp
       - url: https://github.com/mpeirone/zabbix-mcp-server
         description: MCP server for Zabbix monitoring with 40+ tools
