@@ -4023,6 +4023,8 @@ categories:
         description: "Cross-platform MCP server for OBSBOT Tiny 2 (UVC) camera control"
       - url: https://github.com/oleander/home-assistant-mcp-server
         description: "home-assistant-mcp-server"
+      - url: https://github.com/emirmrkaljevic/iotaudit
+        description: "Audits smart home devices on your own network."
   - name: File Systems & Storage
     repos:
 
