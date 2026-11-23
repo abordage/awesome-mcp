@@ -3060,9 +3060,9 @@
 
 ---
 
-## 50 recently updated
+## 🌱 50 rising
 
-> Projects updated recently that have not yet reached the star threshold, sorted by the latest update.
+> Updated in the last two months, and still under the star threshold. Newest first.
 
 1. [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) — Orchestration layer for data-center and energy data ☆`3`
 1. [zColdWater/mcp-launch-audit](https://github.com/zColdWater/mcp-launch-audit) — Pre-launch security headers, SPF/DKIM/DMARC DNS ☆`0`
