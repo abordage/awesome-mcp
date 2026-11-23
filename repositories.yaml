@@ -6588,6 +6588,8 @@ categories:
           - url: https://github.com/GeminiGeorge22/ats-jobs-mcp
             description: "New jobs since a date from Ashby, Greenhouse, Lever, and SmartRecruiters"
           - url: https://github.com/GeminiGeorge22/gov-tenders-mcp
+          - url: https://github.com/GeminiGeorge22/publicrecords-mcp
+            description: "Search Skool communities by keyword: members, price, rating, estimated revenue, and daily growth"
             description: "Official tenders, grants, awards, and city council meeting records"
           - url: https://github.com/theluckystrike/powerball-mega-millions-winning-numbers-mcp
             description: "Powerball and Mega Millions"
