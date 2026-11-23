@@ -5572,6 +5572,8 @@ categories:
             description: "Model Context Protocol server for AetherWave Studio - music, image, video, and band generation tools for Claude, Cursor, Continue, and custom agents."
           - url: https://github.com/clipy-recorder/clipy-mcp
             description: "Clipy is the first agent-readable screen recorder - free, no watermark, for Mac, Chrome, and the web. One share link: humans watch the video, AI agents read the summary, key"
+          - url: https://github.com/makeaivideo-ai/mcp
+            description: "Create short-form AI videos with voiceover, scenes, captions and music, and post them to TikTok, Instagram or YouTube. Remote server at mcp.makeaivideo.ai or local stdio via npx."
   - name: Monitoring & Observability
     repos:
       - url: https://github.com/edgedelta/edgedelta-mcp-server
