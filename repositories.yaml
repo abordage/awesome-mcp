@@ -1162,6 +1162,7 @@ categories:
     repos:
       - url: https://github.com/iaptic/mcp-server-iaptic
       - url: https://github.com/sergehuber/inoyu-mcp-unomi-server
+        description: "MCP server for the Apache Unomi customer data platform"
       - url: https://github.com/tinybirdco/mcp-tinybird
       - url: https://github.com/hmk/attio-mcp-server
         description: Attio CRM records and notes management
@@ -1352,7 +1353,7 @@ categories:
           - url: https://github.com/Labs64/NetLicensing-MCP
             description: "Official MCP server for NetLicensing in plain language"
           - url: https://github.com/mrhy7176/cloudgpu-mcp
-            description: Discover rental GPUs, request quotes, run GPU jobs, transfer files, read logs, and shut down instances through MCP.
+            description: "Find rental GPUs, run jobs, and read logs through MCP"
           - url: https://github.com/connormatthewdouglas/agent-work-stack-deals
             description: "Read-only GPU rental prices across providers"
           - url: https://github.com/walkover-mcp/embarko
@@ -1502,6 +1503,7 @@ categories:
           - url: https://github.com/Astroa7m/MailNet-MCP-Server
           - url: https://github.com/recepyavuz0/sendgrid-mcp-server
           - url: https://github.com/dominik1001/imap-mcp
+            description: "Expose IMAP mail operations as tools for an AI assistant"
           - url: https://github.com/Atomic-Mail/atomic-mail-agentic
             description: "Agents read, send and react to email on their own"
           - url: https://github.com/wyattjoh/jmap-mcp
@@ -1567,6 +1569,7 @@ categories:
           - url: https://github.com/intentos-labs/beeper-mcp
           - url: https://github.com/Kashyap-AI-ML-Solutions/webex-messaging-mcp-server
           - url: https://github.com/wassengerhq/mcp-wassenger
+            description: "WhatsApp Business API tools for any MCP client"
           - url: https://github.com/pubnub/pubnub-mcp-server
             description: PubNub Model Context Protocol Server
           - url: https://github.com/Tencent-RTC/mcp
@@ -1663,7 +1666,7 @@ categories:
           - url: https://github.com/PaSympa/discord-mcp
             description: "Messages, roles and moderation on Discord"
           - url: https://github.com/OrygnsCode/Omnicord
-            description: "Discord server management MCP for AI agents. Chat, moderation, administration, and full server building from one brief. 150+ tools, with destructive actions gated behind a preview."
+            description: "Discord management for agents, with destructive actions gated"
           - url: https://github.com/conarti/mattermost-mcp
             description: "Mattermost MCP server to enable Claude"
       - name: Voice & Telephony
@@ -3110,6 +3113,7 @@ categories:
           - url: https://github.com/wrenchpilot/it-tools-mcp
             description: 121+ IT tools for developers and sysadmins
           - url: https://github.com/taylorleese/mcp-toolz
+            description: "Claude Code plugins for second opinions, security, and docs"
           - url: https://github.com/shacharsol/js-package-manager-mcp
           - url: https://github.com/oborchers/mcp-server-pacman
             description: "A Model Context Protocol server that provides package index"
@@ -3779,7 +3783,7 @@ categories:
           - url: https://github.com/YuliiaKovalova/dotnet-template-mcp
             description: "MCP server wrapping the .NET Template Engine"
           - url: https://github.com/aydincan/turk-hukuku-mevzuat-mcp
-            description: "Türk mevzuatının resmî güncel metnini (mevzuat.gov.tr)"
+            description: "Official Turkish legislation from mevzuat.gov.tr"
           - url: https://github.com/Berckan/bugherd-mcp
             description: "MCP server for BugHerd integration - manage bugs and feedback from Claude"
           - url: https://github.com/carldaws/squiggles
@@ -3833,7 +3837,7 @@ categories:
           - url: https://github.com/igormel81/genealogy-mcp
             description: "MCP family history toolkit: 171 archives & databases"
           - url: https://github.com/ilyautov/sbis-mcp-ru
-            description: "MCP-сервер для API СБИС (Saby): 45 команд, документы и этапы"
+            description: "SBIS API tools for documents and workflow stages"
           - url: https://github.com/mefos-lab/sift
             description: "MCP server and skill set for cross-referencing public financial and corporate records - sanctions lists, offshore leak databases, corporate registries, court records, and more"
           - url: https://github.com/mingzilla/pi-api-mcp-server
@@ -4140,9 +4144,9 @@ categories:
             description: Interact with Xero accounting
           - url: https://github.com/ChuckBryan/ynabmcpserver
           - url: https://github.com/theluckystrike/mcp-invoice
-            description: Local PDF invoicing with sequential numbering and per-rate VAT
+            description: "Local PDF invoices with sequential numbers and VAT rates"
           - url: https://github.com/theluckystrike/mcp-expense-tracker
-            description: Expenses, receipts and mileage with VAT splitting and rebilling
+            description: "Track expenses, receipts, and mileage, with VAT splits"
           - url: https://github.com/theluckystrike/mcp-cash-book
             description: Local double-entry cash book and ledger
           - url: https://github.com/LAHutchins91/invoice-mcp
@@ -4406,7 +4410,7 @@ categories:
           - url: https://github.com/madupay/mcp-sanctions
           - url: https://github.com/paracetamol951/caisse-enregistreuse-mcp-server
           - url: https://github.com/theluckystrike/mcp-bank-statement
-            description: Import a bank CSV, categorise it and reconcile against expenses
+            description: "Import a bank CSV, categorise it, and match expenses"
           - url: https://github.com/ninetails-io/gnucash-mcp
             description: "Read and write a GnuCash book"
           - url: https://github.com/icyberdeveloper/tbank-mcp
@@ -4514,7 +4518,7 @@ categories:
           - url: https://github.com/cliwant/mcp-sam-gov
             description: "US federal and state contracting, spending and sanctions data"
           - url: https://github.com/atomno-mcp/mcp-fns-check
-            description: "MCP-сервер проверки контрагентов РФ: ЕГРЮЛ, банкротство"
+            description: "Check Russian companies: registry, bankruptcy, and tax debt"
           - url: https://github.com/BuyWhere/buywhere-mcp
             description: "BuyWhere MCP server - search 300M+ products across US"
           - url: https://github.com/AwardTravelFinder/mcp
@@ -5326,7 +5330,7 @@ categories:
       - url: https://github.com/acamolese/google-search-console-mcp
         description: "MCP server for Google Search Console"
       - url: https://github.com/antohins/seo-tools-mcp
-        description: "8 stdio MCP-серверов для SEO (xmlstock/SERP, wordstat, gsc, ywm"
+        description: "Eight SEO MCP servers for SERP, wordstat, and webmaster tools"
       - url: https://github.com/askads/mcp-yandex-wordstat
         description: "MCP server for Yandex Wordstat: search query volume"
       - url: https://github.com/wavegrain/wavegrain-mcp
@@ -5481,6 +5485,7 @@ categories:
           - url: https://github.com/GongRzhe/opencv-mcp-server
             description: OpenCV image and video processing
           - url: https://github.com/trycon/scanova-mcp
+            description: "Manage Scanova QR codes, designs, folders, and analytics"
           - url: https://github.com/screenshotone/mcp
           - url: https://github.com/SergiuPogor/curlshot-mcp
             description: Hosted MCP server for web page screenshots, PDFs and scrolling videos
@@ -5563,6 +5568,7 @@ categories:
           - url: https://github.com/sinjab/mcp_youtube_extract
             description: YouTube clip information extraction
           - url: https://github.com/Laksh-star/mcp-server-tmdb
+            description: "Movies and TV: discovery, watch plans, and where to stream"
           - url: https://github.com/13rac1/videocapture-mcp
             description: MCP server to capture images from webcam or video source
           - url: https://github.com/AgentX-ai/youtube-dlp-server
@@ -6083,7 +6089,7 @@ categories:
           - url: https://github.com/junnnnnw00/obsidian-everywhere
             description: "Obsidian graph and search, with guarded remote edits"
           - url: https://github.com/The-40-Thieves/obsidian-tc
-            description: "Obsidian Turbocharged - governed, agent-ready Obsidian MCP server. Multi-vault native, pluggable embeddings, OAuth-ready HTTP. TypeScript + Rust. AGPL-3.0-only."
+            description: "Governed Obsidian MCP server for agents, locally"
           - url: https://github.com/tonydzi/sqlite-graph-memory
             description: "Agent memory for Claude Code, Cursor, Codex"
           - url: https://github.com/mlorentedev/hive
@@ -6528,6 +6534,7 @@ categories:
           - url: https://github.com/unstoppabledomains/unstoppable-mcp-server
             description: Domain search, registration, DNS, marketplace, and checkout
           - url: https://github.com/urlbox/urlbox-mcp-server
+            description: "Website screenshots, PDFs, and video for AI assistants"
           - url: https://github.com/yamanoku/baseline-mcp-server
             description: Web API Baseline status information
           - url: https://github.com/zoomeye-ai/mcp_zoomeye
@@ -6942,7 +6949,7 @@ categories:
           - url: https://github.com/pomerium/mcp-servers
             description: "Reference MCP servers that use Pomerium for auth and TLS"
           - url: https://github.com/velvetway/minreestr-mcp
-            description: "MCP-сервер для Claude, который ищет российское ПО в каталогпо.рф"
+            description: "Search the Russian software registry for an AI assistant"
           - url: https://github.com/binalyze/air-mcp
             description: "Binalyze AIR MCP Server"
           - url: https://github.com/ScopeBlind/verify-mcp
