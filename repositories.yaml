@@ -6904,6 +6904,8 @@ categories:
         repos:
           - url: https://github.com/renduples/sitepassport-mcp
             description: Live-checks whether a WordPress site is ready to be safely operated by AI agents
+          - url: https://github.com/zColdWater/mcp-launch-audit
+            description: Pre-launch security headers, SPF/DKIM/DMARC DNS, llms.txt AI search, and 78-TLD domain audit MCP
           - url: https://github.com/BurtTheCoder/mcp-dnstwist
             description: DNS fuzzing for phishing detection
           - url: https://github.com/BurtTheCoder/mcp-maigret
