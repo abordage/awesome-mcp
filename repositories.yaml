@@ -5238,6 +5238,8 @@ categories:
         description: MCP server for Storyblok CMS management
       - url: https://github.com/louis030195/gptzero-mcp
       - url: https://github.com/posthog/mcp
+      - url: https://github.com/andreycretsu/cueston-mcp
+        description: "Hosted MCP for building and measuring product tours, tooltips, banners and surveys"
       - url: https://github.com/talknerdytome-labs/facebook-ads-library-mcp
         description: Facebook Ads Library search and access
       - url: https://github.com/surendranb/google-analytics-mcp
