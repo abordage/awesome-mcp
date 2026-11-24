@@ -5292,11 +5292,11 @@ categories:
       - url: https://github.com/Teralabsx/meta-ads-mcp
         description: Tera Ads - hosted MCP server for Meta Ads with approval before changes, undo for pauses and budgets, and Shopify profit after returns (OAuth)
       - url: https://github.com/GeminiGeorge22/etsy-sales-mcp
-        description: "Etsy search results by keyword plus daily sales counts for any shop"
+        description: "Etsy search results plus daily sales counts for any shop"
       - url: https://github.com/GeminiGeorge22/company-social-mcp
-        description: "Resolves a company website or name to its social profiles"
+        description: "Finds a company's social profiles from its website"
       - url: https://github.com/GeminiGeorge22/google-ads-transparency-mcp
-        description: "Competitor Google ads, new, running, or stopped"
+        description: "Competitor Google ads: new, running, stopped"
       - url: https://github.com/nowork-studio/notfair-plugin
         description: "SEO and marketing skills for agents"
       - url: https://github.com/getopenpost/openpost
@@ -5409,7 +5409,7 @@ categories:
           - url: https://github.com/soundza/soundza-mcp
             description: "Search, preview and download free sound effects, music and ambience"
           - url: https://github.com/GeminiGeorge22/spotify-play-count-mcp
-            description: "Spotify play counts, monthly listeners, and followers"
+            description: "Spotify play counts, monthly listeners, followers"
           - url: https://github.com/ahujasid/ableton-mcp
             description: "Create tracks, arrange clips and compose in Ableton Live"
           - url: https://github.com/rosasynthesiz/flstudio-mcp
@@ -6586,11 +6586,11 @@ categories:
           - url: https://github.com/movahedi-ca/movahedi-ca
             description: Hosted Canadian privacy-law MCP server (enforcement actions, glossary, Law 25 checklist) at https://movahedi.ca/mcp
           - url: https://github.com/GeminiGeorge22/ats-jobs-mcp
-            description: "New jobs since a date from Ashby, Greenhouse, Lever, and SmartRecruiters"
+            description: "New jobs from Ashby, Greenhouse, Lever, SmartRecruiters"
           - url: https://github.com/GeminiGeorge22/gov-tenders-mcp
+            description: "Official tenders, grants, awards, council meetings"
           - url: https://github.com/GeminiGeorge22/publicrecords-mcp
-            description: "Search Skool communities by keyword: members, price, rating, estimated revenue, and daily growth"
-            description: "Official tenders, grants, awards, and city council meeting records"
+            description: "Skool communities: members, price, rating, growth"
           - url: https://github.com/theluckystrike/powerball-mega-millions-winning-numbers-mcp
             description: "Powerball and Mega Millions"
           - url: https://github.com/Recall-Kitchen/rk-mcp
@@ -7324,7 +7324,7 @@ categories:
       - url: https://github.com/tomekkorbak/strava-mcp-server
       - url: https://github.com/Taidgh-Robinson/nba-mcp-server
       - url: https://github.com/GeminiGeorge22/sports-odds-mcp
-        description: "Live odds from Kambi sportsbooks including BetRivers and Unibet"
+        description: "Live odds from Kambi books incl. BetRivers and Unibet"
       - url: https://github.com/JamsusMaximus/trainingpeaks-mcp
         description: "Workouts and fitness metrics from TrainingPeaks"
       - url: https://github.com/livetennisapi/livetennisapi-mcp
