@@ -1,0 +1,52 @@
+{
+  "slug": "cutvoke",
+  "name": "CutVoke",
+  "category": "design",
+  "description": "Local-first, open-source video editor with a built-in stdio MCP server: Claude Code, Codex, Cursor or any MCP client can cut, caption and add effects on a non-destructive multi-track timeline that you keep editing by hand.",
+  "homepage_url": "https://github.com/frankShan001/CutVoke",
+  "repository_url": "https://github.com/frankShan001/CutVoke",
+  "package_url": "https://github.com/frankShan001/CutVoke/releases/tag/v0.3.6",
+  "transports": [
+    "stdio"
+  ],
+  "tools": [
+    "runtime",
+    "editor_help",
+    "commands_list",
+    "command_preview",
+    "command_apply",
+    "edit_lock"
+  ],
+  "license": "MIT",
+  "provider": {
+    "name": "frankShan001",
+    "url": "https://github.com/frankShan001"
+  },
+  "status": "active"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
