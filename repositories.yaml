@@ -7549,6 +7549,8 @@ categories:
         description: "Crawleo MCP Server - Real-Time Web Knowledge for AI Crawleo's Model Context Protocol (MCP) server enables AI assistants like Claude to access real-time web data directly through"
       - url: https://github.com/BEBOTECH-OU/scrapewise-mcp
         description: "Remote MCP server that scrapes"
+      - url: https://github.com/emirmrkaljevic/tinyrex-mcp
+        description: "Run TinyRex Apify Store scrapers for jobs, Shopify products, tech stacks and EU tenders."
   - name: E-Commerce
     repos:
       - url: https://github.com/Azure-Samples/eShopLite
