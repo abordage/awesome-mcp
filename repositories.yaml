@@ -2591,6 +2591,8 @@ categories:
             description: "Validate AI-built front-ends against their Figma design"
           - url: https://github.com/uxkin/agent
             description: "Real UI references for AI coding agents: 500,000+ screens"
+          - url: https://github.com/a1-gallery/a1-mcp
+            description: "Real website references with measured fonts, colours and spacing"
           - url: https://github.com/kenneives/design-token-bridge-mcp
             description: "MCP server that translates design tokens between platforms - Tailwind, Figma, CSS to Material 3, SwiftUI, and CSS Variables. Built for the v0 → Figma → Claude Code pipeline."
           - url: https://github.com/marvkr/better-design
