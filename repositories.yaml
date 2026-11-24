@@ -4943,6 +4943,8 @@ categories:
         description: "DICOM/HL7 healthcare interoperability MCP server for Claude"
       - url: https://github.com/theluckystrike/covid-flu-rsv-wastewater-levels-mcp
         description: "CDC wastewater COVID-19, flu"
+      - url: https://github.com/andrewfinerx/finerx-mcp
+        description: "Dated US prescription prices by pharmacy chain and a free card"
   - name: LLM Bridges
     repos:
       - url: https://github.com/perplexityai/modelcontextprotocol
