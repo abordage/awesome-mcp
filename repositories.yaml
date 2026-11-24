@@ -76,6 +76,8 @@ categories:
             description: "Configurable bridge for external agents"
           - url: https://github.com/vixl-ai/vixl
             description: "Local desktop coding agent, bring your own key"
+          - url: https://github.com/xianyu-sheng/Xenon
+            description: "Verifiable AI coding agent harness with an evidence hash-chain"
       - name: Human-in-the-Loop
         repos:
           - url: https://github.com/ttommyth/interactive-mcp
@@ -125,6 +127,12 @@ categories:
           - url: https://github.com/YuChenSSR/multi-ai-advisor-mcp
           - url: https://github.com/agree-able/room-mcp
             description: Coordinate agents using rooms
+          - url: https://github.com/escapeboy/agent-fleet-o
+            description: "Self-hosted mission control for multi-agent workflows"
+          - url: https://github.com/mertkayacs/reevesagents
+            description: "Run many coding agents from MCP, a CLI or a web UI"
+          - url: https://github.com/qualixar/slm-mesh
+            description: "Peer-to-peer messaging between coding agents"
       - name: Reasoning & Prompts
         repos:
           - url: https://github.com/Rai220/think-mcp
@@ -166,6 +174,12 @@ categories:
             description: "Structured thinking tools for hard problems"
           - url: https://github.com/adapoet/fabric-mcp-server
             description: Fabric patterns with AI agents
+          - url: https://github.com/minipuft/claude-prompts-mcp
+            description: "Reusable prompts, workflow chains and quality gates"
+          - url: https://github.com/Nyrok/flompt
+            description: "Edit a prompt as a flowchart, then compile it back"
+          - url: https://github.com/cyanheads/mentor-mcp-server
+            description: "Second-opinion review from a DeepSeek reasoning model"
   - name: AI Memory & RAG
     subcategories:
       - name: Memory
@@ -585,6 +599,8 @@ categories:
         description: "MCP server for Perspective AI"
       - url: https://github.com/modelsalt/model-salt
         description: "Outside randomness for creative requests"
+      - url: https://github.com/oculairmedia/Letta-MCP-server
+        description: "Manage a Letta server and talk to its agents"
   - name: Aggregators & Gateways
     subcategories:
       - name: Aggregators
@@ -851,6 +867,11 @@ categories:
             description: "Start, stop and monitor a set of MCP servers"
           - url: https://github.com/VikashLoomba/copilot-mcp
             description: "Find and install agent skills and MCP apps for Copilot"
+          - url: https://github.com/anaisbetts/mcp-installer
+          - url: https://github.com/mcp-agents-ai/mcp-agents-hub
+            description: "Find, build and deploy MCP servers and clients"
+          - url: https://github.com/tolkonepiu/best-of-mcp-servers
+            description: "A ranked list of MCP servers. Updated weekly."
   - name: Browser Automation
     subcategories:
       - name: AI Automation
@@ -960,6 +981,8 @@ categories:
             description: "Browser-use automation exposed over MCP"
           - url: https://github.com/etsd-tech/mcp-pointer
             description: DOM element pointing for agents
+          - url: https://github.com/mcpware/ui-annotator-mcp
+            description: "Hover labels on any web page, with no browser extension"
       - name: Cloud Services
         repos:
           - url: https://github.com/browserbase/mcp-server-browserbase
@@ -1134,6 +1157,16 @@ categories:
         description: "Let an assistant use Mac apps, files, the terminal and the browser"
       - url: https://github.com/activeing123/mcptoon
         description: "CLI that compresses MCP tool schemas and discovers servers"
+      - url: https://github.com/NON906/omniparser-autogui-mcp
+      - url: https://github.com/Mtehabsim/ScreenPilot
+        description: AI device control like a human
+      - url: https://github.com/joshrutkowski/applescript-mcp
+        description: "A macOS AppleScript MCP server"
+      - url: https://github.com/54yyyu/code-mcp
+        description: "Connect Claude to a local terminal and files through MCP"
+      - url: https://github.com/stefanoamorelli/hyprmcp
+        description: "Community MCP server for hyprctl"
+      - url: https://github.com/ofek/pycli-mcp
   - name: CRM & ERP
     repos:
       - url: https://github.com/iaptic/mcp-server-iaptic
@@ -1317,6 +1350,8 @@ categories:
             description: "Cloud and AI cost checks an agent can query before it spends"
           - url: https://github.com/OptimNow/cloud-finops-skills
             description: "Cloud and AI cost knowledge for agents"
+          - url: https://github.com/superfly/flymcp
+            description: "MCP server for Fly.io CLI integration with Claude Desktop"
       - name: Kubernetes
         repos:
           - url: https://github.com/alexei-led/k8s-mcp-server
@@ -1718,6 +1753,8 @@ categories:
             description: "InfraNode - free, key-less open-data REST API + MCP server"
           - url: https://github.com/QuantGeekDev/fiscal-data-mcp
             description: "US Treasury fiscal data"
+          - url: https://github.com/aviveldan/datagov-mcp
+            description: "MCP server for Israel Government Data"
       - name: Data Exploration
         repos:
           - url: https://github.com/kdqed/zaturn
@@ -2131,6 +2168,8 @@ categories:
             description: "MCP server for secure database access (PostgreSQL, MySQL, SQLite)"
           - url: https://github.com/spences10/mcp-turso-cloud
             description: "Turso databases, with separate platform and database auth"
+          - url: https://github.com/daobataotie/mssql-mcp
+            description: "mssql mcp server"
       - name: Search Engines
         repos:
           - url: https://github.com/fredac100/elasticsearch-memory-mcp
@@ -2293,6 +2332,8 @@ categories:
             description: "MCP Server for gRPC"
           - url: https://github.com/zacharypodbela/django-rest-framework-mcp
             description: MCP server for Django REST Framework
+          - url: https://github.com/addozhang/spring-rest-to-mcp
+            description: "Convert Spring REST API to MCP Server with OpenRewrite"
       - name: CI/CD & DevOps
         repos:
           - url: https://github.com/alexpota/deploy-mcp
@@ -2459,6 +2500,10 @@ categories:
           - url: https://github.com/StacklokLabs/osv-mcp
           - url: https://github.com/GitGuardian/ggmcp
             description: Scan and remediate hardcoded secrets
+          - url: https://github.com/torshepherd/compiler-explorer-mcp
+            description: "Compile on Compiler Explorer and compare assembly"
+          - url: https://github.com/huanglizhuo/OctoCounts
+            description: "Count lines of code in a public GitHub repo without cloning it"
       - name: Debuggers
         repos:
           - url: https://github.com/cameroncooke/reloaderoo
@@ -2484,6 +2529,8 @@ categories:
             description: "Inspect and edit another process's memory"
           - url: https://github.com/Adancurusul/embedded-debugger-mcp
             description: "Debug ARM, RISC-V and ESP32 via probe-rs or OpenOCD"
+          - url: https://github.com/muppet-dev/kit
+            description: "Debugging and Testing tool for MCP servers"
       - name: Design & UI
         repos:
           - url: https://github.com/21st-dev/magic-mcp
@@ -2548,6 +2595,10 @@ categories:
             description: "mcp server to run scripts on adobe illustrator"
           - url: https://github.com/ethbak/icon-composer-mcp
             description: "Build and edit Apple .icon bundles, including Liquid Glass"
+          - url: https://github.com/LeulAria/Aria-Icons
+            description: "MCP server for 1M+ SVG icons"
+          - url: https://github.com/decriptor/DilettoLabs.AvaloniaUI.MCP
+            description: "MCP server for AvaloniaUI"
       - name: Diagrams
         repos:
           - url: https://github.com/Narasimhaponnada/mermaid-mcp
@@ -2576,6 +2627,8 @@ categories:
           - url: https://github.com/YuChenSSR/mindmap-mcp-server
           - url: https://github.com/patrickchugh/terravision
             description: "Diagrams to and from Terraform"
+          - url: https://github.com/cisco-open/network-sketcher
+            description: "Design a network and export PowerPoint and Excel"
       - name: Documentation
         repos:
           - url: https://github.com/upstash/context7
@@ -2680,6 +2733,14 @@ categories:
             description: Web API Baseline status information
           - url: https://github.com/thedaviddias/mcp-llms-txt-explorer
             description: "MCP to explore websites with llms.txt files"
+          - url: https://github.com/withastro/docs-mcp
+            description: "Astro Docs MCP Server"
+          - url: https://github.com/CartographAI/atlas-docs-mcp
+            description: "Clean markdown docs for libraries and frameworks"
+          - url: https://github.com/izzzzzi/codewiki-mcp
+            description: "Search and ask questions against codewiki.google"
+          - url: https://github.com/ggerve/coding-standards-mcp
+            description: "Coding guidelines and practices a model can look up"
       - name: IDE & Editors
         repos:
           - url: https://github.com/biegehydra/BifrostMCP
@@ -2861,6 +2922,10 @@ categories:
             description: "Build Model Context Protocol (MCP) servers in Go"
           - url: https://github.com/johnrobinsn/askit
             description: "LLM Function Calling Library and CLI with Support for MCP Servers"
+          - url: https://github.com/quarkiverse/quarkus-mcp-server
+            description: "Quarkus extension for implementing an MCP server"
+          - url: https://github.com/theronic/modex
+            description: "Clojure library for MCP tools, resources and prompts"
       - name: Mobile Development
         repos:
           - url: https://github.com/hyperb1iss/droidmind
@@ -2930,6 +2995,8 @@ categories:
             description: "Debug iOS Safari through ios-webkit-debug-proxy"
           - url: https://github.com/ghost-in-the-droid/android-agent
             description: "Drive a real Android phone or iPhone from an agent"
+          - url: https://github.com/axonixtools/PocketMCP
+            description: "Expose an Android phone as an MCP server on the local network"
       - name: OpenAPI
         repos:
           - url: https://github.com/bbonnin/openapi-to-mcp
@@ -3005,6 +3072,8 @@ categories:
             description: "Stop your AI agent from rebuilding what already exists"
           - url: https://github.com/om-tajne/pkgdiet
             description: "Dependency policy and MCP server for AI-assisted JavaScript development. Stop AI coding agents from hallucinating deprecated npm packages."
+          - url: https://github.com/kirich1409/maven-mcp
+            description: "Look up Maven dependencies and how they are used"
       - name: Robotics & Automation
         repos:
           - url: https://github.com/akramIOT/MCP_AI_SOC_Sher
@@ -3070,6 +3139,8 @@ categories:
             description: "MCP server that drives pytest, Jest, Cypress, Go and Maestro"
           - url: https://github.com/getmockd/mockd
             description: "Mock HTTP, gRPC, MQTT, and GraphQL from one binary"
+          - url: https://github.com/mclenhard/mcp-evals
+            description: "Score MCP tools with a model, including a GitHub Action"
       - name: Utilities
         repos:
 
@@ -3078,7 +3149,6 @@ categories:
           - url: https://github.com/tidybytetools/json-shaper-lite
             description: "Turn key:value notes, CSV/TSV"
           - url: https://github.com/agent-hanju/char-index-mcp
-          - url: https://github.com/anaisbetts/mcp-installer
           - url: https://github.com/andybrandt/mcp-simple-timeserver
             description: Current time check for Claude via MCP
           - url: https://github.com/bharathvaj-ganesan/whois-mcp
@@ -3086,8 +3156,6 @@ categories:
           - url: https://github.com/davidan90/time-node-mcp
           - url: https://github.com/davidlin2k/pox-mcp-server
           - url: https://github.com/githejie/mcp-server-calculator
-          - url: https://github.com/jsdelivr/globalping-mcp-server
-            description: Remote network commands for LLMs
           - url: https://github.com/kindly-software/kdb
           - url: https://github.com/pwh-pwh/cal-mcp
             description: "MCP server that evaluates math expressions"
@@ -3106,7 +3174,6 @@ categories:
           - url: https://github.com/shacharsol/js-package-manager-mcp
           - url: https://github.com/oborchers/mcp-server-pacman
             description: "A Model Context Protocol server that provides package index"
-          - url: https://github.com/ofek/pycli-mcp
           - url: https://github.com/hpalma/springinitializr-mcp
           - url: https://github.com/wildfly-extras/wildfly-mcp
             description: "WildFly MCP server and other tooling"
@@ -3117,9 +3184,6 @@ categories:
             description: Personal prompt library manager
           - url: https://github.com/FelixFoster/mcp-enhance-prompt
             description: AI-powered prompt enhancement and generation
-          - url: https://github.com/NON906/omniparser-autogui-mcp
-          - url: https://github.com/Mtehabsim/ScreenPilot
-            description: AI device control like a human
           - url: https://github.com/TCMPP-Team/tcsas-devtools-mcp-server
           - url: https://github.com/fastnai/mcp-fastn
             description: Governed, audited access to customer systems of record
@@ -3155,8 +3219,6 @@ categories:
             description: "Chronicle and Mandiant tools for detection and response"
           - url: https://github.com/Miasyster/QuantGPT
             description: "Design, backtest and submit factors to WorldQuant BRAIN"
-          - url: https://github.com/cyanheads/atlas-mcp-server
-            description: "Projects, tasks and notes for agents, stored in Neo4j"
           - url: https://github.com/tidewave-ai/tidewave_rails
             description: "MCP server with runtime-level tools for Rails development"
           - url: https://github.com/dnakov/frida-mcp
@@ -3167,16 +3229,10 @@ categories:
             description: "Publish HTML to EdgeOne Makers and get a public URL"
           - url: https://github.com/adhikasp/mcp-reddit
             description: "Fetch and analyze Reddit posts and comments"
-          - url: https://github.com/dcSpark/shinkai-local-ai-agents
-            description: "Desktop app for local agents, models and payments"
-          - url: https://github.com/cisco-open/network-sketcher
-            description: "Design a network and export PowerPoint and Excel"
           - url: https://github.com/EnesCinr/twitter-mcp
             description: "Post and search on Twitter"
           - url: https://github.com/ai-dashboad/flutter-skill
             description: "End-to-end tests for Flutter, native, web and desktop apps"
-          - url: https://github.com/joshrutkowski/applescript-mcp
-            description: "A macOS AppleScript MCP server"
           - url: https://github.com/mcp2everything/mcp2mqtt
             description: "Bridge from MCP to MQTT for smart home devices and hardware"
           - url: https://github.com/microsoft/mcsmcp
@@ -3187,8 +3243,6 @@ categories:
             description: "Search the Facebook ads library"
           - url: https://github.com/jkf87/hwp-mcp
             description: "mcp for handling hwp"
-          - url: https://github.com/aliargun/mcp-server-gemini
-            description: "MCP server implementation for Google's Gemini API"
           - url: https://github.com/MCP-Defender/MCP-Defender
             description: "Desktop app that scans and blocks malicious MCP traffic"
           - url: https://github.com/aipotheosis-labs/aci-mcp
@@ -3197,8 +3251,6 @@ categories:
             description: "Create and monitor n8n workflows from chat"
           - url: https://github.com/peng-shawn/mermaid-mcp-server
             description: "Render a Mermaid diagram to PNG"
-          - url: https://github.com/ConstantineB6/comfy-pilot
-            description: "See and edit ComfyUI graphs from Claude Code"
           - url: https://github.com/code-rabi/interactive-brokers-mcp
             description: "Interactive Brokers MCP Server"
           - url: https://github.com/bonninr/freecad_mcp
@@ -3207,18 +3259,12 @@ categories:
             description: "Turn a prompt into an OpenSCAD preview and a 3D file"
           - url: https://github.com/invariantlabs-ai/mcp-injection-experiments
             description: "Snippets that reproduce MCP tool poisoning"
-          - url: https://github.com/rectalogic/langchain-mcp
-            description: "Model Context Protocol tool support for LangChain"
           - url: https://github.com/Azure-Samples/mcp-agent-langchainjs
             description: "Sample agent that orders burgers"
-          - url: https://github.com/quarkiverse/quarkus-mcp-server
-            description: "Quarkus extension for implementing an MCP server"
           - url: https://github.com/microsoft/mcp-dotnet-samples
             description: "Samples of MCP servers and clients in .NET"
           - url: https://github.com/eniayomi/gcp-mcp
             description: "Query a Google Cloud project in natural language"
-          - url: https://github.com/minipuft/claude-prompts-mcp
-            description: "Reusable prompts, workflow chains and quality gates"
           - url: https://github.com/mattt/Companion
             description: "Your neighborhood friendly MCP utility for macOS, iOS, and visionOS"
           - url: https://github.com/blackwell-systems/agent-lsp
@@ -3229,30 +3275,18 @@ categories:
             description: "Four Pillars calculation, true solar time and reverse lookup"
           - url: https://github.com/sammcj/mcp-devtools
             description: "Common developer tools collected for coding agents"
-          - url: https://github.com/tolkonepiu/best-of-mcp-servers
-            description: "A ranked list of MCP servers. Updated weekly."
-          - url: https://github.com/golioth/tinymcp
-            description: "Let LLMs control embedded devices via the Model Context Protocol."
-          - url: https://github.com/Nyrok/flompt
-            description: "Edit a prompt as a flowchart, then compile it back"
           - url: https://github.com/readwiseio/readwise-mcp
             description: "Readwise MCP"
           - url: https://github.com/JordyZomer/codeql-mcp
             description: "Run CodeQL queries from an agent"
-          - url: https://github.com/aviveldan/datagov-mcp
-            description: "MCP server for Israel Government Data"
           - url: https://github.com/rcontesti/IB_MCP
             description: "Market data and orders through the Interactive Brokers API"
           - url: https://github.com/makalin/SecureMCP
             description: "Audit MCP apps for vulnerabilities and bad configuration"
           - url: https://github.com/pzfreo/build123d-mcp
             description: "Build 3D models with build123d"
-          - url: https://github.com/Flux159/mcp-chat
-            description: "Generic client for trying MCP servers and agents"
           - url: https://github.com/Azure-Samples/remote-mcp-functions-dotnet
             description: "Azure Functions template for a remote MCP"
-          - url: https://github.com/mclenhard/mcp-evals
-            description: "Score MCP tools with a model, including a GitHub Action"
           - url: https://github.com/stefanoamorelli/fred-mcp-server
             description: "Economic series from FRED"
           - url: https://github.com/baryhuang/mcp-hubspot
@@ -3263,38 +3297,22 @@ categories:
             description: "MCP for Blender Using Open Weights Models"
           - url: https://github.com/mikeyny/ai-image-gen-mcp
             description: "Generate images from text through Replicate"
-          - url: https://github.com/theronic/modex
-            description: "Clojure library for MCP tools, resources and prompts"
-          - url: https://github.com/pfldy2850/py-mcp-naver
-            description: "python MCP NAVER"
           - url: https://github.com/f/mcp-startup-boilerplate
             description: "Rails template for a paid MCP server, with Stripe and OAuth"
           - url: https://github.com/NapthaAI/http-oauth-mcp-server
             description: "Remote MCP server with the OAuth extension"
           - url: https://github.com/jangtrinh/design-os-3d-blender
             description: "Blender workflow with a gate for 3D-print files"
-          - url: https://github.com/mertkayacs/reevesagents
-            description: "Run many coding agents from MCP, a CLI or a web UI"
           - url: https://github.com/TermiX-official/bsc-mcp
             description: "Send BNB, move BEP-20 tokens and call contracts on BSC"
-          - url: https://github.com/LeulAria/Aria-Icons
-            description: "MCP server for 1M+ SVG icons"
-          - url: https://github.com/portel-dev/photon
-            description: "One TypeScript file becomes a CLI, an MCP server and a web UI"
           - url: https://github.com/jlsookiki/secondhand-mcp
             description: "Search Facebook Marketplace, eBay and Depop"
           - url: https://github.com/TermiX-official/binance-mcp
             description: "binance-mcp"
           - url: https://github.com/TonyWang-hub/mcp-cn-commerce
             description: "MCP connectors for Chinese commerce platforms"
-          - url: https://github.com/garagon/aguara
-            description: "The open source security engine for AI agent and supply-chain trust."
           - url: https://github.com/ronantakizawa/a11ymcp
             description: "Test a page for web accessibility issues"
-          - url: https://github.com/lethain/library-mcp
-            description: "MCP server for operating on Markdown knowledge bases"
-          - url: https://github.com/JoxoAI/joxo
-            description: "Shared project and task board for coding agents, on desktop and iPhone"
           - url: https://github.com/LLMQuant/data-mcp
             description: "Finance datasets from LLMQuant Data"
           - url: https://github.com/TocharianOU/mcp-server-kibana
@@ -3303,32 +3321,20 @@ categories:
             description: "Pack a repository with RepoMix so a model can read it"
           - url: https://github.com/linux-china/mcp-rs-template
             description: "Model Context Protocol (MCP) CLI server template for Rust"
-          - url: https://github.com/oculairmedia/Letta-MCP-server
-            description: "Manage a Letta server and talk to its agents"
-          - url: https://github.com/MorDavid/ExternalAttacker-MCP
-            description: "Map an external attack surface for recon and bug bounty"
-          - url: https://github.com/escapeboy/agent-fleet-o
-            description: "Self-hosted mission control for multi-agent workflows"
           - url: https://github.com/smadi0x86/MDB-MCP
             description: "Debug a binary with GDB or LLDB"
-          - url: https://github.com/adenot/mcp-google-search
-            description: "Google results through the Custom Search API"
           - url: https://github.com/MarcelRoozekrans/roslyn-codelens-mcp
             description: "Navigate, diagnose and refactor .NET code"
           - url: https://github.com/raw-labs/mxcp
             description: "Enterprise path from data sources to tools a model can call"
           - url: https://github.com/stefanoamorelli/nasdaq-data-link-mcp
             description: "Datasets from Nasdaq Data Link"
-          - url: https://github.com/withastro/docs-mcp
-            description: "Astro Docs MCP Server"
           - url: https://github.com/shitianfang/jev-use
             description: "Hand steps that need no prose to a small judgment model"
           - url: https://github.com/pylegifrance/mcp-server-legifrance
             description: "Legifrance MCP Server"
           - url: https://github.com/ruvnet/federated-mcp
             description: "Read public RuFlo federation channels, labeled as untrusted"
-          - url: https://github.com/heltonteixeira/openrouterai
-            description: "MCP server for OpenRouter.ai integration"
           - url: https://github.com/Mearman/mcp-wayback-machine
             description: "Look up pages in the Internet Archive Wayback Machine"
           - url: https://github.com/Text2Go/ai-humanizer-mcp-server
@@ -3343,28 +3349,18 @@ categories:
             description: "GitHub trending repositories and developers"
           - url: https://github.com/kranz-org/kranz
             description: "Keyboard-first local service orchestrator with a focused terminal UI"
-          - url: https://github.com/PSPDFKit/nutrient-document-engine-mcp-server
-            description: "Process documents in natural language"
           - url: https://github.com/ilyautov/marketplaces-mcp-ru
             description: "Wildberries, Ozon, Yandex Market and Avito seller data"
           - url: https://github.com/RyanCardin15/AzureDevOps-MCP
             description: "Work items, repos and boards in Azure DevOps"
           - url: https://github.com/daipendency/daipendency-mcp
             description: "Model Context Protocol server for Daipendency"
-          - url: https://github.com/muppet-dev/kit
-            description: "Debugging and Testing tool for MCP servers"
           - url: https://github.com/Pantani/tdmcp
             description: "Build a playable TouchDesigner network from a description"
           - url: https://github.com/swgee/BurpMCP
             description: "Burp Suite extension that exposes the proxy to an assistant"
-          - url: https://github.com/xiaotonng/lc2mcp
-            description: "Convert LangChain tools to FastMCP tools"
           - url: https://github.com/brentmid/evernote-mcp-server
             description: "Search and read notes in Evernote"
-          - url: https://github.com/xianyu-sheng/Xenon
-            description: "Verifiable AI coding agent harness with an evidence hash-chain"
-          - url: https://github.com/gabrielekarra/mcp-anything
-            description: "One command to turn any codebase into an MCP server"
           - url: https://github.com/LadislavSopko/mcp-ai-server-visual-studio
             description: "Roslyn tools inside Visual Studio"
           - url: https://github.com/HaseebKhalid1507/SynapsCLI
@@ -3377,30 +3373,20 @@ categories:
             description: "Reference servers showing how MCP authentication works"
           - url: https://github.com/feiyun0112/spec-coding-mcp
             description: "Spec-driven workflow that turns feature ideas"
-          - url: https://github.com/HarshJ23/deepseek-claude-MCP-server
-            description: "DeepSeek R1 reasoning inside Claude Desktop"
           - url: https://github.com/maton-ai/agent-toolkit
             description: "Connect SaaS tools such as HubSpot and Salesforce"
           - url: https://github.com/mcp2everything/mcp2serial
             description: "Control hardware such as a Raspberry Pi Pico over serial"
-          - url: https://github.com/telmon95/VulneraMCP
-            description: "Security testing and vulnerability research for bug bounty"
           - url: https://github.com/attalla1/photopea-mcp-server
             description: "MCP server for AI-driven image editing with Photopea"
-          - url: https://github.com/MarcusJellinghaus/mcp-workspace
-            description: "Files, git and GitHub inside a project sandbox"
           - url: https://github.com/CSCSoftware/AiDex
             description: "Persistent index so an assistant can jump around a codebase"
           - url: https://github.com/ThingsPanel/thingspanel-mcp
             description: "Devices and data on the ThingsPanel IoT platform"
-          - url: https://github.com/anzy-renlab-ai/pronounce
-            description: "Hear how developers pronounce kubectl, nginx and other terms"
           - url: https://github.com/datadog-labs/mcp-server
             description: "Official Datadog MCP Server"
           - url: https://github.com/Ming-jiayou/mcp_demo
             description: "A simple example of building an MCP client using C#."
-          - url: https://github.com/dejuknow/md-redline
-            description: "Inline review comments on markdown specs, handed to the agent"
           - url: https://github.com/pzalutski-pixel/javalens-mcp
             description: "Navigate, search and refactor Java through Eclipse JDT"
           - url: https://github.com/Cifero74/mcp-apple-music
@@ -3413,14 +3399,10 @@ categories:
             description: "A Model Context Protocol server for 3D Slicer integration"
           - url: https://github.com/CheckPointSW/mcp-servers
             description: "AI-accessible Check Point firewall and threat management."
-          - url: https://github.com/mcp-agents-ai/mcp-agents-hub
-            description: "Find, build and deploy MCP servers and clients"
           - url: https://github.com/nsxdavid/clickup-mcp-server
             description: "ClickUp tasks, docs and checklists from the conversation"
           - url: https://github.com/flamexnreal/davinci-resolve-ai-bridge-mcp
             description: "Cut and grade a DaVinci Resolve timeline"
-          - url: https://github.com/tokenizin-agency/mcp-npx-fetch
-            description: "Fetch a page as HTML, JSON, markdown or plain text"
           - url: https://github.com/zxzinn/opencti-mcp
             description: "Indicators, reports and threat actors in OpenCTI"
           - url: https://github.com/Azure-Samples/remote-mcp-webapp-dotnet
@@ -3429,54 +3411,28 @@ categories:
             description: "Check whether many domain names are registered"
           - url: https://github.com/pzalutski-pixel/sharplens-mcp
             description: "Semantic analysis and refactoring of C# through Roslyn"
-          - url: https://github.com/StefH/McpDotNet.Extensions.SemanticKernel
-            description: "Use MCP tools as Semantic Kernel functions"
-          - url: https://github.com/addozhang/spring-rest-to-mcp
-            description: "Convert Spring REST API to MCP Server with OpenRewrite"
           - url: https://github.com/Buga-luga/cursor-mcp
             description: "Bridge Claude to desktop apps through Cursor"
-          - url: https://github.com/daobataotie/mssql-mcp
-            description: "mssql mcp server"
           - url: https://github.com/Decodo/mcp-server
             description: "Scrape sites, search and shops into structured results"
-          - url: https://github.com/decriptor/DilettoLabs.AvaloniaUI.MCP
-            description: "MCP server for AvaloniaUI"
           - url: https://github.com/shadowfax92/apple-reminders-mcp
             description: "Create, complete and delete Apple Reminders"
-          - url: https://github.com/54yyyu/code-mcp
-            description: "Connect Claude to a local terminal and files through MCP"
           - url: https://github.com/taiste/harvest-mcp-server
             description: "MCP Server for Harvest"
           - url: https://github.com/angrysky56/ast-mcp-server
             description: "Query a semantic graph and AST of a codebase"
           - url: https://github.com/Braffolk/mcp-summarization-functions
             description: "Shorten tool output so agents spend fewer tokens"
-          - url: https://github.com/kirich1409/maven-mcp
-            description: "Look up Maven dependencies and how they are used"
-          - url: https://github.com/alxspiker/mcp-server-ftp
-            description: "Model Context Protocol server for FTP access"
-          - url: https://github.com/CartographAI/atlas-docs-mcp
-            description: "Clean markdown docs for libraries and frameworks"
           - url: https://github.com/jmtanguy/droit-francais-mcp
             description: "French statutes and case law from Legifrance"
           - url: https://github.com/verygoodplugins/mcp-toggl
             description: "Time entries and reports in Toggl Track"
-          - url: https://github.com/isaacwasserman/mcp-langchain-ts-client
-            description: "LangChain.js client for Model Context Protocol."
-          - url: https://github.com/stefanoamorelli/hyprmcp
-            description: "Community MCP server for hyprctl"
           - url: https://github.com/ap425q/CutterMCP
             description: "MCP Server for Cutter"
           - url: https://github.com/metavert-io/lightcms
             description: "Self-hosted CMS with an admin UI, REST, MCP and semantic search"
-          - url: https://github.com/mlobo2012/Claude_Desktop_API_USE_VIA_MCP
-            description: "Call the Claude API from Claude Desktop"
-          - url: https://github.com/oakenai/mcp-edit-file-lines
-            description: "MCP Server to make line-based edits to a file."
           - url: https://github.com/ourongxing/newsnow-mcp-server
             description: "Official MCP Server for newnow, 40+ sources available."
-          - url: https://github.com/superfly/flymcp
-            description: "MCP server for Fly.io CLI integration with Claude Desktop"
           - url: https://github.com/abhishekbhakat/airflow-mcp-server
             description: "MCP Server for Apache Airflow"
           - url: https://github.com/dynatrace-oss/dynatrace-managed-mcp
@@ -3485,40 +3441,26 @@ categories:
             description: "Everyday developer tools behind one MCP server"
           - url: https://github.com/stefanskiasan/azure-devops-mcp-server
             description: "MCP Server for Cline to Access Azure devops"
-          - url: https://github.com/CharlieDigital/runjs
-            description: "Let a model write JavaScript and run it, including HTTP calls"
-          - url: https://github.com/cyanheads/mentor-mcp-server
-            description: "Second-opinion review from a DeepSeek reasoning model"
           - url: https://github.com/mytechnotalent/MalwareBazaar_MCP
             description: "Threat intel and sample metadata from MalwareBazaar"
           - url: https://github.com/willibrandon/NetContextServer
             description: "Explore a .NET codebase"
-          - url: https://github.com/arikusi/nakkas
-            description: "MCP server that turns AI into an SVG artist"
           - url: https://github.com/stefanoamorelli/companies-house-mcp
             description: "UK companies, officers and filings"
           - url: https://github.com/amgadabdelhafez/dbx-mcp-server
             description: "MCP Server for Dropbox"
-          - url: https://github.com/jenstangen1/pptx-xlsx-mcp
-            description: "Antrophics Model context protocol to edit powerpoint files"
           - url: https://github.com/librejustice/librejustice
             description: "Search French and European case law and statutes"
-          - url: https://github.com/rsdouglas/janee
-            description: "Secrets management for AI agents via MCP • @janeesecure"
           - url: https://github.com/XenoXilus/outlook-mcp
             description: "Outlook mail, calendar and SharePoint through Microsoft Graph"
           - url: https://github.com/portone-io/mcp-server
             description: "PortOne MCP Server for Developers"
-          - url: https://github.com/ameeralns/DeepResearchMCP
-            description: "Multi-step research assistant over MCP"
           - url: https://github.com/syedazharmbnr1/ClaudeMCPServer
             description: "MCP Server implementation for Claude"
           - url: https://github.com/Whq02/MercuryCLI
             description: "Several coding sessions in one terminal, mixing providers"
           - url: https://github.com/ADEOSec/mcp-shodan
             description: "Query Shodan for host and search reconnaissance"
-          - url: https://github.com/hanweg/mcp-tool-builder
-            description: "MCP server that creates its own tools as needed"
           - url: https://github.com/janwilmake/install-this-mcp
             description: "Reduce installation-friction for your MCP servers"
           - url: https://github.com/NikiforovAll/mcp-template-dotnet
@@ -3527,8 +3469,6 @@ categories:
             description: "Seller and ads APIs for an Ozon shop"
           - url: https://github.com/philipp-eisen/modal-mcp-toolbox
             description: "A collection of tools for your LLMs that run on Modal"
-          - url: https://github.com/shieldyguy/stm32-mcp
-            description: "build, flash, debug stm32 projects"
           - url: https://github.com/wretcher207/reaper-daemon
             description: "Drive REAPER: plugins, automation and measurements"
           - url: https://github.com/davidvc/code-knowledge-mcptool
@@ -3543,48 +3483,28 @@ categories:
             description: "Tasks and workspaces in ClickUp"
           - url: https://github.com/CartographAI/mcp-server-codegraph
             description: "MCP server for graph representation of a codebase"
-          - url: https://github.com/keplertech/naja-scope
-            description: "Trace connectivity and hierarchy in SystemVerilog and VHDL"
           - url: https://github.com/lobehub/mcp-hello-world
             description: "A simple Hello World MCP server for CI/CD test"
           - url: https://github.com/maple-kit/maple
             description: "Visual review comments on a preview, with a CI merge gate"
-          - url: https://github.com/mrwadams/otx-mcp
-            description: "Interface to OTX feeds and threat intel."
-          - url: https://github.com/TexasFortress-AI/rs_filesystem
-            description: "MCP Filesystem tools written in Rust"
-          - url: https://github.com/tooluse-labs/perfetto-mcp-rs
-            description: "Perfetto traces, including Chrome jank"
           - url: https://github.com/ykhli/mcp-light-control
             description: "Philips Hue lights, including Morse code"
-          - url: https://github.com/mcpware/ui-annotator-mcp
-            description: "Hover labels on any web page, with no browser extension"
           - url: https://github.com/panbanda/omen
             description: "Complexity, hotspots and blast radius for a codebase"
           - url: https://github.com/yy1588133/code-merge-mcp
             description: "Extract, merge and analyze code files for a model"
-          - url: https://github.com/acashmoney/bio-mcp
-            description: "BioMCP: Enabling agent-based biomedical R&D"
           - url: https://github.com/amornpan/py-mcp-line
             description: "python mcp LINE"
-          - url: https://github.com/austenstone/myinstants-mcp
-            description: "Play sound buttons from MyInstants"
           - url: https://github.com/cmpxchg16/mcp-ethical-hacking
             description: "MCP Ethical Hacking Security sample for educational"
           - url: https://github.com/hjbaard/SolidWorks-MCP
             description: "Build and measure parts in a running SolidWorks session"
-          - url: https://github.com/huanglizhuo/OctoCounts
-            description: "Count lines of code in a public GitHub repo without cloning it"
           - url: https://github.com/patchloom/patchloom
             description: "Structured edits for JSON, YAML, markdown and code, with a dry run"
           - url: https://github.com/SJTU-Geek/sjtu-mcp-server
             description: "Campus services MCP for schedules, library bookings"
           - url: https://github.com/abhishekjairath/sonic-pi-mcp
             description: "Control Sonic Pi from an assistant"
-          - url: https://github.com/axonixtools/PocketMCP
-            description: "Expose an Android phone as an MCP server on the local network"
-          - url: https://github.com/izzzzzi/codewiki-mcp
-            description: "Search and ask questions against codewiki.google"
           - url: https://github.com/jonemo/openpyxl-mcp-server
             description: "Read and write Excel workbooks through openpyxl"
           - url: https://github.com/MAG-Cie/mcp-microsoft-todo
@@ -3597,16 +3517,8 @@ categories:
             description: "Lightweight MCP server to give you access to the Stakpak API."
           - url: https://github.com/Cyreslab-AI/crunchbase-mcp-server
             description: "Companies, funding and investors from Crunchbase"
-          - url: https://github.com/ggerve/coding-standards-mcp
-            description: "Coding guidelines and practices a model can look up"
-          - url: https://github.com/qualixar/slm-mesh
-            description: "Peer-to-peer messaging between coding agents"
           - url: https://github.com/7gugu/zip-mcp
             description: "Compress and decompress local files"
-          - url: https://github.com/ricauts/CyberMCP
-            description: "Security tests against backend APIs"
-          - url: https://github.com/torshepherd/compiler-explorer-mcp
-            description: "Compile on Compiler Explorer and compare assembly"
           - url: https://github.com/AeyeOps/mcp-imagemagick
             description: "MCP server for image conversion using ImageMagick and darktable"
           - url: https://github.com/back1ply/agent-skill-loader
@@ -3617,8 +3529,6 @@ categories:
             description: "Oura Ring Model Controller Protocol (MCP)."
           - url: https://github.com/Swih/mistral-mcp
             description: "Mistral MCP server for document extraction: invoices"
-          - url: https://github.com/cfpramod/open-museum-mcp
-            description: "One MCP search across open-access museum collections (The Met"
           - url: https://github.com/danielpodrazka/editor-mcp
             description: "A Python-based text editor server built with FastMCP that provides tools for file operations. This server enables reading, editing, and managing text files through a standardized"
           - url: https://github.com/dcSpark/mcp-server-helius
@@ -3669,8 +3579,6 @@ categories:
             description: "An MCP server for controlling a Keysight/Agilent oscilloscope over Ethernet from Claude."
           - url: https://github.com/shunshi-ai/bazi-reader-mcp
             description: "Give your AI agent the ability to read Chinese Bazi (八字) charts - an open-source MCP server"
-          - url: https://github.com/skulitom/Nestbolt
-            description: "Free, open-source 2D nesting for fixed sheets: laser, CNC, plasma"
           - url: https://github.com/assetCLI/assetCLI-init
             description: "assetCLI - Lovable for Internet Capital Markets. (Also, Goldman Sachs for Crypto X AI !!) Winner of the Solana MCP AI Agent Competition. Vibe coding bonding curves, DEX & DAOs"
           - url: https://github.com/crisschan/mcp-jacoco-reporter
@@ -3999,6 +3907,10 @@ categories:
       - url: https://github.com/dvcrn/mcp-server-siri-shortcuts
       - url: https://github.com/cobanov/teslamate-mcp
         description: MCP server for TeslaMate vehicle data and analytics
+      - url: https://github.com/golioth/tinymcp
+        description: "Let LLMs control embedded devices via the Model Context Protocol."
+      - url: https://github.com/shieldyguy/stm32-mcp
+        description: "build, flash, debug stm32 projects"
   - name: File Systems & Storage
     repos:
 
@@ -4053,6 +3965,14 @@ categories:
         description: "Let AI agents edit one section of a Markdown file"
       - url: https://github.com/cyanheads/filesystem-mcp-server
         description: "Search, read and edit files, including directory trees"
+      - url: https://github.com/alxspiker/mcp-server-ftp
+        description: "Model Context Protocol server for FTP access"
+      - url: https://github.com/oakenai/mcp-edit-file-lines
+        description: "MCP Server to make line-based edits to a file."
+      - url: https://github.com/TexasFortress-AI/rs_filesystem
+        description: "MCP Filesystem tools written in Rust"
+      - url: https://github.com/MarcusJellinghaus/mcp-workspace
+        description: "Files, git and GitHub inside a project sandbox"
   - name: Finance
     subcategories:
       - name: Accounting & Budgeting
@@ -4657,6 +4577,18 @@ categories:
         description: AI app framework for JavaScript and Go
       - url: https://github.com/supercorp-ai/superinterface
         description: "React components for assistants inside your own app"
+      - url: https://github.com/rectalogic/langchain-mcp
+        description: "Model Context Protocol tool support for LangChain"
+      - url: https://github.com/xiaotonng/lc2mcp
+        description: "Convert LangChain tools to FastMCP tools"
+      - url: https://github.com/gabrielekarra/mcp-anything
+        description: "One command to turn any codebase into an MCP server"
+      - url: https://github.com/portel-dev/photon
+        description: "One TypeScript file becomes a CLI, an MCP server and a web UI"
+      - url: https://github.com/StefH/McpDotNet.Extensions.SemanticKernel
+        description: "Use MCP tools as Semantic Kernel functions"
+      - url: https://github.com/hanweg/mcp-tool-builder
+        description: "MCP server that creates its own tools as needed"
   - name: Gaming
     repos:
       - url: https://github.com/CoderGamester/mcp-unity
@@ -4875,6 +4807,8 @@ categories:
         description: "Unofficial Mi Fitness export to SQLite, CSV and JSON"
       - url: https://github.com/deadletterq/mcp-opennutrition
         description: MCP server for nutrition data and analysis
+      - url: https://github.com/acashmoney/bio-mcp
+        description: "BioMCP: Enabling agent-based biomedical R&D"
   - name: LLM Bridges
     repos:
       - url: https://github.com/perplexityai/modelcontextprotocol
@@ -4930,6 +4864,14 @@ categories:
         description: "Hand heavy tasks from Claude Code to the Antigravity CLI"
       - url: https://github.com/szeider/consult7
       - url: https://github.com/adawalli/nexus
+      - url: https://github.com/aliargun/mcp-server-gemini
+        description: "MCP server implementation for Google's Gemini API"
+      - url: https://github.com/heltonteixeira/openrouterai
+        description: "MCP server for OpenRouter.ai integration"
+      - url: https://github.com/HarshJ23/deepseek-claude-MCP-server
+        description: "DeepSeek R1 reasoning inside Claude Desktop"
+      - url: https://github.com/mlobo2012/Claude_Desktop_API_USE_VIA_MCP
+        description: "Call the Claude API from Claude Desktop"
   - name: Location & Maps
     subcategories:
       - name: GIS
@@ -5119,6 +5061,12 @@ categories:
         description: "Call one MCP client from another to split the context"
       - url: https://github.com/patruff/ollama-mcp-bridge
         description: "Let a local Ollama model call MCP tools"
+      - url: https://github.com/dcSpark/shinkai-local-ai-agents
+        description: "Desktop app for local agents, models and payments"
+      - url: https://github.com/Flux159/mcp-chat
+        description: "Generic client for trying MCP servers and agents"
+      - url: https://github.com/isaacwasserman/mcp-langchain-ts-client
+        description: "LangChain.js client for Model Context Protocol."
   - name: Marketing & Analytics
     repos:
       - url: https://github.com/AdsMCP/tiktok-ads-mcp-server
@@ -5348,6 +5296,10 @@ categories:
           - url: https://github.com/gNucleus/text-to-cad-mcp
           - url: https://github.com/NellyW8/MCP4EDA
             description: RTL-to-GDSII automation with LLM
+          - url: https://github.com/keplertech/naja-scope
+            description: "Trace connectivity and hierarchy in SystemVerilog and VHDL"
+          - url: https://github.com/skulitom/Nestbolt
+            description: "Free, open-source 2D nesting for fixed sheets: laser, CNC, plasma"
       - name: Audio & Music
         repos:
           - url: https://github.com/Tommertom/sonos-ts-mcp
@@ -5383,6 +5335,8 @@ categories:
             description: "Definitive MCP server for Ableton Live - full LOM coverage"
           - url: https://github.com/AlonDrilich/internet-radio-mcp
             description: "Search 50,000+ internet radio stations"
+          - url: https://github.com/austenstone/myinstants-mcp
+            description: "Play sound buttons from MyInstants"
       - name: Image Generation
         repos:
           - url: https://github.com/hamflx/imagen3-mcp
@@ -5431,6 +5385,10 @@ categories:
             description: "Image generation and text-to-video or image-to-video generation across 12"
           - url: https://github.com/raveenb/fal-mcp-server
             description: Fal.ai image, video, music generation
+          - url: https://github.com/ConstantineB6/comfy-pilot
+            description: "See and edit ComfyUI graphs from Claude Code"
+          - url: https://github.com/arikusi/nakkas
+            description: "MCP server that turns AI into an SVG artist"
       - name: Image Processing
         repos:
           - url: https://github.com/stass/exif-mcp
@@ -5729,6 +5687,8 @@ categories:
         description: "C# exception telemetry from Godot, enriched by Roslyn"
       - url: https://github.com/VictoriaMetrics-Community/mcp-victorialogs
         description: VictoriaLogs log management integration
+      - url: https://github.com/tooluse-labs/perfetto-mcp-rs
+        description: "Perfetto traces, including Chrome jank"
   - name: Productivity
     subcategories:
       - name: Atlassian
@@ -5854,6 +5814,10 @@ categories:
             description: Feishu/Lark OAuth and document management
           - url: https://github.com/levz0r/html-to-markdown-mcp
             description: HTML to Markdown converter using Turndown
+          - url: https://github.com/PSPDFKit/nutrient-document-engine-mcp-server
+            description: "Process documents in natural language"
+          - url: https://github.com/dejuknow/md-redline
+            description: "Inline review comments on markdown specs, handed to the agent"
       - name: Google Workspace
         repos:
           - url: https://github.com/giuseppe-coco/Google-Workspace-MCP-Server
@@ -5934,6 +5898,8 @@ categories:
             description: Create and manipulate Word documents
           - url: https://github.com/ilia-sokolov/OfficeAgent.NET
             description: "Word, PowerPoint and Excel automation for .NET"
+          - url: https://github.com/jenstangen1/pptx-xlsx-mcp
+            description: "Antrophics Model context protocol to edit powerpoint files"
       - name: Note-taking & Docs
         repos:
           - url: https://github.com/akseyh/bear-mcp-server
@@ -6123,6 +6089,10 @@ categories:
             description: "SQLite tracker for projects, epics, tasks and dependencies"
           - url: https://github.com/jtauschl/openproject-ce-mcp
             description: "Projects, work packages and time entries in OpenProject"
+          - url: https://github.com/cyanheads/atlas-mcp-server
+            description: "Projects, tasks and notes for agents, stored in Neo4j"
+          - url: https://github.com/JoxoAI/joxo
+            description: "Shared project and task board for coding agents, on desktop and iPhone"
       - name: Jobs
         repos:
           - url: https://github.com/workopia/workopia-mcp
@@ -6231,6 +6201,8 @@ categories:
             description: "Search, read and edit a MediaWiki wiki"
           - url: https://github.com/HiAi-gg/docsmint
             description: "Knowledge base with rich text, hybrid search and GraphRAG"
+          - url: https://github.com/lethain/library-mcp
+            description: "MCP server for operating on Markdown knowledge bases"
       - name: Education
         repos:
           - url: https://github.com/RohanMuppa/brightspace-mcp-server
@@ -6332,6 +6304,8 @@ categories:
         description: Hosted deep research and dataset enrichment via Parallel
       - url: https://github.com/assafelovic/gpt-researcher
         description: "Autonomous research agent that can use any LLM provider"
+      - url: https://github.com/ameeralns/DeepResearchMCP
+        description: "Multi-step research assistant over MCP"
   - name: Sandboxing & Execution
     repos:
       - url: https://github.com/alfonsograziano/node-code-sandbox-mcp
@@ -6405,6 +6379,8 @@ categories:
         description: MCP server for executing code in Docker containers
       - url: https://github.com/omnirexflora-labs/omnicoreagent
         description: "Agent runtime that checks actions and survives crashes"
+      - url: https://github.com/CharlieDigital/runjs
+        description: "Let a model write JavaScript and run it, including HTTP calls"
   - name: Search & Extraction
     subcategories:
       - name: Academic Research
@@ -6566,6 +6542,8 @@ categories:
             description: "Go client for the hosted Recall Kitchen MCP"
           - url: https://github.com/Laksh-star/mcp-server-tmdb
             description: "Movies and TV: discovery, watch plans, and where to stream"
+          - url: https://github.com/cfpramod/open-museum-mcp
+            description: "One MCP search across open-access museum collections (The Met"
       - name: News & Content
         repos:
           - url: https://github.com/KKKKhazix/AIHOT
@@ -6765,6 +6743,10 @@ categories:
             description: "Chinese and English web search that needs no API key"
           - url: https://github.com/mnemox-ai/idea-reality-mcp
             description: "Check GitHub, HN, npm and PyPI before building"
+          - url: https://github.com/adenot/mcp-google-search
+            description: "Google results through the Custom Search API"
+          - url: https://github.com/pfldy2850/py-mcp-naver
+            description: "python MCP NAVER"
   - name: Security
     subcategories:
       - name: Identity & Access
@@ -6812,6 +6794,8 @@ categories:
             description: "1Password vaults without secrets in the chat"
           - url: https://github.com/ruudmens/Koppla
             description: "A Model-Context-Protocol (MCP) Server for Active Directory"
+          - url: https://github.com/rsdouglas/janee
+            description: "Secrets management for AI agents via MCP • @janeesecure"
       - name: MCP Security
         repos:
           - url: https://github.com/doomsday-network/bounty-guard
@@ -6942,6 +6926,8 @@ categories:
             description: "a local-first secret leak prevention layer for AI coding agents"
           - url: https://github.com/borisdan/mcp-audit-extension
             description: "Log every GitHub Copilot MCP tool call in VS Code"
+          - url: https://github.com/garagon/aguara
+            description: "The open source security engine for AI agent and supply-chain trust."
       - name: Network & Firewall
         repos:
           - url: https://github.com/vespo92/OPNSenseMCP
@@ -6963,6 +6949,8 @@ categories:
             description: "Ping, traceroute, nmap, DNS, TLS and HTTP checks"
           - url: https://github.com/GeiserX/genieacs-mcp
             description: "MCP Server for GenieACS written in Go"
+          - url: https://github.com/jsdelivr/globalping-mcp-server
+            description: Remote network commands for LLMs
       - name: Pentesting & OSINT
         repos:
           - url: https://github.com/renduples/sitepassport-mcp
@@ -7073,6 +7061,12 @@ categories:
           - url: https://github.com/AynOps/AynOps
             description: "Live reconnaissance and attack-surface mapping for agents"
           - url: https://github.com/intruder-io/intruder-mcp
+          - url: https://github.com/MorDavid/ExternalAttacker-MCP
+            description: "Map an external attack surface for recon and bug bounty"
+          - url: https://github.com/telmon95/VulneraMCP
+            description: "Security testing and vulnerability research for bug bounty"
+          - url: https://github.com/ricauts/CyberMCP
+            description: "Security tests against backend APIs"
       - name: Reverse Engineering
         repos:
           - url: https://github.com/morluto/rea
@@ -7151,6 +7145,8 @@ categories:
             description: "Read-only audit of a Supabase project for risky settings"
           - url: https://github.com/timescale/rsigma
             description: "Parse, lint and evaluate Sigma detection rules"
+          - url: https://github.com/mrwadams/otx-mcp
+            description: "Interface to OTX feeds and threat intel."
       - name: Compliance & Regulatory
         repos:
           - url: https://github.com/getgapup/gapup-mcp-public
@@ -7366,6 +7362,8 @@ categories:
         description: "Spoken feedback while Claude Code works"
       - url: https://github.com/bmorphism/say-mcp-server
         description: "MCP server for macOS text-to-speech functionality"
+      - url: https://github.com/anzy-renlab-ai/pronounce
+        description: "Hear how developers pronounce kubectl, nginx and other terms"
   - name: Translation
     repos:
       - url: https://github.com/mmntm/weblate-mcp
@@ -7540,6 +7538,8 @@ categories:
         description: "Scrape Google, Amazon, Zillow, and other sites as JSON"
       - url: https://github.com/cameronrye/gopher-mcp
         description: "Browse Gopher and Gemini sites"
+      - url: https://github.com/tokenizin-agency/mcp-npx-fetch
+        description: "Fetch a page as HTML, JSON, markdown or plain text"
   - name: E-Commerce
     repos:
       - url: https://github.com/Azure-Samples/eShopLite
