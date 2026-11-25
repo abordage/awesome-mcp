@@ -5499,6 +5499,8 @@ categories:
             description: "YouTube transcripts and video discovery for AI agents"
           - url: https://github.com/video-gen/videogen-mcp
             description: "Create editable videos from storyboards and scripts"
+          - url: https://github.com/frankShan001/CutVoke
+            description: "Local video editor whose shared timeline AI agents edit over MCP"
 
           - url: https://github.com/ronak-create/FableCut
             description: "Browser video editor an agent can drive from a JSON timeline"
