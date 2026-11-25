@@ -6495,6 +6495,8 @@ categories:
             description: Overseerr/Seerr media search, requests, and library
           - url: https://github.com/jobspipe/mcp
             description: "Search live job postings from 30+ ATS feeds and job boards via hosted MCP"
+          - url: https://github.com/johnisanerd/alphaosint-mcp-servers
+            description: "MCP servers for YouTube transcripts, jobs and flights"
           - url: https://github.com/serkan-ozal/driflyte-mcp-server
           - url: https://github.com/shopsavvy/shopsavvy-mcp-server
             description: "Free MCP server for ShopSavvy: gives Claude, ChatGPT"
