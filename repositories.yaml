@@ -1846,6 +1846,8 @@ categories:
             description: "Colab notebooks with GPU control, including on Windows"
       - name: Visualization
         repos:
+          - url: https://github.com/open-kanvas/kanvas
+            description: "Screen in any browser that agents draw on"
           - url: https://github.com/isaacwasserman/mcp-vegalite-server
             description: MCP server for Vega-Lite data visualization
           - url: https://github.com/antvis/mcp-server-chart
