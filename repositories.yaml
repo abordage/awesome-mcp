@@ -220,6 +220,8 @@ categories:
           - url: https://github.com/vectorize-io/hindsight
           - url: https://github.com/JamesANZ/memory-mcp
             description: Shared memory store and retrieval for multiple LLMs
+          - url: https://github.com/SebastiaanBoon/cloud-alter-ego
+            description: Shared memory and rules for Claude, synced via Git.
           - url: https://github.com/mattjoyce/mcp-persona-sessions
           - url: https://github.com/MWG-Logan/Central-Memory-MCP
           - url: https://github.com/hubertciebiada/context-crystallizer
