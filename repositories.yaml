@@ -6231,6 +6231,8 @@ categories:
             description: "Turn HTML, Claude Design bundles"
           - url: https://github.com/EduBase/MCP
             description: MCP server for EduBase e-learning platform
+          - url: https://github.com/wilsonbright/clema-mcp
+            description: "Higher-ed IR requests plus IPEDS and College Scorecard SQL"
   - name: Research & Science
     repos:
       - url: https://github.com/haoming-luo/agentfem-mcp
