@@ -2611,6 +2611,8 @@ categories:
             description: "MCP server for 1M+ SVG icons"
           - url: https://github.com/decriptor/DilettoLabs.AvaloniaUI.MCP
             description: "MCP server for AvaloniaUI"
+          - url: https://github.com/kitedotnew/kite-agent-plugins
+            description: "Kite (kite.new): agent-first design tool on HTML/CSS"
       - name: Diagrams
         repos:
           - url: https://github.com/Narasimhaponnada/mermaid-mcp
