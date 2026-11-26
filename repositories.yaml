@@ -5556,6 +5556,8 @@ categories:
             description: "An MCP server for OBS"
           - url: https://github.com/a-y-ibrahim/after-effects-mcp
             description: "Run scripts, render and inspect After Effects projects"
+          - url: https://github.com/ultrafastmov/ultrafast
+            description: "JSON scenes to MP4 on the GPU, with an MCP server for agents"
   - name: Monitoring & Observability
     repos:
       - url: https://github.com/edgedelta/edgedelta-mcp-server
