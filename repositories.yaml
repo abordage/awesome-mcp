@@ -4414,6 +4414,8 @@ categories:
             description: "Market data from Financial Modeling Prep"
           - url: https://github.com/dragon1086/kospi-kosdaq-stock-server
             description: "KOSPI and KOSDAQ stock data"
+          - url: https://github.com/ZhuLinsen/alphasift
+            description: "Read-only MCP server for multi-market stock screening"
       - name: Trading & Exchanges
         repos:
           - url: https://github.com/ariadng/metatrader-mcp-server
