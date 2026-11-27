@@ -7179,6 +7179,8 @@ categories:
     repos:
       - url: https://github.com/azeemkafridi/bulkpublish-api
         description: "BulkPublish API and hosted MCP"
+      - url: https://github.com/abrahimceylan/kreatix-mcp
+        description: "Hosted MCP server to schedule one video to many social media accounts"
       - url: https://github.com/Autoposting-ai/autoposting-mcp
         description: Social post scheduling, generation and publishing across five networks
       - url: https://github.com/gwbischof/bluesky-social-mcp
