@@ -7276,6 +7276,8 @@ categories:
         description: "MCP server for Bilibili"
       - url: https://github.com/shivanshmehendiratta/groundsocial-mcp
         description: "Hosted MCP for public social data, 70+ platforms"
+      - url: https://github.com/benjaminb10/viewlify-mcp
+        description: "Public TikTok data: videos that beat their creator's usual views, trends by niche"
     subcategories:
       - name: LinkedIn
         repos:
