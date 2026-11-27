@@ -7489,6 +7489,8 @@ categories:
         description: All-in-one public web access solution
       - url: https://github.com/firecrawl/firecrawl-mcp-server
         description: Web scraping and search for LLM clients
+      - url: https://github.com/geekflare/geekflare-api-mcp
+        description: "Web scraping, search, crawling and screenshots"
       - url: https://github.com/pskill9/website-downloader
       - url: https://github.com/ananddtyagi/webpage-screenshot-mcp
         description: MCP server for webpage screenshot capture
