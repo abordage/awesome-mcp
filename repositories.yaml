@@ -7270,6 +7270,8 @@ categories:
         description: Fediverse browsing and interaction via ActivityPub
       - url: https://github.com/XZXZZX-Ai/bilibili-mcp
         description: "MCP server for Bilibili"
+      - url: https://github.com/shivanshmehendiratta/groundsocial-mcp
+        description: "Hosted MCP for public social data, 70+ platforms"
     subcategories:
       - name: LinkedIn
         repos:
