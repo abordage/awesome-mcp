@@ -1170,7 +1170,7 @@ categories:
         description: "Community MCP server for hyprctl"
       - url: https://github.com/ofek/pycli-mcp
       - url: https://github.com/sandeepkumar466/shellway-agent
-        description: "Hosted MCP: AI runs commands and edits files on your PCs"
+        description: "Hosted MCP to run commands and edit files on your PCs"
   - name: CRM & ERP
     repos:
       - url: https://github.com/iaptic/mcp-server-iaptic
