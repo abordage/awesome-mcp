@@ -7658,6 +7658,8 @@ categories:
         description: Query US Congress.gov API
       - url: https://github.com/r-huijts/opentk-mcp
         description: MCP server for Dutch parliamentary data via OpenTK
+      - url: https://github.com/yellowstake/agent-desk
+        description: "Check if a US insurance lead can be called, autodialed or texted"
   - name: Real Estate
     repos:
       - url: https://github.com/HasData/redfin-mcp
