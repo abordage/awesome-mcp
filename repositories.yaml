@@ -1345,7 +1345,7 @@ categories:
           - url: https://github.com/connormatthewdouglas/agent-work-stack-deals
             description: "Read-only GPU rental prices across providers"
           - url: https://github.com/walkover-mcp/embarko
-            description: "Deploy and host AI-built apps and websites through a hosted remote"
+            description: "Shared workspace to publish, use and improve anything built with AI"
           - url: https://github.com/hostinger/api-mcp-server
             description: MCP server for Hostinger API integration
           - url: https://github.com/googleapis/gcloud-mcp
