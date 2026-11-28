@@ -5099,6 +5099,8 @@ categories:
         description: Look up how any brand surfaces in ChatGPT and Google AI Overviews
       - url: https://github.com/pipeboard-co/meta-ads-mcp
         description: Hosted Facebook and Instagram Ads for AI agents
+      - url: https://github.com/get-mcp-ads/meta-ads-mcp-server
+        description: "Meta Ads: 42 read tools, 24 opt-in previewed writes"
       - url: https://github.com/stape-io/stape-mcp-server
         description: Stape API for Claude, Cursor, and other AI clients
       - url: https://github.com/stape-io/google-tag-manager-mcp-server
