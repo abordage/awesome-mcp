@@ -6512,6 +6512,8 @@ categories:
             description: MCP server for multi-chat capabilities
           - url: https://github.com/TheBestCo/bestprice-mcp
             description: "Official BestPrice.gr shopping search, live offers"
+          - url: https://github.com/truonggiang0111/b2b-market-intel-mcp
+            description: "Zero-key B2B leads, tenders & Google News MCP."
           - url: https://github.com/unstoppabledomains/unstoppable-mcp-server
             description: Domain search, registration, DNS, marketplace, and checkout
           - url: https://github.com/urlbox/urlbox-mcp-server
